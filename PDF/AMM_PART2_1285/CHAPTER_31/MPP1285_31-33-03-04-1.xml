@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata id="MPP1285_31-33-03-04-1">
+	<file family="145" manual="AMM" pn="1285" chg="U" tsn="51" is_tr="false">
+		<title>AMM PART II-1285 - CHAPTER 31-33-03-04 - EQAR BATTERY - REMOVAL/INSTALLATION</title>
+		<path>/CHAPTER_31</path>
+		<hash>82f21317ffa5d6ef33e08923d5a84f95</hash>
+	</file>
+	<pages>
+		<page number="1" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EQAR BATTERY - REMOVAL/INSTALLATION EFFECTIVITY:  AIRCRAFT WITH EQAR 1. General A. This section refers you to the publication necessary to remove/install the Extended Quick Access Recorder (EQAR) battery to put the EQAR back to a serviceable condition. B. The procedures in this section are given in the sequence below. The tasks identified with ( ♦) are part of the Scheduled Maintenance Requirements Document (SMRD). TASK NUMBER DESCRIPTION EFFECTIVITY AIRCRAFT WITH EQAR 31-33-03-000-801-A EQAR BATTERY - REMOVAL   AIRCRAFT WITH EQAR 31-33-03-400-801-A EQAR BATTERY- INSTALLATION   EMB-145  - AMM 1285 General 31-33-03 Page 1 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="2" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 31-33-03-000-801-A EFFECTIVITY:  AIRCRAFT WITH EQAR 2. EQAR BATTERY - REMOVAL A. General (1) This procedure refers you to the publication which will help you remove the EQAR battery. (2) The EQAR is installed in the rear electronic compartment. B. References REFERENCE DESIGNATION AMM TASK 31-33-02-000-801-A/400 - AMM TASK 31-33-02-400-801-A/400 - C. Zones and Accesses ZONE PANEL/DOOR LOCATION 272 272DR Fuselage rear section I - right side D. Tools and Equipment Not Applicable E. Auxiliary Items Not Applicable F. Consumable Materials Not Applicable G. Expandable Parts Not Applicable H. Persons Recommended QTY FUNCTION PLACE 1 Does the task Rear electronic compartment I. Preparation SUBTASK 841-002-A EFFECTIVITY: AIRCRAFT WITH EQAR (1) Make sure that the aircraft is safe for maintenance. J. Removal (Figure 401)  SUBTASK 020-002-A EFFECTIVITY: AIRCRAFT WITH EQAR CAUTION: DO NOT TOUCH THE CONNECTOR PINS ON THE EQAR. IF YOU TOUCH THE PINS, ELECTROSTATIC DISCHARGE CAN CAUSE DAMAGE TO THE EQAR. EMB-145  - AMM 1285 000-801-A/400 31-33-03 Page 2 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="3" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL (1) Replace the EQAR with other one that is in good conditions for flight (AMM TASK 31-33-02-000-801-A/400 and AMM TASK 31-33-02-400-801-A/400). (2) Remove the EQAR battery. Refer to the latest revision of the Component Maintenance Manual with Illustrated Parts List for EQAR Optical Disk Recorder, by Thales Avionics S.A., to remove the EQAR battery. EMB-145  - AMM 1285 000-801-A/400 31-33-03 Page 3 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="4" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: AIRCRAFT WITH EQAR EQAR - Removal/Installation  Figure 401 DOOR 272DR A ZONE 272 1 DET. A B 2 DET. A B DET. B 1 AIRCRAFT WITHOUT AFDAU 2 AIRCRAFT WITH AFDAU EM145AMM310559A.DGN EMB-145  - AMM 1285 000-801-A/400 31-33-03 Page 4 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="5" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 31-33-03-400-801-A EFFECTIVITY:  AIRCRAFT WITH EQAR 3. EQAR BATTERY- INSTALLATION A. General (1) This procedure refers you to the publication which will help you install the EQAR battery. B. Zones and Accesses ZONE PANEL/DOOR LOCATION Not applicable Not applicable Not applicable C. Tools and Equipment Not Applicable D. Auxiliary Items Not Applicable E. Consumable Materials Not Applicable F. Expandable Parts Not Applicable G. Persons Recommended QTY FUNCTION PLACE 1 Does the task Not applicable H. Installation SUBTASK 420-002-A CAUTION: DO NOT TOUCH THE CONNECTOR PINS ON THE EQAR. IF YOU TOUCH THE PINS, ELECTROSTATIC DISCHARGE CAN CAUSE DAMAGE TO THE EQAR. (1) Install the EQAR battery. Refer to the latest revision of the Component Maintenance Manual with Illustrated Parts List for EQAR Optical Disk Recorder, by Thales Avionics S.A., to install the EQAR battery. I. Follow-on SUBTASK 842-002-A (1) Put the aircraft back to its initial condition. EMB-145  - AMM 1285 400-801-A/400 31-33-03 Page 5 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="6" width="216.0" height="279.0">
+			<data/>
+		</page>
+	</pages>
+</metadata>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata id="MPP1285_23-71-04-04-1">
+	<file family="145" manual="AMM" pn="1285" chg="U" tsn="51" is_tr="false">
+		<title>AMM PART II-1285 - CHAPTER 23-71-04-04 - CVR IMPACT SWITCH - REMOVAL/INSTALLATION</title>
+		<path>/CHAPTER_23</path>
+		<hash>af1e1b1981a5fcf948df6f1528dbcdd0</hash>
+	</file>
+	<pages>
+		<page number="1" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL CVR IMPACT SWITCH - REMOVAL/INSTALLATION EFFECTIVITY:  ALL 1. General A. This section gives the procedures to remove/install the CVR impact switch. B. The procedures in this section are given in the sequence below. The tasks identified with ( ♦) are part of the Scheduled Maintenance Requirements Document (SMRD). TASK NUMBER DESCRIPTION EFFECTIVITY ALL 23-71-04-000-801-A CVR IMPACT SWITCH - REMOVAL   ALL 23-71-04-400-801-A CVR IMPACT SWITCH - INSTALLATION   EMB-145  - AMM 1285 General 23-71-04 Page 1 of 6 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="2" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 23-71-04-000-801-A EFFECTIVITY:  ALL 2. CVR IMPACT SWITCH - REMOVAL A. General (1) This task gives the procedures to remove the CVR impact switch. B. References REFERENCE DESIGNATION AMM MPP 06-41-01/100 - C. Zones and Accesses ZONE PANEL/DOOR LOCATION 272 272DR - Rear electronic compartment door Fuselage rear section Ι - right side D. Tools and Equipment ITEM DESCRIPTION PURPOSE QTY To get access to the Rear Electronic Com- GSE 036 Platform, hydraulic  partment E. Auxiliary Items Not Applicable F. Consumable Materials Not Applicable G. Expandable Parts Not Applicable H. Persons Recommended QTY FUNCTION PLACE 1 Does the task Rear electronic compartment I. Preparation SUBTASK 841-002-A (1) Put up the hydraulic platform at the necessary height. (2) Open access door 272DR (AMM MPP 06-41-01/100). (3) Remove the thermo-acoustic insulation blanket from the rear right side of the ceiling. J. Removal (Figure 401)  SUBTASK 020-002-A NOTE: During the removal, be careful not let the nuts (4) fall because you could not find them easily. EMB-145  - AMM 1285 000-801-A/400 23-71-04 Page 2 of 6 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="3" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL (1) Disconnect the electrical connector (1). (2) Hold the nuts (4) behind the frame (5) and loosen the screws (2). (3) Remove the impact switch (3). EMB-145  - AMM 1285 000-801-A/400 23-71-04 Page 3 of 6 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="4" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: ALL CVR Impact Switch - Removal/Installation  Figure 401 A ZONE 272 B REAR ELECTRONIC COMPARTMENT DET. A 1. ELECTRICAL 5. FRAME CONNECTOR 4. NUT 3. IMPACT SWITCH DET. B 2. SCREW 145AMM230090.MCE A EMB-145  - AMM 1285 000-801-A/400 23-71-04 Page 4 of 6 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="5" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 23-71-04-400-801-A EFFECTIVITY:  ALL 3. CVR IMPACT SWITCH - INSTALLATION A. General (1) This task gives the procedures to install the CVR impact switch. B. References REFERENCE DESIGNATION AMM MPP 06-41-01/100 - C. Zones and Accesses ZONE PANEL/DOOR LOCATION 272 272DR - Rear electronic compartment door Fuselage rear section Ι - right side D. Tools and Equipment ITEM DESCRIPTION PURPOSE QTY To get access to the Rear Electronic Com- GSE 036 Platform, hydraulic  partment E. Auxiliary Items Not Applicable F. Consumable Materials Not Applicable G. Expandable Parts Not Applicable H. Persons Recommended QTY FUNCTION PLACE 1 Does the task Rear electronic compartment I. Installation (Figure 401)  SUBTASK 420-002-A NOTE: During the installation, be careful not let the nuts (4) fall because you could not find them easily. (1) Put the impact switch (3) in its installation position. (2) Hold the nuts (4) behind the frame (5) and tighten the screws (2). (3) Connect the electrical connector (1). EMB-145  - AMM 1285 400-801-A/400 23-71-04 Page 5 of 6 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="6" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL J. Follow-on SUBTASK 842-002-A (1) Install the thermo-acoustic insulation blanket on the rear right side of the ceiling. (2) Close access door 272DR (AMM MPP 06-41-01/100). (3) Remove the hydraulic platform. EMB-145  - AMM 1285 400-801-A/400 23-71-04 Page 6 of 6 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+	</pages>
+</metadata>

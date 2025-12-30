@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata id="MPP1285_36-11-01-05-1">
+	<file family="145" manual="AMM" pn="1285" chg="U" tsn="51" is_tr="false">
+		<title>AMM PART II-1285 - CHAPTER 36-11-01-05 - ENGINE BLEED-AIR CHECK VALVE - ADJUSTMENT/TEST</title>
+		<path>/CHAPTER_36</path>
+		<hash>ba5575303b3046c11b9a151c014e04d0</hash>
+	</file>
+	<pages>
+		<page number="1" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL ENGINE BLEED-AIR CHECK VALVE - ADJUSTMENT/TEST EFFECTIVITY:  ALL 1. General A. This section gives the operational and functional checks of the engine bleed-air check valves. B. The procedures below are applicable to the LH and RH engine bleed-air check valves. C. To do the operational check task, it is necessary to run the engine with thrust lever above IDLE. D. The procedures in this section are given in the sequence below. The tasks identified with ( ♦) are part of the Scheduled Maintenance Requirements Document (SMRD). TASK NUMBER DESCRIPTION EFFECTIVITY ENGINE BLEED AIR CHECK VALVES - ALL 36-11-01-700-801-A OPERATIONAL CHECK  EMB-145  - AMM 1285 General 36-11-01 Page 1 of 4 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="2" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 36-11-01-700-801-A EFFECTIVITY:  ALL 2. ENGINE BLEED AIR CHECK VALVES - OPERATIONAL CHECK A. General (1) Obey the instructions below to do the operational check of the engine bleed air check valves. B. References REFERENCE DESIGNATION ENERGIZATION OF THE AIRCRAFT WITH AN EX- AMM TASK 20-40-01-860-801-A/200 TERNAL POWER SOURCE AMM TASK 71-00-01-910-801-A/200 ENGINE START PROCEDURE (NORMAL) AMM TASK 71-00-01-910-804-A/200 ENGINE STOP PROCEDURE C. Zones and Accesses Not Applicable D. Tools and Equipment Not Applicable E. Auxiliary Items Not Applicable F. Consumable Materials Not Applicable G. Expandable Parts Not Applicable H. Persons Recommended QTY FUNCTION PLACE 1 Does the task Cockpit I. Preparation SUBTASK 841-002-A (1) Energize the aircraft AMM TASK 20-40-01-860-801-A/200. J. Operational Check (Figure 501)  SUBTASK 710-002-A NOTE: To do the check of the valves on the left side, use engine 1. To do the check of the valves on the right side, use engine 2. (1) Start the engine (1) or (2) ( AMM TASK 71-00-01-910-801-A/200) and keep the thrust levers in the IDLE position. (2) Set the BLEED (1) or (2) switch to ON. EMB-145  - AMM 1285 700-801-A/500 36-11-01 Page 2 of 4 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="3" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL (3) Set the XBLEED switch to CLOSED. (4) Do a check of the bleed system as follows: (a) Set the PACK (1) or (2) switch to ON: NOTE: If the left pack (PACK 1) is selected to ON, the main air flow will be in the cockpit air conditioning outlets. If the right pack (PACK 2) is selected to ON, the main air flow will be in the PAX cabin air conditioning outlets. Result: 1 Make sure that there is air flow in the air conditioning outlets. (5) Accelerate the engine until you have the value of 50% N1. (6) Do a check of the bleed system as follows: (a) With the same PACK switch, set to ON: NOTE: If the left pack (PACK 1) is selected to ON, the main air flow will be in the cockpit air conditioning outlets. If the right pack (PACK 2) is selected to ON, the main air flow will be in the PAX cabin air conditioning outlets. Result: 1 Make sure that there is air flow in the air conditioning outlets. (7) Decelerate the engine to IDLE. (8) Stop the engine ( AMM TASK 71-00-01-910-804-A/200). K. Follow-on SUBTASK 842-002-A (1) Set the PACK (1) or (2) switch to OFF. (2) Set the XBLEED switch to AUTO. (3) Set the BLEED (1) or (2) switch to OFF. (4) Deenergize the aircraft ( AMM TASK 20-40-01-860-801-A/200). EMB-145  - AMM 1285 700-801-A/500 36-11-01 Page 3 of 4 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="4" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: ALL Pneumatic Energy - Component Locations  Figure 501 A DET. A EM145AMM360651A.DGN EMB-145  - AMM 1285 700-801-A/500 36-11-01 Page 4 of 4 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+	</pages>
+</metadata>

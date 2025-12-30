@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata id="MPP1285_52-44-01-04-1">
+	<file family="145" manual="AMM" pn="1285" chg="R" tsn="52" is_tr="false">
+		<title>AMM PART II-1285 - CHAPTER 52-44-01-04 - REAR ELECTRONIC-COMPARTMENT DOOR - REMOVAL/INSTALLATION</title>
+		<path>/CHAPTER_52</path>
+		<hash>b8d38b8107c17046d6a31ed2974d5c5b</hash>
+	</file>
+	<pages>
+		<page number="1" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL REAR ELECTRONIC-COMPARTMENT DOOR - REMOVAL/INSTALLATION EFFECTIVITY: ALL 1. General A. This section gives the procedures to remove and install the Rear Electronic-Compartment Door. B. The procedures in this section are given in the sequence below. The tasks identified with ( ♦) are part of the Scheduled Maintenance Requirements Document (SMRD). TASK NUMBER DESCRIPTION EFFECTIVITY REAR ELECTRONIC-COMPARTMENT ALL 52-44-01-000-801-A DOOR - REMOVAL  REAR ELECTRONIC-COMPARTMENT ALL 52-44-01-400-801-A DOOR - INSTALLATION  EMB-145  - AMM 1285 General 52-44-01 Page 1 of 6 Rev 48 - Oct 30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="2" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 52-44-01-000-801-A EFFECTIVITY: ALL 2. REAR ELECTRONIC-COMPARTMENT DOOR - REMOVAL A. General (1) This task gives the procedures to remove the Rear Electronic-Compartment Door. B. Zones and Accesses ZONE PANEL/DOOR LOCATION 272 272DR Fuselage Rear Section I C. Tools and Equipment ITEM DESCRIPTION PURPOSE QTY Commercially To get access to the rear electronic-com- Workstand  available partment door D. Auxiliary Items ITEM DESCRIPTION PURPOSE QTY Commercially Protective Gloves For protection of technicians hands 1 available Commercially Safety Goggles For protection of technicians eyes 1 available E. Consumable Materials SPECIFICATION DESCRIPTION QTY (BRAND) ASTM D740 Methyl Ethyl Ketone - (MEK) AR F. Expandable Parts Not Applicable G. Persons Recommended QTY FUNCTION PLACE 1 Does the task On the rear electronic-compartment door H. Preparation SUBTASK 841-002-A (1) Make sure that the aircraft is safe for maintenance. I. Removal (Figure 401)  SUBTASK 020-002-A (1) Move the hook (1) and release the actuating handle (2) to open the door. EMB-145  - AMM 1285 000-801-A/400 52-44-01 Page 2 of 6 Rev 48 - Oct 30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="3" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL (2) Push the door (3) to gain access to the lock pin (4). (3) Pull the lock pin (4) to remove the door (3). WARNING: BE CAREFUL WHEN YOU USE SOLVENTS BECAUSE THEY ARE A HEALTH FIRE HAZARD. USE SAFETY GOGGLES AND PROTECTIVE CLOTHING. DO NOT BREATHE THE SOLVENT GASES AND WORK IN A WELL VENTILATED AREA. (4) Clean the surface with a cloth wet with MEK. EMB-145  - AMM 1285 000-801-A/400 52-44-01 Page 3 of 6 Rev 48 - Oct 30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="4" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: ALL Rear Electronic-Compartment Door - Removal/Installation  Figure 401 DET. A B A ZONE 272 4. LOCK PIN DET. D DET. C 1. HOOK 2. HANDLE 3. DOOR DET. B EM145AMM520694A.DGN EMB-145  - AMM 1285 000-801-A/400 52-44-01 Page 4 of 6 Rev 48 - Oct 30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="5" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 52-44-01-400-801-A EFFECTIVITY: ALL 3. REAR ELECTRONIC-COMPARTMENT DOOR - INSTALLATION A. General (1) This task gives the procedure to install the Rear Electronic-Compartment Door. B. References REFERENCE DESIGNATION REAR ELECTRONIC-COMPARTMENT DOOR - AD- AMM TASK 52-44-01-820-801-A/500 JUSTMENT IPC 52-44-00 REAR ELECTRONIC BAY DOOR C. Zones and Accesses ZONE PANEL/DOOR LOCATION 272 272DR Fuselage Rear Section I D. Tools and Equipment ITEM DESCRIPTION PURPOSE QTY Commercially To get access to the rear electronic-com- Workstand  available partment door E. Auxiliary Items ITEM DESCRIPTION PURPOSE QTY Commercially Protective Gloves To protect technician’s hands 1 available Commercially Safety Goggles To protect technician’s eyes 1 available F. Consumable Materials Not Applicable G. Expendable Parts IPC REFERENCE ITEM QTY (VENDOR REFERENCE) Rear electronic-compartment door IPC 52-44-00 1 H. Persons Recommended QTY FUNCTION PLACE 1 Does the task On the rear electronic-compartment door EMB-145  - AMM 1285 400-801-A/400 52-44-01 Page 5 of 6 Rev 52 - Apr 28/17 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="6" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL I. Preparation SUBTASK 940-002-A (1) Rotate the door handle and do a check on the locking mechanism. Make sure that the lock pin, support, and rubber seal (on the contour of the door) are not damaged. NOTE: If necessary, replace the damaged parts. (2) If necessary, do the adjustment of the rear electronic-compartment door (Refer to AMM TASK 52-44-01-820-801-A/500). J. Installation (Figure 401)  SUBTASK 420-002-A (1) Put the door (3) in position, in its housing. (2) Pull the lock pin (4) to install the door (3). (3) Move the hook (1) and lock the actuating handle (2) to close the door (3). K. Follow-on SUBTASK 842-002-A (1) Remove all tools, equipment and unwanted materials from the work area. EMB-145  - AMM 1285 400-801-A/400 52-44-01 Page 6 of 6 Rev 52 - Apr 28/17 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+	</pages>
+</metadata>

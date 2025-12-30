@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata id="MPP1285_25-12-11-04-1">
+	<file family="145" manual="AMM" pn="1285" chg="U" tsn="51" is_tr="false">
+		<title>AMM PART II-1285 - CHAPTER 25-12-11-04 - CHART HOLDER ASSEMBLY - REMOVAL/INSTALLATION</title>
+		<path>/CHAPTER_25</path>
+		<hash>16a79b757559a9bf70944b8e296d3ae1</hash>
+	</file>
+	<pages>
+		<page number="1" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL CHART HOLDER ASSEMBLY - REMOVAL/INSTALLATION EFFECTIVITY:  ALL 1. General A. This section gives the procedures to remove/install the pilot and copilot chart holder assembly. B. The pilot chart holder is installed on the pilot control yoke. The copilot chart holder is installed on the copilot control yoke. C. The procedures in this section are given in the sequence below. The tasks identified with ( ♦) are part of the Scheduled Maintenance Requirements Document (SMRD). TASK NUMBER DESCRIPTION EFFECTIVITY ALL 25-12-11-000-801-A CHART HOLDER ASSEMBLY - REMOVAL   CHART HOLDER ASSEMBLY - INSTALLA- ALL 25-12-11-400-801-A TION  EMB-145  - AMM 1285 General 25-12-11 Page 1 of 4 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="2" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 25-12-11-000-801-A EFFECTIVITY:  ALL 2. CHART HOLDER ASSEMBLY - REMOVAL A. General (1) This task gives procedures to remove the pilot and copilot chart holder assembly. B. Zones and Accesses Not Applicable C. Tools and Equipment Not Applicable D. Auxiliary Items Not Applicable E. Consumable Materials Not Applicable F. Expandable Parts Not Applicable G. Persons Recommended QTY FUNCTION PLACE 1 Does the task Cockpit ceiling H. Preparation SUBTASK 841-002-A (1) On the circuit breaker panel, open the READING LIGHT circuit breaker and attach DO- NOT-CLOSE tag to it (Location Tip: DC BUS1/COCKPIT READING). I. Removal (Figure 401)  SUBTASK 020-002-A (1) Lift the map holder base (2). (2) Loosen the screws (1) that attach the chart holder (3) to the control yoke (5). (3) Carefully pull the electrical wires to get access to the electrical connector (4). (4) Disconnect the electrical connector (4). (5) Remove the chart holder assembly (3). EMB-145  - AMM 1285 000-801-A/400 25-12-11 Page 2 of 4 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="3" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: ALL Chart Holder Assembly - Removal/Installation  Figure 401 A ZONES 223 224 B DET. A 4.   ELECTRICAL       CONNECTOR 3.   CHART HOLDER       ASSEMBLY 5.   CONTROL       YOKE 2.   MAP HOLDER       BASE DET. B 1.  SCREW 145AMM250765.MCE EMB-145  - AMM 1285 000-801-A/400 25-12-11 Page 3 of 4 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="4" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 25-12-11-400-801-A EFFECTIVITY:  ALL 3. CHART HOLDER ASSEMBLY - INSTALLATION A. General (1) This task gives procedures to install the pilot and copilot chart holder. B. References REFERENCE DESIGNATION AMM TASK 33-11-00-700-801-A/500 COCKPIT LIGHTS - OPERATIONAL TEST C. Zones and Accesses Not Applicable D. Tools and Equipment Not Applicable E. Auxiliary Items Not Applicable F. Consumable Materials Not Applicable G. Expandable Parts Not Applicable H. Persons Recommended QTY FUNCTION PLACE 1 Does the task Cockpit ceiling I. Installation (Figure 401)  SUBTASK 420-002-A (1) Connect the electrical connector (4). (2) Put the chart holder assembly (3) in its correct position. (3) Tighten the screws (1) that attach the chart holder assembly (3) to the control yoke (5). J. Follow-on SUBTASK 842-002-A (1) On the circuit breaker panel, close the READING LIGHT circuit breaker and remove the DO-NOT-CLOSE tag from it (Location Tip: DC BUS1/COCKPIT READING). (2) Do the operational test of the chart holder installed ( AMM TASK 33-11-00-700-801-A/ 500). EMB-145  - AMM 1285 400-801-A/400 25-12-11 Page 4 of 4 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+	</pages>
+</metadata>

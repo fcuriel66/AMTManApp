@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata id="MPP1285_74-00-01-05-1">
+	<file family="145" manual="AMM" pn="1285" chg="U" tsn="51" is_tr="false">
+		<title>AMM PART II-1285 - CHAPTER 74-00-01-05 - IGNITION SYSTEM - ADJUSTMENT/TEST</title>
+		<path>/CHAPTER_74</path>
+		<hash>e0eeaa94b67134ff11c35e815ee0c057</hash>
+	</file>
+	<pages>
+		<page number="1" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL IGNITION SYSTEM - ADJUSTMENT/TEST EFFECTIVITY:  ALL 1. General A. This section gives the procedure to do the operational check of the ignition system. B. This procedure is applicable to the LH and RH engines. C. The procedures in this section are given in the sequence below. The tasks identified with ( ♦) are part of the Scheduled Maintenance Requirements Document (SMRD). TASK NUMBER DESCRIPTION EFFECTIVITY IGNITION SYSTEM - OPERATIONAL ALL 74-00-01-700-801-A CHECK  EMB-145  - AMM 1285 General 74-00-01 Page 1 of 4 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="2" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 74-00-01-700-801-A EFFECTIVITY:  ALL 2. IGNITION SYSTEM - OPERATIONAL CHECK A. General (1) To do the Ignition System operational check, it is necessary to start the engines. (2) Obey the instructions below to do the operational check of the ignition system. B. References REFERENCE DESIGNATION ENERGIZATION OF THE AIRCRAFT WITH AN EX- AMM TASK 20-40-01-860-801-A/200 TERNAL POWER SOURCE AMM TASK 71-00-01-910-801-A/200 ENGINE START PROCEDURE (NORMAL) AMM TASK 71-00-01-910-804-A/200 ENGINE STOP PROCEDURE C. Zones and Accesses Not Applicable D. Tools and Equipment Not Applicable E. Auxiliary Items Not Applicable F. Consumable Materials Not Applicable G. Expandable Parts Not Applicable H. Persons Recommended QTY FUNCTION PLACE 1 Does the task Cockpit I. Preparation SUBTASK 841-002-A (1) Energize the aircraft ( AMM TASK 20-40-01-860-801-A/200). J. Operational Check (Figure 501)  SUBTASK 710-002-A (1) Start the LH or RH engine ( AMM TASK 71-00-01-910-801-A/200), on the ground. (a) During starting cycle, record which ignition channel is operated. EMB-145  - AMM 1285 700-801-A/500 74-00-01 Page 2 of 4 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="3" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL Result: 1 The IGN A or IGN B (green color) indication message comes into view in the EICAS display. NOTE: If the ignition switch is set to the AUTO position, the IGN A or IGN B indication message will come into view in the EICAS display only during the start cycle. (2) Stop the engine ( AMM TASK 71-00-01-910-804-A/200). (3) Start the same engine ( AMM TASK 71-00-01-910-801-A/200) again. (a) During starting cycle record which ignition channel is operated. Result: 1 The alternate IGN A or IGN B (green color) indication message comes into view in the EICAS display. NOTE: If the ignition switch is set to AUTO position, the IGN A or IGN B indication message will come into view in the EICAS display only during start cycle. (4) Stop the engine ( AMM TASK 71-00-01-910-804-A/200). K. Follow-on SUBTASK 842-002-A (1) Remove the DC power from the aircraft. EMB-145  - AMM 1285 700-801-A/500 74-00-01 Page 3 of 4 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="4" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: ALL Ignition System - Operational Check  Figure 501 A IGNITION IGNITION SWITCHES SWITCHES POWERPLANT PANEL POWERPLANT IGNITION AUTO AUTO OFF ON OFF ON 1 2 FADEC RESET ALTN RESET ALTN B 1 2 TAKEOFF DATA DEC INC IGNITION INDICATION SET MESSAGE STORE START/STOP RUN RUN STOP START STOP START 1 2 DET. A PROTECTIVE PROTECTIVE GUARD GUARD OIL VIB LDG GEAR UP UP UP FLAPS 0 SPLRS CLD ROLL PITCH CAB ALT 7000 FT UP CAB P 7.5 PSI CAB RATE -2000 FPM 9 YAW IGNITION APU 100 % 600˚C INDICATION MESSAGE DET. B 145AMM740013.MCE B EMB-145  - AMM 1285 700-801-A/500 74-00-01 Page 4 of 4 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+	</pages>
+</metadata>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata id="MPP1285_49-77-01-04-1">
+	<file family="145" manual="AMM" pn="1285" chg="U" tsn="51" is_tr="false">
+		<title>AMM PART II-1285 - CHAPTER 49-77-01-04 - THERMOCOUPLE - REMOVAL/INSTALLATION</title>
+		<path>/CHAPTER_49</path>
+		<hash>d395a4c7c1af80654a457c38a90ce964</hash>
+	</file>
+	<pages>
+		<page number="1" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL THERMOCOUPLE - REMOVAL/INSTALLATION EFFECTIVITY:  AIRCRAFT WITH APU T-62T-40C14 1. General A. This section gives the procedures to remove/install the thermocouple. B. The procedures in this section are given in the sequence below. The tasks identified with ( ♦) are part of the Scheduled Maintenance Requirements Document (SMRD). TASK NUMBER DESCRIPTION EFFECTIVITY AIRCRAFT WITH APU 49-77-01-000-801-A THERMOCOUPLE - REMOVAL T-62T-40C14   AIRCRAFT WITH APU 49-77-01-400-801-A THERMOCOUPLE - INSTALLATION T-62T-40C14   EMB-145  - AMM 1285 General 49-77-01 Page 1 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="2" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 49-77-01-000-801-A EFFECTIVITY:  AIRCRAFT WITH APU T-62T-40C14 2. THERMOCOUPLE - REMOVAL A. General (1) To do this task, refer to the instructions given in the latest revision of Hamilton Sundstrand engine manual T-62T-40C14 (P/N 4504112), 49-16-01. B. References REFERENCE DESIGNATION AMM MPP 49-02-00/200 - MAINTENANCE PRACTICES AMM TASK 53-32-00-000-801-A/400 TAIL CONE - REMOVAL C. Zones and Accesses ZONE PANEL/DOOR LOCATION 313 313 APU cowling D. Tools and Equipment Not Applicable E. Auxiliary Items ITEM DESCRIPTION PURPOSE QTY Commercially Workstand To get access to the APU work area 1 available F. Consumable Materials Not Applicable G. Expandable Parts Not Applicable H. Persons Recommended QTY FUNCTION PLACE 1 Does the task APU work area I. Preparation SUBTASK 841-002-A WARNING: BEFORE YOU DO THE TASK OBEY THE SAFETY PRECAUTIONS GIVEN IN AMM MPP 49-02-00/200 TO PREVENT INJURY TO THE PERSONS AND DAMAGE TO THE MATERIAL. (1) On the circuit breaker panel, open these circuit breakers and attach DO-NOT-CLOSE tags to them: – APU FUEL SOV. EMB-145  - AMM 1285 000-801-A/400 49-77-01 Page 2 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="3" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL (2) On the left power control and distribution box, open the APU GEN START circuit breaker and attach DO-NOT-CLOSE tag to it. (3) Remove the tail cone ( AMM TASK 53-32-00-000-801-A/400). J. Removal SUBTASK 020-002-A (1) Remove the APU thermocouple. Refer to the latest revision of Hamilton Sundstrand engine manual T-62T-40C14 (P/N 4504112), 49-16-01. EMB-145  - AMM 1285 000-801-A/400 49-77-01 Page 3 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="4" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 49-77-01-400-801-A EFFECTIVITY:  AIRCRAFT WITH APU T-62T-40C14 3. THERMOCOUPLE - INSTALLATION A. General (1) To do this task, refer to the instructions given in the latest revision of Hamilton Sundstrand engine manual T-62T-40C14 (P/N 4504112), 49-16-01. B. References REFERENCE DESIGNATION AMM TASK 53-32-00-400-801-A/400 TAIL CONE - INSTALLATION C. Zones and Accesses ZONE PANEL/DOOR LOCATION 313 313 APU cowling D. Tools and Equipment Not Applicable E. Auxiliary Items ITEM DESCRIPTION PURPOSE QTY Commercially Workstand To get access to the APU work area 1 available F. Consumable Materials Not Applicable G. Expandable Parts Not Applicable H. Persons Recommended QTY FUNCTION PLACE 1 Does the task APU work area I. Installation SUBTASK 420-002-A (1) Install the APU thermocouple. Refer to the latest revision of Hamilton Sundstrand engine manual T-62T-40C14 (P/N 4504112), 49-16-01. J. Follow-on SUBTASK 842-002-A (1) Remove the DO-NOT-CLOSE tags and close these circuit breakers. – APU FUEL SOV. EMB-145  - AMM 1285 400-801-A/400 49-77-01 Page 4 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="5" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL (2) On the left power control and distribution box, remove the DO-NOT-CLOSE tag and close the APU GEN START circuit breaker. (3) Install the tail cone ( AMM TASK 53-32-00-400-801-A/400). EMB-145  - AMM 1285 400-801-A/400 49-77-01 Page 5 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="6" width="216.0" height="279.0">
+			<data/>
+		</page>
+	</pages>
+</metadata>

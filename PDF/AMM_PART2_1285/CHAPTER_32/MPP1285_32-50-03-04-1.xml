@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata id="MPP1285_32-50-03-04-1">
+	<file family="145" manual="AMM" pn="1285" chg="U" tsn="51" is_tr="false">
+		<title>AMM PART II-1285 - CHAPTER 32-50-03-04 - STEERING ELECTRONIC CONTROL MODULE (SECM) - REMOVAL/INSTALLATION</title>
+		<path>/CHAPTER_32</path>
+		<hash>3eb1828b91aaaca8c5309a4278dd9484</hash>
+	</file>
+	<pages>
+		<page number="1" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL STEERING ELECTRONIC CONTROL MODULE (SECM) - REMOVAL/INSTALLATION EFFECTIVITY:  ALL 1. General A. This section gives the procedure to remove and install the Nose Wheel Steering Electronic Control Module. B. The procedures in this section are given in the sequence below. The tasks identified with ( ♦) are part of the Scheduled Maintenance Requirements Document (SMRD). TASK NUMBER DESCRIPTION EFFECTIVITY NOSE WHEEL STEERING ELECTRONIC ALL 32-50-03-000-801-A CONTROL MODULE - REMOVAL  NOSE WHEEL STEERING ELECTRONIC ALL 32-50-03-400-801-A CONTROL MODULE - INSTALLATION  EMB-145  - AMM 1285 General 32-50-03 Page 1 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="2" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 32-50-03-000-801-A EFFECTIVITY:  ALL 2. NOSE WHEEL STEERING ELECTRONIC CONTROL MODULE - REMOVAL A. General (1) This task gives the procedures to remove the steering electronic control module. B. References REFERENCE DESIGNATION AMM MPP 06-41-01/100 - C. Zones and Accesses ZONE PANEL/DOOR LOCATION 123 123BL Controls rigging door D. Tools and Equipment Not Applicable E. Auxiliary Items Not Applicable F. Consumable Materials Not Applicable G. Expandable Parts Not Applicable H. Persons Recommended QTY FUNCTION PLACE 1 Does the task Area below the cockpit floor I. Preparation SUBTASK 841-002-A (1) On the circuit breaker panel, open the STEER circuit breaker and attach DO-NOT- CLOSE tag to it. (2) Open access door 123BL (AMM MPP 06-41-01/100). J. Removal (Figure 401)  SUBTASK 020-002-A (1) Disconnect the electrical connectors (4). (2) Remove the bolts (3) and washers (2). (3) Remove the steering electronic control module (1). EMB-145  - AMM 1285 000-801-A/400 32-50-03 Page 2 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="3" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: ALL Nose Wheel Steering Electronic Control Module - Removal/Installation  Figure 401 A DET. A ZONE 123 B 1. STEERING ELECTRONIC-CONTROL MODULE 2. WASHER (4) 3. BOLT (4) DET. B 4.   ELECTRICAL CONNECTORS 145AMM320254.MCE A EMB-145  - AMM 1285 000-801-A/400 32-50-03 Page 3 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="4" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 32-50-03-400-801-A EFFECTIVITY:  ALL 3. NOSE WHEEL STEERING ELECTRONIC CONTROL MODULE - INSTALLATION A. General (1) This task gives the procedure to install the nose wheel steering electronic control module. (2) The maximum steering authority is 55 degrees for aircraft PRE-MOD. S.B.145-32-0002. (3) The maximum steering authority is 76 degrees for aircraft POST-MOD. S.B.145-32-0002. B. References REFERENCE DESIGNATION AMM MPP 06-41-01/100 - NOSE WHEEL STEERING SYSTEM ACTUATION - AMM TASK 32-50-00-700-803-A/500 OPERATIONAL CHECK S.B.145-32-0002 - C. Zones and Accesses ZONE PANEL/DOOR LOCATION 123 123BL Controls rigging door D. Tools and Equipment Not Applicable E. Auxiliary Items Not Applicable F. Consumable Materials Not Applicable G. Expandable Parts Not Applicable H. Persons Recommended QTY FUNCTION PLACE 1 Does the task Area below the cockpit floor I. Installation (Figure 401)  SUBTASK 420-002-A CAUTION: MAKE SURE THAT THE STEERING ELECTRONIC CONTROL MODULE TO BE INSTALLED AGREES WITH THE STEERING AUTHORITY PERMITTED BY THE NLG STRUT. (1) Install the steering electronic control module (1). EMB-145  - AMM 1285 400-801-A/400 32-50-03 Page 4 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="5" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL NOTE: Steering Electronic Control Module POST-MOD. S.B.145-32-0002 must be used only with 76 degrees steering authority. Do not use it with NLG strut PRE-MOD. S.B. 145-32-0002. (2) Install the washers (2) and bolts (3). (3) Connect the electrical connectors (4). (4) Close access door 123BL (AMM MPP 06-41-01/100). J. Follow-on SUBTASK 842-002-A (1) On the circuit breaker panel, close the STEER circuit breaker and remove the DO- NOT-CLOSE tag from it. (2) Do the check below: (a) Push the steering disengage button (STEER DISC) on the pilot's yoke. Result: 1 On the EICAS, the STEER INOP caution message comes into view. (b) Push the steering handle. Result: 1 On the EICAS display, the STEER INOP caution message goes out of view. (3) Do the operational check of the nose wheel steering system actuation ( AMM TASK 32-50-00-700-803-A/500). EMB-145  - AMM 1285 400-801-A/400 32-50-03 Page 5 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="6" width="216.0" height="279.0">
+			<data/>
+		</page>
+	</pages>
+</metadata>

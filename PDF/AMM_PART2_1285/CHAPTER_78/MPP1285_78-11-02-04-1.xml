@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata id="MPP1285_78-11-02-04-1">
+	<file family="145" manual="AMM" pn="1285" chg="U" tsn="51" is_tr="false">
+		<title>AMM PART II-1285 - CHAPTER 78-11-02-04 - EXHAUST CONE - REMOVAL/INSTALLATION</title>
+		<path>/CHAPTER_78</path>
+		<hash>578a83b1f5f1bdb3c59430990f3ce3e7</hash>
+	</file>
+	<pages>
+		<page number="1" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EXHAUST CONE - REMOVAL/INSTALLATION EFFECTIVITY:  ALL 1. General A. This section gives the procedures to remove/install of the Exhaust Cone. B. The procedures in this section are given in the sequence below. The tasks identified with ( ♦) are part of the Scheduled Maintenance Requirements Document (SMRD). TASK NUMBER DESCRIPTION EFFECTIVITY ALL 78-11-02-000-801-A EXHAUST CONE - REMOVAL   ALL 78-11-02-400-801-A EXHAUST CONE - INSTALLATION   EMB-145  - AMM 1285 General 78-11-02 Page 1 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="2" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 78-11-02-000-801-A EFFECTIVITY:  ALL 2. EXHAUST CONE - REMOVAL A. General (1) To remove the exhaust cone, obey the instructions in Rolls Royce MM CSP 34022. B. References REFERENCE DESIGNATION AMM MPP 71-00-00/200 - MAINTENANCE PRACTICES AMM TASK 78-11-01-000-801-A/400 ENGINE EXHAUST NOZZLE - REMOVAL AMM TASK 78-31-01-000-801-A/400 THRUST REVERSER - REMOVAL Rolls Royce MM CSP 34022 - C. Zones and Accesses ZONE PANEL/DOOR LOCATION 415 LH Engine 425 RH Engine D. Tools and Equipment Not Applicable E. Auxiliary Items ITEM DESCRIPTION PURPOSE QTY  Workstand To get access to the engine exhaust cone 1 F. Consumable Materials Not Applicable G. Expandable Parts Not Applicable H. Persons Recommended QTY FUNCTION PLACE 1 Does the task Engine exhaust cone I. Preparation SUBTASK 841-002-A WARNING: BEFORE YOU DO THE TASK, OBEY THE SAFETY PRECAUTIONS GIVEN IN AMM MPP 71-00-00/200 TO PREVENT INJURY TO PERSONS AND DAMAGE TO THE MATERIAL. (1) Make sure that the aircraft is safe for maintenance. EMB-145  - AMM 1285 000-801-A/400 78-11-02 Page 2 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="3" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL (2) On the circuit breaker panel, open the circuit breakers below and attach a DO-NOT- CLOSE tag to them. • Start 1 • Start 2 (3) Put the workstand in the work area. (4) Remove the Exhaust Nozzle (AMM TASK 78-11-01-000-801-A/400) or Thrust Reverser ( AMM TASK 78-31-01-000-801-A/400), as applicable. J. Removal SUBTASK 020-002-A WARNING: BEFORE YOU DO THE TASK, OBEY THE SAFETY PRECAUTIONS GIVEN IN AMM MPP 71-00-00/200 TO PREVENT INJURY TO PERSONS AND DAMAGE TO THE MATERIAL. (1) Remove the exhaust cone. Refer to the last revision of Rolls Royce MM CSP 34022. EMB-145  - AMM 1285 000-801-A/400 78-11-02 Page 3 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="4" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 78-11-02-400-801-A EFFECTIVITY:  ALL 3. EXHAUST CONE - INSTALLATION A. General (1) To install the exhaust cone, obey the instructions in Rolls Royce MM CSP 34022. B. References REFERENCE DESIGNATION AMM MPP 71-00-00/200 - MAINTENANCE PRACTICES AMM TASK 78-11-01-400-801-A/400 ENGINE EXHAUST NOZZLE - INSTALLATION AMM TASK 78-31-01-400-801-A/400 THRUST REVERSER - INSTALLATION AMM TASK 78-31-01-700-801-A/500 THRUST REVERSER - OPERATIONAL CHECK Rolls Royce MM CSP 34022 - C. Zones and Accesses ZONE PANEL/DOOR LOCATION 415 LH Engine 425 RH Engine D. Tools and Equipment Not Applicable E. Auxiliary Items ITEM DESCRIPTION PURPOSE QTY  Workstand To get access to the engine exhaust cone 1 F. Consumable Materials Not Applicable G. Expandable Parts Not Applicable H. Persons Recommended QTY FUNCTION PLACE 1 Does the task Engine exhaust cone I. Installation SUBTASK 420-002-A WARNING: BEFORE YOU DO THE TASK, OBEY THE SAFETY PRECAUTIONS GIVEN IN AMM MPP 71-00-00/200 TO PREVENT INJURY TO PERSONS AND DAMAGE TO THE MATERIAL. EMB-145  - AMM 1285 400-801-A/400 78-11-02 Page 4 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="5" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL (1) Install the exhaust cone. Refer to the last revision of Rolls Royce MM CSP 34022. J. Follow-on SUBTASK 842-002-A (1) Install the Exhaust Nozzle (AMM TASK 78-11-01-400-801-A/400) or Thrust Reverser ( AMM TASK 78-31-01-400-801-A/400), as applicable. (2) On the circuit breaker panel, close the circuit breakers below and remove the DO- NOT-CLOSE tag from them. • Start 1 • Start 2 (3) If applicable, do an operational test ( AMM TASK 78-31-01-700-801-A/500) on the thrust reverser and examine it for general conditions, oil leaks, and correct operation. (4) Remove the workstand from the work area. EMB-145  - AMM 1285 400-801-A/400 78-11-02 Page 5 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="6" width="216.0" height="279.0">
+			<data/>
+		</page>
+	</pages>
+</metadata>

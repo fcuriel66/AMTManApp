@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata id="MPP1285_77-21-01-05-1">
+	<file family="145" manual="AMM" pn="1285" chg="U" tsn="51" is_tr="false">
+		<title>AMM PART II-1285 - CHAPTER 77-21-01-05 - THERMOCOUPLES - ADJUSTMENT/TEST</title>
+		<path>/CHAPTER_77</path>
+		<hash>338cc3da63a4791592580aab59e9657b</hash>
+	</file>
+	<pages>
+		<page number="1" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL THERMOCOUPLES - ADJUSTMENT/TEST EFFECTIVITY:  ALL 1. General A. This section gives the procedure to do the electrical test of the thermocouple. B. These procedures are applicable to the LH and RH engines. C. The procedures in this section are given in the sequence below. The tasks identified with ( ♦) are part of the Scheduled Maintenance Requirements Document (SMRD). TASK NUMBER DESCRIPTION EFFECTIVITY ALL 77-21-01-700-801-A THERMOCOUPLE - ELECTRICAL TEST   EMB-145  - AMM 1285 General 77-21-01 Page 1 of 3 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="2" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 77-21-01-700-801-A EFFECTIVITY:  ALL 2. THERMOCOUPLE - ELECTRICAL TEST A. General (1) To do the test of the thermocouple, obey the instructions in Rolls-Royce MM CSP 34022. B. References REFERENCE DESIGNATION AMM MPP 71-00-00/200 - MAINTENANCE PRACTICES AMM TASK 71-11-01-000-801-A/400 ENGINE UPPER COWLING - REMOVAL AMM TASK 71-11-01-400-801-A/400 ENGINE UPPER COWLING - INSTALLATION AMM TASK 71-12-01-000-802-A/400 ENGINE LOWER COWLING - REMOVAL AMM TASK 71-12-01-400-802-A/400 ENGINE LOWER COWLING - INSTALLATION C. Zones and Accesses ZONE PANEL/DOOR LOCATION 413 Lower Cowling LH Engine 423 Lower Cowling RH Engine 412 Upper Cowling LH Engine 422 Upper Cowling RH Engine D. Tools and Equipment Not Applicable E. Auxiliary Items ITEM DESCRIPTION PURPOSE QTY Commercially Work Stand To get access to the engine 1 available F. Consumable Materials Not Applicable G. Expandable Parts Not Applicable H. Persons Recommended QTY FUNCTION PLACE 1 Does the task Engine EMB-145  - AMM 1285 700-801-A/500 77-21-01 Page 2 of 3 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="3" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL I. Preparation SUBTASK 841-002-A WARNING: BEFORE YOU DO THE TASK, OBEY THE SAFETY PRECAUTIONS GIVEN IN AMM MPP 71-00-00/200 TO PREVENT INJURY TO THE PERSONS AND DAMAGE TO THE MATERIAL. (1) On the circuit breaker panel, open the circuit breakers below and attach a DO-NOT- CLOSE tag to them. • START 1/2. (2) Put the work stand in the work area. (3) Remove the lower cowling (AMM TASK 71-12-01-000-802-A/400). (4) Remove the upper cowling (AMM TASK 71-11-01-000-801-A/400). J. Electrical Test SUBTASK 760-002-A (1) Do the electrical test of the thermocouple. Refer to the last revision of Rolls-Royce MM CSP 34022. K. Follow-on SUBTASK 842-002-A (1) Install the upper cowling (AMM TASK 71-11-01-400-801-A/400). (2) Install the lower cowling (AMM TASK 71-12-01-400-802-A/400). (3) Remove the work stand. (4) On the circuit breaker panel, close the circuit breakers below and remove the DO- NOT-CLOSE tag from them. • START 1/2. EMB-145  - AMM 1285 700-801-A/500 77-21-01 Page 3 of 3 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="4" width="216.0" height="279.0">
+			<data/>
+		</page>
+	</pages>
+</metadata>

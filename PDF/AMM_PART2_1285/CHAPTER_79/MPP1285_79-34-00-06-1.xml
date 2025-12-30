@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata id="MPP1285_79-34-00-06-1">
+	<file family="145" manual="AMM" pn="1285" chg="U" tsn="51" is_tr="false">
+		<title>AMM PART II-1285 - CHAPTER 79-34-00-06 - MAGNETIC CHIP WARNING SYSTEM - INSPECTION/CHECK</title>
+		<path>/CHAPTER_79</path>
+		<hash>4581514daae3dfb005edb7956b83e2ea</hash>
+	</file>
+	<pages>
+		<page number="1" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL MAGNETIC CHIP WARNING SYSTEM - INSPECTION/CHECK EFFECTIVITY:  ALL 1. General A. This section gives the procedures to do the inspection of the MFD for "ENG1(2) OIL DEBRIS" maintenance message. B. The procedures in this section are given in the sequence below. The tasks identified with ( ♦) are part of the Scheduled Maintenance Requirements Document (SMRD). TASK NUMBER DESCRIPTION EFFECTIVITY MFD MAINTENANCE MESSAGE - IN- ALL 79-34-00-200-801-A ♦ SPECTION  EMB-145  - AMM 1285 General 79-34-00 Page 1 of 4 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="2" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 79-34-00-200-801-A EFFECTIVITY:  ALL 2. MFD MAINTENANCE MESSAGE - INSPECTION A. General (1) This task is done during the routine inspection of the aircraft. B. References REFERENCE DESIGNATION AMM MPP 71-00-00/200 - MAINTENANCE PRACTICES ENERGIZATION OF THE AIRCRAFT WITH AN EX- AMM TASK 20-40-01-860-801-A/200 TERNAL POWER SOURCE C. Zones and Accesses Not Applicable D. Tools and Equipment Not Applicable E. Auxiliary Items Not Applicable F. Consumable Materials Not Applicable G. Expandable Parts Not Applicable H. Persons Recommended QTY FUNCTION PLACE 1 Does the task Cockpit I. Preparation SUBTASK 841-002-A WARNING: BEFORE YOU DO THE TASK, OBEY THE SAFETY PRECAUTIONS GIVEN IN ( AMM MPP 71-00-00/200) TO PREVENT INJURY TO THE PERSONS AND DAMAGE TO THE MATERIAL. (1) Make sure that the aircraft is safe for maintenance. (2) Energize the aircraft with the DC Power Supply ( AMM TASK 20-40-01-860-801-A/ 200). J. Inspect Multi-Function Display for ENG1(2) OIL DEBRIS Maintenance Message (Figure 601)  SUBTASK 212-002-A (1) On the MFD select the maintenance page. EMB-145  - AMM 1285 200-801-A/600 79-34-00 Page 2 of 4 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="3" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL (2) Examine the maintenance page for the absence of the message "ENG1(2) OIL DEBRIS". (3) Return the MFD to the normal condition. K. Follow-on SUBTASK 842-002-A (1) Remove the DC Power Supply ( AMM TASK 20-40-01-860-801-A/200) from the aircraft. EMB-145  - AMM 1285 200-801-A/600 79-34-00 Page 3 of 4 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="4" width="216.0" height="279.0">
+			<data>6 3 AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: ALL MFD Maintenance Page - Components Location  Figure 601 B A ZONES 223 224 DET. A MFD SAT FMS CHK EICAS --- --- TAT ---  NM TAS --- --- MIN --- N HDG FAIL 5O 5O MAINTENANCE MESSAGES O1/O1 ENG1 OIL DEBRIS O8/14   12:33   OCCUR:O1 ENG2  OIL DEBRIS O7/26   19:21    OCCUR:O1 ENG1  OIL FILTER  IMP BYPASS O7/26   19:21    OCCUR:O1 MAINTENANCE LG AIR/GND - LGEU FAIL PAGE O7/23   13:45   OCCUR:23 T/R  LOW DEPLOY  SW  FAIL O7/19   17:58   OCCUR:O1 M/P NEXT PREV RTN PAGE PAGE RNG DET. B 145AMM720001.MCE A EMB-145  - AMM 1285 200-801-A/600 79-34-00 Page 4 of 4 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details. 33 3O</data>
+		</page>
+	</pages>
+</metadata>

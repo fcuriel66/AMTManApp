@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata id="MPP1285_27-36-03-04-1">
+	<file family="145" manual="AMM" pn="1285" chg="U" tsn="51" is_tr="false">
+		<title>AMM PART II-1285 - CHAPTER 27-36-03-04 - STICK SHAKER - REMOVAL/INSTALLATION</title>
+		<path>/CHAPTER_27</path>
+		<hash>5ed6395e80072d5c97050a574a5f7ff6</hash>
+	</file>
+	<pages>
+		<page number="1" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL STICK SHAKER - REMOVAL/INSTALLATION EFFECTIVITY:  ALL 1. General A. This section gives the procedures to remove and install the stick shaker. B. The procedures in this section are given in the sequence below. The tasks identified with ( ♦) are part of the Scheduled Maintenance Requirements Document (SMRD). TASK NUMBER DESCRIPTION EFFECTIVITY ALL 27-36-03-000-801-A STICK SHAKER - REMOVAL   ALL 27-36-03-400-801-A STICK SHAKER - INSTALLATION   EMB-145  - AMM 1285 General 27-36-03 Page 1 of 4 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="2" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 27-36-03-000-801-A EFFECTIVITY:  ALL 2. STICK SHAKER - REMOVAL A. General (1) This task gives the procedures to remove the stick shaker. B. Zones and Accesses Not Applicable C. Tools and Equipment Not Applicable D. Auxiliary Items Not Applicable E. Consumable Materials Not Applicable F. Expandable Parts Not Applicable G. Persons Recommended QTY FUNCTION PLACE 1 Does the task Fuselage H. Preparation SUBTASK 841-002-A (1) Make sure that the aircraft is safe for maintenance. (2) On the circuit breaker panel, open the SPS CHANNEL 1/2, SHAKER 1/2, and PUSHER CLUTCH circuit breakers and attach a DOT-NOT-TAG to them. (3) On the right power control/distribution box, open the PUSHER MOTOR circuit breaker and attach a DO-NOT-TAG to it. I. Removal (Figure 401)  SUBTASK 020-002-A (1) Disconnect the electrical connector (1). (2) Remove the bolt (3), bushing (2), washer (5) and the nut (6) to loosen the stick shaker (4). (3) Remove the stick shaker (4). EMB-145  - AMM 1285 000-801-A/400 27-36-03 Page 2 of 4 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="3" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: ALL Stick Shaker - Removal/Installation  Figure 401 A ZONE 223 224 B DET. A DET. B C 7. CONTROL     COLUMN 1. ELECTRICAL     CONNECTOR 6.  NUT 2.  BUSHING 5.  WASHER 3.  BOLT 4.  STICK SHAKER DET. C 145AMM270051.MCE B EMB-145  - AMM 1285 000-801-A/400 27-36-03 Page 3 of 4 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="4" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 27-36-03-400-801-A EFFECTIVITY:  ALL 3. STICK SHAKER - INSTALLATION A. General (1) This task gives the procedures to install the stick shaker. B. References REFERENCE DESIGNATION STALL PROTECTION SYSTEM - OPERATIONAL AMM TASK 27-36-00-700-801-A/500 CHECK C. Zones and Accesses Not Applicable D. Tools and Equipment Not Applicable E. Auxiliary Items Not Applicable F. Consumable Materials Not Applicable G. Expandable Parts Not Applicable H. Persons Recommended QTY FUNCTION PLACE 1 Does the task Fuselage I. Installation (Figure 401)  SUBTASK 420-002-A (1) Put the stick shaker (4) on the control column (7) and tighten the bolt (3) with the bushing (2), washer (5) and the nut (6). (2) Connect the electrical connector (1) on the stick shaker (4). J. Follow-on SUBTASK 842-002-A (1) On the circuit breaker panel, close the SPS CHANNEL 1/2, SHAKER 1/2, and PUSHER CLUTCH circuit breakers and remove the DO-NOT-CLOSE tag from them. (2) On the right power control/distribution box, close the PUSHER MOTOR circuit breaker and remove the DO-NOT-TAG from it. (3) Do an operational check of the stall protection system ( AMM TASK 27-36-00-700-801- A/500). EMB-145  - AMM 1285 400-801-A/400 27-36-03 Page 4 of 4 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+	</pages>
+</metadata>

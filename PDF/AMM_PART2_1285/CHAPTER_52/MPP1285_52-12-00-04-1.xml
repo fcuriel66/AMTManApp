@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata id="MPP1285_52-12-00-04-1">
+	<file family="145" manual="AMM" pn="1285" chg="U" tsn="51" is_tr="false">
+		<title>AMM PART II-1285 - CHAPTER 52-12-00-04 - MAIN-DOOR HYDRAULIC ACTUATION SYSTEM - REMOVAL/INSTALLATION</title>
+		<path>/CHAPTER_52</path>
+		<hash>45e811cfc95b7103c10c6aa7c5b1cddd</hash>
+	</file>
+	<pages>
+		<page number="1" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL MAIN-DOOR HYDRAULIC ACTUATION SYSTEM - REMOVAL/INSTALLATION EFFECTIVITY:  AIRCRAFT WITH AIRSTAIRS DOOR 1. General A. This section gives the procedure to deactivate and reactivate the main-door hydraulic actuation system. B. The procedures in this section are given in the sequence below. The tasks identified with ( ♦) are part of the Scheduled Maintenance Requirements Document (SMRD). TASK NUMBER DESCRIPTION EFFECTIVITY AIRCRAFT WITH AIR- MAIN-DOOR HYDRAULIC ACTUATION 52-12-00-040-801-A STAIRS DOOR SYSTEM - DEACTIVATION PROCEDURE   AIRCRAFT WITH AIR- MAIN-DOOR HYDRAULIC ACTUATION 52-12-00-440-801-A STAIRS DOOR SYSTEM - REACTIVATION PROCEDURE   EMB-145  - AMM 1285 General 52-12-00 Page 1 of 3 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="2" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 52-12-00-040-801-A EFFECTIVITY:  AIRCRAFT WITH AIRSTAIRS DOOR 2. MAIN-DOOR HYDRAULIC ACTUATION SYSTEM - DEACTIVATION PROCEDURE A. General (1) This task is applicable to item 52-12-00 - Main-Door Hydraulic Actuation System of the DDPM. (2) This task gives the procedure to deactivate the main-door hydraulic actuation system. B. Zones and Accesses Not Applicable C. Tools and Equipment Not Applicable D. Auxiliary Items Not Applicable E. Consumable Materials Not Applicable F. Expandable Parts Not Applicable G. Persons Recommended QTY FUNCTION PLACE 1 Does the task On the main door H. Deactivation Procedure SUBTASK 040-002-A (1) It is permitted to dispatch the aircraft with the main-door hydraulic actuation system inoperative if the damping function operates normally. Do the test of the damping function as follows: (a) Lift the door manually up to its mid-closed position, and then let the door come down. Make sure that the door moves down slowly, with damping. NOTE: Be careful to prevent lowering of the door without damping. (2) Attach a "DOOR ACTUATION INOP" placard to the door panel. (3) Write in the aircraft technical logbook that you did the procedure for deactivation of the Main-Door Hydraulic Actuation System. EMB-145  - AMM 1285 040-801-A/400 52-12-00 Page 2 of 3 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="3" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 52-12-00-440-801-A EFFECTIVITY:  AIRCRAFT WITH AIRSTAIRS DOOR 3. MAIN-DOOR HYDRAULIC ACTUATION SYSTEM - REACTIVATION PROCEDURE A. General (1) This task is applicable to item 52-12-00 - Main-Door Hydraulic Actuation System of the DDPM. (2) This task gives the procedure to reactivate the main-door hydraulic actuation system. B. References REFERENCE DESIGNATION AMM TASK 52-12-08-700-801-A/500 MAIN DOOR ACTUATOR - OPERATIONAL TEST AMM TASK 52-12-08-820-801-A/500 MAIN DOOR ACTUATOR - ADJUSTMENT C. Zones and Accesses Not Applicable D. Tools and Equipment Not Applicable E. Auxiliary Items Not Applicable F. Consumable Materials Not Applicable G. Expandable Parts Not Applicable H. Persons Recommended QTY FUNCTION PLACE 1 Does the task On the main door I. Reactivation Procedure SUBTASK 440-002-A (1) Adjust the main door actuator ( AMM TASK 52-12-08-820-801-A/500). (2) Do the operational test of the main door actuator ( AMM TASK 52-12-08-700-801-A/ 500). (3) Remove the "DOOR ACTUATION INOP" placard from the door panel. (4) Write in the aircraft technical logbook that you did the procedure for reactivation of the Main-Door Hydraulic Actuation System. EMB-145  - AMM 1285 440-801-A/400 52-12-00 Page 3 of 3 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="4" width="216.0" height="279.0">
+			<data/>
+		</page>
+	</pages>
+</metadata>

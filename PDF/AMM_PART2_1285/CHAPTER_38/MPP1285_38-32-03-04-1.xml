@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata id="MPP1285_38-32-03-04-1">
+	<file family="145" manual="AMM" pn="1285" chg="U" tsn="51" is_tr="false">
+		<title>AMM PART II-1285 - CHAPTER 38-32-03-04 - VENT LINE - REMOVAL/INSTALLATION</title>
+		<path>/CHAPTER_38</path>
+		<hash>35ab49601458a0d352d041a364ba9b56</hash>
+	</file>
+	<pages>
+		<page number="1" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL VENT LINE - REMOVAL/INSTALLATION EFFECTIVITY:  ALL 1. General A. This section gives the procedures to remove/install the vent line. B. The vent line connects the toilet unit with the external air to cause the airflow to remove odors, exhaust, etc. by differential pressure. C. To get access to the vent line, you must remove the toilet shroud assembly. D. The procedures in this section are given in the sequence below. The tasks identified with ( ♦) are part of the Scheduled Maintenance Requirements Document (SMRD). TASK NUMBER DESCRIPTION EFFECTIVITY ALL 38-32-03-000-801-A VENT LINE - REMOVAL   ALL 38-32-03-400-801-A VENT LINE - INSTALLATION   EMB-145  - AMM 1285 General 38-32-03 Page 1 of 4 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="2" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 38-32-03-000-801-A EFFECTIVITY:  ALL 2. VENT LINE - REMOVAL A. General (1) This task gives the procedure for removal of the vent line. B. References REFERENCE DESIGNATION AMM TASK 25-40-04-000-801-A/400 TOILET SHROUD ASSEMBLY - REMOVAL C. Zones and Accesses Not Applicable D. Tools and Equipment Not Applicable E. Auxiliary Items Not Applicable F. Consumable Materials Not Applicable G. Expandable Parts Not Applicable H. Persons Recommended QTY FUNCTION PLACE 1 Does the task Lavatory I. Preparation SUBTASK 841-002-A (1) Remove the toilet shroud assembly ( AMM TASK 25-40-04-000-801-A/400). J. Removal (Figure 401)  SUBTASK 020-002-A (1) Loosen the clamps (2) that attach the vent line (1). (2) Disconnect the vent line (1) from the toilet unit exhaust outlet (4) and from the noise suppressor (3). EMB-145  - AMM 1285 000-801-A/400 38-32-03 Page 2 of 4 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="3" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: ALL Vent Line - Removal/Installation  Figure 401 ZONE  262  A B DET. A 3.  NOISE      SUPPRESSOR 1.   VENT LINE 2.   CLAMP 4.   EXHAUST OUTLET DET. B 145AMM380005.MCE C EMB-145  - AMM 1285 000-801-A/400 38-32-03 Page 3 of 4 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="4" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 38-32-03-400-801-A EFFECTIVITY:  ALL 3. VENT LINE - INSTALLATION A. General (1) This task gives the procedure for installation of the vent line. B. References REFERENCE DESIGNATION AMM TASK 25-40-04-400-801-A/400 TOILET SHROUD ASSEMBLY - INSTALLATION C. Zones and Accesses Not Applicable D. Tools and Equipment Not Applicable E. Auxiliary Items Not Applicable F. Consumable Materials Not Applicable G. Expandable Parts Not Applicable H. Persons Recommended QTY FUNCTION PLACE 1 Does the task Lavatory I. Installation (Figure 401)  SUBTASK 420-002-A (1) Connect the vent line (1) to the noise suppressor (3) and to the toilet unit exhaust outlet (4). (2) Tighten the clamps (2) that attach the vent line (1). J. Follow-on SUBTASK 842-002-A (1) Install the toilet shroud assembly ( AMM TASK 25-40-04-400-801-A/400). EMB-145  - AMM 1285 400-801-A/400 38-32-03 Page 4 of 4 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+	</pages>
+</metadata>

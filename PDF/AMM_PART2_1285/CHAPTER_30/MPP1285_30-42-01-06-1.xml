@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata id="MPP1285_30-42-01-06-1">
+	<file family="145" manual="AMM" pn="1285" chg="U" tsn="51" is_tr="false">
+		<title>AMM PART II-1285 - CHAPTER 30-42-01-06 - WINDSHIELD TEMPERATURE CONTROLLER - INSPECTION/CHECK</title>
+		<path>/CHAPTER_30</path>
+		<hash>cec79495a7bb7a32d9a41044e1a26dfc</hash>
+	</file>
+	<pages>
+		<page number="1" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL WINDSHIELD TEMPERATURE CONTROLLER - INSPECTION/CHECK EFFECTIVITY:  POST-MOD. S.B. 145-30-0033 1. General A. This section gives the procedures to do a visual inspection on the LEDs installed on the windshield temperature controller. B. The procedures in this section are given in the sequence below. The tasks identified with ( ♦) are part of the Scheduled Maintenance Requirements Document (SMRD). TASK NUMBER DESCRIPTION EFFECTIVITY POST-MOD. S.B. WINDSHIELD TEMPERATURE CONTROL- 30-42-01-200-801-A 145-30-0033 LER - GENERAL VISUAL INSPECTION   EMB-145  - AMM 1285 General 30-42-01 Page 1 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="2" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 30-42-01-200-801-A EFFECTIVITY:  POST-MOD. S.B. 145-30-0033 2. WINDSHIELD TEMPERATURE CONTROLLER - GENERAL VISUAL INSPECTION A. General (1) The function of this check is to know the condition of the windshield temperature controller LEDS. B. References REFERENCE DESIGNATION AMM MPP 06-41-02/100 - ENERGIZATION OF THE AIRCRAFT WITH AN EX- AMM TASK 20-40-01-860-801-A/200 TERNAL POWER SOURCE AMM TASK 28-41-00-200-801-A/600 - AMM TASK 53-01-01-000-801-A/400 COCKPIT FLOOR PANELS - REMOVAL AMM TASK 53-01-01-400-801-A/400 COCKPIT FLOOR PANELS - INSTALLATION FIM TASK 30-42-00-810-801-A - FIM TASK 30-42-00-810-802-A - C. Zones and Accesses ZONE PANEL/DOOR LOCATION 221 221CF Cockpit floor, LH side 222 222BF Cockpit floor, RH side D. Tools and Equipment Not Applicable E. Auxiliary Items Not Applicable F. Consumable Materials Not Applicable G. Expandable Parts Not Applicable H. Persons Recommended QTY FUNCTION PLACE 1 Does the task Cockpit floor, RH or LH side EMB-145  - AMM 1285 200-801-A/600 30-42-01 Page 2 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="3" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL I. Preparation SUBTASK 841-002-A (1) Remove panel 221CF to get access to windshield temperature controller 1 and panel 222BF to get access to windshield temperature controller 2 (AMM MPP 06-41-02/100) ( AMM TASK 53-01-01-000-801-A/400). (2) On the overhead Circuit Breaker Panel, make sure that these circuit breakers are closed: • WSHLD TEMP 1 (Location tip: DC BUS 1/ICE AND RAIN PROTECTION/ WSHLD TEMP 1). • WSHLD TEMP 2 (Location tip: SHED DC BUS 2/ WSHLD TEMP 2). (3) Energize the aircraft with the External DC-Power Supply ( AMM TASK 20-40-01-860-801-A/200). J. Inspect (General Visual) Windshield Temperature Controller (Figure 601)  SUBTASK 212-002-A (1) Do an inspection on windshield temperature controller 1 as follows: (a) Set the WINDSHIELD 1 heating pushbutton, on the overhead panel, to ON. (b) On windshield temperature controller 1, look at LEDs A, B, C, and D. Result: 1 LEDs A, B, C, and D must be off. NOTE: If one of the windshield temperature controller LEDs is on, refer to FIM TASK 30-42-00-810-801-A. (c) Set the WINDSHIELD 1 heating pushbutton, on the overhead panel, to OFF. (2) Do an inspection on windshield temperature controller 2 as follows: (a) Set the WINDSHIELD 2 heating pushbutton, on the overhead panel, to ON. (b) On windshield temperature controller 2, look at LEDs A, B, C, and D. Result: 1 LEDs A, B, C, and D must be off. NOTE: If one of the windshield temperature controller LEDs is on, refer to FIM TASK 30-42-00-810-802-A. (c) Set the WINDSHIELD 2 heating pushbutton, on the overhead panel, to OFF. K. Follow-on SUBTASK 842-002-A (1) Do an inspection on the fuel quantity indication harness (AMM TASK 28-41-00-200-801-A/600). NOTE: The inspection of fuel quantity indication harness is part of Critical Design Configuration Control Limitations (CDCCL) in the Airworthiness Limitations of the Aircraft Maintenance Program. EMB-145  - AMM 1285 200-801-A/600 30-42-01 Page 3 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="4" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL (2) Install access panel 221CF for windshield temperature controller 1 and access panel 222BF for windshield temperature controller 2 (AMM MPP 06-41-02/100) ( AMM TASK 53-01-01-400-801-A/400). (3) Deenergize the aircraft ( AMM TASK 20-40-01-860-801-A/200). EMB-145  - AMM 1285 200-801-A/600 30-42-01 Page 4 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="5" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: POST-MOD. S.B. 145-30-0033 Windshield Temperature Controller - Inspection/Check  Figure 601 STA 3293.0 STA 3596.5 ZONES 123 124 A A LEDS WIDSHIELD TEMPERATURE CONTROLLER DET. A (TYPICAL) 145AMM300252.MCE EMB-145  - AMM 1285 200-801-A/600 30-42-01 Page 5 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details. A BCD</data>
+		</page>
+		<page number="6" width="216.0" height="279.0">
+			<data/>
+		</page>
+	</pages>
+</metadata>

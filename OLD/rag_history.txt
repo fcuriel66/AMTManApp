@@ -1,0 +1,12 @@
+Retrieval-Augmented Generation (RAG) was introduced by Lewis et al. in a 2020 paper titled
+"Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks". The paper proposed RAG as a method
+to combine the strengths of pre-trained language models with information retrieval.
+The core idea was to address the limitation of language models having static knowledge,
+frozen at the time of their training.
+
+The original RAG model had two main components: a retriever and a generator.
+The retriever, based on Dense Passage Retrieval (DPR), would find relevant documents from a large corpus
+like Wikipedia. The generator, a large language model like BART, would then use these documents
+to produce the final answer. This allowed the model to access and utilize up-to-date or domain-specific
+information without needing to be retrained. The approach showed significant improvements on several
+knowledge-intensive NLP benchmarks, such as Natural Questions and WebQuestions.

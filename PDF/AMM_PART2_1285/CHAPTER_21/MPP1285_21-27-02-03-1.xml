@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata id="MPP1285_21-27-02-03-1">
+	<file family="145" manual="AMM" pn="1285" chg="U" tsn="51" is_tr="false">
+		<title>AMM PART II-1285 - CHAPTER 21-27-02-03 - BAGGAGE-COMPARTMENT CHECK VALVES - SERVICING</title>
+		<path>/CHAPTER_21</path>
+		<hash>08300be82c9125c82713d5f38844e633</hash>
+	</file>
+	<pages>
+		<page number="1" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL BAGGAGE-COMPARTMENT CHECK VALVES - SERVICING EFFECTIVITY:  CLASS-C BAGGAGE COMPARTMENT 1. General A. This section gives the procedures to lubricate the baggage-compartment check valves. B. The procedures in this section are given in the sequence below. The tasks identified with ( ♦) are part of the Scheduled Maintenance Requirements Document (SMRD). TASK NUMBER DESCRIPTION EFFECTIVITY CLASS-C BAGGAGE BAGGAGE-COMPARTMENT CHECK 21-27-02-600-801-A ♦ COMPARTMENT VALVES - LUBRICATION   EMB-145  - AMM 1285 General 21-27-02 Page 1 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="2" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 21-27-02-600-801-A EFFECTIVITY:  CLASS-C BAGGAGE COMPARTMENT 2. BAGGAGE-COMPARTMENT CHECK VALVES - LUBRICATION A. General (1) This task gives the procedures to lubricate the two check valves of the baggage compartment. B. References REFERENCE DESIGNATION AMM MPP 06-41-01/100 - AMM TASK 21-27-01-000-801-A/400 BAGGAGE COMPARTMENT FAN - REMOVAL AMM TASK 21-27-01-400-801-A/400 BAGGAGE COMPARTMENT FAN - INSTALLATION BAGGAGE-COMPARTMENT CHECK VALVES - OP- AMM TASK 21-27-02-700-801-A/500 ERATIONAL CHECK C. Zones and Accesses ZONE PANEL/DOOR LOCATION 813 Rear fuselage I 272 272DR Rear fuselage I D. Tools and Equipment Not Applicable E. Auxiliary Items Not Applicable F. Consumable Materials SPECIFICATION DESCRIPTION QTY (BRAND) Molykote DC-33 Grease, light consistency AR G. Expandable Parts Not Applicable H. Persons Recommended QTY FUNCTION PLACE Aft electronic compartment and baggage 1 Does the task compartment EMB-145  - AMM 1285 600-801-A/300 21-27-02 Page 2 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="3" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL I. Preparation (Figure 301)  SUBTASK 841-002-A WARNING: • MAKE SURE THAT THE AIRCRAFT IS DEENERGIZED AND SAFE FOR MAINTENANCE. • ON THE CIRCUIT BREAKER PANEL, OPEN THE RECIRC FAN CIRCUIT BREAKER AND ATTACH A DO-NOT-CLOSE TAG TO IT. (1) Remove door 272DR (AMM MPP 06-41-01/100). (2) On the Aft Electronic Compartment, remove the Baggage Compartment Fan ( AMM TASK 21-27-01-000-801-A/400). Refer to sheet 1 of Figure 301. (3) On the Baggage Compartment, remove the guard assembly of the check valve. Refer to sheet 2 of Figure 301. J. Lubricate Baggage Compartment Check Valves (Figure 301)  SUBTASK 640-002-A (1) Lubricate the check valves with Molykote DC-33 light grease. K. Follow-on SUBTASK 842-002-A (1) Operationally Check Baggage Compartment Check Valves ( AMM TASK 21-27-02-700-801-A/500) to make sure that the check valves are free to move. (2) In the Aft Electronic Compartment, install the Baggage Compartment Fan ( AMM TASK 21-27-01-400-801-A/400). (3) In the Baggage Compartment, install the check valve guard assembly. (4) Install door 272DR (AMM MPP 06-41-01/100). (5) On the Circuit Breaker Panel, close the RECIRC FAN circuit breaker and remove the DO-NOT-CLOSE tag from it. EMB-145  - AMM 1285 600-801-A/300 21-27-02 Page 3 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="4" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: CLASS-C BAGGAGE COMPARTMENT Baggage-Compartment Check Valves - Lubrication  Figure 301 - Sheet 1 AFT PRESSURE BULKHEAD PARTITION (REF.) A B CHECK VALVE (REF.) DET. A  BAGGAGE  COMPARTMENT  FAN WASHER SCREW DC-33 LIGHT GREASE HDC 3315 DET. B  ELECTRICAL  CONNECTOR 145AMM210211.MCE C EMB-145  - AMM 1285 600-801-A/300 21-27-02 Page 4 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="5" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: CLASS-C BAGGAGE COMPARTMENT Baggage-Compartment Check Valves - Lubrication  Figure 301 - Sheet 2 A DET. A SCREW FORWARD BAGGAGE COMPARTMENT CHECK VALVE PARTITION BLOW-OUT PANEL GUARD ASSEMBLY B DC-33 LIGHT GREASE HDC 3315 DET. B 145AMM210212.MCE B EMB-145  - AMM 1285 600-801-A/300 21-27-02 Page 5 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="6" width="216.0" height="279.0">
+			<data/>
+		</page>
+	</pages>
+</metadata>

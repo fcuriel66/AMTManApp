@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata id="MPP1285_32-44-02-05-1">
+	<file family="145" manual="AMM" pn="1285" chg="U" tsn="51" is_tr="false">
+		<title>AMM PART II-1285 - CHAPTER 32-44-02-05 - HYDRAULIC ACCUMULATOR - ADJUSTMENT/TEST</title>
+		<path>/CHAPTER_32</path>
+		<hash>492f06e671e63a4fff32c166144b8b55</hash>
+	</file>
+	<pages>
+		<page number="1" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL HYDRAULIC ACCUMULATOR - ADJUSTMENT/TEST EFFECTIVITY:  ALL 1. General A. This section gives the procedure to do the check of the nitrogen precharge on the emergency/ parking-brake accumulator. B. The procedures in this section are given in the sequence below. The tasks identified with ( ♦) are part of the Scheduled Maintenance Requirements Document (SMRD). TASK NUMBER DESCRIPTION EFFECTIVITY EMERGENCY/PARKING BRAKE ACCU- ALL 32-44-02-700-801-A ♦ MULATOR - CHECK  EMERGENCY/PARKING BRAKE ACCU- ALL 32-44-02-700-802-A MULATOR - LEAKAGE TEST  EMB-145  - AMM 1285 General 32-44-02 Page 1 of 7 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="2" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 32-44-02-700-801-A EFFECTIVITY:  ALL 2. EMERGENCY/PARKING BRAKE ACCUMULATOR - CHECK A. General (1) The emergency/parking brake accumulator is installed in the hydraulic system-2 compartment. B. References REFERENCE DESIGNATION AMM MPP 06-41-01/100 - AMM TASK 10-10-01-500-801-A/200 AIRCRAFT NORMAL PARKING HYDRAULIC SYSTEM - PRESSURIZATION WITH AMM TASK 29-10-00-860-801-A/200 HTS EMERGENCY/PARKING BRAKE ACCUMULATOR - AMM TASK 32-44-02-600-801-A/300 CHARGE HYDRAULIC ACCUMULATOR EMERGENCY/PARK- AMM TASK 32-44-02-910-801-A/200 ING BRAKE - RELEASE FIM TASK 32-44-00-810-801-A - C. Zones and Accesses ZONE PANEL/DOOR LOCATION 193 193JR Hydraulic system-2 compartment D. Tools and Equipment Not Applicable E. Auxiliary Items Not Applicable F. Consumable Materials Not Applicable G. Expandable Parts Not Applicable H. Persons Recommended QTY FUNCTION PLACE Cockpit and hydraulic system-2 compart- 1 Does the task ment I. Preparation SUBTASK 841-002-A (1) Put chocks at the landing gear wheels ( AMM TASK 10-10-01-500-801-A/200). (2) Open access door 193JR (AMM MPP 06-41-01/100). EMB-145  - AMM 1285 700-801-A/500 32-44-02 Page 2 of 7 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="3" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL J. Functional Check of Hydraulic Accumulator for Nitrogen Precharge (Figure 501)  SUBTASK 720-002-A (1) Fully release the pressure from the fluid chamber of the hydraulic accumulator of the emergency/parking brake system ( AMM TASK 32-44-02-910-801-A/200). (2) Look to see that the EMERG BRK LO PRESS message is activated on the EICAS. (3) After a minimum of 3 (three) minutes, read the nitrogen pre-charge shown on the gage (1). NOTE: • The pressure to charge the accumulator at 21.1ÃÂ°C (70ÃÂ°F) is 2000 psi. To do the procedure at other ambient temperatures, refer to Figure 501. Pressure variation of ÃÂ± 50 PSI of reference pressure is permitted. • If abnormal pressure drop occurs or you think that there is nitrogen leakage, refer to FIM TASK 32-44-00-810-801-A. • If necessary, recharge the accumulator ( AMM TASK 32-44-02-600-801- A/300). K. Follow-on SUBTASK 842-002-A (1) Pressurize hydraulic system 2 ( AMM TASK 29-10-00-860-801-A/200) and make sure that the pressure on the pressure gage (1) is correct (2900 ÃÂ± 200 PSI). (2) Close access door 193JR (AMM MPP 06-41-01/100). EMB-145  - AMM 1285 700-801-A/500 32-44-02 Page 3 of 7 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="4" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: ALL Emergency/Parking Brake Accumulator - Check  Figure 501 A 1.   PRESSURE       GAGE DET. A 2500 2000 1500 1000 -60 -40 -20 0 20 40 60 TEMPERATURE (˚C) 145AMM320019.MCE C EMB-145  - AMM 1285 700-801-A/500 32-44-02 Page 4 of 7 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details. PRESSURE (PSI)</data>
+		</page>
+		<page number="5" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 32-44-02-700-802-A EFFECTIVITY:  ALL 3. EMERGENCY/PARKING BRAKE ACCUMULATOR - LEAKAGE TEST A. General (1) The emergency/parking brake accumulator is installed in the hydraulic system-2 compartment. B. References REFERENCE DESIGNATION AMM MPP 06-41-01/100 - AMM TASK 10-10-01-500-801-A/200 AIRCRAFT NORMAL PARKING C. Zones and Accesses ZONE PANEL/DOOR LOCATION 193 193JR Hydraulic system-2 compartment D. Tools and Equipment Not Applicable E. Auxiliary Items ITEM DESCRIPTION PURPOSE QTY Commercially Brush To apply the leak detector fluid 1 available F. Consumable Materials SPECIFICATION DESCRIPTION QTY (BRAND) MIL-L-25567 or equivalent LEAK TEC 160X leakage detector AR G. Expandable Parts Not Applicable H. Persons Recommended QTY FUNCTION PLACE Cockpit and hydraulic system-2 compart- 1 Does the task ment I. Preparation SUBTASK 841-003-A (1) Put chocks at the landing gear wheels ( AMM TASK 10-10-01-500-801-A/200). (2) Open access door 193JR (AMM MPP 06-41-01/100). EMB-145  - AMM 1285 700-802-A/500 32-44-02 Page 5 of 7 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="6" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL J. Gas Leakage Test of Hydraulic Accumulator (Figure 502)  SUBTASK 720-003-A (1) Use a brush to apply the leak detection fluid to the hydraulic accumulator and its connections and examine them for gas leakage. Refer to Figure 502. K. Follow-on SUBTASK 842-003-A (1) Close access door 193JR (AMM MPP 06-41-01/100). EMB-145  - AMM 1285 700-802-A/500 32-44-02 Page 6 of 7 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="7" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: ALL Emergency/Parking Brake Accumulator - Test for Leakage  Figure 502 A ZONE 193 DET. A 1 1 B 1 1 1 1 1 1 DET. B 1 APPLY LEAK DETECTION FLUID. EM145AMM320590A.DGN EMB-145  - AMM 1285 700-802-A/500 32-44-02 Page 7 of 7 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="8" width="216.0" height="279.0">
+			<data/>
+		</page>
+	</pages>
+</metadata>

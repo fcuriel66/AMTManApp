@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata id="MPP1285_53-04-01-02-1">
+	<file family="145" manual="AMM" pn="1285" chg="U" tsn="51" is_tr="false">
+		<title>AMM PART II-1285 - CHAPTER 53-04-01-02 - FORWARD WING-TO-FUSELAGE FAIRING - MAINTENANCE PRACTICES</title>
+		<path>/CHAPTER_53</path>
+		<hash>f8c094a4257eba1022b5d2a0a96b5e15</hash>
+	</file>
+	<pages>
+		<page number="1" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL FORWARD WING-TO-FUSELAGE FAIRING - MAINTENANCE PRACTICES EFFECTIVITY:  ALL 1. General A. This section gives the procedure to replace the cover assembly of the ECU-compartment access door assembly. B. The procedures in this section are given in the sequence below. The tasks identified with ( ♦) are part of the Scheduled Maintenance Requirements Document (SMRD). TASK NUMBER DESCRIPTION EFFECTIVITY COVER ASSEMBLY OF ECU-COMPART- ALL 53-04-01-960-801-A MENT ACCESS DOOR ASSEMBLY - RE-   PLACEMENT EMB-145  - AMM 1285 General 53-04-01 Page 1 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="2" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 53-04-01-960-801-A EFFECTIVITY:  ALL 2. COVER ASSEMBLY OF ECU-COMPARTMENT ACCESS DOOR ASSEMBLY - REPLACEMENT A. General (1) This task gives the procedure to replace the cover assembly of the ECU-compartment access door assembly. B. References REFERENCE DESIGNATION AMM MPP 06-41-01/100 - ELECTRICAL BONDING TEST - STANDARD PROCE- AMM TASK 20-13-21-700-801-A/200 DURES AMM TASK 28-41-00-200-801-A/600 - SRM 51-71-11-PR - C. Zones and Accesses ZONE PANEL/DOOR LOCATION Forward wing-to-fuselage attachment 191 191EL (LH side) area Forward wing-to-fuselage attachment 191 191FR (RH side) area D. Tools and Equipment Not Applicable E. Auxiliary Items ITEM DESCRIPTION PURPOSE QTY Commercially Protective Gloves For protection of technician's hands 1 available Commercially Safety Goggles For protection of technician's eyes 1 available F. Consumable Materials SPECIFICATION DESCRIPTION QTY (BRAND) ASTM D-740 Methyl Ethyl Ketone (MEK) AR Commercially available Aluminum-oxide abrasive sandpaper No. 200 AR Aluminum-oxide abrasive sandpaper No. 400, 500 and Commercially available AR 600 MEP 09-066 Adhesive, Epoxy, Type II AR G. Expandable Parts Not Applicable EMB-145  - AMM 1285 960-801-A/200 53-04-01 Page 2 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="3" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL H. Persons Recommended QTY FUNCTION PLACE 1 Do the task Forward wing-to-fuselage fairing I. Replacement of the Cover Assy (Figure 201)  SUBTASK 960-002-A (1) Remove the ECU-compartment access door assembly (AMM MPP 06-41-01/100) as applicable: • 191EL (LH side); • 191FR (RH side). (2) Remove and discard the damaged cover assembly. (a) Sand the surface with an aluminum-oxide abrasive sandpaper (grit No. 200) until the cover assembly is removed. (b) Sand the surface with a fine aluminum-oxide abrasive sandpaper (grit No. 400 or finer) until all the old Epoxy adhesive is removed. WARNING: BE CAREFUL WHEN YOU USE SOLVENTS BECAUSE THEY ARE A HEALTH AND FIRE HAZARD. USE SAFETY GOGGLES AND PROTECTIVE CLOTHING WHEN YOU HANDLE THEM. DO NOT BREATHE THEIR GASES AND WORK IN A WELL VENTILATED AREA. (3) With a cloth soaked in MEK, clean the surface. (4) Prepare Epoxy adhesive (SRM 51-71-11-PR) at 100 parts by weight (base resin - EA9320NA-A) and add to it curing agent (EA9320NA-B) at 19 parts by weight. (5) Apply type-II Epoxy adhesive to the faying surface of the ECU-compartment access door assembly (2). Refer toFigure 201; SECTION D-D. (6) Install the new cover assembly (3). Refer to Figure 201; SECTION D-D. (7) Cure the adhesive epoxy during the correct curing time (SRM 51-71-11-PR and MEP 09-066). (8) Do an inspection on the fuel-quantity indication harness (AMM TASK 28-41-00-200-801-A/600). NOTE: The inspection of the fuel-quantity indication harness is a part of the Critical Design Configuration Control Limitations (CDCCL) in the Airworthiness Limitations of the Aircraft Maintenance Program. (9) Install the ECU-compartment access door assembly as applicable (AMM MPP 06-41-01/100): • 191EL (LH side); • 191FR (RH side). EMB-145  - AMM 1285 960-801-A/200 53-04-01 Page 3 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="4" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL (10) Do the electrical-bonding test procedure as given in AMM TASK 20-13-21-700-801-A/ 200. (11) Do the procedure to put the aircraft back to initial condition. EMB-145  - AMM 1285 960-801-A/200 53-04-01 Page 4 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="5" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: ALL Replacement of the Cover Assembly of the ECU-Compartment Access Door Assembly  Figure 201 B A ZONE 191 B 2. ACCESS PANEL     191EL (LH SIDE)     191FR (RH SIDE) 1. FWD WING-TO-FUSELAGE DET. A     FAIRING 3. COVER ASSY C D DET. C D 17.5 (REF.) 10 DET. B (REF.) (TYPICAL) 12.8 1.2 (REF.) R 20.0 R 5.0 SECTION D-D EM145AMM530334A.DGN EMB-145  - AMM 1285 960-801-A/200 53-04-01 Page 5 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="6" width="216.0" height="279.0">
+			<data/>
+		</page>
+	</pages>
+</metadata>

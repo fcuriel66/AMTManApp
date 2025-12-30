@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata id="MPP1285_52-72-01-04-1">
+	<file family="145" manual="AMM" pn="1285" chg="U" tsn="51" is_tr="false">
+		<title>AMM PART II-1285 - CHAPTER 52-72-01-04 - COCKPIT UNDERFLOOR-ACCESS-HATCH WARNING MICROSWITCH - REMOVAL/INSTALLATION</title>
+		<path>/CHAPTER_52</path>
+		<hash>f85e1731a013659139acc2ea30ddcbb2</hash>
+	</file>
+	<pages>
+		<page number="1" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL COCKPIT UNDERFLOOR-ACCESS-HATCH WARNING MICROSWITCH - REMOVAL/INSTALLATION EFFECTIVITY:  ALL 1. General A. This section gives the procedures to remove and install the cockpit underfloor access-hatch warning microswitch. B. The procedures in this section are given in the sequence below. The tasks identified with ( ♦) are part of the Scheduled Maintenance Requirements Document (SMRD). TASK NUMBER DESCRIPTION EFFECTIVITY COCKPIT UNDERFLOOR ACCESS ALL 52-72-01-000-801-A HATCH WARNING MICROSWITCH - RE-   MOVAL COCKPIT UNDERFLOOR ACCESS ALL 52-72-01-400-801-A HATCH WARNING MICROSWITCH - IN-   STALLATION EMB-145  - AMM 1285 General 52-72-01 Page 1 of 6 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="2" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 52-72-01-000-801-A EFFECTIVITY:  ALL 2. COCKPIT UNDERFLOOR ACCESS HATCH WARNING MICROSWITCH - REMOVAL A. General (1) This task gives the procedures to remove the cockpit underfloor access hatch warning microswitch. B. References REFERENCE DESIGNATION COCKPIT UNDERFLOOR ACCESS HATCH - REMOV- AMM TASK 52-42-01-000-801-A/400 AL C. Zones and Accesses ZONE PANEL/DOOR LOCATION 123 123BL Area below the cockpit floor - LH D. Tools and Equipment Not Applicable E. Auxiliary Items Not Applicable F. Consumable Materials Not Applicable G. Expandable Parts Not Applicable H. Persons Recommended QTY FUNCTION PLACE 1 Does the task At the cockpit underfloor access hatch I. Preparation SUBTASK 841-002-A (1) On the circuit breaker panel, open the DOOR WARN circuit breaker below and attach a DO-NOT-CLOSE tag to it. (2) Remove the cockpit underfloor access hatch (AMM TASK 52-42-01-000-801-A/400). J. Removal (Figure 401)  SUBTASK 020-002-A (1) Disconnect the electrical connections of the microswitch (4). (2) Remove the nut (6), tab washer (2), washer (3), and nut (5) from the microswitch (4). EMB-145  - AMM 1285 000-801-A/400 52-72-01 Page 2 of 6 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="3" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL (3) Remove the microswitch (4) from the support (1). EMB-145  - AMM 1285 000-801-A/400 52-72-01 Page 3 of 6 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="4" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: ALL Warning Microswitch - Removal/Installation  Figure 401 B A ZONE 123 FWD DET. A 1.  MICROSWITCH      SUPPORT 2.  TAB WASHER 3.  WASHER 5.  NUT 4.  MICROSWITCH DET. B 6.  NUT 145AMM520153.MCE A EMB-145  - AMM 1285 000-801-A/400 52-72-01 Page 4 of 6 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="5" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 52-72-01-400-801-A EFFECTIVITY:  ALL 3. COCKPIT UNDERFLOOR ACCESS HATCH WARNING MICROSWITCH - INSTALLATION A. General (1) This task gives the procedures to install the warning microswitch of the cockpit underfloor access hatch. B. References REFERENCE DESIGNATION COCKPIT UNDERFLOOR ACCESS HATCH - INSTAL- AMM TASK 52-42-01-400-801-A/400 LATION COCKPIT UNDERFLOOR ACCESS HATCH WARN- AMM TASK 52-72-00-700-801-A/500 ING - OPERATIONAL CHECK C. Zones and Accesses ZONE PANEL/DOOR LOCATION 123 123BL Area below the cockpit floor - LH D. Tools and Equipment Not Applicable E. Auxiliary Items Not Applicable F. Consumable Materials SPECIFICATION DESCRIPTION QTY (BRAND) MS20995C Lockwire AR G. Expandable Parts Not Applicable H. Persons Recommended QTY FUNCTION PLACE 1 Does the task At the cockpit underfloor access hatch I. Installation (Figure 401)  SUBTASK 420-002-A (1) Install the nut (5), washer (3), and tab washer (2) on the microswitch (4). (2) Put the microswitch (4) on the support (1). (3) Install the nut (6) on the microswitch (4). EMB-145  - AMM 1285 400-801-A/400 52-72-01 Page 5 of 6 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="6" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL (4) Make the electrical connections of the microswitch (4). J. Follow-on SUBTASK 842-002-A (1) On the circuit breaker panel, close the DOOR WARN circuit breaker below and remove the DO-NOT-CLOSE tag from it. (2) Adjust and test the microswitch ( AMM TASK 52-72-00-700-801-A/500). (3) Tighten the nuts which attach the microswitch and lock them with the tab washer. (4) Install the lockwire. (5) Put the cockpit underfloor access hatch in position and close it (AMM TASK 52-42-01-400-801-A/400). EMB-145  - AMM 1285 400-801-A/400 52-72-01 Page 6 of 6 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+	</pages>
+</metadata>

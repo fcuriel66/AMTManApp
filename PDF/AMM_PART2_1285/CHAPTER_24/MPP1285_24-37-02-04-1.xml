@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata id="MPP1285_24-37-02-04-1">
+	<file family="145" manual="AMM" pn="1285" chg="U" tsn="51" is_tr="false">
+		<title>AMM PART II-1285 - CHAPTER 24-37-02-04 - CONFIG-1 - COCKPIT 12 V DC ELECTRICAL OUTLET - REMOVAL/INSTALLATION</title>
+		<path>/CHAPTER_24</path>
+		<hash>a04408153419f04cf41091db1b9a2e43</hash>
+	</file>
+	<pages>
+		<page number="1" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL COCKPIT 12 V DC ELECTRICAL OUTLET - REMOVAL/INSTALLATION EFFECTIVITY:  FOR AIRCRAFT WITH DC/DC POWER CONVERSION SYSTEM 1. General A. This section gives the procedures to remove and install the Cockpit 12 V DC Electrical Outlet. B. The procedures in this section are given in the sequence below. The tasks identified with ( ♦) are part of the Scheduled Maintenance Requirements Document (SMRD). TASK NUMBER DESCRIPTION EFFECTIVITY FOR AIRCRAFT WITH COCKPIT 12 V DC ELECTRICAL OUTLET DC/DC POWER CON- 24-37-02-000-801-A - REMOVAL VERSION SYSTEM   FOR AIRCRAFT WITH COCKPIT 12 V DC ELECTRICAL OUTLET DC/DC POWER CON- 24-37-02-400-801-A - INSTALLATION VERSION SYSTEM   EMB-145  - AMM 1285 General CONFIG-1 24-37-02 Page 1 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="2" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 24-37-02-000-801-A EFFECTIVITY:  FOR AIRCRAFT WITH DC/DC POWER CONVERSION SYSTEM 2. COCKPIT 12 V DC ELECTRICAL OUTLET - REMOVAL A. General (1) This task gives the procedures to remove the Cockpit 12 V DC Electrical Outlet. (2) The Cockpit 12 V DC Electrical Outlet is installed in the RH lateral console, in zone 224. B. Zones and Accesses ZONE PANEL/DOOR LOCATION 224 Cockpit RH C. Tools and Equipment Not Applicable D. Auxiliary Items Not Applicable E. Consumable Materials Not Applicable F. Expandable Parts Not Applicable G. Persons Recommended QTY FUNCTION PLACE 1 Does the task In the cockpit RH side H. Preparation SUBTASK 841-003-A (1) On the circuit breaker panel, open the Mobile Phone Charger circuit breaker and attach a DO-NOT-CLOSE tag to it. I. Removal (Figure 401)  SUBTASK 020-003-A (1) Remove the screws (3) and washers (2) that attach the Cockpit 12 V DC Electrical Outlet (4) to the RH lateral console. (2) Pull the Cockpit 12 V DC Electrical Outlet (4) from the RH lateral console and disconnect the splices (5). (3) Remove the Cockpit 12 V DC Electrical Outlet (4) from the RH lateral console. (4) Remove the support (1) from the Cockpit 12 V DC Electrical Outlet (4). (5) Put protection caps on the splices (5). EMB-145  - AMM 1285 000-801-A/400 CONFIG-1 24-37-02 Page 2 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="3" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: FOR AIRCRAFT WITH DC/DC POWER CONVERSION SYSTEM Cockpit 12 V DC Electrical Outlet - Removal/Installation  Figure 401 A RH LATERAL ZONE CONSOLE 224 B DET. A 1. SUPPORT 2. WASHER (2) 3. SCREW (2) 5. SPLICES 4. COCKPIT 12 VDC     ELECTRICAL OUTLET DET. B 145AMM240370.MCE EMB-145  - AMM 1285 000-801-A/400 CONFIG-1 24-37-02 Page 3 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="4" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 24-37-02-400-801-A EFFECTIVITY:  FOR AIRCRAFT WITH DC/DC POWER CONVERSION SYSTEM 3. COCKPIT 12 V DC ELECTRICAL OUTLET - INSTALLATION A. General (1) This task gives the procedures to install the Cockpit 12 V DC Electrical Outlet. (2) The Cockpit 12 V DC Electrical Outlet is installed in the RH lateral console, in zone 224. B. References REFERENCE DESIGNATION AMM TASK 24-37-00-700-801-A/500 - C. Zones and Accesses ZONE PANEL/DOOR LOCATION 224 Cockpit RH D. Tools and Equipment Not Applicable E. Auxiliary Items Not Applicable F. Consumable Materials Not Applicable G. Expandable Parts Not Applicable H. Persons Recommended QTY FUNCTION PLACE 1 Does the task In the cockpit RH side I. Installation (Figure 401)  SUBTASK 420-003-A (1) Remove the protection caps from the splices (5). (2) Put the support (1) on the Cockpit 12 V DC Electrical Outlet (4). (3) Connect the splices (5) and put the Cockpit 12 V DC Electrical Outlet (4) in its installation position on the RH lateral console. (4) Install the washers (2) and screws (3) that attach the Cockpit 12 V DC Electrical Outlet (4) to the RH lateral console. EMB-145  - AMM 1285 400-801-A/400 CONFIG-1 24-37-02 Page 4 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="5" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL J. Follow-on SUBTASK 842-003-A (1) On the circuit breaker panel, close the Mobile Phone Charger circuit breaker and remove the DO-NOT-CLOSE tag from it. (2) Do the DC/DC Power Conversion System - Functional Test (AMM TASK 24-37-00-700-801-A/500). EMB-145  - AMM 1285 400-801-A/400 CONFIG-1 24-37-02 Page 5 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="6" width="216.0" height="279.0">
+			<data/>
+		</page>
+	</pages>
+</metadata>

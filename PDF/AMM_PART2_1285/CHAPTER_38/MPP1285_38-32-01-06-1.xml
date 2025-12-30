@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata id="MPP1285_38-32-01-06-1">
+	<file family="145" manual="AMM" pn="1285" chg="U" tsn="51" is_tr="false">
+		<title>AMM PART II-1285 - CHAPTER 38-32-01-06 - TOILET UNIT - INSPECTION/CHECK</title>
+		<path>/CHAPTER_38</path>
+		<hash>2d2f4b3cf8459b744524f7bc5892eca9</hash>
+	</file>
+	<pages>
+		<page number="1" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TOILET UNIT - INSPECTION/CHECK EFFECTIVITY:  ALL 1. General A. This section gives the procedures to do the inspection/check of the drain valve. B. The procedures in this section are given in the sequence below. The tasks identified with ( ♦) are part of the Scheduled Maintenance Requirements Document (SMRD). TASK NUMBER DESCRIPTION EFFECTIVITY ALL 38-32-01-200-801-A DRAIN VALVE - CHECK   EMB-145  - AMM 1285 General 38-32-01 Page 1 of 4 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="2" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 38-32-01-200-801-A EFFECTIVITY:  ALL 2. DRAIN VALVE - CHECK A. General WARNING: • BE VERY CAREFUL NOT TO PERMIT THE LAVATORY FLUIDS TO TOUCH YOUR BODY DURING THE CHECK IN THE LAVATORY AREA. • PUT ON SAFETY GOGGLES. • PUT ON SAFETY GLOVES. • PUT ON SAFETY CLOTHES. (1) The function of this check is to verify if the drain valve is in good conditions of use. (2) The drain valve is installed in the lavatory and is part of the toilet assembly. B. References REFERENCE DESIGNATION AMM TASK 25-40-04-000-801-A/400 TOILET SHROUD ASSEMBLY - REMOVAL AMM TASK 25-40-04-400-801-A/400 TOILET SHROUD ASSEMBLY - INSTALLATION AMM TASK 38-30-00-600-801-A/300 - AMM TASK 38-30-00-600-802-A/300 - C. Zones and Accesses Not Applicable D. Tools and Equipment ITEM DESCRIPTION PURPOSE QTY Commercially Dynamometer   available E. Auxiliary Items Not Applicable F. Consumable Materials Not Applicable G. Expandable Parts Not Applicable H. Persons Recommended QTY FUNCTION PLACE 1 Does the task Toilet EMB-145  - AMM 1285 200-801-A/600 38-32-01 Page 2 of 4 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="3" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL I. Preparation SUBTASK 841-002-A (1) Make sure that the toilet unit is serviced (AMM TASK 38-30-00-600-801-A/300 or AMM TASK 38-30-00-600-802-A/300, as applicable) and empty. (2) On the overhead circuit breaker panel, open the FLUSH circuit breaker (Location tip: DC BUS 1/LAVATORY/FLUSH) and attach a DO-NOT-CLOSE tag to it. (3) Remove the toilet shroud assembly ( AMM TASK 25-40-04-000-801-A/400). J. Check - Drain Valve (Figure 601)  SUBTASK 220-002-A (1) Remove the toilet-unit drain-cable lower section. (2) Connect the dynamometer to the toilet-unit drain-cable upper section to do the measurement. (3) The force must not be more than 35 lbf to open the drain valve. If it is more than 35 lbf, do the procedures given in MONOGRAM SYSTEMS Component Maintenance Manual with Illustrated Parts List - "Toilet Assembly", Part Number PN 4620-81. K. Follow-on SUBTASK 842-002-A (1) Install the shroud assembly ( AMM TASK 25-40-04-400-801-A/400). (2) On the circuit breaker panel, remove the DO-NOT-CLOSE tag from the FLUSH circuit breaker (Location tip: DC BUS 1/LAVATORY/FLUSH) and close it. (3) Service the toilet-unit (AMM TASK 38-30-00-600-801-A/300 or AMM TASK 38-30-00-600-802-A/300, as applicable). EMB-145  - AMM 1285 200-801-A/600 38-32-01 Page 3 of 4 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="4" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: ALL Drain Valve  Figure 601 A ZONE 262 TOILET ASSEMBLY B DET A DRAIN VALVE TOILET-UNIT DRAIN-CABLE UPPER SECTION TOILET-UNIT DRAIN-CABLE LOWER SECTION VIEW B DYNAMOMETER EM145AMM380330B.DGN EMB-145  - AMM 1285 200-801-A/600 38-32-01 Page 4 of 4 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+	</pages>
+</metadata>

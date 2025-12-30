@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata id="MPP1285_21-23-05-04-1">
+	<file family="145" manual="AMM" pn="1285" chg="U" tsn="51" is_tr="false">
+		<title>AMM PART II-1285 - CHAPTER 21-23-05-04 - TOILET GASPER-HOSE FILTER - REMOVAL/INSTALLATION</title>
+		<path>/CHAPTER_21</path>
+		<hash>f686fb3e359b436888ee7a12e9ce7ad1</hash>
+	</file>
+	<pages>
+		<page number="1" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TOILET GASPER-HOSE FILTER - REMOVAL/INSTALLATION EFFECTIVITY:  AIRCRAFT WITH TOILET GASPER-HOSE FILTER INSTALLED 1. General A. This section gives the procedures for the removal/installation of the toilet gasper-hose filter. B. The toilet gasper-hose filter is installed at the toilet, behind of the amenity dispenser. C. The procedures in this section are given in the sequence below. The tasks identified with ( ♦) are part of the Scheduled Maintenance Requirements Document (SMRD). TASK NUMBER DESCRIPTION EFFECTIVITY AIRCRAFT WITH TOI- TOILET GASPER-HOSE FILTER - RE- LET GASPER-HOSE 21-23-05-000-801-A MOVAL FILTER INSTALLED   AIRCRAFT WITH TOI- TOILET GASPER-HOSE FILTER - INSTAL- LET GASPER-HOSE 21-23-05-400-801-A LATION FILTER INSTALLED   EMB-145  - AMM 1285 General 21-23-05 Page 1 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="2" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 21-23-05-000-801-A EFFECTIVITY:  AIRCRAFT WITH TOILET GASPER-HOSE FILTER INSTALLED 2. TOILET GASPER-HOSE FILTER - REMOVAL A. General (1) This task gives the procedures to remove the toilet gasper-hose filter. B. References REFERENCE DESIGNATION AMM TASK 25-40-01-000-801-A/400 - C. Zones and Accesses Not Applicable D. Tools and Equipment Not Applicable E. Auxiliary Items Not Applicable F. Consumable Materials Not Applicable G. Expandable Parts Not Applicable H. Persons Recommended QTY FUNCTION PLACE 1 Does the task In the toilet I. Preparation SUBTASK 841-002-A (1) On the overhead circuit breaker panel, open the GASPER FAN circuit breaker and attach a DO-NOT-CLOSE tag to it (Location tip: DC BUS 2 / AIR COND / PNEU). (2) Remove the mirror and the amenity dispenser. Refer to AMM TASK 25-40-01-000-801- A/400. J. Removal of the Toilet Gasper-Hose Filter (Figure 401)  SUBTASK 020-002-A (1) Release the clamps (2) of the conditioned air hoses (3). Refer to Figure 401 DET. B. (2) Remove the conditioned air hoses (3) of the toilet gasper-hose filter (1). Refer to Figure 401 DET. B. (3) Remove the toilet gasper-hose filter (1) of the support (ref.). Refer to Figure 401 DET. B. EMB-145  - AMM 1285 000-801-A/400 21-23-05 Page 2 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="3" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: AIRCRAFT WITH TOILET GASPER-HOSE FILTER INSTALLED Toilet Gasper - Hose Filter - Removal/Installation  Figure 401 B MIRROR (REF.) A ZONES 261 262 WATER TANK (REF.) AMENITY DET. A DISPENSER (REF.) SUPPORT (REF.) 1.  TOILET GASPER      HOSE FILTER 2. CLAMP DET. B 3.  HOSE 145AMM210628.MCE EMB-145  - AMM 1285 000-801-A/400 21-23-05 Page 3 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="4" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 21-23-05-400-801-A EFFECTIVITY:  AIRCRAFT WITH TOILET GASPER-HOSE FILTER INSTALLED 3. TOILET GASPER-HOSE FILTER - INSTALLATION A. General (1) This task gives the procedures to install the toilet gasper-hose filter. B. References REFERENCE DESIGNATION AMM TASK 25-40-01-400-801-A/400 - C. Zones and Accesses Not Applicable D. Tools and Equipment Not Applicable E. Auxiliary Items Not Applicable F. Consumable Materials Not Applicable G. Expandable Parts Not Applicable H. Persons Recommended QTY FUNCTION PLACE 1 Does the task In the Toilet I. Installation of the Toilet Gasper-Hose Filter (Figure 401)  SUBTASK 420-002-A CAUTION: TO PREVENT CONTAMINATION OF THE SYSTEM, BEFORE THE INSTALLATION, MAKE SURE THAT THERE ARE NO FOREIGN MATERIALS IN THE HOSES OR IN THE TOILET GASPER-HOSE FILTER. CAUTION: TO PREVENT MALFUNCTION OF THE TOILET GASPER-HOSE FILTER, SEE THE CORRECT AIRFLOW DIRECTION BEFORE THE FILTER INSTALLATION. (1) Install the toilet gasper-hose filter (1) at the support (ref.). Refer to (Figure 401) DET. B. (2) Install the conditioned air hoses (3) at the toilet gasper-hose filter (1). Refer to (Figure 401) DET. B. (3) Tighten the clamps (2) . Refer to (Figure 401) DET. B. EMB-145  - AMM 1285 400-801-A/400 21-23-05 Page 4 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="5" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL J. Follow-on SUBTASK 842-002-A (1) Install the amenity dispenser and the mirror. Refer to AMM TASK 25-40-01-400-801-A/ 400. (2) On the overhead circuit breaker panel, close the GASPER FAN circuit breaker and remove the DO-NOT-CLOSE tag. EMB-145  - AMM 1285 400-801-A/400 21-23-05 Page 5 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="6" width="216.0" height="279.0">
+			<data/>
+		</page>
+	</pages>
+</metadata>

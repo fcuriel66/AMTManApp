@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata id="MPP1285_34-22-02-04-1">
+	<file family="145" manual="AMM" pn="1285" chg="U" tsn="51" is_tr="false">
+		<title>AMM PART II-1285 - CHAPTER 34-22-02-04 - PFD/MFD BEZEL - REMOVAL/INSTALLATION</title>
+		<path>/CHAPTER_34</path>
+		<hash>5ef1aed5b041de2b2109ccd0461d816f</hash>
+	</file>
+	<pages>
+		<page number="1" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL PFD/MFD BEZEL - REMOVAL/INSTALLATION EFFECTIVITY:  ALL 1. General A. This section gives the procedures to remove and install the PFD/MFD BEZEL. B. The procedures in this section are given in the sequence below. The tasks identified with ( ♦) are part of the Scheduled Maintenance Requirements Document (SMRD). TASK NUMBER DESCRIPTION EFFECTIVITY ALL 34-22-02-000-801-A PFD/MFD BEZEL - REMOVAL   ALL 34-22-02-400-801-A PFD/MFD BEZEL - INSTALLATION   EMB-145  - AMM 1285 General 34-22-02 Page 1 of 4 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="2" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 34-22-02-000-801-A EFFECTIVITY:  ALL 2. PFD/MFD BEZEL - REMOVAL A. General (1) This procedure gives the instructions to remove the PFD/MFD BEZEL. B. Zones and Accesses Not Applicable C. Tools and Equipment Not Applicable D. Auxiliary Items Not Applicable E. Consumable Materials Not Applicable F. Expandable Parts Not Applicable G. Persons Recommended QTY FUNCTION PLACE 1 Does the task In the cockpit H. Preparation SUBTASK 841-002-A (1) On the circuit breaker panel, open the MFD/PFD circuit breaker and attach a DO-NOT- CLOSE tag to it. I. Removal (Figure 401)  SUBTASK 020-002-A (1) Remove the two screws (1). (2) Pull the PFD/MFD BEZEL (2), until it is disconnected from the connector. (3) Remove the PFD/MFD BEZEL (2). EMB-145  - AMM 1285 000-801-A/400 34-22-02 Page 2 of 4 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="3" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: ALL PFD/MFD BEZEL - Removal/Installation  Figure 401 A ZONES 223 224 B C C B DET. A 2.   MFD BEZEL 2.   PFD BEZEL DET. C DET. B 1.   SCREW (2) 1.   SCREW (2) 145AMM340147.MCE B EMB-145  - AMM 1285 000-801-A/400 34-22-02 Page 3 of 4 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="4" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 34-22-02-400-801-A EFFECTIVITY:  ALL 3. PFD/MFD BEZEL - INSTALLATION A. General (1) This procedure gives the instructions to install the PFD/MFD BEZEL. B. References REFERENCE DESIGNATION ELECTRONIC FLIGHT INSTRUMENT SYSTEM - OP- AMM TASK 34-22-00-700-801-A/500 ERATIONAL CHECK C. Zones and Accesses Not Applicable D. Tools and Equipment Not Applicable E. Auxiliary Items Not Applicable F. Consumable Materials Not Applicable G. Expandable Parts Not Applicable H. Persons Recommended QTY FUNCTION PLACE 1 Does the task In the cockpit I. Installation (Figure 401)  SUBTASK 420-002-A (1) Install the PFD/MFD BEZEL (2). (2) Push the PFD/MFD BEZEL (2), until it is connected to the connector. (3) Install the two screws (1). J. Follow-on SUBTASK 842-002-A (1) On the circuit breaker panel, close the PFD/MFD circuit breaker and remove the DO- NOT-CLOSE tag from it. (2) Do the EFIS OPERATIONAL CHECK ( AMM TASK 34-22-00-700-801-A/500). EMB-145  - AMM 1285 400-801-A/400 34-22-02 Page 4 of 4 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+	</pages>
+</metadata>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata id="MPP1285_23-60-00-05-1">
+	<file family="145" manual="AMM" pn="1285" chg="U" tsn="51" is_tr="false">
+		<title>AMM PART II-1285 - CHAPTER 23-60-00-05 - STATIC DISCHARGING - ADJUSTMENT/TEST</title>
+		<path>/CHAPTER_23</path>
+		<hash>5f1a403cb004a7bfe0f83ee29358aaaa</hash>
+	</file>
+	<pages>
+		<page number="1" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL STATIC DISCHARGING - ADJUSTMENT/TEST EFFECTIVITY:  ALL 1. General A. This section gives the procedures to do the functional check of the static dischargers installed on: • Ailerons, wing tips or winglets, rudder, horizontal stabilizer and vertical stabilizer rear fairing. • Nose landing gear. B. The procedures in this section are given in the sequence below. The tasks identified with ( ♦) are part of the Scheduled Maintenance Requirements Document (SMRD). TASK NUMBER DESCRIPTION EFFECTIVITY STATIC DISCHARGERS - FUNCTIONAL ALL 23-60-00-700-801-A ♦ CHECK  EMB-145  - AMM 1285 General 23-60-00 Page 1 of 7 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="2" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 23-60-00-700-801-A EFFECTIVITY:  ALL 2. STATIC DISCHARGERS - FUNCTIONAL CHECK A. General (1) This task gives the procedures to check the ohmic resistance value and electrical continuity of all static dischargers installed. B. References REFERENCE DESIGNATION AMM MPP 23-60-01/400 - REMOVAL/INSTALLATION ENERGIZATION OF THE AIRCRAFT WITH AN EX- AMM TASK 20-40-01-860-801-A/200 TERNAL POWER SOURCE AMM TASK 23-60-00-200-801-A/600 STATIC DISCHARGERS - VISUAL INSPECTION C. Zones and Accesses ZONE PANEL/DOOR LOCATION 561 LH Wing tip 573 LH Aileron 661 RH Wing tip 673 RH Aileron 327 Rudder 335 LH Horizontal stabilizer 336 RH Horizontal stabilizer 321 Vertical stabilizer rear fairing 711 Nose landing gear D. Tools and Equipment ITEM DESCRIPTION PURPOSE QTY GSE 036 Platform, hydraulic To get access to the task area  GSE 043 Test set, static discharger To measure the ohmic resistance  To examine the dischargers for electrical GSE 045 Milliohmmeter  continuity To measure AC/DC voltage, current, resist- GSE 050 Multimeter - Digital  ance, temperature, and frequency. E. Auxiliary Items Not Applicable F. Consumable Materials Not Applicable EMB-145  - AMM 1285 700-801-A/500 23-60-00 Page 2 of 7 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="3" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL G. Expandable Parts Not Applicable H. Persons Recommended QTY FUNCTION PLACE 1 Does the task On the structure I. Preparation SUBTASK 841-002-A (1) Put up the hydraulic platform at the necessary height. (2) Deenergize the aircraft ( AMM TASK 20-40-01-860-801-A/200). J. Functional Check of Static Dischargers (Figure 501)  (Figure 502)  (Figure 503)  SUBTASK 720-002-A (1) Do the check of the trailing edge dischargers as follows: (a) Connect the positive test lead of the megohmmeter (GSE 043) to the structure. (b) Connect the negative test lead of the megohmmeter (GSE 043), together with a piece of cotton soaked in water, to the static discharger tip. (c) Set the switch of the megohmmeter (GSE 043) to the green/red position. (d) Measure the ohmic resistance between the structure and the discharger tip. Result: 1 The ohmic resistance value read must be from 6 M Ω to 150 M Ω. (e) If the value is out of that range, with a multimeter (GSE 050) measure the ohmic resistance between the structure and the discharger base. Result: 1 The ohmic resistance value read must not be more than 3 M Ω. (f) If the value is 3 MΩ or higher, replace the static discharger base. (g) Repeat the step (d). (h) If the value is out of that range, replace the static discharger wick. (2) Do the check of the NLG discharger as follows: (a) Connect a test lead of the milliohmmeter (GSE 045) to the steel cable of the NLG discharger. (b) Connect the other test lead of the milliohmmeter (GSE 045) to the nose landing gear grounding point. (c) Do a check of the electrical continuity between the steel cable and the nose landing gear grounding point. Result: 1 The ohmic resistance value must not be greater than 100 m Ω. If the value is out of that range, do a visual inspection ( AMM TASK 23-60-00-200-801-A/ 600) or replace it ( AMM MPP 23-60-01/400). EMB-145  - AMM 1285 700-801-A/500 23-60-00 Page 3 of 7 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="4" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL K. Follow-on SUBTASK 842-002-A (1) Remove the hydraulic platform. EMB-145  - AMM 1285 700-801-A/500 23-60-00 Page 4 of 7 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="5" width="216.0" height="279.0">
+			<data>2 200 0 0.5 100 0.2 0.5 0.5 1 AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: ALL Trailing Edge Static Dischargers - Functional Check  Figure 501 ZONE 336 ZONE 321 ZONE ZONE 335 ZONE 661 673 ZONE 327 ZONE 573 WATER-SOAKED COTTON ZONE 561 COPPER SCREEN DISCHARGER STRUCTURE TIP 60 100 200 0.1 GREEN/RED POSITION 1 M STATIC DISCHARGER 200 TEST SET 2 (MEGOHMMETER) EM145AMM230083B.DGN EMB-145  - AMM 1285 700-801-A/500 23-60-00 Page 5 of 7 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details. 2 20 0.05 0.5 5 10 10 0.01 0 0</data>
+		</page>
+		<page number="6" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: ALL Static Dischargers Base - Functional Check  Figure 502 ZONE 336 ZONE 321 ZONE ZONE 335 ZONE 661 673 ZONE 327 ZONE 573 ZONE 561 STRUCTURE FLUKE 87 V TRUE RMS MULTIMETER COPPER SCREEN RANGE HOLD MIN MAX DISCHARGER REL Hz  PEAK MIN MAX BASE 4 1/2 DIGITS 1 Second -II- ... - m V V ... - m A ... - V A ~ ... - A ~ V ~ OFF V A mA  A COM 400 mA  FUSED 10A MAX CAT III DIGITAL MULTIMETER FUSED 1000 V EM145AMM231040B.DGN EMB-145  - AMM 1285 700-801-A/500 23-60-00 Page 6 of 7 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="7" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: ALL NLG Static Dischargers - Functional Check  Figure 503 EMB-145  - AMM 1285 700-801-A/500 23-60-00 Page 7 of 7 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="8" width="216.0" height="279.0">
+			<data/>
+		</page>
+	</pages>
+</metadata>

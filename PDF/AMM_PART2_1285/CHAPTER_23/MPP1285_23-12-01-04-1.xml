@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata id="MPP1285_23-12-01-04-1">
+	<file family="145" manual="AMM" pn="1285" chg="U" tsn="51" is_tr="false">
+		<title>AMM PART II-1285 - CHAPTER 23-12-01-04 - VHF-3 CONTROL PANEL - REMOVAL/INSTALLATION</title>
+		<path>/CHAPTER_23</path>
+		<hash>7a521550dfd5b08540f65c2f2079e8cf</hash>
+	</file>
+	<pages>
+		<page number="1" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL VHF-3 CONTROL PANEL - REMOVAL/INSTALLATION EFFECTIVITY:  AIRCRAFT WITH VHF-3 COLLINS 1. General A. This section gives the procedures to remove and install VHF-3 Control Panel CTL-22 or VHF/NAV 3 Control Panel CTL-23C (for aircraft under CATIIIa configuration). B. The procedures in this section are given in the sequence below. The tasks identified with ( ♦) are part of the Scheduled Maintenance Requirements Document (SMRD). TASK NUMBER DESCRIPTION EFFECTIVITY AIRCRAFT WITH VHF-3 23-12-01-000-801-A VHF-3 CONTROL PANEL - REMOVAL COLLINS   AIRCRAFT WITH VHF-3 23-12-01-400-801-A VHF-3 CONTROL PANEL - INSTALLATION COLLINS   EMB-145  - AMM 1285 General 23-12-01 Page 1 of 7 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="2" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 23-12-01-000-801-A EFFECTIVITY:  AIRCRAFT WITH VHF-3 COLLINS 2. VHF-3 CONTROL PANEL - REMOVAL A. General (1) This task gives the procedures to remove VHF-3 Control Panel CTL-22 or VHF/NAV 3 Control Panel CTL-23C (for aircraft under CATIIIa configuration). B. Zones and Accesses ZONE PANEL/DOOR LOCATION 223/224 Cockpit C. Tools and Equipment Not Applicable D. Auxiliary Items Not Applicable E. Consumable Materials Not Applicable F. Expandable Parts Not Applicable G. Persons Recommended QTY FUNCTION PLACE 1 Does the task In the cockpit H. Preparation SUBTASK 841-002-A (1) On the circuit breaker panel, open these circuit breakers and attach a DO-NOT- CLOSE tag to them. (a) VHF-3 (Location Tip: DC BUS 1/COMM). (b) VOR/ILS 3 (Location Tip: DC BUS 1/CATIII) - (Aircraft under CATIIIa configuration). I. Removal (Figure 401)  SUBTASK 020-002-A NOTE: Aircraft under the CATIIIa configuration are equipped with VHF/NAV 3 Control Panel. (1) Loosen and remove the three screws (1) which attach the VHF-3 (or VHF/NAV 3) Control Panel (2) to the main instrument panel. (2) Carefully pull the VHF-3 (or VHF/NAV 3) Control Panel (2) from its housing to get access to the electrical connector (3). EMB-145  - AMM 1285 000-801-A/400 23-12-01 Page 2 of 7 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="3" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL (3) Disconnect the electrical connector (3) from the VHF-3 (or VHF/NAV 3) Control Panel (2). (4) Remove the VHF-3 (or VHF/NAV 3) Control Panel (2). (5) Install protection caps on the electrical connector (3). EMB-145  - AMM 1285 000-801-A/400 23-12-01 Page 3 of 7 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="4" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: AIRCRAFT WITH VHF-3 COLLINS VHF-3 (or VHF/NAV 3) Control Panel - Removal/Installation  Figure 401 - Sheet 1 B B A ZONE 223 224 1 DET. A 2 DET. A 3. ELECTRICAL 1. SCREW ( 3 )  CONNECTOR     DET. B 2. VHF-3 (OR VHF/NAV3) C  CONTROL PANEL AIRCRAFT WITH VHF-3 CONTROL PANEL 1 INSTALLED ON CONTROL PEDESTAL AIRCRAFT WITH VHF-3 CONTROL PANEL 2 INSTALLED ON MAIN INSTRUMENT PANEL 145AMM230149.MCE B EMB-145  - AMM 1285 000-801-A/400 23-12-01 Page 4 of 7 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="5" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: AIRCRAFT WITH VHF-3 COLLINS VHF-3 (or VHF/NAV 3) Control Panel - Removal/Installation  Figure 401 - Sheet 2 Collins A XFR C T MEM TX MEM COM SQ ON OFF STO OFF TEST ACT DET. C VHF-3 CONTROL PANEL Collins COM C O M N A V TX NAV SQ ON OFF STBY OFF DET. C VHF/NAV3 CONTROL PANEL (AIRCRAFT UNDER CATIIIa CONFIGURATION) 145AMM230244.MCE EMB-145  - AMM 1285 000-801-A/400 23-12-01 Page 5 of 7 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details. V V</data>
+		</page>
+		<page number="6" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 23-12-01-400-801-A EFFECTIVITY:  AIRCRAFT WITH VHF-3 COLLINS 3. VHF-3 CONTROL PANEL - INSTALLATION A. General (1) This task gives the procedures to install VHF-3 Control Panel CTL-22 or VHF/NAV 3 Control Panel CTL-23C (for aircraft under CATIIIa configuration). B. References REFERENCE DESIGNATION AMM TASK 23-12-00-700-803-A/500 VHF-3 - OPERATIONAL TEST AMM TASK 23-12-00-700-804-A/500 VHF-3 (CATIIIA) - OPERATIONAL TEST C. Zones and Accesses ZONE PANEL/DOOR LOCATION 223/224 Cockpit D. Tools and Equipment Not Applicable E. Auxiliary Items Not Applicable F. Consumable Materials Not Applicable G. Expandable Parts Not Applicable H. Persons Recommended QTY FUNCTION PLACE 1 Does the task In the cockpit I. Installation (Figure 401)  SUBTASK 420-002-A NOTE: Aircraft under the CATIIIa configuration are equipped with VHF/NAV 3 Control Panel. (1) Remove the protection caps from the electrical connector (3). (2) Hold the VHF-3 (or VHF/NAV 3) Control Panel (2) and connect the electrical connector (3). (3) Carefully install the VHF-3 (or VHF/NAV 3) Control Panel (2) in its installation position. (4) Install and tighten the three screws (1). EMB-145  - AMM 1285 400-801-A/400 23-12-01 Page 6 of 7 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="7" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL J. Follow-on SUBTASK 842-002-A (1) On the circuit breaker panel, close these circuit breakers and remove the DO-NOT- CLOSE tag from them: (a) VHF-3 (Location Tip: DC BUS 1/COMM). (b) VOR/ILS 3 (Location Tip: DC BUS 1/CATIII) - (Aircraft under CATIIIa configuration). (2) Do the VHF-3 Operational Test ( AMM TASK 23-12-00-700-803-A/500), or (AMM TASK 23-12-00-700-804-A/500) for aircraft under the CATIIIa configuration. EMB-145  - AMM 1285 400-801-A/400 23-12-01 Page 7 of 7 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="8" width="216.0" height="279.0">
+			<data/>
+		</page>
+	</pages>
+</metadata>

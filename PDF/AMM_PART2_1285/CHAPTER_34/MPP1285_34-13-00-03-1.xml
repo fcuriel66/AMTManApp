@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata id="MPP1285_34-13-00-03-1">
+	<file family="145" manual="AMM" pn="1285" chg="R" tsn="53" is_tr="false">
+		<title>AMM PART II-1285 - CHAPTER 34-13-00-03 - PITOT-STATIC SYSTEM - SERVICING</title>
+		<path>/CHAPTER_34</path>
+		<hash>ad8878061787f359d00bd1c59d0df291</hash>
+	</file>
+	<pages>
+		<page number="1" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL PITOT-STATIC SYSTEM - SERVICING EFFECTIVITY: ALL 1. General A. This section gives the procedures to drain the pitot lines. B. The procedures in this section are given in the sequence below. The tasks identified with ( ♦) are part of the Scheduled Maintenance Requirements Document (SMRD). TASK NUMBER DESCRIPTION EFFECTIVITY ALL 34-13-00-680-801-A ♦ PITOT-STATIC SYSTEM - DRAIN   EMB-145  - AMM 1285 General 34-13-00 Page 1 of 6 Rev 48 - Oct 30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="2" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 34-13-00-680-801-A EFFECTIVITY: ALL 2. PITOT-STATIC SYSTEM - DRAIN A. General (1) The pitot lines have two drain points: in the nose-landing-gear compartment (PRE-MOD S.B. 145-34-0070) or in the electronic compartment (POST-MOD S.B. 145-34-0070). B. References REFERENCE DESIGNATION AMM MPP 06-41-01/100 - AMM TASK 34-13-00-790-802-A/500 PITOT-STATIC SYSTEM 1 - LEAKAGE TEST AMM TASK 34-13-00-790-803-A/500 PITOT-STATIC SYSTEM 2 - LEAKAGE TEST S.B.145-34-0021 - S.B.145-34-0070 - C. Zones and Accesses ZONE PANEL/DOOR LOCATION 113 LH Nose-landing-gear compartment 114 RH Nose-landing-gear compartment 213 113CZ Electronic compartment - LH upper side 214 113CZ Electronic compartment - RH upper side D. Tools and Equipment Not Applicable E. Auxiliary Items Not Applicable F. Consumable Materials Not Applicable G. Expandable Parts Not Applicable H. Persons Recommended QTY FUNCTION PLACE Nose-landing-gear compartment or Elec- 1 Does the task tronic compartment I. Preparation SUBTASK 841-002-A (1) Make sure that the nose-landing-gear safety pin is installed. EMB-145  - AMM 1285 680-801-A/300 34-13-00 Page 2 of 6 Rev 53 - Oct 31/17 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="3" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL (2) (POST-MOD S.B.145-34-0070) Open access door 113CZ (AMM MPP 06-41-01/100). J. Drain Pitot Lines (Figure 301)  (Figure 302)  (Figure 303)  SUBTASK 680-002-A (1) NOTE: Do this test only with the ambient temperature above zero degrees Celsius. (2) (PRE-MOD S.B.145-34-0021 and PRE-MOD S.B. 145-34-0070) Drain the pitot lines as follows: (a) Loosen the nuts of the left and right drains. (b) Drain the pitot lines. (c) Attach the nuts. (3) (POST-MOD S.B.145-34-0021 and PRE-MOD S.B. 145-34-0070) Drain the pitot lines as follows: (a) Push and turn the quick-disconnect drain-port cover counterclockwise. (b) Install and push the drain-port cover pin into the drain port until there is no water in the clear PVC hose. (c) Install the quick-disconnect drain-port cover. (4) (POST-MOD S.B.145-34-0070) Drain the pitot lines as follows: (a) Loose the two Dzus fasteners. (b) Put the drain outside the electronic compartment. (c) Push and turn the quick-disconnect drain-port cover counterclockwise. (d) Install and push the drain-port cover pin into the drain port until there is no water in the clear PVC hose. (e) Install the quick-disconnect drain-port cover. (f) Put the drain in position. CAUTION:IT IS IMPORTANT THAT THE TWO DZUS FASTENERS ARE TIGHTENED TO PREVENT DAMAGE TO THE SYSTEM. (g) Tighten the two Dzus fasteners. K. Follow-on SUBTASK 842-002-A (1) (PRE-MOD S.B.145-34-0021) Do the Pitot/static System 1 leakage test ( AMM TASK 34-13-00-790-802-A/500) for the system 1 drain or the Pitot/static System 2 leakage test ( AMM TASK 34-13-00-790-803-A/500) for the system 2 drain. (2) (POST-MOD S.B.145-34-0070) Close access door 113CZ (AMM MPP 06-41-01/100). EMB-145  - AMM 1285 680-801-A/300 34-13-00 Page 3 of 6 Rev 53 - Oct 31/17 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="4" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: PRE-MOD S.B. 145-34-0021 Draining of the Pitot Lines  Figure 301 A ZONES 113 114 DRAIN DRAIN DET.A 145AMM340016.MCE B EMB-145  - AMM 1285 680-801-A/300 34-13-00 Page 4 of 6 Rev 53 - Oct 31/17 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="5" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: POST-MOD S.B. 145-34-0021 AND PRE-MOD S.B. 145-34-0070 Draining of the Pitot Lines  Figure 302 B A ZONES 113 114 DET. A DRAIN DET. B 145AMM340308.MCE EMB-145  - AMM 1285 680-801-A/300 34-13-00 Page 5 of 6 Rev 53 - Oct 31/17 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="6" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: POST-MOD S.B. 145-34-0070 Draining of the Pitot Lines  Figure 303 A ZONES 113 114 DZUS B DET. A VIEW B (TYPICAL) DRAIN 145AMM340770.MCE EMB-145  - AMM 1285 680-801-A/300 34-13-00 Page 6 of 6 Rev 53 - Oct 31/17 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+	</pages>
+</metadata>

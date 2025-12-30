@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata id="MPP1285_34-23-04-04-1">
+	<file family="145" manual="AMM" pn="1285" chg="U" tsn="51" is_tr="false">
+		<title>AMM PART II-1285 - CHAPTER 34-23-04-04 - HGS COMBINER - REMOVAL/INSTALLATION</title>
+		<path>/CHAPTER_34</path>
+		<hash>09f17ecfd56cbc31d1112e21efe27d35</hash>
+	</file>
+	<pages>
+		<page number="1" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL HGS COMBINER - REMOVAL/INSTALLATION EFFECTIVITY:  AIRCRAFT WITH HEAD-UP GUIDANCE SYSTEM 1. General A. This section gives the procedure to remove/install the HGS Combiner. B. The HGS Combiner is installed in the cockpit. C. The procedures in this section are given in the sequence below. The tasks identified with ( ♦) are part of the Scheduled Maintenance Requirements Document (SMRD). TASK NUMBER DESCRIPTION EFFECTIVITY AIRCRAFT WITH HEAD-UP GUIDANCE 34-23-04-000-801-A HGS COMBINER - REMOVAL SYSTEM   AIRCRAFT WITH HEAD-UP GUIDANCE 34-23-04-400-801-A HGS COMBINER - INSTALLATION SYSTEM   EMB-145  - AMM 1285 General 34-23-04 Page 1 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="2" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 34-23-04-000-801-A EFFECTIVITY:  AIRCRAFT WITH HEAD-UP GUIDANCE SYSTEM 2. HGS COMBINER - REMOVAL A. General (1) This task gives the procedure to remove the HGS Combiner. B. Zones and Accesses Not Applicable C. Tools and Equipment Not Applicable D. Auxiliary Items Not Applicable E. Consumable Materials Not Applicable F. Expandable Parts Not Applicable G. Persons Recommended QTY FUNCTION PLACE 1 Does the task Cockpit H. Preparation SUBTASK 841-002-A (1) On the circuit breaker panel, open the OHU circuit breaker and attach a DO-NOT- CLOSE tag to it. I. Removal (Figure 401)  SUBTASK 020-002-A (1) Remove the three screws (3) that attach the combiner connector cover (2) to the windshield upper lining. (2) Remove the combiner connector cover (2). (3) Disconnect the electrical connector (1) from the HGS Combiner (5). (4) Release the three captive screws (4). (5) Remove the HGS Combiner (5). EMB-145  - AMM 1285 000-801-A/400 34-23-04 Page 2 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="3" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: AIRCRAFT WITH HEAD-UP GUIDANCE SYSTEM HGS Combiner - Removal/Installation  Figure 401 A 1. ELECTRICAL     CONNECTOR 2. COMBINER     CONNECTOR     COVER 3. SCREW (3) 4. CAPTIVE     SCREW (3) DET. A 5. HGS COMBINER 145AMM340442.MCE EMB-145  - AMM 1285 000-801-A/400 34-23-04 Page 3 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details. RELEASE AUTO MAN HUD BRT RELEASE AUTO HUD MAN BRT</data>
+		</page>
+		<page number="4" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 34-23-04-400-801-A EFFECTIVITY:  AIRCRAFT WITH HEAD-UP GUIDANCE SYSTEM 3. HGS COMBINER - INSTALLATION A. General (1) This task gives the procedure to install the HGS Combiner. B. References REFERENCE DESIGNATION HEAD-UP GUIDANCE SYSTEM (HGS) - OPERATION- AMM TASK 34-23-00-700-801-A/500 AL TEST C. Zones and Accesses Not Applicable D. Tools and Equipment Not Applicable E. Auxiliary Items Not Applicable F. Consumable Materials Not Applicable G. Expandable Parts Not Applicable H. Persons Recommended QTY FUNCTION PLACE 1 Does the task Cockpit I. Installation (Figure 401)  SUBTASK 420-002-A (1) Put the HGS Combiner (5) in its installation position. (2) Tighten the three captive screws (4). (3) Connect the electrical connector (1) to the HGS combiner (5). (4) Put the combiner connector cover (2) in its installation position. (5) Tighten the three screws (3) that attach the combiner connector cover (2) to the windshield upper lining. J. Follow-on SUBTASK 842-002-A (1) On the circuit breaker panel, close the OHU circuit breaker and remove the DO-NOT- CLOSE tag from it. EMB-145  - AMM 1285 400-801-A/400 34-23-04 Page 4 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="5" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL (2) Do the HGS operational test (AMM TASK 34-23-00-700-801-A/500). EMB-145  - AMM 1285 400-801-A/400 34-23-04 Page 5 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="6" width="216.0" height="279.0">
+			<data/>
+		</page>
+	</pages>
+</metadata>

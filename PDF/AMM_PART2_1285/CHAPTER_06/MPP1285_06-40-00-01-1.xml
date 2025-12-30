@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata id="MPP1285_06-40-00-01-1">
+	<file family="145" manual="AMM" pn="1285" chg="U" tsn="51" is_tr="false">
+		<title>AMM PART II-1285 - CHAPTER 06-40-00-01 - ACCESS DOORS AND PANELS - COMPONENT LOCATION</title>
+		<path>/CHAPTER_06</path>
+		<hash>da915ed647d536ade9c08d8eeb11c2a2</hash>
+	</file>
+	<pages>
+		<page number="1" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL ACCESS DOORS AND PANELS - COMPONENT LOCATION EFFECTIVITY:  ALL 1. General A. The access doors and panels in a zone are identified by an alphanumeric system which has three digits. They identify the zone where the access door or panel is, followed by a two-letter or three- letter suffix. (1) The first letter identifies a sequence which starts with the letter A. (2) The second letter shows the location of each access door or panel in relation to the aircraft as follows: Table 101 B Bottom T Top L Left R Right Z Inboard (3) An optional third letter is used to identify the floor, wall or ceiling panels as follows: Table 102 F Floor Panel W Sidewall lining panel C Ceiling lining panel (4) Each panel gets a fastener identification code, which identifies the type and quantity of the fasteners for each panel. Table 103 Fastener Identification Code L Latch S Screw C Camloc D Dual Lock EMB-145  - AMM 1285 General 06-40-00 Page 1 of 1 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="2" width="216.0" height="279.0">
+			<data/>
+		</page>
+	</pages>
+</metadata>

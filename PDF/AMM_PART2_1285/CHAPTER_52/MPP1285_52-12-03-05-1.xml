@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata id="MPP1285_52-12-03-05-1">
+	<file family="145" manual="AMM" pn="1285" chg="U" tsn="51" is_tr="false">
+		<title>AMM PART II-1285 - CHAPTER 52-12-03-05 - MAIN-DOOR ACTUATION-SYSTEM PRESSURE SWITCH - ADJUSTMENT/TEST</title>
+		<path>/CHAPTER_52</path>
+		<hash>34a69ec09695b025fee11eb19df6443f</hash>
+	</file>
+	<pages>
+		<page number="1" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL MAIN-DOOR ACTUATION-SYSTEM PRESSURE SWITCH - ADJUSTMENT/TEST EFFECTIVITY:  AIRCRAFT WITH AIRSTAIRS DOOR 1. General A. The pressure switch sends a signal to the light of the main-door internal control panel, when the pressure in the actuator hydraulic lines is more than 2150 psi. B. The procedures in this section are given in the sequence below. The tasks identified with ( ♦) are part of the Scheduled Maintenance Requirements Document (SMRD). TASK NUMBER DESCRIPTION EFFECTIVITY AIRCRAFT WITH AIR- MAIN-DOOR ACTUATION-SYSTEM PRES- 52-12-03-700-801-A STAIRS DOOR SURE SWITCH - OPERATIONAL TEST   EMB-145  - AMM 1285 General 52-12-03 Page 1 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="2" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 52-12-03-700-801-A EFFECTIVITY:  AIRCRAFT WITH AIRSTAIRS DOOR 2. MAIN-DOOR ACTUATION-SYSTEM PRESSURE SWITCH - OPERATIONAL TEST A. General (1) This task gives the procedure to make sure that the pressure switch sends a signal to the light of the main-door internal control panel. B. References REFERENCE DESIGNATION AMM MPP 06-41-02/100 - ENERGIZATION OF THE AIRCRAFT WITH AN EX- AMM TASK 20-40-01-860-801-A/200 TERNAL POWER SOURCE C. Zones and Accesses ZONE PANEL/DOOR LOCATION 231 231CF Cockpit floor D. Tools and Equipment Not Applicable E. Auxiliary Items Not Applicable F. Consumable Materials Not Applicable G. Expandable Parts Not Applicable H. Persons Recommended QTY FUNCTION PLACE 1 Does the task Main-door internal control panel I. Preparation SUBTASK 841-002-A (1) Make sure that the aircraft is deenergized ( AMM TASK 20-40-01-860-801-A/200. J. Test of the Pressure Switch (Figure 501)  SUBTASK 710-002-A (1) Open the main door. (2) Remove floor panel 231CF (AMM MPP 06-41-02/100). (3) Disconnect connector 1J7205 and put a jumper between pins A and C. EMB-145  - AMM 1285 700-801-A/500 52-12-03 Page 2 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="3" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL (4) Energize the aircraft ( AMM TASK 20-40-01-860-801-A/200). (5) On the HYD panel, set the SYS 1 ELECT PUMP switch to the ON position. (6) On the hydraulic compartment, make sure that the SYS 1 hydraulic accumulator is charged. (7) On the HYD panel, set the SYS 1 ELECT PUMP switch to the OFF position. (8) Push the CLOSE button of the internal control panel to close the main door. (a) Make sure that the BLOCKED light of the main-door internal control panel comes on. NOTE: • That means that the set point of the solenoid valve pressure switch is more than 2150 psi. • It is possible that, during the door closure operation, the BLOCKED lights comes on 2 seconds, approximately. This is a normal condition. (9) Open the door. (10) Remove the jumper from connector 1J7205 and install the connector. (11) Close floor panel 231CF. K. Follow-on SUBTASK 842-002-A (1) Deenergize the aircraft ( AMM TASK 20-40-01-860-801-A/200. EMB-145  - AMM 1285 700-801-A/500 52-12-03 Page 3 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="4" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: AIRCRAFT WITH AIRSTAIRS DOOR Pressure Switch - Operational Test  Figure 501 - Sheet 1 B A ZONE 231 DET. A DOOR BLOCKED INTERNAL MAIN DOOR CONTROL PANEL CLOSE DET. B 145AMM520081.MCE C EMB-145  - AMM 1285 700-801-A/500 52-12-03 Page 4 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="5" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: AIRCRAFT WITH AIRSTAIRS DOOR Pressure Switch - Operational Test  Figure 501 - Sheet 2 A ZONE 131 B MICROSWITCH S7257 ELECTRICAL  DET. A CONNECTOR 1J7205 DET. B EM145AMM520800A.DGN EMB-145  - AMM 1285 700-801-A/500 52-12-03 Page 5 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="6" width="216.0" height="279.0">
+			<data/>
+		</page>
+	</pages>
+</metadata>

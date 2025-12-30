@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata id="MPP1285_31-31-08-04-1">
+	<file family="145" manual="AMM" pn="1285" chg="U" tsn="51" is_tr="false">
+		<title>AMM PART II-1285 - CHAPTER 31-31-08-04 - AMPLIFIER/ANALOG-TO-DIGITAL CONVERTER - REMOVAL/INSTALLATION</title>
+		<path>/CHAPTER_31</path>
+		<hash>b74ebab959a83497a46e7809357534da</hash>
+	</file>
+	<pages>
+		<page number="1" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL AMPLIFIER/ANALOG-TO-DIGITAL CONVERTER - REMOVAL/INSTALLATION EFFECTIVITY:  AIRCRAFT WITH LOAD CELLS 1. General A. This section gives the procedures to remove and install the Amplifier/Analog-to-Digital Converter. B. The procedures in this section are given in the sequence below. The tasks identified with ( ♦) are part of the Scheduled Maintenance Requirements Document (SMRD). TASK NUMBER DESCRIPTION EFFECTIVITY AIRCRAFT WITH LOAD AMPLIFIER/ANALOG-TO-DIGITAL CON- 31-31-08-000-801-A CELLS VERTER - REMOVAL   AIRCRAFT WITH LOAD AMPLIFIER/ANALOG-TO-DIGITAL CON- 31-31-08-400-801-A CELLS VERTER - INSTALLATION   EMB-145  - AMM 1285 General 31-31-08 Page 1 of 6 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="2" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 31-31-08-000-801-A EFFECTIVITY:  AIRCRAFT WITH LOAD CELLS 2. AMPLIFIER/ANALOG-TO-DIGITAL CONVERTER - REMOVAL A. General (1) This task gives the procedure to remove the Amplifier/Analog-to-Digital Converter. B. References REFERENCE DESIGNATION AMM MPP 06-41-01/100 - AMM TASK 32-00-01-910-801-A/200 LG SAFETY PIN - INSTALLATION AND REMOVAL C. Zones and Accesses ZONE PANEL/DOOR LOCATION 123 123BL Below the cockpit floor D. Tools and Equipment Not Applicable E. Auxiliary Items Not Applicable F. Consumable Materials Not Applicable G. Expandable Parts Not Applicable H. Persons Recommended QTY FUNCTION PLACE 1 Does the task Below the cockpit floor I. Preparation SUBTASK 841-002-A (1) On the circuit breaker panel, open the LOAD CELLS circuit breaker and attach a DO- NOT-CLOSE tag to it. (2) Make sure that the landing gear safety pin is installed to the NLG ( AMM TASK 32-00-01-910-801-A/200). (3) Open access door 123BL (AMM MPP 06-41-01/100). J. Removal (Figure 401)  SUBTASK 020-002-A (1) Disconnect the electrical connectors (1). EMB-145  - AMM 1285 000-801-A/400 31-31-08 Page 2 of 6 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="3" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL (2) Remove the screws (3) and washers (4) that attach the Amplifier/Analog-to-Digital Converter (2) to the support (5). (3) Remove the Amplifier/Analog-to-Digital Converter (2). EMB-145  - AMM 1285 000-801-A/400 31-31-08 Page 3 of 6 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="4" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: AIRCRAFT WITH LOAD CELLS Amplifier/Analog-to-Digital Converter - Removal/Installation  Figure 401 A ZONES 123 1. ELECTRICAL     CONNECTOR (2) 2. AMPLIFIER/ANALOG-     TO-DIGITAL CONVERTER 3. SCREW (4) 4. WASHER (4) 5. SUPPORT DET. A 145AMM310334.MCE EMB-145  - AMM 1285 000-801-A/400 31-31-08 Page 4 of 6 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="5" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 31-31-08-400-801-A EFFECTIVITY:  AIRCRAFT WITH LOAD CELLS 3. AMPLIFIER/ANALOG-TO-DIGITAL CONVERTER - INSTALLATION A. General (1) This task gives the procedure to install the Amplifier/Analog-to-Digital Converter. B. References REFERENCE DESIGNATION AMM MPP 06-41-01/100 - C. Zones and Accesses ZONE PANEL/DOOR LOCATION 123 123BL Below the cockpit floor D. Tools and Equipment Not Applicable E. Auxiliary Items Not Applicable F. Consumable Materials Not Applicable G. Expandable Parts Not Applicable H. Persons Recommended QTY FUNCTION PLACE 1 Does the task Below the cockpit floor I. Installation (Figure 401)  SUBTASK 420-002-A (1) Install the Amplifier/Analog-to-Digital Converter (2) on the support (5). (2) Install the screws (3) and washers (4) to attach the Amplifier/Analog-to-Digital Converter (2) to the support (5). (3) Connect the electrical connectors (1). J. Follow-on SUBTASK 842-002-A (1) On the circuit breaker panel, close the LOAD CELLS circuit breaker and remove the DO-NOT-CLOSE tag from it. NOTE: There is a lamp on the front panel of the Amplifier/Analog-to-Digital Converter that flashes in the energization procedure and goes off. If this lamp stays on, EMB-145  - AMM 1285 400-801-A/400 31-31-08 Page 5 of 6 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="6" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL there is a failure in the system (Amplifier/Analog-to-Digital Converter or Load Cells). (2) Close access door 123BL (AMM MPP 06-41-01/100). EMB-145  - AMM 1285 400-801-A/400 31-31-08 Page 6 of 6 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+	</pages>
+</metadata>

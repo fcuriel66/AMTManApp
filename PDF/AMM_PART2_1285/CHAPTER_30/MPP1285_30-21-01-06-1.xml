@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata id="MPP1285_30-21-01-06-1">
+	<file family="145" manual="AMM" pn="1285" chg="U" tsn="51" is_tr="false">
+		<title>AMM PART II-1285 - CHAPTER 30-21-01-06 - ENGINE ANTI-ICING VALVE - INSPECTION/CHECK</title>
+		<path>/CHAPTER_30</path>
+		<hash>7a87dfabd2f0f4ac2233b710c3fea4fe</hash>
+	</file>
+	<pages>
+		<page number="1" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL ENGINE ANTI-ICING VALVE - INSPECTION/CHECK EFFECTIVITY:  ALL 1. General A. This section gives the procedures to do an inspection on the engine anti-icing valve. B. The procedures in this section are given in the sequence below. The tasks identified with ( ♦) are part of the Scheduled Maintenance Requirements Document (SMRD). TASK NUMBER DESCRIPTION EFFECTIVITY ENGINE ANTI-ICING VALVE - INSPEC- ALL 30-21-01-200-801-A TION/CHECK  EMB-145  - AMM 1285 General 30-21-01 Page 1 of 4 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="2" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 30-21-01-200-801-A EFFECTIVITY:  ALL 2. ENGINE ANTI-ICING VALVE - INSPECTION/CHECK A. General (1) This procedure gives the instructions to do an inspection on the engine anti-icing valve. B. References REFERENCE DESIGNATION AMM MPP 06-43-00/100 - COMPONENT LOCATION AMM TASK 30-21-01-000-801-A/400 ANTI-ICING VALVE - REMOVAL AMM TASK 30-21-01-400-801-A/400 ANTI-ICING VALVE - INSTALLATION AMM TASK 30-21-05-200-801-A/600 ENGINE ANTI-ICING DUCT - DETAILED INSPECTION ENGINE ANTI-ICING DUCT - BORESCOPIC INSPEC- AMM TASK 30-21-05-200-802-A/600 TION S.B.145-30-0044 - C. Zones and Accesses ZONE PANEL/DOOR LOCATION 412 412AT Upper cowling of the LH powerplant 422 422AT Upper cowling of the RH powerplant D. Tools and Equipment Not Applicable E. Auxiliary Items ITEM DESCRIPTION PURPOSE QTY Commercially Ladder To get access to the engine anti-icing valve 1 available F. Consumable Materials Not Applicable G. Expandable Parts Not Applicable H. Persons Recommended QTY FUNCTION PLACE 1 Does the task LH or RH powerplant 1 Helps the other technician LH or RH powerplant EMB-145  - AMM 1285 200-801-A/600 30-21-01 Page 2 of 4 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="3" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL I. Preparation SUBTASK 841-002-A (1) Open panel 412AT or 422AT of the upper cowling ( AMM MPP 06-43-00/100). (2) Remove the engine anti-icing valve ( AMM TASK 30-21-01-000-801-A/400). J. Inspection (Figure 601)  SUBTASK 220-002-A (1) Do a special detailed inspection on the valve for integrity. (a) Make sure that: Result: 1 There is no piece of the valve spring seat broken off (refer to Figure 601). (b) If there are inner parts of the valve broken off: Result: 1 Remove the defective engine anti-icing valve from service. 2 (PRE-MOD. S.B.145-30-0044) Do an inspection on the engine anti-icing duct looking for possible debris (AMM TASK 30-21-05-200-801-A/600 or AMM TASK 30-21-05-200-802-A/600).). K. Follow-on SUBTASK 842-002-A (1) Install the engine anti-icing valve ( AMM TASK 30-21-01-400-801-A/400). (2) Close access panel 412AT or 422AT of the upper cowling ( AMM MPP 06-43-00/100). (3) Make sure that you did not let tools stay in the work area and that all parts are correctly installed. EMB-145  - AMM 1285 200-801-A/600 30-21-01 Page 3 of 4 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="4" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: ALL Engine Anti-Icing Valve - Inspection/Check  Figure 601 B A ZONES 412 422 NACELLE DET. A (RH SIDE) 1. ANTI-ICING (TYP) VALVE C DET. B 2. VALVE SPRING     SEAT VIEW C EM145AMM300253B.DGN EMB-145  - AMM 1285 200-801-A/600 30-21-01 Page 4 of 4 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+	</pages>
+</metadata>

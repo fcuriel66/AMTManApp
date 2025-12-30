@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata id="MPP1285_34-12-01-04-2">
+	<file family="145" manual="AMM" pn="1285" chg="U" tsn="51" is_tr="false">
+		<title>AMM PART II-1285 - CHAPTER 34-12-01-04 - CONFIG-2 - STANDBY AIRSPEED - REMOVAL/INSTALLATION</title>
+		<path>/CHAPTER_34</path>
+		<hash>89e71c28c5a2008d1e00749e9a227f10</hash>
+	</file>
+	<pages>
+		<page number="1" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL STANDBY AIRSPEED - REMOVAL/INSTALLATION EFFECTIVITY:  ACFT MODEL(S) EMB-135 1. General A. This section gives the procedure to remove/install the Standby Airspeed Indicator. B. The Standby Airspeed Indicator is installed on the main instrument panel, in the cockpit. C. The procedures in this section are given in the sequence below. The tasks identified with ( ♦) are part of the Scheduled Maintenance Requirements Document (SMRD). TASK NUMBER DESCRIPTION EFFECTIVITY ACFT MODEL(S) STANDBY AIRSPEED INDICATOR - RE- 34-12-01-000-801-A EMB-135 MOVAL   ACFT MODEL(S) STANDBY AIRSPEED INDICATOR - IN- 34-12-01-400-801-A EMB-135 STALLATION   EMB-145  - AMM 1285 General CONFIG-2 34-12-01 Page 1 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="2" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 34-12-01-000-801-A EFFECTIVITY:  ACFT MODEL(S) EMB-135 2. STANDBY AIRSPEED INDICATOR - REMOVAL A. General (1) This task gives the procedure to remove the Standby Airspeed Indicator. B. References REFERENCE DESIGNATION AMM TASK 20-10-03-000-801-A/400 TUBING - REMOVAL C. Zones and Accesses Not Applicable D. Tools and Equipment Not Applicable E. Auxiliary Items Not Applicable F. Consumable Materials Not Applicable G. Expandable Parts Not Applicable H. Persons Recommended QTY FUNCTION PLACE 1 Does the task Cockpit I. Preparation SUBTASK 841-005-B (1) On the pilot glareshield panel, make sure that the PANEL LIGHTS/PILOT switch is set to the OFF position. J. Removal (Figure 401)  SUBTASK 020-005-B (1) Remove the screws (4) to release the Standby Airspeed Indicator (2). (2) Pull the Standby Airspeed Indicator (2) to gain access to the connector (1) and hoses (3). (3) Disconnect the connector (1) from the Standby Airspeed Indicator (2). (4) Disconnect the hoses (3) from the Standby Airspeed Indicator (2) (AMM TASK 20-10-03-000-801-A/400). (5) Remove the Standby Airspeed Indicator (2). EMB-145  - AMM 1285 000-801-A/400 CONFIG-2 34-12-01 Page 2 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="3" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: ACFT MODEL(S) EMB-135 Standby Airspeed Indicator - Removal/Installation  Figure 401 B A ZONE 223 DET. A 1. ELECTRICAL CONNECTOR 2. STANDBY AIRSPEED INDICATOR 4. SCREW (2) 3. HOSE (2) DET. B 145AMM340203.MCE A EMB-145  - AMM 1285 000-801-A/400 CONFIG-2 34-12-01 Page 3 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="4" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 34-12-01-400-801-A EFFECTIVITY:  ACFT MODEL(S) EMB-135 3. STANDBY AIRSPEED INDICATOR - INSTALLATION A. General (1) This task gives the procedure to install the Standby Airspeed Indicator. B. References REFERENCE DESIGNATION AMM TASK 20-10-03-400-801-A/400 TUBING - INSTALLATION AMM TASK 34-12-00-700-801-A/500 - AMM TASK 34-13-00-790-804-A/500 STANDBY SYSTEM - LEAKAGE TEST C. Zones and Accesses Not Applicable D. Tools and Equipment Not Applicable E. Auxiliary Items Not Applicable F. Consumable Materials Not Applicable G. Expandable Parts Not Applicable H. Persons Recommended QTY FUNCTION PLACE 1 Does the task Cockpit I. Installation (Figure 401)  SUBTASK 420-005-B CAUTION: MAKE SURE THAT THE FLEXIBLE TUBE IS NOT TWISTED BEFORE AND AFTER TORQUE APPLICATION. (1) Connect the hoses (3) to the Standby Airspeed Indicator (2) (AMM TASK 20-10-03-400-801-A/400). (2) Connect the connector (1) to the Standby Airspeed Indicator (2). (3) Put the Standby Airspeed Indicator (2) in position, on the main instrument panel. (4) Tighten the screws (4). EMB-145  - AMM 1285 400-801-A/400 CONFIG-2 34-12-01 Page 4 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="5" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL J. Follow-on SUBTASK 842-005-B (1) On the glareshield panel, turn the PANEL LIGHTS/PILOT switch to the BRT position, then make sure that the light on the standby airspeed-indicator face is on. (2) Do the Standby System leakage test ( AMM TASK 34-13-00-790-804-A/500). (3) Do the operational check of the Standby Airspeed Indicator (AMM TASK 34-12-00-700-801-A/500). EMB-145  - AMM 1285 400-801-A/400 CONFIG-2 34-12-01 Page 5 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="6" width="216.0" height="279.0">
+			<data/>
+		</page>
+	</pages>
+</metadata>

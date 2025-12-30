@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata id="MPP1285_53-11-01-04-1">
+	<file family="145" manual="AMM" pn="1285" chg="U" tsn="51" is_tr="false">
+		<title>AMM PART II-1285 - CHAPTER 53-11-01-04 - RADOME - REMOVAL/INSTALLATION</title>
+		<path>/CHAPTER_53</path>
+		<hash>ab09615f70708c58362529e015196cf2</hash>
+	</file>
+	<pages>
+		<page number="1" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL RADOME - REMOVAL/INSTALLATION EFFECTIVITY:  ALL 1. General A. This section gives the procedures to remove and install the Radome. B. The procedures in this section are given in the sequence below. The tasks identified with ( ♦) are part of the Scheduled Maintenance Requirements Document (SMRD). TASK NUMBER DESCRIPTION EFFECTIVITY ALL 53-11-01-000-801-A RADOME - REMOVAL   ALL 53-11-01-400-801-A RADOME - INSTALLATION   EMB-145  - AMM 1285 General 53-11-01 Page 1 of 6 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="2" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 53-11-01-000-801-A EFFECTIVITY:  ALL 2. RADOME - REMOVAL A. General (1) This procedure gives the instructions to remove the Radome. B. References REFERENCE DESIGNATION CMM P/N 4980-100 - 53-10-00 - C. Zones and Accesses Not Applicable D. Tools and Equipment Not Applicable E. Auxiliary Items Not Applicable F. Consumable Materials Not Applicable G. Expandable Parts Not Applicable H. Persons Recommended QTY FUNCTION PLACE 1 Does the task In forward fuselage I. Preparation SUBTASK 841-002-A (1) Open the radome. J. Removal (Figure 401)  SUBTASK 020-002-A (1) Remove the nut (11), washer (10), and screw (8) that attach each of the two bonding jumpers (9). (2) Remove the cotter pin (1), nut (2), washer (3), and bolt (14) from the two radome front hinge (12) attaching points. (3) Remove the cotter pin (4), nut (5), washer (6), and bolt (7) from the two radome rear hinge (13) attaching points. (4) Remove the radome. NOTE: Examine the radome for general condition. If it is necessary to do a repair and/or rework on the radome, it is recommended that it be done in a EMB-145  - AMM 1285 000-801-A/400 53-11-01 Page 2 of 6 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="3" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL specialized shop, such as NORTON facilities (refer to NORTON Component Maintenance Manual - CMM P/N 4980-100 - 53-10-00). EMB-145  - AMM 1285 000-801-A/400 53-11-01 Page 3 of 6 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="4" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: ALL Radome - Removal/Installation  Figure 401 A ZONE 111 B 2.  NUT DET. A 3.  WASHER 1.   COTTER       PIN 4.   COTTER       PIN 5.  NUT 6.  WASHER 7.  BOLT 14.  BOLT 8.  SCREW 9.   BONDING 13.  REAR HINGE       JUMPER 10.  WASHER 12.  FRONT HINGE 11.  NUT DET. B 145AMM530018.MCE A EMB-145  - AMM 1285 000-801-A/400 53-11-01 Page 4 of 6 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="5" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 53-11-01-400-801-A EFFECTIVITY:  ALL 3. RADOME - INSTALLATION A. General (1) This procedure gives the instructions to install the Radome. B. References REFERENCE DESIGNATION ELECTRICAL BONDING TEST - STANDARD PROCE- AMM TASK 20-13-21-700-801-A/200 DURES AMM TASK 53-11-01-820-801-A/500 - IPC 53-14-00 RADOME C. Zones and Accesses Not Applicable D. Tools and Equipment Not Applicable E. Auxiliary Items Not Applicable F. Consumable Materials Not Applicable G. Expendable Parts IPC REFERENCE ITEM QTY (VENDOR REFERENCE) Cotter pin IPC 53-14-00 2 H. Persons Recommended QTY FUNCTION PLACE 1 Does the task In forward fuselage I. Installation (Figure 401)  SUBTASK 420-002-A (1) Put the radome in its installation position. (2) Install the bolt (7), washer (6), nut (5), and cotter pin (4) to their rear hinge (13) attaching points in the two fittings. (3) Install the bolt (14), washer (3), nut (2), and cotter pin (1) to their front hinge (12) attaching points in the two fittings. (4) Install the two bonding jumpers (9) and attach them with the related screw (8), washer (10), and nut (11). EMB-145  - AMM 1285 400-801-A/400 53-11-01 Page 5 of 6 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="6" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL J. Follow-on SUBTASK 842-002-A (1) Do the electrical-bonding test procedure as given in AMM TASK 20-13-21-700-801-A/ 200. (2) Adjust the Radome according to AMM TASK 53-11-01-820-801-A/500. EMB-145  - AMM 1285 400-801-A/400 53-11-01 Page 6 of 6 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+	</pages>
+</metadata>

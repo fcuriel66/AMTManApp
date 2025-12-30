@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata id="MPP1285_76-12-04-04-1">
+	<file family="145" manual="AMM" pn="1285" chg="U" tsn="51" is_tr="false">
+		<title>AMM PART II-1285 - CHAPTER 76-12-04-04 - POWERPLANT CONTROL PANEL - REMOVAL/INSTALLATION</title>
+		<path>/CHAPTER_76</path>
+		<hash>d37bfe1cd20f8cc19642930443b55730</hash>
+	</file>
+	<pages>
+		<page number="1" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL POWERPLANT CONTROL PANEL - REMOVAL/INSTALLATION EFFECTIVITY:  ALL 1. General A. This section gives the procedures to remove/install the Powerplant control panel. B. The procedures in this section are given in the sequence below. The tasks identified with ( ♦) are part of the Scheduled Maintenance Requirements Document (SMRD). TASK NUMBER DESCRIPTION EFFECTIVITY POWERPLANT CONTROL PANEL - RE- ALL 76-12-04-000-801-A MOVAL  POWERPLANT CONTROL PANEL - IN- ALL 76-12-04-400-801-A STALLATION  EMB-145  - AMM 1285 General 76-12-04 Page 1 of 6 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="2" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 76-12-04-000-801-A EFFECTIVITY:  ALL 2. POWERPLANT CONTROL PANEL - REMOVAL A. General (1) This task gives the procedures to remove the powerplant control panel. B. Zones and Accesses Not Applicable C. Tools and Equipment Not Applicable D. Auxiliary Items Not Applicable E. Consumable Materials Not Applicable F. Expandable Parts Not Applicable G. Persons Recommended QTY FUNCTION PLACE 1 Does the task Cockpit H. Removal (Figure 401)  SUBTASK 020-002-A (1) Make sure that the aircraft is safe for maintenance. (2) On the circuit breaker panel, open these circuit breakers and attach DO-NOT-CLOSE tags to them: • FADEC 1A • FADEC 1B • FADEC 2A • FADEC 2B • ENG 1 STARTING • ENG 2 STARTING (3) Loosen the Dzus fasteners (1) that attach the powerplant control panel (2) to the panel (4). (4) Carefully pull the powerplant control panel (2) from its housing to get access to the electrical connectors (3). (5) Disconnect the electrical connectors (3) from the control panel. EMB-145  - AMM 1285 000-801-A/400 76-12-04 Page 2 of 6 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="3" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL (6) Install protection caps on the electrical connectors (3). EMB-145  - AMM 1285 000-801-A/400 76-12-04 Page 3 of 6 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="4" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: ALL Control Panels - Removal/Installation  Figure 401 A 4. PANEL 3. CONNECTORS 1. DZUS FASTENERS (6) 2. POWER PLANT      CONTROL PANEL DET. A EM145AMM760056A.DGN EMB-145  - AMM 1285 000-801-A/400 76-12-04 Page 4 of 6 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="5" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 76-12-04-400-801-A EFFECTIVITY:  ALL 3. POWERPLANT CONTROL PANEL - INSTALLATION A. General (1) This task gives procedures to install the powerplant control panel. B. References REFERENCE DESIGNATION AMM TASK 71-00-01-910-801-A/200 ENGINE START PROCEDURE (NORMAL) AMM TASK 71-00-01-910-804-A/200 ENGINE STOP PROCEDURE C. Zones and Accesses Not Applicable D. Tools and Equipment Not Applicable E. Auxiliary Items Not Applicable F. Consumable Materials Not Applicable G. Expandable Parts Not Applicable H. Persons Recommended QTY FUNCTION PLACE 1 Does the task Cockpit I. Installation (Figure 401)  SUBTASK 420-002-A (1) Remove the protection caps from the electrical connectors. (2) Hold the powerplant control panel (2) and connect the electrical connectors (3). (3) Carefully install the powerplant control panel (2) in its installation position. (4) Tighten the Dzus fasteners (1). J. Follow-on SUBTASK 842-002-A (1) On the circuit breaker panel, close the circuit breakers below and remove the DO- NOT-CLOSE tag from them: • ENG 1 STARTING EMB-145  - AMM 1285 400-801-A/400 76-12-04 Page 5 of 6 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="6" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL • ENG 2 STARTING (2) On the circuit breaker panel, close the circuit breakers below and remove the DO- NOT-CLOSE tag from them: • FADEC 1A • FADEC 1B • FADEC 2A • FADEC 2B (3) Cycle these circuit breakers two times: • FADEC 1A • FADEC 1B • FADEC 2A • FADEC 2B (4) Reset the FADECs with the reset switch, on the overhead panel. (5) Start the left and right engines ( AMM TASK 71-00-01-910-801-A/200). (6) Let the engines running in idle for two minutes. (7) Stop the left and right engines ( AMM TASK 71-00-01-910-804-A/200). (8) Make sure that the engine start and stop procedures occurred normally. (9) Make sure that the EICAS messages listed below are out of view: • E1(2) NO DISP; • E1(2) CTL FAIL. EMB-145  - AMM 1285 400-801-A/400 76-12-04 Page 6 of 6 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+	</pages>
+</metadata>

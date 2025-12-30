@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata id="MPP1285_27-10-00-05-1">
+	<file family="145" manual="AMM" pn="1285" chg="U" tsn="51" is_tr="false">
+		<title>AMM PART II-1285 - CHAPTER 27-10-00-05 - AILERON - ADJUSTMENT/TEST</title>
+		<path>/CHAPTER_27</path>
+		<hash>f9e2dd98211cfd2b1992623db5af54b5</hash>
+	</file>
+	<pages>
+		<page number="1" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL AILERON - ADJUSTMENT/TEST EFFECTIVITY:  ALL 1. General A. This section gives the procedures to measure the maximum values of deflections of the ailerons. B. The procedures in this section are given in the sequence below. The tasks identified with ( ♦) are part of the Scheduled Maintenance Requirements Document (SMRD). TASK NUMBER DESCRIPTION EFFECTIVITY ALL 27-10-00-700-801-A AILERON ADJUSTMENT AND CHECK   EMB-145  - AMM 1285 General 27-10-00 Page 1 of 6 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="2" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 27-10-00-700-801-A EFFECTIVITY:  ALL 2. AILERON ADJUSTMENT AND CHECK A. General (1) This task gives the procedures to measure the maximum values of deflections of the ailerons. Figure 501 shows the deflections of the ailerons. B. References REFERENCE DESIGNATION HYDRAULIC SYSTEM - PRESSURIZATION WITH AMM TASK 29-10-00-860-801-A/200 HTS C. Zones and Accesses Not Applicable D. Tools and Equipment ITEM DESCRIPTION PURPOSE QTY GSE 070 Digital Protractor To measure the deflections of the ailerons  E. Auxiliary Items Not Applicable F. Consumable Materials Not Applicable G. Expandable Parts Not Applicable H. Persons Recommended QTY FUNCTION PLACE 1 Does the task Cockpit 1 Does the task Ailerons I. Preparation (Figure 501)  SUBTASK 841-002-A (1) Make sure that the aircraft is safe for maintenance. (2) Do not do other tasks on the aileron system. (3) Pressurize the hydraulic system ( AMM TASK 29-10-00-860-801-A/200). J. Aileron Adjustment and Check (Figure 501)  SUBTASK 720-002-A (1) Adjust the digital protractor to zero position. EMB-145  - AMM 1285 700-801-A/500 27-10-00 Page 2 of 6 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="3" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL (a) Install the Rig Pin in the right wing sector DET. B.. (b) With the aileron system pressurized (system 1 or 2), the aileron will be in the neutral position. (c) Adjust the digital protractor to zero position and remove the rig pin. NOTE: The neutral position of the aileron is identified by the alignment of the aileron and wing trailing edge. (2) Do a check of the right aileron for deflection. Table 501 - RIGHT AILERON DEFLECTIONS AILERON UP DOWN 25 ÃÂ± 1ÃÂ° 15 ÃÂ± 1ÃÂ° (a) Set the aileron to the UP position. Result: 1 The deflection must be 25 ÃÂ± 1ÃÂ°. (b) Set the aileron to the DOWN position. Result: 1 The deflection must be 15 ÃÂ± 1ÃÂ°. (3) Adjust the digital protractor to zero position. (a) Install the Rig Pin in the left wing sector DET. B. (b) With the aileron system pressurized (system 1 or 2), the aileron will be in the neutral position. (c) Adjust the digital protractor to zero position and remove the rig pin. NOTE: The neutral position of the aileron is identified by the alignment of the aileron and wing trailing edge. (4) Do a check of the left aileron deflection. Table 502 - LEFT AILERON DEFLECTIONS AILERON UP DOWN 25 ÃÂ± 1ÃÂ° 15 ÃÂ± 1ÃÂ° (a) Set the aileron to the UP position. Result: 1 The deflection must be 25 ÃÂ± 1ÃÂ°. (b) Set the aileron to the DOWN position. Result: 1 The deflection must be 15 ÃÂ± 1ÃÂ°. EMB-145  - AMM 1285 700-801-A/500 27-10-00 Page 3 of 6 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="4" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL K. Follow-on SUBTASK 842-002-A (1) Set the ailerons to the neutral position. (2) Release the pressure of the hydraulic system ( AMM TASK 29-10-00-860-801-A/200). EMB-145  - AMM 1285 700-801-A/500 27-10-00 Page 4 of 6 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="5" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: ALL Deflections of the Ailerons  Figure 501 - Sheet 1 A ZONES 551 651 B PCA DET. A INPUT ROD AILERON WING SECTOR RIG PIN DET. B EM145AMM270906A.DGN EMB-145  - AMM 1285 700-801-A/500 27-10-00 Page 5 of 6 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="6" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: ALL Deflections of the Ailerons  Figure 501 - Sheet 2 A ZONE 573 673 + 25˚ 1˚ - 0˚ DET. A + 15˚   1˚ - 145AMM270047.MCE A EMB-145  - AMM 1285 700-801-A/500 27-10-00 Page 6 of 6 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+	</pages>
+</metadata>

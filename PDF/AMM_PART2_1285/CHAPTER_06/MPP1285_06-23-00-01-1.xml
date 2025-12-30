@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata id="MPP1285_06-23-00-01-1">
+	<file family="145" manual="AMM" pn="1285" chg="U" tsn="51" is_tr="false">
+		<title>AMM PART II-1285 - CHAPTER 06-23-00-01 - CONFIG-1 - HORIZONTAL STABILIZER STATION DIAGRAM - COMPONENT LOCATION</title>
+		<path>/CHAPTER_06</path>
+		<hash>7b5ba35e0b74f82cd33e7bd6b61e4277</hash>
+	</file>
+	<pages>
+		<page number="1" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL HORIZONTAL STABILIZER STATION DIAGRAM - COMPONENT LOCATION EFFECTIVITY:  ACFT MODEL(S) EMB-145 1. General A. This section gives the horizontal stabilizer station diagram (Figure 101). B. The horizontal stabilizer station diagram gives a reference system that shows the location of the structural components in relation to the datum planes. EMB-145  - AMM 1285 General CONFIG-1 06-23-00 Page 1 of 3 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="2" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL HORIZONTAL STABILIZER STATION DIAGRAM - COMPONENT LOCATION EFFECTIVITY:  ACFT MODEL(S) EMB-145 2. Horizontal Stabilizer Station Diagram. EMB-145  - AMM 1285 PGBLK 100 CONFIG-1 06-23-00 Page 2 of 3 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="3" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: ALL Horizontal Stabilizer Station Diagram  Figure 101 145AMM060029.MCE A EMB-145  - AMM 1285 PGBLK 100 CONFIG-1 06-23-00 Page 3 of 3 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details. Y Y 1528 0000 YH YH -30 0000 YH 0000 301.8156 X YH 27080.9 -350 YH 359.84 -670 YH 608.51 -990 YH 852.83 -1310 YH 1098.47 -1630 YH 1155.29 -1950 YH 1325.74 1383.86 -2270 YH 1382.56 -2590 STABILIZER 1893.91 YH HINGE LINE -2965 X= 28135.9 YH Z= 3604.5 -3400 YH -3320.00 9O˚ 9O^ 210.90 + 2 . O 5.0    MM - 3 . O 356.64 GAP VARING + 2 . O 499.83 - 3 . O 8.7    MM 643.80  677.10 777.00 30.00 810.30 TAB I 1110.00 TAB II YH YH 66.00 -750.00 YH YH -1340.00 YH -982.40 -160.00 YH YH -1898.00 88.00 YH YH YH YH -455.00 -2599.00 YH -1280.00 YH YH -2223.00 -3001.00 -1765.00 -1784.57 YH -2735.00 YH -711.00 TRAILING EDGE   (100 %) ELEVATOR FRONT SPAR  (73%) ELEVATOR HINGE LINE  (70 %) ELEVATOR LEADING EDGE  (61 %) SPAR II   (58 %) AUXILIARY  SPAR  45.03 % AUXILIARY  SPAR  32.13 % SPAR I    (19 %) LEADING EDGE  (0 %) PROFILE NACA 64A008 (MODIFIED) PROFILE NACA 64A010 (MODIFIED)</data>
+		</page>
+		<page number="4" width="216.0" height="279.0">
+			<data/>
+		</page>
+	</pages>
+</metadata>

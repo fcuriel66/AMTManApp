@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata id="MPP1285_34-23-05-04-1">
+	<file family="145" manual="AMM" pn="1285" chg="U" tsn="51" is_tr="false">
+		<title>AMM PART II-1285 - CHAPTER 34-23-05-04 - HGS COMPUTER FAN - REMOVAL/INSTALLATION</title>
+		<path>/CHAPTER_34</path>
+		<hash>800b5622df9dd07e7e6ec217c47e0415</hash>
+	</file>
+	<pages>
+		<page number="1" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL HGS COMPUTER FAN - REMOVAL/INSTALLATION EFFECTIVITY:  AIRCRAFT WITH HEAD-UP GUIDANCE SYSTEM 1. General A. This section gives the procedure to remove/install the HGS Computer fan. B. The HGS Computer fan is installed on the right side of the electronic compartment. C. The access to the HGS Computer fan is got through the 113CZ access panel in the electronic compartment. D. The procedures in this section are given in the sequence below. The tasks identified with ( ♦) are part of the Scheduled Maintenance Requirements Document (SMRD). TASK NUMBER DESCRIPTION EFFECTIVITY AIRCRAFT WITH HEAD-UP GUIDANCE 34-23-05-000-801-A HGS COMPUTER FAN - REMOVAL SYSTEM   AIRCRAFT WITH HEAD-UP GUIDANCE 34-23-05-400-801-A HGS COMPUTER FAN - INSTALLATION SYSTEM   EMB-145  - AMM 1285 General 34-23-05 Page 1 of 6 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="2" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 34-23-05-000-801-A EFFECTIVITY:  AIRCRAFT WITH HEAD-UP GUIDANCE SYSTEM 2. HGS COMPUTER FAN - REMOVAL A. General (1) This task gives the procedure to remove the HGS Computer fan. (2) The HGS Computer fan is installed on the HGS Computer mounting tray. B. References REFERENCE DESIGNATION AMM TASK 34-23-01-000-801-A/400 HGS COMPUTER - REMOVAL C. Zones and Accesses ZONE PANEL/DOOR LOCATION Forward electronic compartment - RH 214 113CZ upper side D. Tools and Equipment Not Applicable E. Auxiliary Items Not Applicable F. Consumable Materials Not Applicable G. Expandable Parts Not Applicable H. Persons Recommended QTY FUNCTION PLACE 1 Does the task Forward electronic compartment I. Preparation SUBTASK 841-002-A (1) Remove the HGS Computer ( AMM TASK 34-23-01-000-801-A/400). (2) Get access to the fan installed at the rear of the HGS Computer mounting tray. J. Removal (Figure 401)  SUBTASK 020-002-A (1) Loosen the latch (2) that attaches the HGS Computer filter (1) to the mounting base (6). (2) Carefully pull up the mounting base (6). EMB-145  - AMM 1285 000-801-A/400 34-23-05 Page 2 of 6 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="3" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL (3) Undo the electrical connection (3). (4) Release the four screws (4) from the rim clamps. (5) Turn the rim clamps until the flat edge of each clamp points to the fan. (6) Remove the fan (5). EMB-145  - AMM 1285 000-801-A/400 34-23-05 Page 3 of 6 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="4" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: AIRCRAFT WITH HEAD-UP GUIDANCE SYSTEM HGS Computer Fan - Removal/Installation  Figure 401 B A ZONES 213 214 DET. A 1.   HGS COMPUTER FAN       FILTER 2.   LATCH 6.   MOUNTING       BASE 3.   ELECTRICAL       CONNECTION 5.   FAN DET. B 4.   SCREW (4) (REAR VIEW) 145AMM340436.MCE EMB-145  - AMM 1285 000-801-A/400 34-23-05 Page 4 of 6 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="5" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 34-23-05-400-801-A EFFECTIVITY:  AIRCRAFT WITH HEAD-UP GUIDANCE SYSTEM 3. HGS COMPUTER FAN - INSTALLATION A. General (1) This task gives the procedure to install the HGS Computer Fan. (2) The HGS Computer fan is installed on the HGS Computer mounting tray. B. References REFERENCE DESIGNATION AMM TASK 34-23-01-400-801-A/400 HGS COMPUTER - INSTALLATION AMM TASK 34-23-05-700-801-A/500 HGS COMPUTER FAN - OPERATIONAL TEST C. Zones and Accesses ZONE PANEL/DOOR LOCATION Forward electronic compartment - RH 214 113CZ upper side D. Tools and Equipment Not Applicable E. Auxiliary Items Not Applicable F. Consumable Materials Not Applicable G. Expandable Parts Not Applicable H. Persons Recommended QTY FUNCTION PLACE 1 Does the task Forward electronic compartment I. Installation (Figure 401)  SUBTASK 420-002-A (1) Put the fan (5) in position on the mounting tray. Make sure that the arrow on the fan points down. (2) Attach the fan (5) to the base of the mounting tray with the rim clamps. Make sure that the flat edge of the rim clamp points away from the fan. (3) Tighten the four screws (4). (4) Redo the electrical connection (3). EMB-145  - AMM 1285 400-801-A/400 34-23-05 Page 5 of 6 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="6" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL (5) Put the mounting base (6) in its installation position. (6) Lock the latch (2) that attaches the HGS Computer filter (1) to the mounting base (6). J. Follow-on SUBTASK 842-002-A (1) Do the HGS Computer fan operational test ( AMM TASK 34-23-05-700-801-A/500). (2) Install HGS Computer ( AMM TASK 34-23-01-400-801-A/400). EMB-145  - AMM 1285 400-801-A/400 34-23-05 Page 6 of 6 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+	</pages>
+</metadata>

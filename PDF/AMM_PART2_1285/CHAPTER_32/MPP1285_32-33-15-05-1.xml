@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata id="MPP1285_32-33-15-05-1">
+	<file family="145" manual="AMM" pn="1285" chg="U" tsn="51" is_tr="false">
+		<title>AMM PART II-1285 - CHAPTER 32-33-15-05 - LANDING GEAR HYDRAULIC ACCUMULATOR - ADJUSTMENT/TEST</title>
+		<path>/CHAPTER_32</path>
+		<hash>c39cca8b429f3cce85d1db06153b5ba3</hash>
+	</file>
+	<pages>
+		<page number="1" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL LANDING GEAR HYDRAULIC ACCUMULATOR - ADJUSTMENT/TEST EFFECTIVITY:  ALL 1. General A. This section gives the procedures to do a check on the landing gear accumulator. B. The procedures in this section are given in the sequence below. The tasks identified with ( ♦) are part of the Scheduled Maintenance Requirements Document (SMRD). TASK NUMBER DESCRIPTION EFFECTIVITY LANDING-GEAR HYDRAULIC ACCUMU- ALL 32-33-15-700-801-A ♦ LATOR - FUNCTIONAL CHECK  LANDING-GEAR HYDRAULIC ACCUMU- ALL 32-33-15-700-802-A LATOR - LEAKAGE TEST  EMB-145  - AMM 1285 General 32-33-15 Page 1 of 7 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="2" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 32-33-15-700-801-A EFFECTIVITY:  ALL 2. LANDING-GEAR HYDRAULIC ACCUMULATOR - FUNCTIONAL CHECK A. General (1) The pressure gage of the landing-gear accumulator is installed in the hydraulic compartment, in the fuselage nose section. B. References REFERENCE DESIGNATION AMM MPP 06-41-01/100 - LANDING GEAR AND MAIN DOOR ACCUMULATOR - AMM TASK 12-13-06-600-801-A/300 CHARGE FIM TASK 52-11-00-810-809-A - C. Zones and Accesses ZONE PANEL/DOOR LOCATION 114 114CR Forward fuselage 1 - RH D. Tools and Equipment Not Applicable E. Auxiliary Items Not Applicable F. Consumable Materials Not Applicable G. Expandable Parts Not Applicable H. Persons Recommended QTY FUNCTION PLACE 1 Does the task Forward fuselage 1 - RH I. Preparation SUBTASK 841-002-A (1) Open door 114CR (AMM MPP 06-41-01/100). J. Functionally Check Landing Gear Hydraulic-Accumulator Nitrogen Charge (Figure 501)  SUBTASK 720-002-A (1) Operate the accumulator oil-discharge valve. (2) After three minutes, read the nitrogen pre-charge shown on the gage. EMB-145  - AMM 1285 700-801-A/500 32-33-15 Page 2 of 7 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="3" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL NOTE: • The pressure to charge the accumulator at 21.1ÃÂ°C (70ÃÂ°F) is 1500 psi. To do the procedure at other ambient temperatures, refer to Figure 501. Pressure variation of ÃÂ± 50 PSI of reference pressure is permitted. • If abnormal pressure drop occurs or there is the suspect of nitrogen leakage, refer to FIM TASK 52-11-00-810-809-A. • If necessary, recharge the accumulator (AMM TASK 12-13-06-600-801- A/300). K. Follow-on SUBTASK 842-002-A (1) Close door 114CR (AMM MPP 06-41-01/100). EMB-145  - AMM 1285 700-801-A/500 32-33-15 Page 3 of 7 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="4" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: ALL Landing-Gear Hydraulic Accumulator - Inspection  Figure 501 1600 1500 1400 1300 1200 1100 1000 -50 -40 -30 -20-10 0 10 20 30 40 50 60 (ÃÂ¯C) -58 -40 -22 -4 14 32 50 68 86 104 122 140 (ÃÂ¯F) A ZONE 114 1.  GAGE DET. A 2.  OIL-DISCHARGE VALVE EM145AMM120196A.DGN EMB-145  - AMM 1285 700-801-A/500 32-33-15 Page 4 of 7 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details. PRE-CHARGE (PSIG) AMBIENT TEMPERATURE</data>
+		</page>
+		<page number="5" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 32-33-15-700-802-A EFFECTIVITY:  ALL 3. LANDING-GEAR HYDRAULIC ACCUMULATOR - LEAKAGE TEST A. General (1) The pressure gage of the landing-gear accumulator is installed in the hydraulic compartment, in the fuselage nose section. B. References REFERENCE DESIGNATION AMM MPP 06-41-01/100 - C. Zones and Accesses ZONE PANEL/DOOR LOCATION 114 114CR Forward fuselage 1 - RH D. Tools and Equipment Not Applicable E. Auxiliary Items ITEM DESCRIPTION PURPOSE QTY Commercially Brush To apply the leak detector fluid 1 available F. Consumable Materials SPECIFICATION DESCRIPTION QTY (BRAND) MIL-L-25567 or equivalent LEAK TEC 160X leakage detector AR G. Expandable Parts Not Applicable H. Persons Recommended QTY FUNCTION PLACE 1 Does the task Forward fuselage 1 - RH I. Preparation SUBTASK 841-003-A (1) Open door 114CR (AMM MPP 06-41-01/100). EMB-145  - AMM 1285 700-802-A/500 32-33-15 Page 5 of 7 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="6" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL J. Gas Leakage Test of the Landing Gear Hydraulic-Accumulator (Figure 502)  SUBTASK 720-003-A (1) Use a brush to apply the leak detection fluid to the hydraulic accumulator and its connections and examine them for gas leakage. Refer to Figure 502. K. Follow-on SUBTASK 842-003-A (1) Close door 114CR (AMM MPP 06-41-01/100). EMB-145  - AMM 1285 700-802-A/500 32-33-15 Page 6 of 7 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="7" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: ALL Landing-Gear Hydraulic Accumulator - Leakage Test  Figure 502 A ZONE 114 1 1 1 1 1 B DET. A 1 DET. B 1 APPLY LEAK DETECTION FLUID. EM145AMM320589A.DGN EMB-145  - AMM 1285 700-802-A/500 32-33-15 Page 7 of 7 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="8" width="216.0" height="279.0">
+			<data/>
+		</page>
+	</pages>
+</metadata>

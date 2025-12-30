@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata id="MPP1285_23-21-02-04-1">
+	<file family="145" manual="AMM" pn="1285" chg="U" tsn="51" is_tr="false">
+		<title>AMM PART II-1285 - CHAPTER 23-21-02-04 - SELCAL ANNUNCIATOR PANEL - REMOVAL/INSTALLATION</title>
+		<path>/CHAPTER_23</path>
+		<hash>e930b83a643ead6055e995a5b744c91b</hash>
+	</file>
+	<pages>
+		<page number="1" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL SELCAL ANNUNCIATOR PANEL - REMOVAL/INSTALLATION EFFECTIVITY:  AIRCRAFT EQUIPPED WITH SELCAL SYSTEM 1. General A. This section gives the procedures to remove and install the SELCAL Annunciator Panel. B. The procedures in this section are given in the sequence below. The tasks identified with ( ♦) are part of the Scheduled Maintenance Requirements Document (SMRD). TASK NUMBER DESCRIPTION EFFECTIVITY AIRCRAFT EQUIPPED SELCAL ANNUNCIATOR PANEL - RE- WITH SELCAL SYS- 23-21-02-000-801-A MOVAL TEM   AIRCRAFT EQUIPPED SELCAL ANNUNCIATOR PANEL - IN- WITH SELCAL SYS- 23-21-02-400-801-A STALLATION TEM   EMB-145  - AMM 1285 General 23-21-02 Page 1 of 6 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="2" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 23-21-02-000-801-A EFFECTIVITY:  AIRCRAFT EQUIPPED WITH SELCAL SYSTEM 2. SELCAL ANNUNCIATOR PANEL - REMOVAL A. General (1) This procedure gives the instructions to remove the Annunciator Panel. B. Zones and Accesses Not Applicable C. Tools and Equipment Not Applicable D. Auxiliary Items Not Applicable E. Consumable Materials Not Applicable F. Expandable Parts Not Applicable G. Persons Recommended QTY FUNCTION PLACE In the cockpit, on the main instrument pan- 1 Does the task el H. Preparation SUBTASK 841-002-A (1) On the circuit breaker panel, open the SELCAL circuit breaker and attach a DO-NOT- CLOSE tag to it. I. Removal (Figure 401)  (Figure 402)  (Figure 403)  SUBTASK 020-002-A (1) Release the two turnlock fasteners (2). (2) Carefully pull the Annunciator Panel (3). (3) Disconnect the electrical connector (1). (4) Remove the Annunciator Panel (3). EMB-145  - AMM 1285 000-801-A/400 23-21-02 Page 2 of 6 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="3" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: AIRCRAFT WITH SELCAL SYSTEM SELCAL Annunciator Panel - Removal/Installation  Figure 401 B A ZONE 224 DET. A 1.ELECTRICAL CONNECTOR 2. TURNLOCK FASTENER (2) 3. ANNUNCIATOR PANEL DET. B EM145AMM230128B.DGN EMB-145  - AMM 1285 000-801-A/400 23-21-02 Page 3 of 6 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="4" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: AIRCRAFT WITH SELCAL SYSTEM SELCAL Annunciator Panel (Aircraft with RMU's on Main Panel)- Removal/Installation  Figure 402 B A ZONE 224 DET. A 1. ELECTRICAL CONNECTOR 2. TURNLOCK FASTENER (2) 3. ANNUNCIATOR PANEL DET. B EM145AMM230252A.DGN EMB-145  - AMM 1285 000-801-A/400 23-21-02 Page 4 of 6 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="5" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: AIRCRAFT WITH SELCAL SYSTEM SELCAL Annunciator Panel (Aircraft with RMU's on Main Panel)- Removal/Installation  Figure 403 B A ZONE 224 DET. A 1. ELECTRICAL     CONNECTOR 2. TURNLOCK     FASTENER(2) 3. ANNUNCIATOR PANEL DET. B EM145AMM231037A.DGN EMB-145  - AMM 1285 000-801-A/400 23-21-02 Page 5 of 6 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="6" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 23-21-02-400-801-A EFFECTIVITY:  AIRCRAFT EQUIPPED WITH SELCAL SYSTEM 3. SELCAL ANNUNCIATOR PANEL - INSTALLATION A. General (1) This procedure gives the instructions to install the Annunciator Panel. B. Zones and Accesses Not Applicable C. Tools and Equipment Not Applicable D. Auxiliary Items Not Applicable E. Consumable Materials Not Applicable F. Expandable Parts Not Applicable G. Persons Recommended QTY FUNCTION PLACE In the cockpit, on the main instrument pan- 1 Does the task el H. Installation (Figure 401) (Figure 402) (Figure 403)  SUBTASK 420-002-A (1) Connect the electrical connector (1). (2) Install the Annunciator Panel (3) in its installation position. (3) Attach the two turnlock fasteners (2). I. Follow-on SUBTASK 842-002-A (1) On the circuit breaker panel, close the SELCAL circuit breaker and remove the DO- NOT-CLOSE tag from it. EMB-145  - AMM 1285 400-801-A/400 23-21-02 Page 6 of 6 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+	</pages>
+</metadata>

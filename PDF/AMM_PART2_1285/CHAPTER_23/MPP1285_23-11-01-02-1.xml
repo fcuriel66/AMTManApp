@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata id="MPP1285_23-11-01-02-1">
+	<file family="145" manual="AMM" pn="1285" chg="U" tsn="51" is_tr="false">
+		<title>AMM PART II-1285 - CHAPTER 23-11-01-02 - HF CONTROL PANEL - MAINTENANCE PRACTICES</title>
+		<path>/CHAPTER_23</path>
+		<hash>caa8b357c662979c13232eafcb6732be</hash>
+	</file>
+	<pages>
+		<page number="1" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL HF CONTROL PANEL - MAINTENANCE PRACTICES EFFECTIVITY:  AIRCRAFT WITH HF SYSTEM 1. General A. This section gives the procedures to do the HF Control panel programming. B. The procedures in this section are given in the sequence below. The tasks identified with ( ♦) are part of the Scheduled Maintenance Requirements Document (SMRD). TASK NUMBER DESCRIPTION EFFECTIVITY AIRCRAFT WITH 23-11-01-860-801-A HF CONTROL PANEL - PROGRAMMING KHF-950 SYSTEM   EMB-145  - AMM 1285 General 23-11-01 Page 1 of 4 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="2" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 23-11-01-860-801-A EFFECTIVITY:  AIRCRAFT WITH KHF-950 SYSTEM 2. HF CONTROL PANEL - PROGRAMMING A. General (1) This task gives the procedures to do the HF Control Panel KCU-951 programming. B. Zones and Accesses ZONE PANEL/DOOR LOCATION 223 223BZ Control pedestal C. Tools and Equipment Not Applicable D. Auxiliary Items Not Applicable E. Consumable Materials Not Applicable F. Expandable Parts Not Applicable G. Persons Recommended QTY FUNCTION PLACE 1 Does the task Cockpit H. Preparation SUBTASK 841-002-A EFFECTIVITY: AIRCRAFT WITH KHF-950 SYSTEM (1) Make sure that the HF System is in operation: I. Programming Procedures (Figure 201)  SUBTASK 860-002-A EFFECTIVITY: AIRCRAFT WITH KHF-950 SYSTEM (1) Program KCU-951 channels with the necessary frequencies, following procedures below: (a) Check that KCU-951 unit is ON and that FREQ/CHAN pushbutton is pressed (CHAN function). (b) Press PGM key and check that PGM annunciator comes into view on CHANNEL display. (c) Select desired frequency on FREQ-KHz display by means of outer (digit selection) and inner (number selection) knobs. (d) Press STO key to store frequency in KCU-951 unit. EMB-145  - AMM 1285 860-801-A/200 23-11-01 Page 2 of 4 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="3" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL NOTE: After STO key is pressed, TX annunciator remains flashing, thus indicating that frequency is stored in receiving operation only. (e) Select operation mode (USB, LSB and AM) by pressing MODE pushbutton, until desired mode comes into view on FREQ-KHz display. (f) Rotate inner knob, until number corresponding to desired channel comes into view on CHANNEL display. (g) Press PGM key to store desired mode and channel in KCU-951 memory and complete programming process. (h) Select a FREQ/CHAN and a mode and establish a contact. Ask information about quality of signal. (i) Rotate VOLUME knob fully counterclockwise (OFF position). EMB-145  - AMM 1285 860-801-A/200 23-11-01 Page 3 of 4 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="4" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: AIRCRAFT WITH KHF-950 SYSTEM HF Control Panel KCU-951 Programming  Figure 201 A MODE FREQ/CHAN SWITCH SWITCH BENDIX/KINGHF USB MODE FREQ/CHAN FREQ-KHZ CHANNEL PULL ON OFF CLARIFIER SQUELCH VOLUME STO PGM POWER AND PROGRAM VOLUME STORE SWITCH SWITCH FREQ/CHAN CONTROL DET. A 145AMM230385.MCE EMB-145  - AMM 1285 860-801-A/200 23-11-01 Page 4 of 4 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+	</pages>
+</metadata>

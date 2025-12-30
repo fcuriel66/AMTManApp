@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<amm revdate="20181029" tsn="55" cusname="" docnbr="1285">
+	<folder label="CHAPTER_05" title_id="" desc="05 Time Limits/maintenance Check"/>
+	<folder label="CHAPTER_06" title_id="" desc="06 Dimensions And Areas"/>
+	<folder label="CHAPTER_07" title_id="" desc="07 Lifting And Shoring"/>
+	<folder label="CHAPTER_08" title_id="" desc="08 Leveling And Weighing"/>
+	<folder label="CHAPTER_09" title_id="" desc="09 Towing And Taxiing"/>
+	<folder label="CHAPTER_10" title_id="" desc="10 Mooring, Parking, Storage, And Return-to-service"/>
+	<folder label="CHAPTER_11" title_id="" desc="11 Placards And Markings"/>
+	<folder label="CHAPTER_12" title_id="" desc="12 Servicing"/>
+	<folder label="CHAPTER_20" title_id="" desc="20 Standard Practices - Description"/>
+	<folder label="CHAPTER_21" title_id="" desc="21 Air Conditioning"/>
+	<folder label="CHAPTER_22" title_id="" desc="22 Auto Flight"/>
+	<folder label="CHAPTER_23" title_id="" desc="23 Communications"/>
+	<folder label="CHAPTER_24" title_id="" desc="24 Electrical Power"/>
+	<folder label="CHAPTER_25" title_id="" desc="25 Equipment/furnishings"/>
+	<folder label="CHAPTER_26" title_id="" desc="26 Fire Protection"/>
+	<folder label="CHAPTER_27" title_id="" desc="27 Flight Controls"/>
+	<folder label="CHAPTER_28" title_id="" desc="28 Fuel"/>
+	<folder label="CHAPTER_29" title_id="" desc="29 Hydraulic Power"/>
+	<folder label="CHAPTER_30" title_id="" desc="30 Ice And Rain Protection"/>
+	<folder label="CHAPTER_31" title_id="" desc="31 Indicating / Recording Systems"/>
+	<folder label="CHAPTER_32" title_id="" desc="32 Landing Gear"/>
+	<folder label="CHAPTER_33" title_id="" desc="33 Lights"/>
+	<folder label="CHAPTER_34" title_id="" desc="34 Navigation"/>
+	<folder label="CHAPTER_35" title_id="" desc="35 Oxygen"/>
+	<folder label="CHAPTER_36" title_id="" desc="36 Pneumatic"/>
+	<folder label="CHAPTER_38" title_id="" desc="38 Water / Waste"/>
+	<folder label="CHAPTER_45" title_id="" desc="45 Central Maintenance System"/>
+	<folder label="CHAPTER_49" title_id="" desc="49 Airborne Auxiliary Power"/>
+	<folder label="CHAPTER_51" title_id="" desc="51 Standard Practices And Structures"/>
+	<folder label="CHAPTER_52" title_id="" desc="52 Doors"/>
+	<folder label="CHAPTER_53" title_id="" desc="53 Fuselage"/>
+	<folder label="CHAPTER_54" title_id="" desc="54 Nacelles / Pylons"/>
+	<folder label="CHAPTER_55" title_id="" desc="55 Stabilizers"/>
+	<folder label="CHAPTER_56" title_id="" desc="56 Windows"/>
+	<folder label="CHAPTER_57" title_id="" desc="57 Wings"/>
+	<folder label="CHAPTER_71" title_id="" desc="71 Powerplant"/>
+	<folder label="CHAPTER_72" title_id="" desc="72 Engine"/>
+	<folder label="CHAPTER_73" title_id="" desc="73 Engine Fuel And Control"/>
+	<folder label="CHAPTER_74" title_id="" desc="74 Ignition"/>
+	<folder label="CHAPTER_75" title_id="" desc="75 Air"/>
+	<folder label="CHAPTER_76" title_id="" desc="76 Engine Controls"/>
+	<folder label="CHAPTER_77" title_id="" desc="77 Engine Indicating"/>
+	<folder label="CHAPTER_78" title_id="" desc="78 Exhaust"/>
+	<folder label="CHAPTER_79" title_id="" desc="79 Oil"/>
+	<folder label="CHAPTER_80" title_id="" desc="80 Starting"/>
+	<folder label="010_FRONTMATTER" title_id="" desc="Front Matter"/>
+</amm>

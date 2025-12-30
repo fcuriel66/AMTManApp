@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata id="MPP1285_34-23-03-04-1">
+	<file family="145" manual="AMM" pn="1285" chg="U" tsn="51" is_tr="false">
+		<title>AMM PART II-1285 - CHAPTER 34-23-03-04 - HGS OVERHEAD UNIT (OHU) - REMOVAL/INSTALLATION</title>
+		<path>/CHAPTER_34</path>
+		<hash>1d10ba365e190d31ad777107f9d3c7ed</hash>
+	</file>
+	<pages>
+		<page number="1" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL HGS OVERHEAD UNIT (OHU) - REMOVAL/INSTALLATION EFFECTIVITY:  AIRCRAFT WITH HEAD-UP GUIDANCE SYSTEM 1. General A. This section gives the procedure to remove/install the HGS Overhead Unit (OHU). B. The OHU is installed in the cockpit. C. The procedures in this section are given in the sequence below. The tasks identified with ( ♦) are part of the Scheduled Maintenance Requirements Document (SMRD). TASK NUMBER DESCRIPTION EFFECTIVITY AIRCRAFT WITH HEAD-UP GUIDANCE 34-23-03-000-801-A HGS OVERHEAD UNIT (OHU) - REMOVAL SYSTEM   AIRCRAFT WITH HGS OVERHEAD UNIT (OHU) - INSTAL- HEAD-UP GUIDANCE 34-23-03-400-801-A LATION SYSTEM   EMB-145  - AMM 1285 General 34-23-03 Page 1 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="2" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 34-23-03-000-801-A EFFECTIVITY:  AIRCRAFT WITH HEAD-UP GUIDANCE SYSTEM 2. HGS OVERHEAD UNIT (OHU) - REMOVAL A. General (1) This task gives the procedure to remove the HGS Overhead Unit (OHU). B. References REFERENCE DESIGNATION AMM TASK 25-12-01-000-801-A/400 COCKPIT LINING - REMOVAL C. Zones and Accesses Not Applicable D. Tools and Equipment Not Applicable E. Auxiliary Items Not Applicable F. Consumable Materials Not Applicable G. Expandable Parts Not Applicable H. Persons Recommended QTY FUNCTION PLACE 1 Does the task Cockpit I. Preparation SUBTASK 841-002-A (1) On the circuit breaker panel, open the OHU and HGS circuit breakers and attach a DO-NOT-CLOSE tag to them. (2) Remove the cockpit ceiling lining ( AMM TASK 25-12-01-000-801-A/400). J. Removal (Figure 401)  SUBTASK 020-002-A (1) Disconnect the two electrical connectors (3) from the OHU (2). (2) Remove the screw (5), lock washer (6), and two washers (4) which attach the bonding cable (7) to the OHU (2). (3) Release the three captive screws (1). (4) Remove the OHU (2). EMB-145  - AMM 1285 000-801-A/400 34-23-03 Page 2 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="3" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: AIRCRAFT WITH HEAD-UP GUIDANCE SYSTEM HGS Overhead Unit - Removal/Installation  Figure 401 A 3. ELECTRICAL     CONNECTOR (2) B 1. CAPTIVE     SCREW (3) 2. OHU DET. A 7. BONDING     CABLE 6. LOCK WASHER 5. SCREW 4. WASHER (2) DET. B 145AMM340453.MCE EMB-145  - AMM 1285 000-801-A/400 34-23-03 Page 3 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details. RELEASE AUTO HUD MAN BRT</data>
+		</page>
+		<page number="4" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 34-23-03-400-801-A EFFECTIVITY:  AIRCRAFT WITH HEAD-UP GUIDANCE SYSTEM 3. HGS OVERHEAD UNIT (OHU) - INSTALLATION A. General (1) This task gives the procedure to install the HGS Overhead Unit (OHU). B. References REFERENCE DESIGNATION AMM TASK 25-12-01-400-801-A/400 COCKPIT LINING - INSTALLATION HEAD-UP GUIDANCE SYSTEM (HGS) - OPERATION- AMM TASK 34-23-00-700-801-A/500 AL TEST C. Zones and Accesses Not Applicable D. Tools and Equipment Not Applicable E. Auxiliary Items Not Applicable F. Consumable Materials Not Applicable G. Expandable Parts Not Applicable H. Persons Recommended QTY FUNCTION PLACE 1 Does the task Cockpit I. Installation (Figure 401)  SUBTASK 420-002-A (1) Put the OHU (2) in its installation position. (2) Tighten the three captive screws (1). (3) Connect the two electrical connectors (3) to the OHU (2). (4) Tighten the screw (5), lock washer (6), and two washers (4) which attach the bonding cable (7) to the OHU (2). J. Follow-on SUBTASK 842-002-A (1) On the circuit breaker panel, close the HCP and HGS circuit breakers and remove the DO-NOT-CLOSE tag from them. EMB-145  - AMM 1285 400-801-A/400 34-23-03 Page 4 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="5" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL (2) Install the cockpit ceiling lining ( AMM TASK 25-12-01-400-801-A/400). (3) Do the HGS operational test (AMM TASK 34-23-00-700-801-A/500). EMB-145  - AMM 1285 400-801-A/400 34-23-03 Page 5 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="6" width="216.0" height="279.0">
+			<data/>
+		</page>
+	</pages>
+</metadata>

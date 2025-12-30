@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata id="MPP1285_32-50-04-05-1">
+	<file family="145" manual="AMM" pn="1285" chg="U" tsn="51" is_tr="false">
+		<title>AMM PART II-1285 - CHAPTER 32-50-04-05 - STEERING MANIFOLD - ADJUSTMENT/TEST</title>
+		<path>/CHAPTER_32</path>
+		<hash>f02020a21e136211680f317d8b4f1135</hash>
+	</file>
+	<pages>
+		<page number="1" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL STEERING MANIFOLD - ADJUSTMENT/TEST EFFECTIVITY:  ALL 1. General A. This section gives the procedures to do a test of the steering manifold for its correct operation. B. The procedures in this section are given in the sequence below. The tasks identified with ( ♦) are part of the Scheduled Maintenance Requirements Document (SMRD). TASK NUMBER DESCRIPTION EFFECTIVITY STEERING MANIFOLD - FUNCTIONAL ALL 32-50-04-700-801-A TEST  EMB-145  - AMM 1285 General 32-50-04 Page 1 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="2" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 32-50-04-700-801-A EFFECTIVITY:  ALL 2. STEERING MANIFOLD - FUNCTIONAL TEST A. General (1) This task gives the procedures to do a functional test of the steering manifold. B. References REFERENCE DESIGNATION AMM MPP 06-41-01/100 - ENERGIZATION OF THE AIRCRAFT WITH AN EX- AMM TASK 20-40-01-860-801-A/200 TERNAL POWER SOURCE HYDRAULIC SYSTEM - PRESSURIZATION WITH AMM TASK 29-10-00-860-802-A/200 EMDP AMM TASK 32-00-01-910-801-A/200 LG SAFETY PIN - INSTALLATION AND REMOVAL C. Zones and Accesses ZONE PANEL/DOOR LOCATION Access to the nose hydraulic system 114 114CR compartment D. Tools and Equipment ITEM DESCRIPTION PURPOSE QTY GSE 050 Multimeter   GSE 355 Steering Manifold Test Harness   E. Auxiliary Items Not Applicable F. Consumable Materials Not Applicable G. Expandable Parts Not Applicable H. Persons Recommended QTY FUNCTION PLACE 1 Does the task Nose hydraulic system compartment 1 Helps the other technician Cockpit I. Preparation SUBTASK 841-002-A (1) Make sure that the pressure in hydraulic systems No. 1 and No. 2 is fully released ( AMM TASK 29-10-00-860-802-A/200). EMB-145  - AMM 1285 700-801-A/500 32-50-04 Page 2 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="3" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL (2) Make sure that the tow bar is disconnected from the nose landing gear (NLG). (3) Make sure that the safety pins are installed on the landing gears ( AMM TASK 32-00-01-910-801-A/200). (4) Energize the aircraft ( AMM TASK 20-40-01-860-801-A/200). (5) Pressurize hydraulic system No. 1 ( AMM TASK 29-10-00-860-802-A/200). (6) Open access door 114CR of the nose hydraulic compartment (AMM MPP 06-41-01/100). J. Functional Test of the Steering Manifold (Figure 501)  (Figure 502)  SUBTASK 720-002-A (1) Do this check: (a) On the circuit breaker panel, open the STEER circuit breaker. (b) Disconnect connector P0053 and install the test harness (GSE 355). (c) Connect the ammeter (0-20 mA) (GSE 050) in series with pin (E). (d) On the circuit breaker panel, close the STEER circuit breaker. (e) Make sure that the servo valve current is 0 ÃÂ± 0.5 mA. NOTE: If the servo valve current is not 0 ÃÂ± 0.5 mA, replace the steering manifold. (f) Turn the steering handle wheel as far as its left backstop and push it. Result: 1 Make sure that the servo valve current is 10 ÃÂ± 2 mA. NOTE: • If the servo valve current is not 10 ÃÂ± 2 mA, replace the steering manifold. • The nose wheels must not move while performing this task. (g) Turn the steering handle wheel to its neutral position. (h) Release the steering handle wheel. K. Follow-on SUBTASK 842-002-A (1) On the circuit breaker panel, close the STEER circuit breaker. (2) Remove the ammeter. (3) Remove the test harness. (4) Connect connector P0053 to the hydraulic control unit. (5) Release all the pressure of hydraulic system No. 1 ( AMM TASK 29-10-00-860-802-A/ 200). (6) Deenergize the aircraft ( AMM TASK 20-40-01-860-801-A/200). (7) Close access panel 114CR. EMB-145  - AMM 1285 700-801-A/500 32-50-04 Page 3 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="4" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: ALL Steering Manifold - Functional Test  Figure 501 A ZONE 114 B DET. A 1.  ELECTRICAL      CONNECTOR P0053 2. HYDRAULIC TUBE 3. STEERING MANIFOLD 4. WASHER (3) 5. BOLT (3) 7. HYDRAULIC TUBE DET. B 6. HYDRAULIC TUBE 145AMM320253.MCE B EMB-145  - AMM 1285 700-801-A/500 32-50-04 Page 4 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="5" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: ALL Test Harness Assembly and Installation  Figure 502 J0053 A B C D E F (MS3470L10-6P) WG24 15 CM TERMINAL (320555) P0053 A B C D E F (MS3476L10-6S) CURRENT READING NOTE: IDENTIFY THE POSITIVE TERMINALS (+) BY RED COLOR AND THE NEGATIVE TERMINALS (-) BY THE BLACK COLOR. FLUKE 85 MULTIMETER MIN MAX RANGE HOLD REL Hz -... - I- I mV + ... ... mA- - ~ V A ... ,u - ~ A V ~ OFF + A mA  A ,u COM V 400mA MAX FUSED 10A MAX 1000V MAX FUSED E (+) E (-) HYDRAULIC CONTROL UNIT 145AMM320293.MCE C EMB-145  - AMM 1285 700-801-A/500 32-50-04 Page 5 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="6" width="216.0" height="279.0">
+			<data/>
+		</page>
+	</pages>
+</metadata>

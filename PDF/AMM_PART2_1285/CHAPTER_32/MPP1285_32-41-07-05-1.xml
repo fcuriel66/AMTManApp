@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata id="MPP1285_32-41-07-05-1">
+	<file family="145" manual="AMM" pn="1285" chg="U" tsn="51" is_tr="false">
+		<title>AMM PART II-1285 - CHAPTER 32-41-07-05 - HYDRAULIC FUSE - ADJUSTMENT/TEST</title>
+		<path>/CHAPTER_32</path>
+		<hash>b1202e4ae9c6552e5d73dc948dc69f91</hash>
+	</file>
+	<pages>
+		<page number="1" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL HYDRAULIC FUSE - ADJUSTMENT/TEST EFFECTIVITY:  ALL 1. General A. This section gives the procedures to do the functional check of the Main Brake Hydraulic Fuses. B. The procedures in this section are given in the sequence below. The tasks identified with ( ♦) are part of the Scheduled Maintenance Requirements Document (SMRD). TASK NUMBER DESCRIPTION EFFECTIVITY MAIN BRAKE HYDRAULIC FUSES - ALL 32-41-07-700-801-A ♦ FUNCTIONAL CHECK  EMB-145  - AMM 1285 General 32-41-07 Page 1 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="2" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 32-41-07-700-801-A EFFECTIVITY:  ALL 2. MAIN BRAKE HYDRAULIC FUSES - FUNCTIONAL CHECK A. General (1) This task gives the procedures to do the functional check of the Main Brake Hydraulic Fuses. B. References REFERENCE DESIGNATION AMM MPP 06-44-00/100 - COMPONENT LOCATION HYDRAULIC SYSTEM - PRESSURIZATION WITH AMM TASK 29-10-00-860-801-A/200 HTS AMM TASK 32-00-01-910-801-A/200 LG SAFETY PIN - INSTALLATION AND REMOVAL NORMAL BRAKE AND EMERGENCY PARKING AMM TASK 32-40-00-800-801-A/200 BRAKE SYSTEMS - BLEEDING C. Zones and Accesses ZONE PANEL/DOOR LOCATION 532 532AB Left main Landing Gear 632 632AB Right Main Landing Gear D. Tools and Equipment ITEM DESCRIPTION PURPOSE QTY GSE 108 Hose, wheel brake bleed To bleed the brake system  E. Auxiliary Items ITEM DESCRIPTION PURPOSE QTY Commercially Container with graduations To collect the hydraulic fluid 1 available Commercially Rubber Gloves, Phosphate Ester-Base, Protection for the hands 1 available Fluid Resistant Commercially Rubber Goggles, Phosphate Ester- Protection for the Eyes 1 available Base, Fluid Resistant F. Consumable Materials Not Applicable G. Expandable Parts Not Applicable EMB-145  - AMM 1285 700-801-A/500 32-41-07 Page 2 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="3" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL H. Persons Recommended QTY FUNCTION PLACE 1 Does the task Cockpit 1 Helps the other technician Outside the aircraft I. Preparation SUBTASK 841-002-A (1) Isolate the operational areas near the landing gear. (2) Make sure that the safety pins are installed on the landing gears ( AMM TASK 32-00-01-910-801-A/200). (3) Remove access panels 532AB and 632AB ( AMM MPP 06-44-00/100). (4) Get access to the Landing Gear Brake Assembly (Figure 501). (5) Remove the bolts from the brake-assembly bleed valves. (6) Install GSE 108 in all brake assemblies. Put the container near the landing gear to collect the hydraulic fluid. NOTE: There are two bleed valves in each brake assembly. You must install the GSE 108 in the bleed valve that is in a higher position than the other bleed valve. (7) Pressurize the hydraulic system ( AMM TASK 29-10-00-860-801-A/200). J. Functional check of the Main Brake Hydraulic Fuses (Figure 501)  SUBTASK 720-002-A (1) Do a check of the hydraulic fuse of the left inboard brake. (a) With the pilot's or copilot's left brake pedal fully pushed, slowly open the inboard brake-assembly bleed valves, on the LH MLG. Result: 1 The hydraulic fuse of the left inboard brake stops the flow of the hydraulic 3 fluid with a maximum volume of 21 cu.in (350 cm ). (b) Close the bleed valves and reset the hydraulic fuse of the left inboard brake. Use the actuating lever to reset it. (c) Release the pressure on the left pedal. (d) Do the brake bleeding for the left inboard brake ( AMM TASK 32-40-00-800-801- A/200). (2) Do step 1 for the hydraulic fuse of the left outboard brake. (3) Do step 1 for the hydraulic fuse of the right inboard brake, applying pressure on the right brake pedal. (4) Do step 1 for the hydraulic fuse of the right outboard brake, applying pressure on the right brake pedal. EMB-145  - AMM 1285 700-801-A/500 32-41-07 Page 3 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="4" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL K. Follow-on SUBTASK 842-002-A (1) Release the pressure from the hydraulic system ( AMM TASK 29-10-00-860-801-A/ 200). (2) Install access panels 532AB and 632AB ( AMM MPP 06-44-00/100). EMB-145  - AMM 1285 700-801-A/500 32-41-07 Page 4 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="5" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: ALL Hydraulic Fuses - Test  Figure 501 HYDRAULIC FUSE (LH OUTBD BRAKE) C A ZONE 532 B D ZONE ZONES 632 721 731 C HYDRAULIC FUSE (LH INBD BRAKE) DET. A HYDRAULIC FUSE (RH OUTBD BRAKE) C DET. D MAXIMUM VOLUME 21 cu. in. BRAKE (350 cmÃÂ³) CONTROL VALVE HYDRAULIC FLUID DIRECTION C BRAKE HYDRAULIC FUSE ACTUATING ASSEMBLY DET. B (RH INBD BRAKE) LEVER DET. C EM145AMM320259D.DGN EMB-145  - AMM 1285 700-801-A/500 32-41-07 Page 5 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="6" width="216.0" height="279.0">
+			<data/>
+		</page>
+	</pages>
+</metadata>

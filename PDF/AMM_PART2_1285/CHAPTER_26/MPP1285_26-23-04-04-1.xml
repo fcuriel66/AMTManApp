@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata id="MPP1285_26-23-04-04-1">
+	<file family="145" manual="AMM" pn="1285" chg="U" tsn="51" is_tr="false">
+		<title>AMM PART II-1285 - CHAPTER 26-23-04-04 - BAGGAGE-COMPARTMENT FIRE EXTINGUISHER SYSTEM TWO-WAY CHECK TEE VALVE - REMOVAL/INSTALLATION</title>
+		<path>/CHAPTER_26</path>
+		<hash>4691e122a6ffcef6372af6812d1301b9</hash>
+	</file>
+	<pages>
+		<page number="1" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL BAGGAGE-COMPARTMENT FIRE EXTINGUISHER SYSTEM TWO-WAY CHECK TEE VALVE - REMOVAL/INSTALLATION EFFECTIVITY:  CLASS-C BAGGAGE COMPARTMENT 1. General A. This section gives the procedures to remove and install the two-way check tee valve. B. The procedures in this section are given in the sequence below. The tasks identified with ( ♦) are part of the Scheduled Maintenance Requirements Document (SMRD). TASK NUMBER DESCRIPTION EFFECTIVITY CLASS-C BAGGAGE TWO-WAY CHECK TEE VALVE - REMOV- 26-23-04-000-801-A COMPARTMENT AL   CLASS-C BAGGAGE TWO-WAY CHECK TEE VALVE - INSTAL- 26-23-04-400-801-A COMPARTMENT LATION   EMB-145  - AMM 1285 General 26-23-04 Page 1 of 6 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="2" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 26-23-04-000-801-A EFFECTIVITY:  CLASS-C BAGGAGE COMPARTMENT 2. TWO-WAY CHECK TEE VALVE - REMOVAL A. General (1) Obey the instructions below to remove the two-way check tee valve. B. References REFERENCE DESIGNATION AMM MPP 06-41-01/100 - C. Zones and Accesses ZONE PANEL/DOOR LOCATION 272 272DR Electronic compartment D. Tools and Equipment Not Applicable E. Auxiliary Items ITEM DESCRIPTION PURPOSE QTY Commercially Ladder To get access to the electronic compartment 1 available F. Consumable Materials Not Applicable G. Expandable Parts Not Applicable H. Persons Recommended QTY FUNCTION PLACE 1 Does the task Electronic compartment I. Preparation SUBTASK 841-002-A (1) On the circuit breaker panel, open the BAGGAGE FIRE EXTG circuit breaker and attach a DO-NOT-CLOSE tag to it. (2) Put the ladder in the work area. (3) Open access door 272DR (AMM MPP 06-41-01/100) to get access to the electronic compartment. EMB-145  - AMM 1285 000-801-A/400 26-23-04 Page 2 of 6 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="3" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL J. Removal (Figure 401)  SUBTASK 020-002-A (1) Release the discharge piping nuts (1) from the two-way check tee valve (2). (2) Carefully move the discharge pipings to permit the removal of the two-way check tee valve (2). (3) Install protection caps to the disconnected points. EMB-145  - AMM 1285 000-801-A/400 26-23-04 Page 3 of 6 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="4" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: CLASS-C BAGGAGE COMPARTMENT Two-Way Check Tee Valve - Removal/Installation  Figure 401 B ZONE 272 A DET. A 1 1.  NUT 2.  TWO-WAY CHECK      TEE VALVE 1 1.  NUT 1 1.  NUT DET. B 1 TORQUE: 37.3 TO 40.7 N.m (330 TO 360 lb.in) 145AMM260073B.MCE EMB-145  - AMM 1285 000-801-A/400 26-23-04 Page 4 of 6 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="5" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 26-23-04-400-801-A EFFECTIVITY:  CLASS-C BAGGAGE COMPARTMENT 3. TWO-WAY CHECK TEE VALVE - INSTALLATION A. General (1) Obey the instructions below to install the two-way check tee valve. B. References REFERENCE DESIGNATION AMM MPP 06-41-01/100 - C. Zones and Accesses ZONE PANEL/DOOR LOCATION 272 272DR Electronic compartment D. Tools and Equipment Not Applicable E. Auxiliary Items ITEM DESCRIPTION PURPOSE QTY Commercially Ladder To get access to the electronic compartment 1 available F. Consumable Materials Not Applicable G. Expandable Parts Not Applicable H. Persons Recommended QTY FUNCTION PLACE 1 Does the task Electronic compartment I. Installation (Figure 401)  SUBTASK 420-002-A (1) Remove the protection caps from the disconnected points. (2) Put the two-way check tee valve (2) in its installation position. CAUTION: DO NOT TRANSMIT THE AIRCRAFT TUBE WEIGHT OR STRAIN TO THE VALVE. ALIGN BEFORE YOU CONNECT THEM. (3) Connect the discharge piping nuts (1) to the two-way check tee valve (2). EMB-145  - AMM 1285 400-801-A/400 26-23-04 Page 5 of 6 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="6" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL J. Follow-on SUBTASK 842-002-A (1) Close access door 272DR (AMM MPP 06-41-01/100). (2) Remove the ladder from the work area. (3) On the circuit breaker panel, close the BAGGAGE FIRE EXTG circuit breaker and remove the DO-NOT-CLOSE tag from it. EMB-145  - AMM 1285 400-801-A/400 26-23-04 Page 6 of 6 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+	</pages>
+</metadata>

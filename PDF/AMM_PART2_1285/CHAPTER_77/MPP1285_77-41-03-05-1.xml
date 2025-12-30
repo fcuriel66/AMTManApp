@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata id="MPP1285_77-41-03-05-1">
+	<file family="145" manual="AMM" pn="1285" chg="U" tsn="51" is_tr="false">
+		<title>AMM PART II-1285 - CHAPTER 77-41-03-05 - EVM BOX - ADJUSTMENT/TEST</title>
+		<path>/CHAPTER_77</path>
+		<hash>e003c6b2528ddac60125736c43a88f87</hash>
+	</file>
+	<pages>
+		<page number="1" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EVM BOX - ADJUSTMENT/TEST EFFECTIVITY:  ALL 1. General A. This section gives the procedures for the EVM operational test. B. The EVM operational test switch is installed on the maintenance panel, behind the pilot seat. C. The procedures in this section are given in the sequence below. The tasks identified with ( ♦) are part of the Scheduled Maintenance Requirements Document (SMRD). TASK NUMBER DESCRIPTION EFFECTIVITY ALL 77-41-03-700-801-A EVM - OPERATIONAL TEST   EMB-145  - AMM 1285 General 77-41-03 Page 1 of 4 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="2" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 77-41-03-700-801-A EFFECTIVITY:  ALL 2. EVM - OPERATIONAL TEST A. General (1) Do the EVM operational test after the EVM installation or when it is necessary to make sure that its operation is correct. B. References REFERENCE DESIGNATION ENERGIZATION OF THE AIRCRAFT WITH AN EX- AMM TASK 20-40-01-860-801-A/200 TERNAL POWER SOURCE C. Zones and Accesses Not Applicable D. Tools and Equipment Not Applicable E. Auxiliary Items Not Applicable F. Consumable Materials Not Applicable G. Expandable Parts Not Applicable H. Persons Recommended QTY FUNCTION PLACE 1 Does the task Cockpit I. Preparation SUBTASK 841-002-A (1) Energize the aircraft ( AMM TASK 20-40-01-860-801-A/200). J. Operational Test (Figure 501)  SUBTASK 710-002-A (1) Do the operational test as follows: (a) Set the EVM test switch (on the maintenance panel) to the “TEST” position, and hold the switch in this position for a minimum of four seconds. Result: 1 The engines LP and HP vibration pointers, on the EICAS, move from the bottom to the center of the vertical scale and then to the top. Then, it moves back to the bottom again. EMB-145  - AMM 1285 700-801-A/500 77-41-03 Page 2 of 4 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="3" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL (2) When the EVM finds an internal failure, it does not give the output signal for indication. If that occurs, the vibration pointers on the EICAS will stay at zero. K. Follow-on SUBTASK 842-002-A (1) Deenergize the aircraft ( AMM TASK 20-40-01-860-801-A/200). EMB-145  - AMM 1285 700-801-A/500 77-41-03 Page 3 of 4 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="4" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: ALL EVM Operational Test - Component Locations  Figure 501 C A ZONE DET. A 223 224 B DET. C VIBRATION EICAS DISPLAY INDICATORS DET. B EVM TEST SWITCH EM145AMM770001D.DGN EMB-145  - AMM 1285 700-801-A/500 77-41-03 Page 4 of 4 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+	</pages>
+</metadata>

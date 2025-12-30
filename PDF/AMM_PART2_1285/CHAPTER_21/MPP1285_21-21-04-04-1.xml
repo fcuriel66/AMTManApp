@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata id="MPP1285_21-21-04-04-1">
+	<file family="145" manual="AMM" pn="1285" chg="U" tsn="51" is_tr="false">
+		<title>AMM PART II-1285 - CHAPTER 21-21-04-04 - EFIS VENTILATION SYSTEM SHUTOFF VALVES - REMOVAL/INSTALLATION</title>
+		<path>/CHAPTER_21</path>
+		<hash>f2fbe6bf94efaf974d2061ad42e9e16b</hash>
+	</file>
+	<pages>
+		<page number="1" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFIS VENTILATION SYSTEM SHUTOFF VALVES - REMOVAL/INSTALLATION EFFECTIVITY:  ALL 1. General A. This section gives the procedures to remove and install the shutoff valves of the EFIS ventilation ducts. B. These procedures are applicable to the LH and RH shutoff valves. C. The procedures in this section are given in the sequence below. The tasks identified with ( ♦) are part of the Scheduled Maintenance Requirements Document (SMRD). TASK NUMBER DESCRIPTION EFFECTIVITY ALL 21-21-04-000-801-A SHUTOFF VALVE - REMOVAL   ALL 21-21-04-400-801-A SHUTOFF VALVE - INSTALLATION   EMB-145  - AMM 1285 General 21-21-04 Page 1 of 6 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="2" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 21-21-04-000-801-A EFFECTIVITY:  ALL 2. SHUTOFF VALVE - REMOVAL A. General (1) This task gives the instructions to remove the shutoff valve of the EFIS ventilation duct. B. References REFERENCE DESIGNATION AMM MPP 06-41-02/100 - C. Zones and Accesses ZONE PANEL/DOOR LOCATION 221 221CF Cockpit floor 222 222BF Cockpit floor D. Tools and Equipment Not Applicable E. Auxiliary Items Not Applicable F. Consumable Materials Not Applicable G. Expandable Parts Not Applicable H. Persons Recommended QTY FUNCTION PLACE 1 Does the task Under the cockpit floor I. Preparation SUBTASK 841-002-A (1) Remove cockpit floor panel 221CF or 222BF (AMM MPP 06-41-02/100). (2) On the circuit breaker panel, open the DISPLAY circuit breaker and attach a DO-NOT- CLOSE tag to it. J. Removal (Figure 401)  SUBTASK 020-002-A (1) Disconnect the electrical connector (2). (2) Remove the clamps (5) and (6). (3) Remove the adhesive tapes (3) and (7). EMB-145  - AMM 1285 000-801-A/400 21-21-04 Page 2 of 6 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="3" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL (4) Remove the shutoff valve (1). EMB-145  - AMM 1285 000-801-A/400 21-21-04 Page 3 of 6 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="4" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: ALL Shutoff Valve - Removal/Installation  Figure 401 A ZONES 123 124 B DET. A C B 2.  ELECTRICAL      CONNECTOR C DET. B 3.  ADHESIVE 1.  SHUTOFF     TAPE VALVE 8.  DUCT 4.  DUCT 5.  CLAMP 6.  CLAMP DET. C 7.  ADHESIVE 145AMM210145.MCE A      TAPE EMB-145  - AMM 1285 000-801-A/400 21-21-04 Page 4 of 6 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="5" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 21-21-04-400-801-A EFFECTIVITY:  ALL 3. SHUTOFF VALVE - INSTALLATION A. General (1) This task gives the instructions to install the shutoff valve of the EFIS ventilation duct. B. References REFERENCE DESIGNATION AMM MPP 06-41-02/100 - AMM TASK 28-41-00-200-801-A/600 - C. Zones and Accesses ZONE PANEL/DOOR LOCATION 221 221CF Cockpit floor 222 222BF Cockpit floor D. Tools and Equipment Not Applicable E. Auxiliary Items Not Applicable F. Consumable Materials SPECIFICATION DESCRIPTION QTY (BRAND) KB42/75 - 75 mm (2.95 in) Adhesive tape AR G. Expandable Parts Not Applicable H. Persons Recommended QTY FUNCTION PLACE 1 Does the task Under the cockpit floor 1 Helps the other technician Under the cockpit floor I. Installation (Figure 401)  SUBTASK 420-002-A (1) Put the shutoff valve (1) in its installation position between the ducts (4) and (8). (2) Attach the shutoff valve (1) to the ducts (4) and (8), with five turns of the adhesive tapes (3) and (7). (3) Install the clamps (5) and (6). EMB-145  - AMM 1285 400-801-A/400 21-21-04 Page 5 of 6 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="6" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL (4) Connect the electrical connector (3). J. Follow-on SUBTASK 842-002-A (1) Do an inspection on the fuel quantity indication harness (AMM TASK 28-41-00-200-801-A/600). NOTE: The inspection of fuel quantity indication harness is part of Critical Design Configuration Control Limitations (CDCCL) in the Airworthiness Limitations of the Aircraft Maintenance Program. (2) Install cockpit floor panel 221CF or 222BF (AMM MPP 06-41-02/100). (3) On the circuit breaker panel, close the DISPLAY circuit breaker and remove the DO- NOT-CLOSE tag from it. EMB-145  - AMM 1285 400-801-A/400 21-21-04 Page 6 of 6 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+	</pages>
+</metadata>

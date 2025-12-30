@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata id="MPP1285_22-11-04-06-1">
+	<file family="145" manual="AMM" pn="1285" chg="U" tsn="51" is_tr="false">
+		<title>AMM PART II-1285 - CHAPTER 22-11-04-06 - ELEVATOR SERVO - INSPECTION/CHECK</title>
+		<path>/CHAPTER_22</path>
+		<hash>1f848a7d53fdb9fd96b0c101717a489b</hash>
+	</file>
+	<pages>
+		<page number="1" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL ELEVATOR SERVO - INSPECTION/CHECK EFFECTIVITY:  ALL 1. General A. This section gives the procedures to do an inspection of the SM-200 elevator servo and SB-200 elevator servo support. B. The procedures in this section are given in the sequence below. The tasks identified with ( ♦) are part of the Scheduled Maintenance Requirements Document (SMRD). TASK NUMBER DESCRIPTION EFFECTIVITY ELEVATOR SERVO AND SUPPORT - IN- ALL 22-11-04-200-801-A SPECTION  EMB-145  - AMM 1285 General 22-11-04 Page 1 of 4 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="2" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 22-11-04-200-801-A EFFECTIVITY:  ALL 2. ELEVATOR SERVO AND SUPPORT - INSPECTION A. General (1) This task gives the procedures to do a visual inspection of the elevator servo and support. B. References REFERENCE DESIGNATION AMM MPP 06-41-01/100 - AMM TASK 22-11-04-000-801-A/400 ELEVATOR AUTOPILOT SERVO - REMOVAL SUPPORT OF THE ELEVATOR AUTOPILOT SERVO - AMM TASK 22-11-04-000-802-A/400 REMOVAL AMM TASK 22-11-04-400-801-A/400 ELEVATOR AUTOPILOT SERVO - INSTALLATION SUPPORT OF THE ELEVATOR AUTOPILOT SERVO - AMM TASK 22-11-04-400-802-A/400 INSTALLATION TENSION OF THE ELEVATOR AUTOPILOT-SERVO AMM TASK 27-31-01-700-802-A/500 CABLES C. Zones and Accesses ZONE PANEL/DOOR LOCATION 123 123BL Below the cockpit floor D. Tools and Equipment Not Applicable E. Auxiliary Items Not Applicable F. Consumable Materials Not Applicable G. Expandable Parts Not Applicable H. Persons Recommended QTY FUNCTION PLACE 1 Does the task Cockpit I. Preparation SUBTASK 841-002-A (1) On the circuit breaker panel, open the AP 1 circuit breaker and attach a DO-NOT- CLOSE tag to it. (2) Remove access door 123BL (AMM MPP 06-41-01/100). EMB-145  - AMM 1285 200-801-A/600 22-11-04 Page 2 of 4 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="3" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL J. Elevator Servo and Support - Inspection (Figure 601)  SUBTASK 210-002-A (1) Do a visual inspection of the elevator servo and support for: (a) Brackets and cable wear or contamination. (b) Cable spool off angle. (c) Security of installation of servo and servo support to the airframe. (2) Move the control column fully forward and backward. (3) Make sure that the servo and servo support have no noise, binding, backlash or other mechanical irregularities. (4) Do a check to see if the elevator servo-control cable is under specified tension ( AMM TASK 27-31-01-700-802-A/500). NOTE: If you find a failure of the servo or servo support, replace the defective servo (AMM TASK 22-11-04-000-801-A/400), (AMM TASK 22-11-04-400-801-A/400) or servo support (AMM TASK 22-11-04-000-802-A/400), (AMM TASK 22-11-04-400-802-A/400). K. Follow-on SUBTASK 842-002-A (1) Install access door 123BL (AMM MPP 06-41-01/100). (2) On the circuit breaker panel, close the AP 1 circuit breaker and remove the DO-NOT- CLOSE tag from it. EMB-145  - AMM 1285 200-801-A/600 22-11-04 Page 3 of 4 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="4" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: ALL Elevator Servo and Support - Inspection  Figure 601 CONTROL COLUMN A ELEVATOR BRACKET AUTOPILOT SERVO B SERVO SERVO SUPPORT CONTROL CABLE DET. A DET. B CONTROL CABLE CABLE SPOOL TURNBUCKLE CONTROL CABLE TURNBUCKLE 145AMM220030.MCE A EMB-145  - AMM 1285 200-801-A/600 22-11-04 Page 4 of 4 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+	</pages>
+</metadata>

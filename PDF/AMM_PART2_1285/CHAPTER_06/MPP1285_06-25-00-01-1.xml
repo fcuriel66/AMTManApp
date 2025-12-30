@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata id="MPP1285_06-25-00-01-1">
+	<file family="145" manual="AMM" pn="1285" chg="U" tsn="51" is_tr="false">
+		<title>AMM PART II-1285 - CHAPTER 06-25-00-01 - CONFIG-1 - NACELLE STATION DIAGRAM - COMPONENT LOCATION</title>
+		<path>/CHAPTER_06</path>
+		<hash>7e81175af402e7fc382b6db9068796c3</hash>
+	</file>
+	<pages>
+		<page number="1" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL NACELLE STATION DIAGRAM - COMPONENT LOCATION EFFECTIVITY:  ACFT MODEL(S) EMB-145 1. General A. This section gives the nacelle station diagram (Figure 101). B. The nacelle station diagram gives a reference system that shows the location of structural components in relation to the datum planes. EMB-145  - AMM 1285 General CONFIG-1 06-25-00 Page 1 of 3 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="2" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL NACELLE STATION DIAGRAM - COMPONENT LOCATION EFFECTIVITY:  ACFT MODEL(S) EMB-145 2. Nacelle Station Diagram. EMB-145  - AMM 1285 PGBLK 100 CONFIG-1 06-25-00 Page 2 of 3 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="3" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: ALL Nacelle Station Diagram  Figure 101 XN XN XN XN XN 0.00 194.65 929.00 3197.50 4524.03 NACELLE  REF POINT NAC COORD SYS ORIGIN ENGINE C Z HORIZ REF L 592.00 FUSELAGE C Z L 0.00 ENGINE/NACELLE CG REAR MOUNT REF POINT Y Y 2ÃÂº -2102.00 0.00 XN XN ( AIR  INTAKE 1528.32 3000.00 HILITE ) X 23251.00 5˚ ENGINE/NACELLE CG X = 22336.60 Y = -2110.85 Z = 490.79 NACELLE REF. Z X = 20251.00 592.00 Y = -2102.00 Z = 582.00 FUSELAGE C Z L 0.00 X X X X 21025.00 21699.32 23221.00 24636.00 FUSELAGE C L ENGINE C L AIR INLET MODULE EXHAUST MODULE COWLING MODULE X 23251.00 145AMM060039.MCE A EMB-145  - AMM 1285 PGBLK 100 CONFIG-1 06-25-00 Page 3 of 3 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details. REAR MOUNT FRONT MOUNT REAR MOUNT FUSELAGE C L VERTICAL REF. ENGINE C L</data>
+		</page>
+		<page number="4" width="216.0" height="279.0">
+			<data/>
+		</page>
+	</pages>
+</metadata>

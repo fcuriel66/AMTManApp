@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata id="MPP1285_27-11-06-05-1">
+	<file family="145" manual="AMM" pn="1285" chg="U" tsn="51" is_tr="false">
+		<title>AMM PART II-1285 - CHAPTER 27-11-06-05 - ARTIFICIAL FEEL UNIT - ADJUSTMENT/TEST</title>
+		<path>/CHAPTER_27</path>
+		<hash>caf8d9f2b5c164abaeb2a2b9fd502c31</hash>
+	</file>
+	<pages>
+		<page number="1" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL ARTIFICIAL FEEL UNIT - ADJUSTMENT/TEST EFFECTIVITY:  ALL 1. General A. This section gives the procedure to do the adjustment of the artificial feel unit. B. The procedures in this section are given in the sequence below. The tasks identified with ( ♦) are part of the Scheduled Maintenance Requirements Document (SMRD). TASK NUMBER DESCRIPTION EFFECTIVITY ARTIFICIAL FEEL UNIT - ADJUSTMENT/ ALL 27-11-06-700-801-A TEST  EMB-145  - AMM 1285 General 27-11-06 Page 1 of 7 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="2" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 27-11-06-700-801-A EFFECTIVITY:  ALL 2. ARTIFICIAL FEEL UNIT - ADJUSTMENT/TEST A. General (1) This procedure gives the instruction to adjust the artificial feel unit. B. References REFERENCE DESIGNATION AMM TASK 27-11-06-000-801-A/400 ARTIFICIAL FEEL UNIT - REMOVAL AMM TASK 27-11-06-400-801-A/400 ARTIFICIAL FEEL UNIT - INSTALLATION HYDRAULIC SYSTEM - PRESSURIZATION WITH AMM TASK 29-10-00-860-801-A/200 HTS C. Zones and Accesses ZONE PANEL/DOOR LOCATION 123 123BL Area below the cockpit floor - LH D. Tools and Equipment ITEM DESCRIPTION PURPOSE QTY To lock the control wheel in the neutral posi- GSE 058 Rig Pin Kit  tion GSE 070 Protractor, Digital To measure the control wheel deflection  E. Auxiliary Items Not Applicable F. Consumable Materials Not Applicable G. Expandable Parts Not Applicable H. Persons Recommended QTY FUNCTION PLACE 1 Does the task Cockpit I. Preparation SUBTASK 841-002-A (1) Make sure that the aircraft is safe for maintenance. (2) Make sure that the roll trim is in the neutral position. Refer to the EICAS indication (Figure 501). EMB-145  - AMM 1285 700-801-A/500 27-11-06 Page 2 of 7 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="3" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL (3) Pressurize the hydraulic system ( AMM TASK 29-10-00-860-801-A/200). (4) On the Overhead Panel, push the AILERON SHUTOFF SYS 1 and AILERON SHUTOFF SYS 2 pushbuttons to turn on AILERON system 1 and AILERON system 2. • Make sure that the pushbuttons lights go out and the AIL SYS 1-2 INOP message of the EICAS display goes out of view. J. Adjustment of the Artificial Feel Unit (Figure 502)  (Figure 503)  SUBTASK 720-002-A WARNING: MAKE SURE THAT THERE ARE NO PERSON OR EQUIPMENT IN THE AILERON TRAVEL AREA. (1) Install GSE 070 on the pilot control wheel; use a paper masking tape (Figure 502). (2) Install rig pin at the pilot control wheel (Figure 503) and set the dial protractor to zero. (3) Remove the rig pin from the pilot control wheel. (4) Turn the pilot control wheel fully to the left and slowly turn it back until the control wheel stops. (5) Write the left remaining deflection (D ) shown on the dial protractor in Table 501. Rleft Table 501 - CONTROL WHEEL REMAINING DEFLECTION Control wheel to the left Control wheel to the right Remaining deflection D = _________ D = _________ shown on the dial pro- Rleft Rright tractor (degrees) (6) Turn the pilot control wheel fully to the right and, slowly, return it until the control wheel stops. (7) Write the right remaining deflection (D ) shown on the dial protractor in Table 501. Rright (8) The value of the right remaining deflection (D ) must be from 1 to 2 degrees higher Rright than the left remaining deflection (D ). Rleft Table 502 (D )ÃÂ° = (D )ÃÂ° + (1 to 2)ÃÂ° Rright Rleft (9) If necessary, adjust the artificial feel unit as follows: (a) Disconnect the AFU from the aileron torque tube (AMM TASK 27-11-06-000-801- A/400). (b) Adjust the rod end of the AFU to a fitting in good condition and connect the AFU again to the aileron torque tube (AMM TASK 27-11-06-400-801-A/400). K. Follow-on SUBTASK 842-002-A (1) Remove GSE 070 from the control wheel. EMB-145  - AMM 1285 700-801-A/500 27-11-06 Page 3 of 7 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="4" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL (2) On the Overhead Panel, push the AILERON SHUTOFF SYS 1 and AILERON SHUTOFF SYS 2 pushbuttons to turn off AILERON system 1 and AILERON system 2. • Make sure that the pushbuttons lights to turn on and the EICAS display shows the AIL SYS 1-2 INOP caution message. (3) Release the pressure of the hydraulic system ( AMM TASK 29-10-00-860-801-A/200 ). EMB-145  - AMM 1285 700-801-A/500 27-11-06 Page 4 of 7 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="5" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: ALL EICAS Indication - Roll Trim in Neutral Position  Figure 501 A ZONES 223 224 225 226 B END 88.1 T/O-1 88.1 REV N1 REV 75.0 75.0 A A IGN IGN AB AB DET. A 550 550 ITT 99.9 % N2 99.9 % 990 PPH FF 990 PPH 900 LB FQ 1000 LB OIL VIB LDG GEAR UP UP UP FLAPS 0 79 79 100 100 PRESS TEMP LP HP SPLRS CLD C CAB ALT 7000 FT ROLL PITCH UP CAB P 7.5 PSI CAB RATE -2000 FPM 9 YAW APU 100 % 600 ÃÂ°C ROLL PITCH UP 9 YAW DET. B ROLL TRIM INDICATION (NEUTRAL POSITION) DET. C EM145AMM270950A.DGN EMB-145  - AMM 1285 700-801-A/500 27-11-06 Page 5 of 7 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="6" width="216.0" height="279.0">
+			<data>R E S T H S A N U R W O U TR IM P T O - D P N D S D F T I T O AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: ALL GSE 070 - Installation  Figure 502 B A ZONES 223 224 DET. A DIGITAL PROTRACTOR (GSE 070) PAPER MASKING TAPE DET. B PILOT CONTROL WHEEL 145AMM270475.MCE EMB-145  - AMM 1285 700-801-A/500 27-11-06 Page 6 of 7 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details. M O C S R C P P H S I I C H - O O P F T F T A R C R M E T T S E T P A</data>
+		</page>
+		<page number="7" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: ALL Rig Pin - Installation  Figure 503 A ZONES 123 124 RIG PIN DET. A 145AMM270474.MCE EMB-145  - AMM 1285 700-801-A/500 27-11-06 Page 7 of 7 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="8" width="216.0" height="279.0">
+			<data/>
+		</page>
+	</pages>
+</metadata>

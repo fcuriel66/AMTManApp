@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata id="MPP1285_25-31-03-04-1">
+	<file family="145" manual="AMM" pn="1285" chg="U" tsn="51" is_tr="false">
+		<title>AMM PART II-1285 - CHAPTER 25-31-03-04 - OVENS - REMOVAL/INSTALLATION</title>
+		<path>/CHAPTER_25</path>
+		<hash>6f7761d6a7cf18ba55e63f9c99db2bdc</hash>
+	</file>
+	<pages>
+		<page number="1" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL OVENS - REMOVAL/INSTALLATION EFFECTIVITY:  AIRCRAFT WITH OVEN 1. General A. This section gives the procedure to remove/install the ovens and oven controllers. B. The ovens and oven controllers are installed in the outboard galley, zone 232. C. The procedures in this section are given in the sequence below. The tasks identified with ( ♦) are part of the Scheduled Maintenance Requirements Document (SMRD). TASK NUMBER DESCRIPTION EFFECTIVITY OVENS AND OVEN CONTROLLERS - RE- AIRCRAFT WITH OVEN 25-31-03-000-801-A MOVAL  OVENS AND OVEN CONTROLLERS - IN- AIRCRAFT WITH OVEN 25-31-03-400-801-A STALLATION  EMB-145  - AMM 1285 General 25-31-03 Page 1 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="2" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 25-31-03-000-801-A EFFECTIVITY:  AIRCRAFT WITH OVEN 2. OVENS AND OVEN CONTROLLERS - REMOVAL A. General (1) This task gives the procedures to remove the ovens and oven controllers. B. Zones and Accesses Not Applicable C. Tools and Equipment Not Applicable D. Auxiliary Items Not Applicable E. Consumable Materials Not Applicable F. Expandable Parts Not Applicable G. Persons Recommended QTY FUNCTION PLACE 1 Does the task Passenger cabin H. Preparation SUBTASK 841-003-A (1) Make sure that the aircraft is safe for maintenance. (2) Make sure that the SHED BUSES rotary switch, on the electrical panel of the overhead panel, is set to the OFF position and attach a DO-NOT-SET-AUTO tag to it. (3) Make sure that the ovens are empty and with its door locked. (4) Remove the trolleys. I. Removal (Figure 401)  SUBTASK 020-003-A (1) Release the ovens (1) from the outboard galley as follows: (a) Remove the screws (2) for each oven (1). (b) Pull the oven (1) carefully to disconnect it from the electrical connector (3). (2) Release the oven controllers (4) from the outboard galley as follows: NOTE: If you want to remove only the oven controllers (4), you must remove the oven (1) installed below them. (a) Remove the screws (5) for each oven controllers (4). EMB-145  - AMM 1285 000-801-A/400 25-31-03 Page 2 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="3" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL (b) Pull the oven controller (4) carefully to disconnect it from the electrical connector (6). EMB-145  - AMM 1285 000-801-A/400 25-31-03 Page 3 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="4" width="216.0" height="279.0">
+			<data>10 40 350˚ TIMER     MINUTES 0 30 HEATER ON POWER ON 250˚ TEMPERATURE ˚F AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: AIRCRAFT WITH OVEN Ovens and Oven Controllers - Removal/Installation  Figure 401 A ZONE 232 6. ELECTRICAL     CONNECTOR OUTBOARD GALLEY (REF.) 3. ELECTRICAL     CONNECTOR 4. OVEN CONTROLLER 5. SCREW (4) 2. SCREW (5) 1. OVEN 145AMM250393.MCE EMB-145  - AMM 1285 000-801-A/400 25-31-03 Page 4 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details. 150˚ 450˚ 50 20</data>
+		</page>
+		<page number="5" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 25-31-03-400-801-A EFFECTIVITY:  AIRCRAFT WITH OVEN 3. OVENS AND OVEN CONTROLLERS - INSTALLATION A. General (1) This task gives the procedures to install the ovens and oven controllers. B. Zones and Accesses Not Applicable C. Tools and Equipment Not Applicable D. Auxiliary Items Not Applicable E. Consumable Materials Not Applicable F. Expandable Parts Not Applicable G. Persons Recommended QTY FUNCTION PLACE 1 Does the task Passenger cabin H. Installation (Figure 401)  SUBTASK 420-003-A (1) Attach the oven controllers (4) to the outboard galley as follows: (a) Connect the electrical connector (6). (b) Install the screws (5). (2) Attach the ovens (1) to the outboard galley as follows: (a) Connect the electrical connector (3). (b) Install the screws (2). I. Follow-on SUBTASK 842-003-A (1) On the electrical panel, of the overhead panel, set the SHED BUSES rotary switch to the AUTO position and remove the DO-NOT-SET-AUTO tag from it. (2) Install the trolleys on its original position. EMB-145  - AMM 1285 400-801-A/400 25-31-03 Page 5 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="6" width="216.0" height="279.0">
+			<data/>
+		</page>
+	</pages>
+</metadata>

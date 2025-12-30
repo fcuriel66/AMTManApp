@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata id="MPP1285_23-71-03-04-1">
+	<file family="145" manual="AMM" pn="1285" chg="U" tsn="51" is_tr="false">
+		<title>AMM PART II-1285 - CHAPTER 23-71-03-04 - REMOTE AREA MICROPHONE - REMOVAL/INSTALLATION</title>
+		<path>/CHAPTER_23</path>
+		<hash>3d6e618fcc0b5ab5210be38d70adc675</hash>
+	</file>
+	<pages>
+		<page number="1" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL REMOTE AREA MICROPHONE - REMOVAL/INSTALLATION EFFECTIVITY:  ALL 1. General A. This section gives the procedures to remove/install the remote area microphone installed on the windshield center post. B. The procedures in this section are given in the sequence below. The tasks identified with ( ♦) are part of the Scheduled Maintenance Requirements Document (SMRD). TASK NUMBER DESCRIPTION EFFECTIVITY REMOTE AREA MICROPHONE - REMOV- ALL 23-71-03-000-801-A AL  REMOTE AREA MICROPHONE - INSTAL- ALL 23-71-03-400-801-A LATION  EMB-145  - AMM 1285 General 23-71-03 Page 1 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="2" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 23-71-03-000-801-A EFFECTIVITY:  ALL 2. REMOTE AREA MICROPHONE - REMOVAL A. General (1) This task gives the procedures to remove the remote area microphone. B. Zones and Accesses Not Applicable C. Tools and Equipment ITEM DESCRIPTION PURPOSE QTY Commercially Insertion/Removal Tool M8196914-11 To insert/remove electrical contact  available BIT SPECIAL INSTL/REM CVR MIC GSE 457 To install/remove screws  SCREW D. Auxiliary Items Not Applicable E. Consumable Materials Not Applicable F. Expandable Parts Not Applicable G. Persons Recommended QTY FUNCTION PLACE 1 Does the task Cockpit H. Preparation SUBTASK 841-002-A (1) On the circuit breaker panel, open the CVR circuit breaker (Location tip: ESSENTIAL DC BUS 2/COMM/CVR) and attach a DO-NOT-CLOSE tag to it. I. Removal (Figure 401)  SUBTASK 020-002-A (1) Remove the lower fairing (1) of the windshield center post. (2) Disconnect the electrical cable (5) with contact insertion/removal tool M8196914-11. (3) Remove the microphone-to-base attaching screws (3) with GSE 457 and the ratchet wrench (2). (4) Remove the remote area microphone (4). EMB-145  - AMM 1285 000-801-A/400 23-71-03 Page 2 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="3" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: ALL Remote Area Microphone - Removal/Installation  Figure 401 B A ZONES 223/224 DET. A 2.  RATCHET WRENCH 3.  SCREWS GSE 457 1.   LOWER CENTER        FAIRING PILOT EYE POSITION INDICATOR BASE HOUSING 5.   ELECTRICAL       CABLE DET. B 4.   REMOTE AREA       MICROPHONE EM145AMM230086B.DGN EMB-145  - AMM 1285 000-801-A/400 23-71-03 Page 3 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="4" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 23-71-03-400-801-A EFFECTIVITY:  ALL 3. REMOTE AREA MICROPHONE - INSTALLATION A. General (1) This task gives the procedures to install the remote area microphone. B. References REFERENCE DESIGNATION AMM TASK 23-71-00-700-801-A/500 VOICE RECORDING - OPERATIONAL CHECK C. Zones and Accesses Not Applicable D. Tools and Equipment ITEM DESCRIPTION PURPOSE QTY Commercially Insertion/Removal Tool M8196914-11 To insert/remove electrical contact  available BIT SPECIAL INSTL/REM CVR MIC GSE 457 To install/remove screws  SCREW E. Auxiliary Items Not Applicable F. Consumable Materials Not Applicable G. Expandable Parts Not Applicable H. Persons Recommended QTY FUNCTION PLACE 1 Does the task Cockpit I. Installation (Figure 401)  SUBTASK 420-002-A (1) Put the remote area microphone (4) in position. (2) Install the microphone-to-base attaching screws (3) with GSE 457 and the ratchet wrench (2). (3) Connect the electrical cable (4) with contact insertion/removal tool M8196914-11. (4) Install the lower fairing (1) of the windshield center post. EMB-145  - AMM 1285 400-801-A/400 23-71-03 Page 4 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="5" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL J. Follow-on SUBTASK 842-002-A (1) On the circuit breaker panel, close the CVR circuit breaker (Location tip: ESSENTIAL DC BUS 2/COMM/CVR) and remove the DO-NOT-CLOSE tag from it. (2) Do the operational check of the microphone ( AMM TASK 23-71-00-700-801-A/500). EMB-145  - AMM 1285 400-801-A/400 23-71-03 Page 5 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="6" width="216.0" height="279.0">
+			<data/>
+		</page>
+	</pages>
+</metadata>

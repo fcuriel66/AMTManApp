@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata id="MPP1285_33-25-00-05-1">
+	<file family="145" manual="AMM" pn="1285" chg="U" tsn="51" is_tr="false">
+		<title>AMM PART II-1285 - CHAPTER 33-25-00-05 - READING AND ATTENDANT CALL LIGHTS - ADJUSTMENT/TEST</title>
+		<path>/CHAPTER_33</path>
+		<hash>12ee93745a5084319f3014d252f22ca2</hash>
+	</file>
+	<pages>
+		<page number="1" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL READING AND ATTENDANT CALL LIGHTS - ADJUSTMENT/TEST EFFECTIVITY:  ALL 1. General A. This section gives the procedures to do the test of the Reading and Attendant Call Lights (1). B. The procedures in this section are given in the sequence below. The tasks identified with ( ♦) are part of the Scheduled Maintenance Requirements Document (SMRD). TASK NUMBER DESCRIPTION EFFECTIVITY READING AND ATTENDANT CALL ALL 33-25-00-700-801-A LIGHTS (1) - OPERATIONAL TEST  EMB-145  - AMM 1285 General 33-25-00 Page 1 of 6 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="2" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 33-25-00-700-801-A EFFECTIVITY:  ALL 2. READING AND ATTENDANT CALL LIGHTS (1) - OPERATIONAL TEST A. General (1) This task gives the procedures to do the Operational Test of the Reading and Attendant Call Lights (1). B. References REFERENCE DESIGNATION AMM SDS 33-25-00/1  ENERGIZATION OF THE AIRCRAFT WITH AN EX- AMM TASK 20-40-01-860-801-A/200 TERNAL POWER SOURCE C. Zones and Accesses Not Applicable D. Tools and Equipment Not Applicable E. Auxiliary Items Not Applicable F. Consumable Materials Not Applicable G. Expandable Parts Not Applicable H. Persons Recommended QTY FUNCTION PLACE 1 Does the task Passenger cabin I. Preparation SUBTASK 841-002-A (1) Energize the aircraft with the External DC Power Supply ( AMM TASK 20-40-01-860-801-A/200). (2) Make sure that the Circuit Breakers below are closed: – RDNG LT/ATTD CALL 1 (AMM SDS 33-25-00/1), on the L PWR CONT and DISTR BOX. – RDNG LT/ATTD CALL 2 and 3 (AMM SDS 33-25-00/1), on the R PWR CONT and DISTR BOX. EMB-145  - AMM 1285 700-801-A/500 33-25-00 Page 2 of 6 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="3" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL J. Operationally Test Reading and Attendant Call Lights (1) (Figure 501)  (Figure 502)  (Figure 503)  SUBTASK 710-002-A (1) Do the test of all Reading Lights and Attendant Call Lights (1) of each PSU as follows: (a) On the forward attendant control panel, push the PSU TEST switch. Result: 1 On the PSUs, all reading lights come on. 2 On the forward Attendant Control Panel and Attendant Call Panel, the Call lights come on. 3 On the PSUs, all Call lights come on. 4 On the ceiling, all zonal attendant call annunciators come on. 5 An audible signal comes from the audio system. (b) On the attendant control panel, push the PSU RESET switch. Result: 1 On the PSUs, all reading lights go off. 2 On the forward Attendant Control Panel and Attendant Call Panel, the Call lights go off. 3 On the PSUs, all Call lights go off. 4 On the ceiling, all zonal attendant call annunciators go off. K. Follow-on SUBTASK 842-002-A (1) Deenergize the aircraft ( AMM TASK 20-40-01-860-801-A/200). EMB-145  - AMM 1285 700-801-A/500 33-25-00 Page 3 of 6 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="4" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: ALL Attendant Control Panel  Figure 501 A CABIN LTS CEILING SIDEWALL ON BRT ON BRT OFF DIM OFF DIM EMER LTS ATTD CALL NORM ON ON LAV PA PSU CALL PSU PSU RESET TEST RESET ON CABIN TEMP CONTROL COLD HOT DET. A 145AMM330072.MCE A EMB-145  - AMM 1285 700-801-A/500 33-25-00 Page 4 of 6 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="5" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: ALL Attendant Call Panel  Figure 502 A B DET. A ATT  CALL LAV PA PILOT EMER PILOT DET. B 145AMM330073.MCE A EMB-145  - AMM 1285 700-801-A/500 33-25-00 Page 5 of 6 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="6" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: ALL PSU  Figure 503 A ZONES 231, 232 243, 244 253, 254 263, 264 273, 274 1. ATTENDANT 1. ATTENDANT     CALL LIGHT     CALL LIGHT DET. A LH PSU RH PSU 145AMM330074.MCE B EMB-145  - AMM 1285 700-801-A/500 33-25-00 Page 6 of 6 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+	</pages>
+</metadata>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata id="MPP1285_32-50-04-04-1">
+	<file family="145" manual="AMM" pn="1285" chg="U" tsn="51" is_tr="false">
+		<title>AMM PART II-1285 - CHAPTER 32-50-04-04 - STEERING MANIFOLD - REMOVAL/INSTALLATION</title>
+		<path>/CHAPTER_32</path>
+		<hash>8f0a649eb81d7ddfc8a79313bb609470</hash>
+	</file>
+	<pages>
+		<page number="1" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL STEERING MANIFOLD - REMOVAL/INSTALLATION EFFECTIVITY:  ALL 1. General A. This section gives the procedures to remove and install the steering manifold. B. The procedures in this section are given in the sequence below. The tasks identified with ( ♦) are part of the Scheduled Maintenance Requirements Document (SMRD). TASK NUMBER DESCRIPTION EFFECTIVITY ALL 32-50-04-000-801-A STEERING MANIFOLD - REMOVAL   ALL 32-50-04-400-801-A STEERING MANIFOLD - INSTALLATION   EMB-145  - AMM 1285 General 32-50-04 Page 1 of 6 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="2" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 32-50-04-000-801-A EFFECTIVITY:  ALL 2. STEERING MANIFOLD - REMOVAL A. General (1) This task gives the procedures to remove the steering manifold. B. References REFERENCE DESIGNATION AMM MPP 06-41-00/100 - HYDRAULIC SYSTEM - PRESSURIZATION WITH AMM TASK 29-10-00-860-802-A/200 EMDP C. Zones and Accesses ZONE PANEL/DOOR LOCATION Access to the nose hydraulic system 114 114CR compartment D. Tools and Equipment Not Applicable E. Auxiliary Items Not Applicable F. Consumable Materials Not Applicable G. Expandable Parts Not Applicable H. Persons Recommended QTY FUNCTION PLACE 1 Does the task Nose hydraulic system compartment I. Preparation SUBTASK 841-002-A (1) On the circuit breaker panel, open the STEER and ELEC PUMP 1 circuit breakers and attach DO-NOT-CLOSE tags to them. (2) Make sure that the pressure in hydraulic system No. 1 is fully released ( AMM TASK 29-10-00-860-802-A/200). (3) Open access door 114CR (AMM MPP 06-41-00/100). EMB-145  - AMM 1285 000-801-A/400 32-50-04 Page 2 of 6 Rev 49 - Feb  16/16 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="3" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL J. Removal (Figure 401)  SUBTASK 020-002-A WARNING:THE HYDRAULIC SYSTEM CONTAINS PHOSPHATE-ESTER HYDRAULIC FLUID. THE FLUID CAN CAUSE IRRITATION IN YOUR SKIN OR INJURY TO YOUR EYES. USE THE APPLICABLE GOGGLES AND RUBBER GLOVES. IF THE FLUID TOUCHES YOU, FLUSH YOUR SKIN WITH WATER. IF IT GETS IN YOUR EYES, FLUSH THEM WITH WATER AND GET MEDICAL HELP. (1) Disconnect the electrical connector (1). CAUTION: DO NOT LET THE HYDRAULIC FLUID GET IN CONTACT WITH MATERIALS SUCH AS RUBBER, METALS, PLASTIC AND PAINTS. THE HYDRAULIC FLUID CAN DAMAGE THE PARTS. (2) Disconnect the hydraulic tubes (2), (6), and (7). NOTE: A small quantity of hydraulic fluid will flow from the compensator valve when the steering actuator tube (6) is disconnected. (3) Remove the bolts (5) and washers (4). (4) Remove the steering manifold (3). EMB-145  - AMM 1285 000-801-A/400 32-50-04 Page 3 of 6 Rev 49 - Feb  16/16 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="4" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: ALL Steering Manifold - Removal/Installation  Figure 401 A ZONE 114 B DET. A 1.  ELECTRICAL      CONNECTOR P0053 2. HYDRAULIC TUBE 3. STEERING MANIFOLD 4. WASHER (3) 5. BOLT (3) 7. HYDRAULIC TUBE DET. B 6. HYDRAULIC TUBE 145AMM320253.MCE B EMB-145  - AMM 1285 000-801-A/400 32-50-04 Page 4 of 6 Rev 49 - Feb  16/16 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="5" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 32-50-04-400-801-A EFFECTIVITY:  ALL 3. STEERING MANIFOLD - INSTALLATION A. General (1) This task gives the procedures to install the steering manifold. B. References REFERENCE DESIGNATION AMM MPP 06-42-00/100 - AMM TASK 29-10-00-860-803-A/200 HYDRAULIC SYSTEM - BLEED OF AIR NOSE WHEEL STEERING SYSTEM ACTUATION - AMM TASK 32-50-00-700-803-A/500 OPERATIONAL CHECK C. Zones and Accesses ZONE PANEL/DOOR LOCATION Access to the nose hydraulic system 114 114CR compartment D. Tools and Equipment Not Applicable E. Auxiliary Items Not Applicable F. Consumable Materials Not Applicable G. Expandable Parts Not Applicable H. Persons Recommended QTY FUNCTION PLACE 1 Does the task Nose hydraulic system compartment I. Installation (Figure 401)  SUBTASK 420-002-A (1) Install the steering manifold (3). (2) Install the washers (4) and bolts (5). (3) Connect the hydraulic tubes (2), (6), and (7). (4) Connect the electrical connector (1). EMB-145  - AMM 1285 400-801-A/400 32-50-04 Page 5 of 6 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="6" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL J. Follow-on SUBTASK 842-002-A (1) On the circuit breaker panel, remove the DO-NOT-CLOSE tags from them and close the STEER and ELEC PUMP 1 circuit breakers. (2) Do the bleed of air from the hydraulic system lines ( AMM TASK 29-10-00-860-803-A/ 200). (3) Do the operational check of the nose wheel steering system actuation ( AMM TASK 32-50-00-700-803-A/500). (4) Close access door 114CR (AMM MPP 06-42-00/100). EMB-145  - AMM 1285 400-801-A/400 32-50-04 Page 6 of 6 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+	</pages>
+</metadata>

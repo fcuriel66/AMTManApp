@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata id="MPP1285_20-13-05-04-1">
+	<file family="145" manual="AMM" pn="1285" chg="U" tsn="51" is_tr="false">
+		<title>AMM PART II-1285 - CHAPTER 20-13-05-04 - ROCKER SWITCHES - REMOVAL/INSTALLATION</title>
+		<path>/CHAPTER_20</path>
+		<hash>1eb399efeb6e63d64407d9581ac3cb59</hash>
+	</file>
+	<pages>
+		<page number="1" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL ROCKER SWITCHES - REMOVAL/INSTALLATION EFFECTIVITY:  ALL 1. General A. This section gives the typical procedures to remove/install the rocker switches. B. The procedures in this section are given in the sequence below. The tasks identified with ( ♦) are part of the Scheduled Maintenance Requirements Document (SMRD). TASK NUMBER DESCRIPTION EFFECTIVITY ROCKER SWITCHES - REMOVAL (TYPI- ALL 20-13-05-000-801-A CAL)  ALL 20-13-05-400-801-A ROCKER SWITCHES - INSTALLATION   EMB-145  - AMM 1285 General 20-13-05 Page 1 of 6 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="2" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 20-13-05-000-801-A EFFECTIVITY:  ALL 2. ROCKER SWITCHES - REMOVAL (TYPICAL) A. General (1) This task gives the typical procedures to remove the rockers switches. B. References REFERENCE DESIGNATION AMM TASK 20-13-10-000-801-A/400 CONTROL PANELS - REMOVAL (TYPICAL) C. Zones and Accesses Not Applicable D. Tools and Equipment Not Applicable E. Auxiliary Items Not Applicable F. Consumable Materials Not Applicable G. Expandable Parts Not Applicable H. Persons Recommended QTY FUNCTION PLACE 1 Does the task Where applicable I. Preparation SUBTASK 841-002-A (1) Remove the panel, if applicable (AMM TASK 20-13-10-000-801-A/400). (2) Refer to the Wiring Manual to find the circuit breaker(s) on the equipment where the switch is installed. (3) Open the applicable circuit breaker(s) and put a circuit breaker ring and tag (inoperative - do not operate) on it (each one of them). (4) Get access to the applicable compartment. J. Removal (Figure 401)  SUBTASK 020-002-A CAUTION: BE CAREFUL NOT TO CAUSE DAMAGE TO THE DECOR PANEL WHEN YOU REMOVE OR INSTALL IT. EMB-145  - AMM 1285 000-801-A/400 20-13-05 Page 2 of 6 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="3" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL (1) Remove the knobs from the panel, if applicable. To do this, remove the headless Allen screws. (2) Release the screws (1) and washers (2) attaching the switch (3) to the panel (4). CAUTION: MAKE MATCH MARKS ON ALL THE ELECTRICAL WIRES OR CABLES BEFORE YOU DISCONNECT THEM. INCORRECT CONNECTION OF WIRES OR CABLES WILL CAUSE DAMAGE TO EQUIPMENT. (3) Remove the electrical wires (5) from the switch (3) do the selection of a contact insertion/removal tool (SWPM 20-00-03). Refer to SWPM 20-30-00 if the switch contacts were soldered. (4) Remove the switch (3). EMB-145  - AMM 1285 000-801-A/400 20-13-05 Page 3 of 6 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="4" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: ALL Rocker Switches - Removal/Installation  Figure 401 EMB-145  - AMM 1285 000-801-A/400 20-13-05 Page 4 of 6 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="5" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 20-13-05-400-801-A EFFECTIVITY:  ALL 3. ROCKER SWITCHES - INSTALLATION A. General (1) This task gives the typical procedures to install the rocker switches. B. References REFERENCE DESIGNATION AMM TASK 20-13-10-400-801-A/400 CONTROL PANELS - INSTALLATION (TYPICAL) C. Zones and Accesses Not Applicable D. Tools and Equipment Not Applicable E. Auxiliary Items Not Applicable F. Consumable Materials Not Applicable G. Expandable Parts Not Applicable H. Persons Recommended QTY FUNCTION PLACE 1 Does the task Where applicable I. Installation (Figure 401)  SUBTASK 420-002-A CAUTION: CAUTION: REFER TO THE MATCH MARKS MADE DURING THE REMOVAL WHEN YOU CONNECT THE ELECTRICAL WIRES OR CABLES. INCORRECT CONNECTION OF WIRES OR CABLES WILL CAUSE DAMAGE TO EQUIPMENT. (1) Before you install the switch (3) connect the electrical wires (5) back to the switch (3). Do the selection of an insertion/removal tool. (SWPM 20-00-03). Refer to SWPM 20-30-00 if the rocker switch contacts have to be soldered. (2) Put the switch (3) in its correct installation position. CAUTION: BE CAREFUL NOT TO CAUSE DAMAGE TO THE DECOR PANEL WHEN YOU REMOVE OR INSTALL IT. (3) Attach the switch with the screws (1) and washers (2). EMB-145  - AMM 1285 400-801-A/400 20-13-05 Page 5 of 6 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="6" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL (4) (6) Install the knobs to the panel, if applicable. To do this, install the headless Allen screws. J. Follow-on SUBTASK 842-002-A (1) Install the panel, if applicable (AMM TASK 20-13-10-400-801-A/400). (2) Remove the circuit breaker ring and tag (inoperative - do not operate) from the applicable circuit breaker(s) and close it (them). (3) Do an operational test of the switch. EMB-145  - AMM 1285 400-801-A/400 20-13-05 Page 6 of 6 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+	</pages>
+</metadata>

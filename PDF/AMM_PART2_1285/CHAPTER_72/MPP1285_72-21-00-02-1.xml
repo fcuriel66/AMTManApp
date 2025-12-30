@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata id="MPP1285_72-21-00-02-1">
+	<file family="145" manual="AMM" pn="1285" chg="U" tsn="51" is_tr="false">
+		<title>AMM PART II-1285 - CHAPTER 72-21-00-02 - FAN - MAINTENANCE PRACTICES</title>
+		<path>/CHAPTER_72</path>
+		<hash>b84436f0c4e07e7a2d75937f1209e17f</hash>
+	</file>
+	<pages>
+		<page number="1" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL FAN - MAINTENANCE PRACTICES EFFECTIVITY:  ALL 1. General A. This section gives the procedures to replace the fan wheel and fan drive shaft. B. The procedures in this section are given in the sequence below. The tasks identified with ( ♦) are part of the Scheduled Maintenance Requirements Document (SMRD). TASK NUMBER DESCRIPTION EFFECTIVITY FAN WHEEL AND FAN DRIVE SHAFT - ALL 72-21-00-960-801-A REPLACEMENT  EMB-145  - AMM 1285 General 72-21-00 Page 1 of 3 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="2" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 72-21-00-960-801-A EFFECTIVITY:  ALL 2. FAN WHEEL AND FAN DRIVE SHAFT - REPLACEMENT A. General (1) To do this task, refer to the instructions given in Rolls-Royce MM CSP 34022. B. References REFERENCE DESIGNATION ENGINE FAN - TRIM BALANCE (WITH THE BALANC- AMM TASK 72-21-03-700-801-A/600 ER/ANALYZER KIT - GSE 162) C. Zones and Accesses ZONE PANEL/DOOR LOCATION 415 LH Engine 425 RH Engine D. Tools and Equipment Not Applicable E. Auxiliary Items ITEM DESCRIPTION PURPOSE QTY Commercially Workstand To get access to the fan assembly 1 available F. Consumable Materials Not Applicable G. Expandable Parts Not Applicable H. Persons Recommended QTY FUNCTION PLACE Engine fan wheel and fan drive shaft as- 2 Do the task semblies I. Preparation SUBTASK 841-002-A WARNING: MAKE SURE THE ENGINE CONTROL MASTER SWITCH IS IN THE “OFF” POSITION TO PREVENT AN ACCIDENTAL ENGINE OPERATION. (1) On the circuit breaker panel, open these circuit breakers and attach DO-NOT-CLOSE tags to them: – POWERPLANT START 1/2. EMB-145  - AMM 1285 960-801-A/200 72-21-00 Page 2 of 3 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="3" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL (2) Place the workstand next to the air intake. J. Replace/Discard Fan Wheel and Fan Drive Shaft SUBTASK 960-002-A (1) Remove the fan wheel and/or the fan drive shaft, as applicable. Refer to the latest revision of Rolls-Royce MM CSP 34022. (2) Discard the fan wheel and/or the fan drive shaft, as applicable. (3) Install a new fan wheel and/or the fan drive shaft, as applicable. Refer to the latest revision of Rolls-Royce MM CSP 34022. K. Follow-on SUBTASK 842-002-A (1) Remove the DO-NOT-CLOSE tags and close these circuit breakers. • POWERPLANT START 1/2. (2) Remove the workstand. (3) Do the fan balance. Refer to AMM TASK 72-21-03-700-801-A/600. EMB-145  - AMM 1285 960-801-A/200 72-21-00 Page 3 of 3 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="4" width="216.0" height="279.0">
+			<data/>
+		</page>
+	</pages>
+</metadata>

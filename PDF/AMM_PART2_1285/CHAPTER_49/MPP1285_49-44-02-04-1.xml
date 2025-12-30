@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata id="MPP1285_49-44-02-04-1">
+	<file family="145" manual="AMM" pn="1285" chg="U" tsn="51" is_tr="false">
+		<title>AMM PART II-1285 - CHAPTER 49-44-02-04 - IGNITION EXCITER - REMOVAL/INSTALLATION</title>
+		<path>/CHAPTER_49</path>
+		<hash>b6c8ffcc5d982bb4202c23ee9ac4e02d</hash>
+	</file>
+	<pages>
+		<page number="1" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL IGNITION EXCITER - REMOVAL/INSTALLATION EFFECTIVITY:  AIRCRAFT WITH APU T-62T-40C14 1. General A. This section gives the procedures to remove/install the ignition exciter. B. The procedures in this section are given in the sequence below. The tasks identified with ( ♦) are part of the Scheduled Maintenance Requirements Document (SMRD). TASK NUMBER DESCRIPTION EFFECTIVITY AIRCRAFT WITH APU 49-44-02-000-801-A IGNITION EXCITER - REMOVAL T-62T-40C14   AIRCRAFT WITH APU 49-44-02-400-801-A IGNITION EXCITER - INSTALLATION T-62T-40C14   EMB-145  - AMM 1285 General 49-44-02 Page 1 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="2" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 49-44-02-000-801-A EFFECTIVITY:  AIRCRAFT WITH APU T-62T-40C14 2. IGNITION EXCITER - REMOVAL A. General (1) To do this task, refer to the instructions given in the latest revision of Hamilton Sundstrand engine manual T-62T-40C14 (P/N 4504112), 49-41-01. B. References REFERENCE DESIGNATION AMM 06-42-01/101 - C. Zones and Accesses ZONE PANEL/DOOR LOCATION 313 313CL APU D. Tools and Equipment Not Applicable E. Auxiliary Items ITEM DESCRIPTION PURPOSE QTY Commercially Workstand To get access to the APU work area 1 available F. Consumable Materials Not Applicable G. Expandable Parts Not Applicable H. Persons Recommended QTY FUNCTION PLACE 1 Does the task APU work area I. Preparation SUBTASK 841-002-A WARNING: MAKE SURE THAT THE APU CONTROL MASTER SWITCH IS IN THE “OFF” POSITION TO PREVENT AN APU ACCIDENTAL OPERATION. (1) On the circuit breaker panel, open these circuit breakers and attach DO-NOT-CLOSE tags to them: – APU FUEL SOV. (2) On the left power control and distribution box, open the APU GEN START circuit breaker and attach DO-NOT-CLOSE tag to it. EMB-145  - AMM 1285 000-801-A/400 49-44-02 Page 2 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="3" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL (3) Remove the APU cowling access panel 313CL (AMM 06-42-01/101). J. Removal SUBTASK 020-002-A WARNING: THE OUTPUT VOLTAGE OF THE IGNITION EXCITER CAN BE FATAL. MAKE SURE THAT THE POWER IS REMOVED OF THE IGNITION SYSTEM FOR A MINIMUM OF 6 MINUTES BEFORE ANY DISCONNECTIONS ARE MADE. (1) Remove the APU ignition exciter. Refer to the latest revision of Hamilton Sundstrand engine manual T-62T-40C14 (P/N 4504112), 49-41-01. EMB-145  - AMM 1285 000-801-A/400 49-44-02 Page 3 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="4" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 49-44-02-400-801-A EFFECTIVITY:  AIRCRAFT WITH APU T-62T-40C14 3. IGNITION EXCITER - INSTALLATION A. General (1) To do this task, refer to the instructions given in the latest revision of Hamilton Sundstrand engine manual T-62T-40C14 (P/N 4504112), 49-41-01. B. References REFERENCE DESIGNATION AMM 06-42-01/101 - C. Zones and Accesses ZONE PANEL/DOOR LOCATION 313 313CL APU D. Tools and Equipment Not Applicable E. Auxiliary Items ITEM DESCRIPTION PURPOSE QTY Commercially Workstand To get access to the APU work area 1 available F. Consumable Materials Not Applicable G. Expandable Parts Not Applicable H. Persons Recommended QTY FUNCTION PLACE 1 Does the task APU work area I. Installation SUBTASK 420-002-A (1) Install the APU ignition exciter. Refer to the latest revision of Hamilton Sundstrand engine manual T-62T-40C14 (P/N 4504112), 49-41-01. J. Follow-on SUBTASK 842-002-A (1) Remove the DO-NOT-CLOSE tags and close these circuit breakers. – APU FUEL SOV. EMB-145  - AMM 1285 400-801-A/400 49-44-02 Page 4 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="5" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL (2) On the left power control and distribution box, remove the DO-NOT-CLOSE tag and close the APU GEN START circuit breaker. (3) Install the APU cowling access panel 313CL (AMM 06-42-01/101). EMB-145  - AMM 1285 400-801-A/400 49-44-02 Page 5 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="6" width="216.0" height="279.0">
+			<data/>
+		</page>
+	</pages>
+</metadata>

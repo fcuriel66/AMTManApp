@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata id="MPP1285_32-50-05-05-1">
+	<file family="145" manual="AMM" pn="1285" chg="U" tsn="51" is_tr="false">
+		<title>AMM PART II-1285 - CHAPTER 32-50-05-05 - LOAD POTENTIOMETER - ADJUSTMENT/TEST</title>
+		<path>/CHAPTER_32</path>
+		<hash>67052638fb175f244a9f31a93b0eccad</hash>
+	</file>
+	<pages>
+		<page number="1" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL LOAD POTENTIOMETER - ADJUSTMENT/TEST EFFECTIVITY:  ALL 1. General A. This section gives the procedures to do the adjustment/test of the Load Potentiometer. B. The procedures in this section are given in the sequence below. The tasks identified with ( ♦) are part of the Scheduled Maintenance Requirements Document (SMRD). TASK NUMBER DESCRIPTION EFFECTIVITY ALL 32-50-05-700-801-A LOAD POTENTIOMETER - ADJUSTMENT   EMB-145  - AMM 1285 General 32-50-05 Page 1 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="2" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 32-50-05-700-801-A EFFECTIVITY:  ALL 2. LOAD POTENTIOMETER - ADJUSTMENT A. General (1) This task gives the procedures to do the adjustment/test of the Load Potentiometer. B. References REFERENCE DESIGNATION AMM MPP 06-42-00/100 - AMM TASK 31-17-01-000-801-A/400 MAINTENANCE PANEL - REMOVAL AMM TASK 31-17-01-400-801-A/400 MAINTENANCE PANEL - INSTALLATION NOSE WHEEL STEERING SYSTEM - QUICK AD- AMM TASK 32-50-00-700-802-A/500 JUSTMENT NOSE WHEEL STEERING SYSTEM ACTUATION - AMM TASK 32-50-00-700-803-A/500 OPERATIONAL CHECK WM 32-53-50/1 - C. Zones and Accesses ZONE PANEL/DOOR LOCATION 123 123BL Controls rigging door 223 223LZ Cockpit, LH side D. Tools and Equipment ITEM DESCRIPTION PURPOSE QTY GSE 050 Digital multimeter To measure the resistance  E. Auxiliary Items Not Applicable F. Consumable Materials Not Applicable G. Expandable Parts Not Applicable H. Persons Recommended QTY FUNCTION PLACE 1 Does the task Cockpit EMB-145  - AMM 1285 700-801-A/500 32-50-05 Page 2 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="3" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL I. Preparation SUBTASK 841-002-A (1) On the circuit breaker panel, open the STEER circuit breaker and attach a DO-NOT- CLOSE tag to it. (2) Open access door 223LZ (AMM MPP 06-42-00/100). (3) Remove maintenance panel 123BL ( AMM TASK 31-17-01-000-801-A/400). J. Load Potentiometer - Adjustment (Figure 501)  SUBTASK 720-002-A (1) Get access to connector P7189 through access panel 123BL . (2) Disconnect connector P7189. (3) Measure the resistance between pins (39 and 40) and (41 and 40) at connector J7189 whose wire comes from Load Potentiometer R7011 (WM 32-53-50/1). Write down the measured values. (4) The difference (r 39-40 - r 40-41) or (r 40-41 - r 39-40) must be less than or equal to 30 Ohms. If the difference is more than 30 Ohms, release the adjusting bolt nut and adjust the adjusting bolt until the difference is at a value less than or equal to 30 Ohms. Then, tighten the adjusting bolt nut (Figure 502). K. Follow-on SUBTASK 842-002-A (1) Reinstall connector P7189. (2) On the circuit breaker panel, remove the DO-NOT-CLOSE tag and close the STEER circuit breaker. (3) Adjust the nose wheel steering system. Refer to AMM TASK 32-50-00-700-802-A/500. (4) Do the operational check of the nose-wheel steering system actuation. Refer to AMM TASK 32-50-00-700-803-A/500. (5) Install the maintenance panel. Refer to AMM TASK 31-17-01-400-801-A/400. (6) Close access door 223LZ. Refer to AMM MPP 06-42-00/100. EMB-145  - AMM 1285 700-801-A/500 32-50-05 Page 3 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="4" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: ALL Load Potentiometer - Test  Figure 501 A LOAD POTENTIOMETER ZONE 123 DET. A B C MAINTENANCE  PANEL DET. B MULTIMETER FLUKE 85 MIN MAX RANGE HOLD REL Hz ... -I- I - mV + ... - - ... mA ~ V A - ... ~ A V ~ OFF V + A mA  A COM ELECTRICAL 400mA MAX FUSED 10A MAX 1000V MAX CONNECTOR FUSED VIEW C J7189 EM145AMM320305C.DGN EMB-145  - AMM 1285 700-801-A/500 32-50-05 Page 4 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="5" width="216.0" height="279.0">
+			<data>NORM AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: ALL Load Potentiometer - Adjustment  Figure 502 A ZONE 123 DET. A B 4. WASHER 5. WIRE TERMINALS 3. NUT 2. NUT 1. LOCK NUT 7. ADJUST BOLT 6. LOAD POTENTIOMETER 8. MAINTENANCE PANEL DET. B 145AMM320252.MCE D EMB-145  - AMM 1285 700-801-A/500 32-50-05 Page 5 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="6" width="216.0" height="279.0">
+			<data/>
+		</page>
+	</pages>
+</metadata>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata id="MPP1285_34-44-02-04-1">
+	<file family="145" manual="AMM" pn="1285" chg="U" tsn="51" is_tr="false">
+		<title>AMM PART II-1285 - CHAPTER 34-44-02-04 - LIGHTNING SENSOR ANTENNA - REMOVAL/INSTALLATION</title>
+		<path>/CHAPTER_34</path>
+		<hash>dfd6dd097db9ed10fea96aab6e6d94d3</hash>
+	</file>
+	<pages>
+		<page number="1" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL LIGHTNING SENSOR ANTENNA - REMOVAL/INSTALLATION EFFECTIVITY:  ALL 1. General A. This section gives the procedures to remove the lightning sensor antenna. B. The lightning sensor antenna is the antenna of the lightning sensor system (LSS). C. The procedures in this section are given in the sequence below. The tasks identified with ( ♦) are part of the Scheduled Maintenance Requirements Document (SMRD). TASK NUMBER DESCRIPTION EFFECTIVITY LIGHTNING SENSOR ANTENNA - RE- AIRCRAFT WITH LSS 34-44-02-000-801-A MOVAL  LIGHTNING SENSOR ANTENNA - IN- AIRCRAFT WITH LSS 34-44-02-400-801-A STALLATION  EMB-145  - AMM 1285 General 34-44-02 Page 1 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="2" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 34-44-02-000-801-A EFFECTIVITY:  AIRCRAFT WITH LSS 2. LIGHTNING SENSOR ANTENNA - REMOVAL A. General (1) This task gives the procedures to remove the lightning sensor antenna. B. Zones and Accesses ZONE PANEL/DOOR LOCATION LH243 / RH244 Upper fuselage skin C. Tools and Equipment Not Applicable D. Auxiliary Items Not Applicable E. Consumable Materials Not Applicable F. Expandable Parts Not Applicable G. Persons Recommended QTY FUNCTION PLACE 1 Does the task At the upper fuselage skin H. Preparation SUBTASK 841-002-A (1) On the circuit breaker panel, open the LSS circuit breaker and attach a DO-NOT- CLOSE tag to it. I. Removal (Figure 401)  SUBTASK 020-002-A (1) Carefully remove the sealant around the antenna assembly (2). (2) Remove the three screws (1) and the washers (4) that attach the antenna assembly (2) to the structure. (3) Carefully pull the antenna assembly (2) to get access to the electrical connector (3). (4) Disconnect the electrical connector (3) and remove the antenna assembly (2). EMB-145  - AMM 1285 000-801-A/400 34-44-02 Page 2 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="3" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: AIRCRAFT WITH LSS Lightning Sensor Antenna - Removal/Installation  Figure 401 A ZONES 243 244 B DET. A 1. SCREW (3) 4. WASHER (3) 2. ANTENNA ASSEMBLY DET. B 3. ELECTRICAL CONNECTOR 145AMM340273.MCE A EMB-145  - AMM 1285 000-801-A/400 34-44-02 Page 3 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="4" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 34-44-02-400-801-A EFFECTIVITY:  AIRCRAFT WITH LSS 3. LIGHTNING SENSOR ANTENNA - INSTALLATION A. General (1) This task gives the procedures to install the lightning sensor antenna. B. References REFERENCE DESIGNATION AMM TASK 20-11-01-910-801-A/200 ANTENNA SEALING LIGHTNING SENSOR SYSTEM (LSS) - OPERATION- AMM TASK 34-44-00-700-801-A/500 AL TEST SRM 145/1142 - Structural Repair Manual - Chapter - 51-20-01 - Structure C. Zones and Accesses ZONE PANEL/DOOR LOCATION LH243 / RH244 Upper fuselage skin D. Tools and Equipment Not Applicable E. Auxiliary Items Not Applicable F. Consumable Materials SPECIFICATION DESCRIPTION QTY (BRAND) P/N 780 - WHITE Sealant AR P/N PR1440B2 Sealant AR G. Expandable Parts Not Applicable H. Persons Recommended QTY FUNCTION PLACE 1 Does the task At the upper fuselage skin I. Installation (Figure 401)  SUBTASK 420-002-A (1) Connect the electrical connector (3) to the antenna assembly (2) connector. (2) Put the antenna assembly (2) in position and install the screws (1) and washers (4). (3) Tighten the three screws (1). EMB-145  - AMM 1285 400-801-A/400 34-44-02 Page 4 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="5" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL (4) Apply sealant P/N 780 WHITE along the contour of the antenna assembly (2) and around the antenna fasteners (AMM TASK 20-11-01-910-801-A/200). (5) Apply sealant P/N PR 1440B2 along the contour of the antenna electrical connector (SRM 145/1142 - Structural Repair Manual - Chapter 51-20-01 - Structure). J. Follow-on SUBTASK 842-002-A (1) Remove the DO-NOT-CLOSE tag from the LSS circuit breaker and close the circuit breaker. (2) Do the operational test of the Lightning Sensor System (LSS) ( AMM TASK 34-44-00-700-801-A/500). EMB-145  - AMM 1285 400-801-A/400 34-44-02 Page 5 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="6" width="216.0" height="279.0">
+			<data/>
+		</page>
+	</pages>
+</metadata>

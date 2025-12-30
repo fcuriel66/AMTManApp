@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata id="MPP1285_34-23-05-07-1">
+	<file family="145" manual="AMM" pn="1285" chg="U" tsn="51" is_tr="false">
+		<title>AMM PART II-1285 - CHAPTER 34-23-05-07 - HGS COMPUTER FAN - CLEANING/PAINTING</title>
+		<path>/CHAPTER_34</path>
+		<hash>4ebf8a6d8039f6e39f53b4db70f3e445</hash>
+	</file>
+	<pages>
+		<page number="1" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL HGS COMPUTER FAN - CLEANING/PAINTING EFFECTIVITY:  AIRCRAFT WITH HEAD-UP GUIDANCE SYSTEM 1. General A. This section gives the procedures to clean the filter of the HGS Computer fan. B. The procedures in this section are given in the sequence below. The tasks identified with ( ♦) are part of the Scheduled Maintenance Requirements Document (SMRD). TASK NUMBER DESCRIPTION EFFECTIVITY AIRCRAFT WITH HGS COMPUTER FAN FILTER - CLEAN- HEAD-UP GUIDANCE 34-23-05-100-801-A ING SYSTEM   EMB-145  - AMM 1285 General 34-23-05 Page 1 of 4 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="2" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 34-23-05-100-801-A EFFECTIVITY:  AIRCRAFT WITH HEAD-UP GUIDANCE SYSTEM 2. HGS COMPUTER FAN FILTER - CLEANING A. General (1) The HGS Computer fan is installed at the rear of the HGS Computer mounting tray, in the electronic compartment. B. References REFERENCE DESIGNATION AMM TASK 34-23-01-000-801-A/400 HGS COMPUTER - REMOVAL AMM TASK 34-23-01-400-801-A/400 HGS COMPUTER - INSTALLATION AMM TASK 34-23-05-700-801-A/500 HGS COMPUTER FAN - OPERATIONAL TEST C. Zones and Accesses ZONE PANEL/DOOR LOCATION Forward electronic compartment - RH 214 113CZ upper side D. Tools and Equipment Not Applicable E. Auxiliary Items Not Applicable F. Consumable Materials Not Applicable G. Expandable Parts Not Applicable H. Persons Recommended QTY FUNCTION PLACE 1 Does the task Electronic compartment I. Preparation SUBTASK 841-002-A (1) Remove the HGS Computer ( AMM TASK 34-23-01-000-801-A/400). (2) Get access to the filter of the fan installed at the rear of the HGS Computer mounting tray. J. Clean HGS-Computer Fan Filter (Figure 701)  SUBTASK 140-002-A (1) Loosen the latch (2) that locks the HGS-computer fan filter (1). EMB-145  - AMM 1285 100-801-A/700 34-23-05 Page 2 of 4 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="3" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL (2) Remove the HGS-computer fan filter (1) from the mounting base. (3) Clean the filter with dry compressed air. NOTE: If necessary, replace the filter. (4) Position the cleaned filter on the mounting base. (5) Lock the HGS-computer fan filter (1) with the latch. K. Follow-on SUBTASK 842-002-A (1) Do the HGS Computer Fan operational test ( AMM TASK 34-23-05-700-801-A/500). (2) Install the HGS Computer ( AMM TASK 34-23-01-400-801-A/400). EMB-145  - AMM 1285 100-801-A/700 34-23-05 Page 3 of 4 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="4" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: AIRCRAFT WITH HEAD-UP GUIDANCE SYSTEM HGS-Computer Fan Filter Cleaning  Figure 701 B A ZONES 213 214 DET. A 1.   HGS COMPUTER FAN       FILTER 2.   LATCH DET. B (REAR VIEW) 145AMM340444.MCE EMB-145  - AMM 1285 100-801-A/700 34-23-05 Page 4 of 4 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+	</pages>
+</metadata>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata id="MPP1285_29-30-04-05-1">
+	<file family="145" manual="AMM" pn="1285" chg="U" tsn="51" is_tr="false">
+		<title>AMM PART II-1285 - CHAPTER 29-30-04-05 - EMDP PRESSURE SWITCH - ADJUSTMENT/TEST</title>
+		<path>/CHAPTER_29</path>
+		<hash>668a603fef13c67e61cc7f945da28111</hash>
+	</file>
+	<pages>
+		<page number="1" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EMDP PRESSURE SWITCH - ADJUSTMENT/TEST EFFECTIVITY:  ALL 1. General A. This section gives the procedures for the operational check of the EMDP Pressure Switch. B. The procedures in this section are given in the sequence below. The tasks identified with ( ♦) are part of the Scheduled Maintenance Requirements Document (SMRD). TASK NUMBER DESCRIPTION EFFECTIVITY EMDP PRESSURE SWITCH - OPERA- ALL 29-30-04-700-801-A TIONAL CHECK  EMB-145  - AMM 1285 General 29-30-04 Page 1 of 4 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="2" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 29-30-04-700-801-A EFFECTIVITY:  ALL 2. EMDP PRESSURE SWITCH - OPERATIONAL CHECK A. General (1) This task gives the procedure to do the operational check of the EMDP Pressure Switch. B. References REFERENCE DESIGNATION AMM MPP 06-41-01/100 - AMM SDS 34-22-00/1  C. Zones and Accesses ZONE PANEL/DOOR LOCATION 193 193BL Hydraulic compartment of system 1 193 193CR Hydraulic compartment of system 2 D. Tools and Equipment Not Applicable E. Auxiliary Items Not Applicable F. Consumable Materials Not Applicable G. Expandable Parts Not Applicable H. Persons Recommended QTY FUNCTION PLACE Hydraulic compartment of system 1 and 1 Does the task system 2 I. Preparation SUBTASK 841-002-A (1) Remove access panel(s) 193BL and/or 193CR (AMM MPP 06-41-01/100). (2) Isolate the operational areas near the landing gear, rudder, spoiler, thrust reverser, ailerons, and flaps. (3) Make sure that, on the circuit breaker panel, the EMDP 1 and/or EMDP 2 circuit breaker(s) is (are) closed. (4) Make sure that the safety pins are installed to the landing gears. (5) Set MFD 1 (or 2) to HYD page (AMM SDS 34-22-00/1). EMB-145  - AMM 1285 700-801-A/500 29-30-04 Page 2 of 4 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="3" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL J. Operational Check of the EMDP Pressure Switch (Figure 501)  SUBTASK 710-002-A (1) Do the operational check of the EMDP pressure switch as follows: (a) Set the switch of the EMDP to ON. Result: 1 The EMDP is turned on. 2 The MFD shows the EMDP status message (ON). (b) Set the switch of the EMDP to OFF. Result: 1 The EMDP is turned off. 2 The MFD shows the EMDP status message (OFF). (2) Examine the installation for leaks. K. Follow-on SUBTASK 842-002-A (1) Install access panel(s) 193BL and/or 193CR (AMM MPP 06-41-01/100). EMB-145  - AMM 1285 700-801-A/500 29-30-04 Page 3 of 4 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="4" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: ALL EMDP Pressure Switch - Operational Check  Figure 501 A ZONE B 193 SYS 2 B SYS 1 DET. A DET. A PRESSURE SWITCH DET. B 145AMM290077.MCE A EMB-145  - AMM 1285 700-801-A/500 29-30-04 Page 4 of 4 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+	</pages>
+</metadata>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata id="MPP1285_28-23-19-04-1">
+	<file family="145" manual="AMM" pn="1285" chg="U" tsn="51" is_tr="false">
+		<title>AMM PART II-1285 - CHAPTER 28-23-19-04 - WING LEVEL CONTROL UNIT - REMOVAL/INSTALLATION</title>
+		<path>/CHAPTER_28</path>
+		<hash>ac6e505b006da12798280c33e533895e</hash>
+	</file>
+	<pages>
+		<page number="1" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL WING LEVEL CONTROL UNIT - REMOVAL/INSTALLATION EFFECTIVITY:  AIRCRAFT WITH HIGH LEVEL EXCEEDING INDICATIONS SYSTEM 1. General A. This section gives the procedures to remove/install the wing level control unit. B. The procedures in this section are given in the sequence below. The tasks identified with ( ♦) are part of the Scheduled Maintenance Requirements Document (SMRD). TASK NUMBER DESCRIPTION EFFECTIVITY AIRCRAFT WITH HIGH LEVEL EXCEEDING IN- 28-23-19-000-801-A WING LEVEL CONTROL UNIT - REMOVAL DICATIONS SYSTEM   AIRCRAFT WITH HIGH WING LEVEL CONTROL UNIT - INSTAL- LEVEL EXCEEDING IN- 28-23-19-400-801-A LATION DICATIONS SYSTEM   EMB-145  - AMM 1285 General 28-23-19 Page 1 of 6 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="2" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 28-23-19-000-801-A EFFECTIVITY:  AIRCRAFT WITH HIGH LEVEL EXCEEDING INDICATIONS SYSTEM 2. WING LEVEL CONTROL UNIT - REMOVAL A. General (1) This task gives the procedures to remove the wing level control unit. B. References REFERENCE DESIGNATION AMM MPP 06-41-02/100 - C. Zones and Accesses ZONE PANEL/DOOR LOCATION 123 221GF Cockpit D. Tools and Equipment Not Applicable E. Auxiliary Items Not Applicable F. Consumable Materials Not Applicable G. Expandable Parts Not Applicable H. Persons Recommended QTY FUNCTION PLACE 1 Does the task Cockpit I. Preparation SUBTASK 841-002-A (1) Make sure that the aircraft is safe for maintenance. (2) On the circuit breaker panel, open the circuit breakers below and attach a DO-NOT- CLOSED tag to them: • REFUEL1 - DC BUS 1. • REFUEL2 - DC BUS 2. (3) Open door 221GF (AMM MPP 06-41-02/100) to get access to the wing level control unit. EMB-145  - AMM 1285 000-801-A/400 28-23-19 Page 2 of 6 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="3" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL J. Removal (Figure 401)  SUBTASK 020-002-A (1) Disconnect electrical connectors from the wing level control unit. (2) Install a protection cap on the disconnected electrical connectors. (3) Remove the screws and the washers from the wing level control unit. (4) Remove the wing level control unit from its support on the structure. EMB-145  - AMM 1285 000-801-A/400 28-23-19 Page 3 of 6 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="4" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: AIRCRAFT WITH HIGH LEVEL EXCEEDING INDICATIONS SYSTEM Wing Level Control Unit - Removal/Installation  Figure 401 WING FCU B A ZONES 123 124 DET. A ELECTRICAL CONNECTORS WING LCU BOLT WASHER DET. B 145AMM280857.MCE EMB-145  - AMM 1285 000-801-A/400 28-23-19 Page 4 of 6 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="5" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 28-23-19-400-801-A EFFECTIVITY:  AIRCRAFT WITH HIGH LEVEL EXCEEDING INDICATIONS SYSTEM 3. WING LEVEL CONTROL UNIT - INSTALLATION A. General (1) This task gives the procedures to install the wing level control unit. B. References REFERENCE DESIGNATION AMM MPP 06-41-02/100 - AMM TASK 28-41-00-200-801-A/600 - C. Zones and Accesses ZONE PANEL/DOOR LOCATION 123 221GF Cockpit D. Tools and Equipment Not Applicable E. Auxiliary Items Not Applicable F. Consumable Materials Not Applicable G. Expandable Parts Not Applicable H. Persons Recommended QTY FUNCTION PLACE 1 Does the task Cockpit I. Installation (Figure 401)  SUBTASK 420-002-A (1) Put the wing level control unit in position. (2) Install the screws and washers. (3) Remove the protection cap from electrical connectors. (4) Connect electrical connectors to the wing level control unit . J. Follow-on SUBTASK 842-002-A (1) Do an inspection on the fuel quantity indication harness (AMM TASK 28-41-00-200-801-A/600). EMB-145  - AMM 1285 400-801-A/400 28-23-19 Page 5 of 6 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="6" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL NOTE: The inspection of fuel quantity indication harness is a part of Critical Design Configuration Control Limitations (CDCCL) in the Airworthiness Limitations of the Maintenance Review Board Report (MRB). (2) Close access door 221GF (AMM MPP 06-41-02/100). (3) On the circuit breakers panel, close these circuit breakers and remove the DO-NOT- CLOSE tag from them: • REFUEL1 - DC BUS 1. • REFUEL2 - DC BUS 1. EMB-145  - AMM 1285 400-801-A/400 28-23-19 Page 6 of 6 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+	</pages>
+</metadata>

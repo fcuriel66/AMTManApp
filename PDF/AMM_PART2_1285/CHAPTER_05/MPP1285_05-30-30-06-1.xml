@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata id="MPP1285_05-30-30-06-1">
+	<file family="145" manual="AMM" pn="1285" chg="U" tsn="51" is_tr="false">
+		<title>AMM PART II-1285 - CHAPTER 05-30-30-06 - SPEED BRAKE - EXTERNAL - INSPECTION/CHECK</title>
+		<path>/CHAPTER_05</path>
+		<hash>30839716f027e9d02145ac601dfcf0d4</hash>
+	</file>
+	<pages>
+		<page number="1" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL SPEED BRAKE - EXTERNAL - INSPECTION/CHECK EFFECTIVITY:  ALL 1. General A. This section gives the procedures to do the visual inspection of the speed brake for general condition. B. Related Zones: 5713/6713. C. Zone Boundaries: STA Y = -2450.00 thru STA Y = -3815.00 (rib 9). D. The procedures in this section are given in the sequence below. The tasks identified with ( ♦) are part of the Scheduled Maintenance Requirements Document (SMRD). TASK NUMBER DESCRIPTION EFFECTIVITY SPEED BRAKE - EXTERNAL GENERAL ALL 05-30-30-200-801-A VISUAL INSPECTION  EMB-145  - AMM 1285 General 05-30-30 Page 1 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="2" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 05-30-30-200-801-A EFFECTIVITY:  ALL 2. SPEED BRAKE - EXTERNAL GENERAL VISUAL INSPECTION A. General (1) This task gives instructions to do the external general visual inspection (GVI) of wing, at zones 5713/6713, within a touching distance of the items examined. (2) The function of the external general visual inspection (GVI) is to find damage, failure, or irregular conditions that can be easily seen. B. References REFERENCE DESIGNATION ENERGIZATION OF THE AIRCRAFT WITH AN EX- AMM TASK 20-40-01-860-801-A/200 TERNAL POWER SOURCE HYDRAULIC SYSTEM - PRESSURIZATION WITH AMM TASK 29-10-00-860-801-A/200 HTS C. Zones and Accesses Not Applicable D. Tools and Equipment ITEM DESCRIPTION PURPOSE QTY GSE 067 Speed brake locking clamp To lock the speed brake actuator  Standard Stand To get access to the inspection area  E. Auxiliary Items Not Applicable F. Consumable Materials Not Applicable G. Expandable Parts Not Applicable H. Persons Recommended QTY FUNCTION PLACE 1 Does the task Speed brake I. Preparation (Figure 601)  SUBTASK 841-002-A WARNING: MAKE SURE THAT THERE ARE NO PERSONS OR EQUIPMENT IN THE FLAP TRAVEL AREA. (1) Energize the aircraft with the external DC power supply ( AMM TASK 20-40-01-860-801-A/200). EMB-145  - AMM 1285 200-801-A/600 05-30-30 Page 2 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="3" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL (2) Pressurize the hydraulic system ( AMM TASK 29-10-00-860-801-A/200). (3) Open the speed brake surface. (4) Release the pressure of the hydraulic system ( AMM TASK 29-10-00-860-801-A/200). (5) Set the flaps to the 45-degree position. (6) On the circuit breaker panel, open the SPEED BRAKE circuit breakers and attach a DO-NOT-CLOSE tag to it. (7) Install the GSE 067 on the speed brake actuator to lock the spoiler actuator (Figure 601). (8) Put the stand in position. J. External General Visual Inspection (Figure 602)  SUBTASK 212-002-A (1) Examine the zone for loose rivets, skin deformation, nicks, cracks, dents, scratches, gouges, creases, erosion, corrosion, flaking paint, and deteriorated protective treatment. (2) Examine the speed brake at hinges and actuator attachments for loose rivets, skin deformation, sealant poor condition, nicks, cracks, dents, scratches, gouges, creases, erosion, corrosion, and deteriorated protective treatment (Figure 602). K. Follow-on SUBTASK 842-002-A (1) Remove the GSE 067 from the speed brake actuator to release the spoiler actuator. (2) Remove the stand. (3) Pressurize the hydraulic system ( AMM TASK 29-10-00-860-801-A/200). (4) Close the speed brake surface. (5) Release the pressure of the hydraulic system ( AMM TASK 29-10-00-860-801-A/200). (6) On the circuit breaker panel, close the SPEED BRAKE circuit breakers and remove the DO-NOT-CLOSE tag from it. (7) Remove the external DC power supply from the aircraft ( AMM TASK 20-40-01-860-801-A/200). EMB-145  - AMM 1285 200-801-A/600 05-30-30 Page 3 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="4" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: ALL GSE 067 Installation  Figure 601 SPEED BRAKE A A ZONE ZONE 6713 5713 GROUND SPOILER DET. A B GSE 67 SPOILER ACTUATOR DET. B 145AMM050241.MCE A EMB-145  - AMM 1285 200-801-A/600 05-30-30 Page 4 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="5" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: ALL Speed Brake - External General Visual Inspection  Figure 602 A ZONES 5713 6713 SPEED BRAKE PANEL ACTUATOR ATTACHMENT HINGE ATTACHMENT HINGE ATTACHMENT DET. A 145AMM050244.MCE A EMB-145  - AMM 1285 200-801-A/600 05-30-30 Page 5 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="6" width="216.0" height="279.0">
+			<data/>
+		</page>
+	</pages>
+</metadata>

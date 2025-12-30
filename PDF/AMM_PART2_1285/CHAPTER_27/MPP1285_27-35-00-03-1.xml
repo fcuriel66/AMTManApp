@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata id="MPP1285_27-35-00-03-1">
+	<file family="145" manual="AMM" pn="1285" chg="U" tsn="51" is_tr="false">
+		<title>AMM PART II-1285 - CHAPTER 27-35-00-03 - ELEVATOR DISCONNECT SYSTEM - SERVICING</title>
+		<path>/CHAPTER_27</path>
+		<hash>1c578539b88e1fc2dd9ae4d35e9b8d67</hash>
+	</file>
+	<pages>
+		<page number="1" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL ELEVATOR DISCONNECT SYSTEM - SERVICING EFFECTIVITY:  ALL 1. General A. This section gives the procedures to lubricate the elevator disconnect system, installed at the elevator quadrant. B. The procedures in this section are given in the sequence below. The tasks identified with ( ♦) are part of the Scheduled Maintenance Requirements Document (SMRD). TASK NUMBER DESCRIPTION EFFECTIVITY ELEVATOR DISCONNECT SYSTEM - LU- ALL 27-35-00-600-801-A ♦ BRICATION  EMB-145  - AMM 1285 General 27-35-00 Page 1 of 4 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="2" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 27-35-00-600-801-A EFFECTIVITY:  ALL 2. ELEVATOR DISCONNECT SYSTEM - LUBRICATION A. General (1) This task gives the procedures to lubricate the plate mechanism and disconnectable link bellcrank, installed at the elevator quadrant. B. References REFERENCE DESIGNATION AMM TASK 27-35-00-000-801-A/400 ELEVATOR DISCONNECT DEVICE - REMOVAL AMM TASK 27-35-00-400-801-A/400 ELEVATOR DISCONNECT DEVICE - INSTALLATION CMM 0756 - IPC 27-35-00 ELEVATOR DISCONNECT C. Zones and Accesses ZONE PANEL/DOOR LOCATION 123 123BL Area below the cockpit floor - LH 221 221EF Cockpit LH upper side D. Tools and Equipment ITEM DESCRIPTION PURPOSE QTY To lock the elevator torque tube in the neu- GSE 058 Kit, rig pins  tral position Stiff-Bristle Brush Brush To do the cleaning procedure  E. Auxiliary Items Not Applicable F. Consumable Materials SPECIFICATION DESCRIPTION QTY (BRAND) MIL-G-46886 Grease, Molykote DC-33 Light AR MIL-PRF-680 Cleaning Compound Solvent AR TT-I-735 Isopropyl Alcohol AR G. Expendable Parts IPC REFERENCE ITEM QTY (VENDOR REFERENCE) Cotter pin IPC 27-35-00 1 EMB-145  - AMM 1285 600-801-A/300 27-35-00 Page 2 of 4 Rev 49 - Feb  16/16 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="3" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL H. Persons Recommended QTY FUNCTION PLACE 1 Does the task Forward torque tube I. Preparation SUBTASK 841-002-A (1) Remove the elevator disconnect system (AMM TASK 27-35-00-000-801-A/400). J. Lubricate Elevator Disconnect System (Figure 301)  SUBTASK 640-002-A (1) In the disconnectable link, lubricate the retainer guide, the springs, the housing of balls in the device assembly and inside channel in the movable disk. Refer to the Assembly Section of CMM 0756. NOTE: If the disconnectable link is disconnected, make sure that the disks do not turn more than 60ÃÂ° in relation to each other. (2) Clean the disconnectable link bellcrank with solvent MIL-PRF-680 or alcohol TT-I-735 and use a stiff-bristle brush. NOTE: The area must have no signs of dirt, grease, oil, or other contaminations. Do the cleaning procedure again, if necessary. (3) Lubricate the disconnectable link bellcrank with Molykote DC-33 Light (MIL-G-46886). Refer to (Figure 301). K. Follow-on SUBTASK 842-002-A (1) Install the elevator disconnect system ( AMM TASK 27-35-00-400-801-A/400). EMB-145  - AMM 1285 600-801-A/300 27-35-00 Page 3 of 4 Rev 49 - Feb  16/16 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="4" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: ALL Elevator Disconnect System - Lubrication  Figure 301 A ZONES B 123 124 DET. A ALIGNING NOTCH PIN C D GEARED SHAFT COTTER ELECTRICAL PIN CONNECTOR DET. B WASHER CONNECTING FLANGE  INTERNAL CABLE GEARED SHAFT DET. C DET. D MIL-G-46886 EM145AMM270044C.DGN EMB-145  - AMM 1285 600-801-A/300 27-35-00 Page 4 of 4 Rev 49 - Feb  16/16 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+	</pages>
+</metadata>

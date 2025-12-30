@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata id="MPP1285_33-41-00-05-1">
+	<file family="145" manual="AMM" pn="1285" chg="U" tsn="51" is_tr="false">
+		<title>AMM PART II-1285 - CHAPTER 33-41-00-05 - LANDING LIGHTS - ADJUSTMENT/TEST</title>
+		<path>/CHAPTER_33</path>
+		<hash>80e9d069f91f31829c6fbb1bcf8ff6a4</hash>
+	</file>
+	<pages>
+		<page number="1" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL LANDING LIGHTS - ADJUSTMENT/TEST EFFECTIVITY:  ALL 1. General A. This section gives the procedures to do the test of the Landing Lights. B. The procedures in this section are given in the sequence below. The tasks identified with ( ♦) are part of the Scheduled Maintenance Requirements Document (SMRD). TASK NUMBER DESCRIPTION EFFECTIVITY ALL 33-41-00-700-801-A LANDING LIGHTS - OPERATIONAL TEST   EMB-145  - AMM 1285 General 33-41-00 Page 1 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="2" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 33-41-00-700-801-A EFFECTIVITY:  ALL 2. LANDING LIGHTS - OPERATIONAL TEST A. General This task gives the procedures to do the Operational Test of the Landing Lights. B. References REFERENCE DESIGNATION AMM SDS 33-41-00/1  ENERGIZATION OF THE AIRCRAFT WITH AN EX- AMM TASK 20-40-01-860-801-A/200 TERNAL POWER SOURCE C. Zones and Accesses Not Applicable D. Tools and Equipment Not Applicable E. Auxiliary Items Not Applicable F. Consumable Materials Not Applicable G. Expandable Parts Not Applicable H. Persons Recommended QTY FUNCTION PLACE 1 Does the task Cockpit I. Preparation SUBTASK 841-002-A (1) Energize the aircraft with the External DC Power Supply ( AMM TASK 20-40-01-860-801-A/200). (2) Make sure that the Circuit Breakers below are closed: – LDG 1 LIGHT (AMM SDS 33-41-00/1). – LDG NOSE LIGHT (AMM SDS 33-41-00/1). – LDG 2 LIGHT (AMM SDS 33-41-00/1). J. Operationally Test Landing Lights (Figure 501)  (Figure 502)  SUBTASK 710-002-A (1) Do the test of the Landing Lights as follows: EMB-145  - AMM 1285 700-801-A/500 33-41-00 Page 2 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="3" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL (a) Set the LDG 1 light switch, on the overhead panel, to the ON position. Result: 1 The landing light 1, on the left wing leading edge 1, comes on. (b) Set the LDG 1 light switch to the OFF position. Result: 1 The landing light 1 goes off. (c) Set the LDG 2 light switch, on the overhead panel, to the ON position. Result: 1 The landing light 2, on the right wing leading edge 1, comes on. (d) Set the LDG 2 light switch to the OFF position. Result: 1 The landing light 2 goes off. (e) Set the LDG NOSE light switch, on the overhead panel, to the ON position. Result: 1 The nose landing light, on the nose landing gear, comes on. (f) Set the LDG NOSE light switch to the OFF position. Result: 1 The nose landing light goes off. K. Follow-on SUBTASK 842-002-A (1) Deenergize the aircraft ( AMM TASK 20-40-01-860-801-A/200). EMB-145  - AMM 1285 700-801-A/500 33-41-00 Page 3 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="4" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: ALL Landing Lights  Figure 501 LANDING LIGHT LANDING LIGHT LANDING LANDING LIGHT LIGHT LANDING LANDING LIGHT LIGHT LANDING LIGHT 145AMM330035.MCE A EMB-145  - AMM 1285 700-801-A/500 33-41-00 Page 4 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="5" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: ALL Landing Lights Switches  Figure 502 A EXTERIOR LIGHTS ON ON ON OFF OFF OFF LDG 1 NOSE LDG 2 TAXI DET. A 145AMM330036.MCE A EMB-145  - AMM 1285 700-801-A/500 33-41-00 Page 5 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="6" width="216.0" height="279.0">
+			<data/>
+		</page>
+	</pages>
+</metadata>

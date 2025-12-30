@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata id="MPP1285_23-15-28-04-2">
+	<file family="145" manual="AMM" pn="1285" chg="U" tsn="51" is_tr="false">
+		<title>AMM PART II-1285 - CHAPTER 23-15-28-04 - CONFIG-2 - IRIDIUM TRANSCEIVER - REMOVAL/INSTALLATION</title>
+		<path>/CHAPTER_23</path>
+		<hash>7d74d8def0e9fdfaf2622804bb759171</hash>
+	</file>
+	<pages>
+		<page number="1" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL IRIDIUM TRANSCEIVER - REMOVAL/INSTALLATION EFFECTIVITY:  ACFT MODEL(S) EMB-135 1. General A. This section gives the procedures to remove and install the Iridium Transceiver. B. The procedures in this section are given in the sequence below. The tasks identified with ( ♦) are part of the Scheduled Maintenance Requirements Document (SMRD). TASK NUMBER DESCRIPTION EFFECTIVITY FOR AIRCRAFT WITH IRIDIUM-SATELLITE 23-15-28-000-801-A IRIDIUM TRANSCEIVER - REMOVAL COMMUNICATIONS SYSTEM   FOR AIRCRAFT WITH IRIDIUM-SATELLITE 23-15-28-400-801-A IRIDIUM TRANSCEIVER - INSTALLATION COMMUNICATIONS SYSTEM   EMB-145  - AMM 1285 General CONFIG-2 23-15-28 Page 1 of 6 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="2" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 23-15-28-000-801-A EFFECTIVITY:  FOR AIRCRAFT WITH IRIDIUM-SATELLITE COMMUNICATIONS SYSTEM 2. IRIDIUM TRANSCEIVER - REMOVAL A. General (1) This task gives the procedures to remove the Iridium Transceiver. (2) The removal procedures are the same for the two Iridium Transceivers. B. Zones and Accesses ZONE PANEL/DOOR LOCATION 272 Rear Electronic Compartment C. Tools and Equipment Not Applicable D. Auxiliary Items Not Applicable E. Consumable Materials Not Applicable F. Expandable Parts Not Applicable G. Persons Recommended QTY FUNCTION PLACE 1 Does the task Passenger cabin H. Preparation SUBTASK 841-006-A EFFECTIVITY: FOR AIRCRAFT WITH IRIDIUM-SATELLITE COMMUNICATIONS SYSTEM (1) On the Circuit Breaker Panel (Location Tip: SHED DC BUS 2), open these circuit breakers and attach a DO-NOT-CLOSE tag to them: • Transceiver 1. • Transceiver 2. I. Removal (Figure 401)  SUBTASK 020-005-A EFFECTIVITY: FOR AIRCRAFT WITH IRIDIUM-SATELLITE COMMUNICATIONS SYSTEM (1) To remove the Iridium Transceiver, do as follows: (a) Disconnect the electrical connectors (3) and (4). (b) Release the knurled nut (1) which attaches the Iridium Transceiver (2). EMB-145  - AMM 1285 000-801-A/400 CONFIG-2 23-15-28 Page 2 of 6 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="3" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL (c) Remove the Iridium Transceiver (2) from the mounting rack. (d) Install protection caps on the electrical connectors (3) and (4). EMB-145  - AMM 1285 000-801-A/400 CONFIG-2 23-15-28 Page 3 of 6 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="4" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: FOR AIRCRAFT WITH IRIDIUM-SATELLITE COMMUNICATIONS SYSTEM Iridium Transceiver - Removal/Installation  Figure 401 A ZONE B 272 2 2.TRANSCEIVER 1 3. ELECTRICAL     CONNECTOR 1. KNURLED     NUT 4. ELECTRICAL     CONNECTOR DET.  B 1  TRANSCEIVER 1 2  TRANSCEIVER 2 145AMM230706.MCE EMB-145  - AMM 1285 000-801-A/400 CONFIG-2 23-15-28 Page 4 of 6 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="5" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 23-15-28-400-801-A EFFECTIVITY:  FOR AIRCRAFT WITH IRIDIUM-SATELLITE COMMUNICATIONS SYSTEM 3. IRIDIUM TRANSCEIVER - INSTALLATION A. General (1) This task gives the procedures to install the Iridium Transceiver. (2) The installation procedures are the same for the two Iridium Transceivers. B. References REFERENCE DESIGNATION AMM TASK 23-15-00-700-801-A/500 - C. Zones and Accesses ZONE PANEL/DOOR LOCATION 272 Rear Electronic Compartment D. Tools and Equipment Not Applicable E. Auxiliary Items Not Applicable F. Consumable Materials Not Applicable G. Expandable Parts Not Applicable H. Persons Recommended QTY FUNCTION PLACE 1 Does the task Passenger cabin I. Installation (Figure 401)  SUBTASK 420-005-A EFFECTIVITY: FOR AIRCRAFT WITH IRIDIUM-SATELLITE COMMUNICATIONS SYSTEM (1) To install the Iridium Transceiver, do as follows: (a) Remove the protection caps from the electrical connectors (3) and (4). (b) Install the Iridium Transceiver (2) on the mounting rack. (c) Tighten the knurled nut (1) which attaches the Iridium Transceiver (2). (d) Connect the electrical connectors (3) and (4). EMB-145  - AMM 1285 400-801-A/400 CONFIG-2 23-15-28 Page 5 of 6 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="6" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL J. Follow-on SUBTASK 842-006-A EFFECTIVITY: FOR AIRCRAFT WITH IRIDIUM-SATELLITE COMMUNICATIONS SYSTEM (1) On the Circuit Breakers Panel (Location Tip: SHED DC BUS 2), remove the DO-NOT- CLOSE tags from these circuit breakers and close them: • Transceiver 1. • Transceiver 2. (2) Do the Telephone System operational test (AMM TASK 23-15-00-700-801-A/500). EMB-145  - AMM 1285 400-801-A/400 CONFIG-2 23-15-28 Page 6 of 6 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+	</pages>
+</metadata>

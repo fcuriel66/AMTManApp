@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata id="MPP1285_34-22-02-05-1">
+	<file family="145" manual="AMM" pn="1285" chg="U" tsn="51" is_tr="false">
+		<title>AMM PART II-1285 - CHAPTER 34-22-02-05 - PFD/MFD BEZEL - ADJUSTMENT/TEST</title>
+		<path>/CHAPTER_34</path>
+		<hash>c1663f7b0c8003ff0c0f83b7bef73f50</hash>
+	</file>
+	<pages>
+		<page number="1" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL PFD/MFD BEZEL - ADJUSTMENT/TEST EFFECTIVITY:  ALL 1. General A. This section gives the procedures to do a leveling of the PFD Inclinometer B. The procedures in this section are given in the sequence below. The tasks identified with ( ♦) are part of the Scheduled Maintenance Requirements Document (SMRD). TASK NUMBER DESCRIPTION EFFECTIVITY ALL 34-22-02-700-801-A PFD INCLINOMETER - LEVELING   EMB-145  - AMM 1285 General 34-22-02 Page 1 of 4 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="2" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 34-22-02-700-801-A EFFECTIVITY:  ALL 2. PFD INCLINOMETER - LEVELING A. General (1) This task gives the procedure to align the PFD inclinometers 1 and 2. B. References REFERENCE DESIGNATION AMM TASK 08-20-00-500-801-A/200 AIRCRAFT LEVELING IN THE PASSENGER CABIN C. Zones and Accesses ZONE PANEL/DOOR LOCATION 223 223BZ Main instrument panel D. Tools and Equipment Not Applicable E. Auxiliary Items Not Applicable F. Consumable Materials Not Applicable G. Expandable Parts Not Applicable H. Persons Recommended QTY FUNCTION PLACE 1 Does the task Cockpit I. Preparation SUBTASK 841-002-A (1) Make sure that the aircraft is safe for maintenance. (2) Make sure that the AVIONICS MASTER 1 and 2 pushbuttons are set to off. (3) Do the aircraft leveling ( AMM TASK 08-20-00-500-801-A/200). J. Leveling of the PFD Inclinometer (Figure 501)  SUBTASK 710-002-A (1) Do the alignment of the PFD inclinometers 1. (a) On the PFD bezel (1) loosen the two screws (2). EMB-145  - AMM 1285 700-801-A/500 34-22-02 Page 2 of 4 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="3" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL (b) Carefully move the inclinometer to put the black sphere centralized between the two marks and tighten the screws (2) on the PFD bezel (1). (2) Do step (1) above again for alignment the PFD inclinometers 2. EMB-145  - AMM 1285 700-801-A/500 34-22-02 Page 3 of 4 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="4" width="216.0" height="279.0">
+			<data>15 12 E 6 3 AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: ALL PFD Inclinometer - Leveling  Figure 501 A A LOC  FGG IAS  GS 26O  5O OO AP YD 28O 2O 2O GS 26O  45OO ATT 1O 1O 24 O 43 OO 1O 1O MIN 22O  4OOO 35O 2OO 195 RA 29.92 IN .41O M 359 CRS 3 N ILS 1 2 13.1 NM 1 1OOO O 25 VOR1 1 ADF2 2 1. PFD BEZEL HDG TTG 3 OO1 TGT 5MIN BARO IN / HPA STD DET. A 2. SCREW (2) EM145AMM341121A.DGN EMB-145  - AMM 1285 700-801-A/500 34-22-02 Page 4 of 4 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details. 33 3O W 24 21 S</data>
+		</page>
+	</pages>
+</metadata>

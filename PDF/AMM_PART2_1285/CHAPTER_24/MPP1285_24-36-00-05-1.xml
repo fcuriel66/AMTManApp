@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata id="MPP1285_24-36-00-05-1">
+	<file family="145" manual="AMM" pn="1285" chg="U" tsn="51" is_tr="false">
+		<title>AMM PART II-1285 - CHAPTER 24-36-00-05 - MAIN BATTERY SYSTEM - ADJUSTMENT/TEST</title>
+		<path>/CHAPTER_24</path>
+		<hash>2be491e7ddae82e81ad056f6e4519ae8</hash>
+	</file>
+	<pages>
+		<page number="1" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL MAIN BATTERY SYSTEM - ADJUSTMENT/TEST EFFECTIVITY:  ALL 1. General A. This section gives the procedures to do the operational test of the main battery system. B. The procedures in this section are given in the sequence below. The tasks identified with ( ♦) are part of the Scheduled Maintenance Requirements Document (SMRD). TASK NUMBER DESCRIPTION EFFECTIVITY MAIN BATTERY SYSTEM - OPERATION- ALL 24-36-00-700-801-A AL TEST  EMB-145  - AMM 1285 General 24-36-00 Page 1 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="2" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 24-36-00-700-801-A EFFECTIVITY:  ALL 2. MAIN BATTERY SYSTEM - OPERATIONAL TEST A. General (1) The function of this test is to make sure that the main battery system operates correctly. (2) The operational test is done only with the main-battery system DC. B. References REFERENCE DESIGNATION AMM SDS 24-36-00/1  AMM SDS 31-41-00/1  C. Zones and Accesses Not Applicable D. Tools and Equipment Not Applicable E. Auxiliary Items Not Applicable F. Consumable Materials Not Applicable G. Expandable Parts Not Applicable H. Persons Recommended QTY FUNCTION PLACE 1 Does the task Cockpit I. Preparation SUBTASK 841-002-A (1) Make sure that the aircraft is deenergized. NOTE: 1. The main battery must be in good conditions for use. 2. Make sure that the electrical system is in its minimum load configuration. (2) On the overhead panel, set the AVIONICS MASTER pushbutton 1 to ON and pushbutton 2 to OFF position or vice versa. J. Test Procedure (Figure 501)  SUBTASK 710-002-A (1) Do the check as follows: EMB-145  - AMM 1285 700-801-A/500 24-36-00 Page 2 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="3" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL WARNING: DO NOT TOUCH THE PROBES IMMEDIATELY AFTER AIRPLANE POWER UP. DURING FADEC INITIALIZATION ITS SENSORS ARE HEATED FOR 20 SECONDS AND IF YOU TOUCH THEM, THEY CAN CAUSE INJURIES. (a) Set the BATT 1 and BATT 2 switches, on the overhead panel, to AUTO. Result: 1 The EICAS display, MFD 1 (or 2), and PFD 1 (or 2) come on. (b) Set the MFD 1 (or 2) to the ELEC page (AMM SDS 31-41-00/1). Result: 1 The ELEC page shows the battery 1 and 2 temperature and voltage boxed in green (AMM SDS 24-36-00/1). NOTE: The minimum voltage is 23.5 V DC. The ELEC page shows the temperature in these ranges: Normal value - 40 to 70 degrees Celsius: green. Abnormal value - Higher than 70 degrees Celsius: red. (c) Set the BATT 1 switch to OFF. Result: 1 The EICAS display shows the BATT 1 OFF BUS caution message. 2 The CAUTION lights flash. (d) Push a CAUTION light. Result: 1 The CAUTION lights go off. (e) Set the BATT 1 switch to AUTO. Result: 1 On the EICAS display, the BATT 1 OFF BUS caution message goes out of view. (f) Set the BATT 2 switch to OFF. Result: 1 The EICAS display shows the BATT 2 OFF BUS caution message. 2 The CAUTION lights flash. (g) Push a CAUTION light. Result: 1 The CAUTION lights go off. (h) Set the BATT 2 switch to AUTO. Result: 1 On the EICAS display, the BATT 2 OFF BUS caution message goes out of view. (i) Set the BATT 1 and BATT 2 switches to OFF. EMB-145  - AMM 1285 700-801-A/500 24-36-00 Page 3 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="4" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL K. Follow-on SUBTASK 842-002-A (1) On the overhead panel, set the AVIONICS MASTER pushbuttons (1 and 2) to OFF position. EMB-145  - AMM 1285 700-801-A/500 24-36-00 Page 4 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="5" width="216.0" height="279.0">
+			<data>3 AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: ALL Main Battery System Operational Test  Figure 501 A B B D E C E D ELECTRICAL DC BUS 1 CENTRAL BUS DC BUS 2 BATT 1 CAUT SWITCH BATT 2 AUTO AUTO SWITCH OFF OFF DET. B BATT 1 BATT 2 MASTER CAUTION ESS DC BUS 1 ESS DC BUS 2 LIGHT DET. A ELECTRICAL PANEL 300 TAS END FMS .51 M ROL VS 00 140 +15  LL01 SAT 280 N1 12.5 NM 245 GSPD 12  MIN 20 20 260 10 10 14500 IGN IGN 1200 1200 OFF OFF ITT N 00 240 143 10 10 220 25 14000 20 20 200 OIL VIB LDG GEAR 29.92 .470 M IN TGT TX 360 359 CRS 3 VOR2 FLAPS GEN1 GEN3 APU GPU GEN2 GEN4 N 2 28.5 V 28.5 00.0 V 00.0 V 28.5 V 00.0 17 .5 NM 1 PRESS TEMP LP HP SPLRS CLD 120 A 120 000 A 120 A 000 25 0 1000 ROLL PITCH CAB ALT 28.5 V 28.5 V CAB        P UP ESS1 BATT1 BATT2 ESS2 40 40 1 ÃÂ¯C ÃÂ¯C CAB RATE YAW 2 MENU MAP M/P HDG TTG APU 3 SYS MFD CKLST TCAS WX PLAN RNG 001 5MIN BARO IN/HPA STD DET. D DET. C DET. E EICAS DISPLAY PFD MFD EM145AMM240017D.DGN EMB-145  - AMM 1285 700-801-A/500 24-36-00 Page 5 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details. 33</data>
+		</page>
+		<page number="6" width="216.0" height="279.0">
+			<data/>
+		</page>
+	</pages>
+</metadata>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata id="MPP1285_76-12-02-04-1">
+	<file family="145" manual="AMM" pn="1285" chg="U" tsn="51" is_tr="false">
+		<title>AMM PART II-1285 - CHAPTER 76-12-02-04 - THRUST RATING MODULE SWITCH BOX - REMOVAL/INSTALLATION</title>
+		<path>/CHAPTER_76</path>
+		<hash>eff4f919320d61f085fb94e804b4e591</hash>
+	</file>
+	<pages>
+		<page number="1" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL THRUST RATING MODULE SWITCH BOX - REMOVAL/INSTALLATION EFFECTIVITY:  ALL 1. General A. This section gives the procedure to remove/install the thrust-rating module switch box. B. The thrust-rating module switch box is installed in the control stand assembly. C. The procedures in this section are given in the sequence below. The tasks identified with ( ♦) are part of the Scheduled Maintenance Requirements Document (SMRD). TASK NUMBER DESCRIPTION EFFECTIVITY THRUST-RATING MODULE SWITCH BOX ALL 76-12-02-000-801-A - REMOVAL  THRUST-RATING MODULE SWITCH BOX ALL 76-12-02-400-801-A - INSTALLATION  EMB-145  - AMM 1285 General 76-12-02 Page 1 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="2" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 76-12-02-000-801-A EFFECTIVITY:  ALL 2. THRUST-RATING MODULE SWITCH BOX - REMOVAL A. General (1) Obey the instructions below to remove the thrust-rating module switch box. B. Zones and Accesses Not Applicable C. Tools and Equipment Not Applicable D. Auxiliary Items Not Applicable E. Consumable Materials Not Applicable F. Expandable Parts Not Applicable G. Persons Recommended QTY FUNCTION PLACE 1 Does the task Cockpit H. Preparation SUBTASK 841-002-A (1) On the circuit breaker panel, open these circuit breakers and attach DO-NOT-CLOSE tags to them: – LIGHTS - PEDESTAL PANEL – POWERPLANT - START 1/2 – POWERPLANT - FADEC 1A/2A - 1B/2B (2) Remove the thrust-lever friction lock knob. (3) Remove the radar control panel. I. Removal (Figure 401)  SUBTASK 020-002-A (1) Loosen the two dzus fastener (3) of the thrust rating module (2). (2) Loosen the screws (6) that attach the electrical connectors (7) to the thrust-rating module connectors (4). (3) Release the electrical connectors (7) and remove the thrust rating module from the control pedestal (1). EMB-145  - AMM 1285 000-801-A/400 76-12-02 Page 2 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="3" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: ALL Thrust-Rating Module Switch Box - Removal/Installation  Figure 401 A 2. THRUST RATING MODULE 3. DZUS     FASTENER 4. THRUST RATING       MODULE CONNECTORS 5. FRICTION     LOCK KNOB 7. ELECTRICAL     CONNECTORS 1. CONTROL     PEDESTAL DET. A 6. SCREW 145AMM760025.MCE A EMB-145  - AMM 1285 000-801-A/400 76-12-02 Page 3 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details. THRUST RATING T/O CON CLB CRZ</data>
+		</page>
+		<page number="4" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 76-12-02-400-801-A EFFECTIVITY:  ALL 3. THRUST-RATING MODULE SWITCH BOX - INSTALLATION A. General (1) Obey the instructions below to install the thrust-rating module switch box. B. References REFERENCE DESIGNATION THRUST RATING MODULE SWITCH BOX - OPERA- AMM TASK 76-12-02-700-801-A/500 TIONAL CHECK C. Zones and Accesses Not Applicable D. Tools and Equipment Not Applicable E. Auxiliary Items Not Applicable F. Consumable Materials Not Applicable G. Expandable Parts Not Applicable H. Persons Recommended QTY FUNCTION PLACE 1 Does the task Cockpit I. Installation (Figure 401)  SUBTASK 420-002-A (1) Connect the electrical connectors (7) to the thrust rating module (2). (2) Install and tighten the screws (6) of the electrical connectors (7). (3) Tighten the two dzus fasteners (3) that attach the thrust rating module (2) to the control pedestal (1). J. Follow-on SUBTASK 842-002-A (1) Install the radar control panel. (2) Install the thrust-lever friction lock knob. (3) On the circuit breaker panel, remove the DO-NOT-CLOSE tags and close these circuit breakers: EMB-145  - AMM 1285 400-801-A/400 76-12-02 Page 4 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="5" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL – LIGHTS - PEDESTAL PANEL – POWERPLANT - START 1/2 – POWERPLANT - FADEC 1A/2A - 1B/2B (4) Do the thrust-rating module switch box operational check ( AMM TASK 76-12-02-700-801-A/500). EMB-145  - AMM 1285 400-801-A/400 76-12-02 Page 5 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="6" width="216.0" height="279.0">
+			<data/>
+		</page>
+	</pages>
+</metadata>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata id="MPP1285_20-40-00-02-1">
+	<file family="145" manual="AMM" pn="1285" chg="R" tsn="51" is_tr="false">
+		<title>AMM PART II-1285 - CHAPTER 20-40-00-02 - ELECTROSTATIC DISCHARGE (ESD) - MAINTENANCE PRACTICES</title>
+		<path>/CHAPTER_20</path>
+		<hash>41180c06a4913b23d6eaf35d53edbe73</hash>
+	</file>
+	<pages>
+		<page number="1" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL ELECTROSTATIC DISCHARGE (ESD) - MAINTENANCE PRACTICES EFFECTIVITY: ALL 1. General A. This section gives the maintenance practices for handling electronic components or systems ESD susceptible. B. The procedures in this section are given in the sequence below. C. The procedures in this section are given in the sequence below. The tasks identified with ( ♦) are part of the Scheduled Maintenance Requirements Document (SMRD). TASK NUMBER DESCRIPTION EFFECTIVITY ELECTROSTATIC DISCHARGE (ESD) - ALL 20-40-00-910-801-A STANDARD PRACTICES  EMB-145  - AMM 1285 General 20-40-00 Page 1 of 5 Rev 48 - Oct 30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="2" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 20-40-00-910-801-A EFFECTIVITY: ALL 2. ELECTROSTATIC DISCHARGE (ESD) - STANDARD PRACTICES A. General (1) This task gives the maintenance practices for handling electronic components or systems ESD susceptible. (2) Electrostatic protection shall be maintained at a potential above a "zero" voltage ground potential as long as all items in the system are at the same potential. For this, all conductors in the environment, including personnel, shall be bonded or electrically connected and attached to a known ground or contrived ground (as on aircraft). This section gives the procedure to create an equipotent balance between all items and personnel. B. Zones and Accesses Not Applicable C. Tools and Equipment ITEM DESCRIPTION PURPOSE QTY For handling electronic components or sys- GSE 444 Wrist Strap  tems ESD susceptible For handling electronic components or sys- GSE 445 Wrist Strap Test  tems ESD susceptible D. Auxiliary Items Not Applicable E. Consumable Materials Not Applicable F. Expandable Parts Not Applicable G. Persons Recommended QTY FUNCTION PLACE 1 Does the task Where applicable H. Preparation SUBTASK 841-002-A (1) Make sure that the ESD workstation table is in perfect conditions for use. (2) Remove all items from the work area, such as paper, tape, styrofoam cups and clothing that can cause static electricity. Because these items are insulators, static charges will not discharge even when these items are on a grounded surface. NOTE: ALL ESDS devices are identified with the ESD symbol (Figure 201). EMB-145  - AMM 1285 910-801-A/200 20-40-00 Page 2 of 5 Rev 51 - Oct 31/16 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="3" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL I. Grounding Integrity Test (Figure 202)  SUBTASK 710-002-A (1) Put on and adjust the GSE 444 until you get a direct contact with the skin (5). (2) Do the grounding integrity test of the GSE 444 as follows: (a) Connect the ground cord (4) to the wrist strap (5). (b) Connect the plug of the ground cord to the GSE 445 (1). (c) Press the test button (3) for 2-3 seconds. Result: 1. The green (OK) LED (2) comes on. It indicates that the wrist strap and ground cord assemblies operate correctly. NOTE: If the red (no OK) LED (2) comes on, do a check of the GSE 444 assembly and replace it if necessary. Do the integrity test again whenever you remove or replace the GSE 444. (d) Disconnect the plug of the ground cord from the GSE 445 (1). J. Standard Practices SUBTASK 910-002-A (1) Connect the plug of the ground cord to an ESD grounded point. (2) You are now safely grounded and can start your work. NOTE: When you do the work with ESDS devices, make sure that the ground connections are in good conditions. K. Follow on SUBTASK 842-002-A (1) Go back to the procedure of the related task. EMB-145  - AMM 1285 910-801-A/200 20-40-00 Page 3 of 5 Rev 51 - Oct 31/16 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="4" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: ALL ESD Labels - Maintenance Practices  Figure 201 ATTENTION OBSERVE PRECAUTIONS FOR HANDLING ELECTROSTATIC SENSITIVE DEVICES CAUTION SENSITIVE ELECTRONIC DEVICES DO NOT SHIP OR STORE NEAR STRONG ELECTROSTATIC, ELETROMAGNETIC, MAGNETIC OR RADIOACTIVE FIELDS EM145AMM200051A.DGN EMB-145  - AMM 1285 910-801-A/200 20-40-00 Page 4 of 5 Rev 51 - Oct 31/16 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="5" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: ALL Adjusting and Testing of Wrist Strap Assembly - Maintenance Practices  Figure 202 WRIST STRAP (REF.) 2. LEDS 1. WRIST STRAP     TESTER 3. TEST     BUTTON 5. WRIST STRAP 4. GROUND     CORD EM145AMM200050A.DGN EMB-145  - AMM 1285 910-801-A/200 20-40-00 Page 5 of 5 Rev 51 - Oct 31/16 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="6" width="216.0" height="279.0">
+			<data/>
+		</page>
+	</pages>
+</metadata>

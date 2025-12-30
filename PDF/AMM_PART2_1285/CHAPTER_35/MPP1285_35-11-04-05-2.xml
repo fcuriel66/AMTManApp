@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata id="MPP1285_35-11-04-05-2">
+	<file family="145" manual="AMM" pn="1285" chg="U" tsn="51" is_tr="false">
+		<title>AMM PART II-1285 - CHAPTER 35-11-04-05 - CONFIG-2 - LOW PRESSURE SWITCH - ADJUSTMENT/TEST</title>
+		<path>/CHAPTER_35</path>
+		<hash>b68ede8927a1f2c016cc4330ee6a396f</hash>
+	</file>
+	<pages>
+		<page number="1" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL LOW PRESSURE SWITCH - ADJUSTMENT/TEST EFFECTIVITY:  AIRCRAFT FOR 16 PASSENGERS 1. General A. This section gives the procedure for the operational check of the Low Pressure Indicating Circuit. B. The procedures in this section are given in the sequence below. The tasks identified with ( ♦) are part of the Scheduled Maintenance Requirements Document (SMRD). TASK NUMBER DESCRIPTION EFFECTIVITY AIRCRAFT FOR 16 LOW PRESSURE SWITCH - OPERATION- 35-11-04-700-801-A ♦ PASSENGERS AL CHECK   EMB-145  - AMM 1285 General CONFIG-2 35-11-04 Page 1 of 4 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="2" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 35-11-04-700-801-A EFFECTIVITY:  AIRCRAFT FOR 16 PASSENGERS 2. LOW PRESSURE SWITCH - OPERATIONAL CHECK A. General (1) This task gives the procedure to do the operational check of the Low Pressure Indicating Circuit. B. References REFERENCE DESIGNATION AMM MPP 06-41-04/100 - ENERGIZATION OF THE AIRCRAFT WITH AN EX- AMM TASK 20-40-01-860-801-A/200 TERNAL POWER SOURCE AMM TASK 35-10-00-910-801-A/200 - C. Zones and Accesses ZONE PANEL/DOOR LOCATION 232 232AZ Passenger cabin D. Tools and Equipment Not Applicable E. Auxiliary Items Not Applicable F. Consumable Materials Not Applicable G. Expandable Parts Not Applicable H. Persons Recommended QTY FUNCTION PLACE 1 Does the task Passenger Cabin I. Preparation SUBTASK 841-004-A (1) Obey the safety precautions (AMM TASK 35-10-00-910-801-A/200). (2) Remove access panel 232AZ (AMM MPP 06-41-04/100) to get access the passenger oxygen cylinder(s). (3) Make sure that these circuit breakers are closed: • PASS OXY DEPLOY 1 (location tip: ESSENTIAL DC BUS 1/MISCELLANEOUS). • PASS OXY DEPLOY 2 (location tip: ESSENTIAL DC BUS 2). EMB-145  - AMM 1285 700-801-A/500 CONFIG-2 35-11-04 Page 2 of 4 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="3" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL (4) Energize the aircraft with the External DC Power Supply ( AMM TASK 20-40-01-860-801-A/200). (5) Make sure that the oxygen cylinder pressure is more than 55 psig. J. Operationally Check "VLV CLOSED" Indication Circuit (Figure 501)  SUBTASK 720-004-A (1) Make sure that the oxygen cylinder regulator is in the OPEN position. (2) Make sure that the VLV CLOSED indicator light is off. (3) Put the oxygen cylinder regulator in the OFF position. (a) The VLV CLOSED indicator light must come on. (4) Put the oxygen cylinder regulator in the ON position. (a) The VLV CLOSED indicator light must go off. K. Follow-on SUBTASK 842-004-A (1) Open the oxygen cylinder regulator. (2) Install access panel 232AZ (AMM MPP 06-41-04/100). (3) Deenergize the aircraft ( AMM TASK 20-40-01-860-801-A/200). EMB-145  - AMM 1285 700-801-A/500 CONFIG-2 35-11-04 Page 3 of 4 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="4" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: AIRCRAFT FOR 16 PASSENGERS Low Pressure Switch - Operational Check  Figure 501 C B ZONE 232 A ZONE 224 DET. A OXYGEN CYLINDER REGULATOR D DET. B (TYPICAL) CLOSEOUT PANEL DET. D (TYPICAL) VALVE CLOSED INDICATOR LIGHT OXYGEN CONTROL PANEL PASSENGER OXYGEN + AUTO CLOSED MANUAL VLV ON CLOSED LATCHES DET. C EM145AMM350426A.DGN EMB-145  - AMM 1285 700-801-A/500 CONFIG-2 35-11-04 Page 4 of 4 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+	</pages>
+</metadata>

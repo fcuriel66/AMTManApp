@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata id="MPP1285_38-10-05-04-1">
+	<file family="145" manual="AMM" pn="1285" chg="U" tsn="51" is_tr="false">
+		<title>AMM PART II-1285 - CHAPTER 38-10-05-04 - TANK DRAIN VALVE - REMOVAL/INSTALLATION</title>
+		<path>/CHAPTER_38</path>
+		<hash>d5c5d137f2ab04303427ced06ae2b5d1</hash>
+	</file>
+	<pages>
+		<page number="1" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TANK DRAIN VALVE - REMOVAL/INSTALLATION EFFECTIVITY:  ALL 1. General A. This section gives procedures for the removal and installation of the tank drain valve. B. The procedures in this section are given in the sequence below. The tasks identified with ( ♦) are part of the Scheduled Maintenance Requirements Document (SMRD). TASK NUMBER DESCRIPTION EFFECTIVITY ALL 38-10-05-000-801-A TANK DRAIN VALVE - REMOVAL   ALL 38-10-05-400-801-A TANK DRAIN VALVE - INSTALLATION   EMB-145  - AMM 1285 General 38-10-05 Page 1 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="2" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 38-10-05-000-801-A EFFECTIVITY:  ALL 2. TANK DRAIN VALVE - REMOVAL A. General (1) This task gives the procedures for the removal of the tank drain valve. B. Zones and Accesses Not Applicable C. Tools and Equipment Not Applicable D. Auxiliary Items Not Applicable E. Consumable Materials Not Applicable F. Expandable Parts Not Applicable G. Persons Recommended QTY FUNCTION PLACE 1 Performs the task Passenger cabin H. Preparation SUBTASK 841-002-A (1) Disconnect water supply before proceeding. I. Removal of the Tank Drain Valve (Figure 401)  SUBTASK 020-002-A (1) Remove the turnbuckle (15). (2) Remove the rod end clevis (10) with the cotter pin (11) and the straight pin (12). (3) Remove the drain valve handle (13) with the spring pin (14). (4) Remove the cap (3) and the washer (4) from the fitting (5). CAUTION: THE FITTING (5) IS UNDER SPRING TENSION. USE CARE TO PREVENT INJURY DURING REMOVAL. (5) Remove the fitting (5) from the spring (6) from the valve body (9). (6) Slide the valve assembly (7) out of the valve body (9). (7) Remove and discard the packing (8) from the valve assembly (7). EMB-145  - AMM 1285 000-801-A/400 38-10-05 Page 2 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="3" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: ALL Tank Drain Valve - Removal/Installation  Figure 401 ZONES 271 TANK DRAIN VALVE 272 A B 13. DRAIN VALVE HANDLE 11. COTTER PIN 14. SPRING PIN 10. ROD AND CLEVIS 12. STRAIGHT PIN 15. TURNBUCKLE 8. PACKING DET. A 9. VALVE       BODY 5. FITTING 7. VALVE ASSEMBLY 3. CAP 6. SPRING 2. HANDLE DET. B 4. WASHER 1. PIN EM145AMM380209B.DGN EMB-145  - AMM 1285 000-801-A/400 38-10-05 Page 3 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="4" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 38-10-05-400-801-A EFFECTIVITY:  ALL 3. TANK DRAIN VALVE - INSTALLATION A. General (1) This task gives the procedures for the installation of the tank drain valve. B. References REFERENCE DESIGNATION IPC 38-10-05 TANK DRAIN VALVE TASK 38-10-05-790-801-A - C. Zones and Accesses Not Applicable D. Tools and Equipment Not Applicable E. Auxiliary Items Not Applicable F. Consumable Materials Not Applicable G. Expendable Parts IPC REFERENCE ITEM QTY (VENDOR REFERENCE) Seal Kit (includes lubricant and instructions) IPC 38-10-05 1 H. Persons Recommended QTY FUNCTION PLACE 1 Performs the task Passenger cabin I. Installation of the Tank Drain Valve (Figure 401)  SUBTASK 420-002-A NOTE: • The piece parts of the tank drain valve are only sold as a kit. If the tank drain valve is damaged, order the kit prior to overhaul. • If a new tank drain valve is being installed, remove and discard the pin (1) and handle (2) from this kit. (1) Lubricate and install the new packing (8) on the valve assembly (7) as instructed with the expendable seal kit reference (IPC 38-10-05). (2) Slide the valve assembly (7) in the valve body (9). EMB-145  - AMM 1285 400-801-A/400 38-10-05 Page 4 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="5" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL CAUTION: THE FITTING (5) IS UNDER SPRING TENSION. USE CARE TO PREVENT INJURY DURING INSTALLATION. (3) Install the spring (6) in the valve body (9). (4) Compress the spring (6) and install the fitting (5) on the valve body (9). (5) Install the cap (3) and the washer (4) on the fitting (5). (6) Install the drain valve handle (13) with the spring pin (14). (7) Install the rod end clevis (10) with the cotter pin (11) and the straight pin (12). (8) Install the turnbuckle (15). J. Follow-on SUBTASK 842-002-A (1) Connect water supply lines. (2) Leak test the valve (TASK 38-10-05-790-801-A). EMB-145  - AMM 1285 400-801-A/400 38-10-05 Page 5 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="6" width="216.0" height="279.0">
+			<data/>
+		</page>
+	</pages>
+</metadata>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata id="MPP1285_31-33-02-04-2">
+	<file family="145" manual="AMM" pn="1285" chg="U" tsn="51" is_tr="false">
+		<title>AMM PART II-1285 - CHAPTER 31-33-02-04 - CONFIG-2 - EQAR RECORDER - REMOVAL/INSTALLATION</title>
+		<path>/CHAPTER_31</path>
+		<hash>22f56c272a9dc448837caba049cc8e66</hash>
+	</file>
+	<pages>
+		<page number="1" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EQAR RECORDER - REMOVAL/INSTALLATION EFFECTIVITY:  AIRCRAFT WITH EQAR 1. General A. This section gives the procedure to remove/install the Extended Quick-Access Recorder (EQAR). B. The procedures in this section are given in the sequence below. The tasks identified with ( ♦) are part of the Scheduled Maintenance Requirements Document (SMRD). TASK NUMBER DESCRIPTION EFFECTIVITY AIRCRAFT WITH EQAR 31-33-02-000-801-A EQAR RECORDER - REMOVAL   AIRCRAFT WITH EQAR 31-33-02-400-801-A EQAR RECORDER - INSTALLATION   EMB-145  - AMM 1285 General CONFIG-2 31-33-02 Page 1 of 6 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="2" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 31-33-02-000-801-A EFFECTIVITY:  AIRCRAFT WITH EQAR 2. EQAR RECORDER - REMOVAL A. General (1) This task gives the procedure to remove the EQAR recorder. (2) The EQAR recorder is installed in the rear electronic compartment. B. References REFERENCE DESIGNATION AMM TASK 31-33-01-000-801-A/400 EQAR RECORDED DATA DISK - REMOVAL C. Zones and Accesses ZONE PANEL/DOOR LOCATION 272 272DR Fuselage rear section I - right side D. Tools and Equipment Not Applicable E. Auxiliary Items Not Applicable F. Consumable Materials Not Applicable G. Expandable Parts Not Applicable H. Persons Recommended QTY FUNCTION PLACE 1 Does the task Rear electronic compartment I. Preparation SUBTASK 841-006-B (1) Open door 272DR to get access to the rear electronic compartment. (2) Make sure that the EQAR is powered on. (3) Remove the optical disk if installed ( AMM TASK 31-33-01-000-801-A/400). (4) On the overhead panel, open the QAR circuit breaker. EMB-145  - AMM 1285 000-801-A/400 CONFIG-2 31-33-02 Page 2 of 6 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="3" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL J. Removal (Figure 401)  SUBTASK 020-006-B CAUTION: DO NOT TOUCH THE CONNECTOR PINS ON THE EQAR. IF YOU TOUCH THE PINS, ELECTROSTATIC DISCHARGE CAN CAUSE DAMAGE TO THE EQAR. (1) Make sure that the QAR circuit breaker is open. (2) Turn the tray thumbscrews counterclockwise to disengage them from the equipment hold-down hooks. (3) Slowly pull the EQAR recorder handle forward to disconnect the EQAR and tray connectors from each other and slide the unit out of the tray. (4) Put the protective cover on the electrical connector. EMB-145  - AMM 1285 000-801-A/400 CONFIG-2 31-33-02 Page 3 of 6 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="4" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: AIRCRAFT WITH EQAR EQAR Recorder - Removal/Installation  Figure 401 DOOR 272DR A ZONE 272 B DET. A DET. B EM145AMM310631A.DGN EMB-145  - AMM 1285 000-801-A/400 CONFIG-2 31-33-02 Page 4 of 6 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="5" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 31-33-02-400-801-A EFFECTIVITY:  AIRCRAFT WITH EQAR 3. EQAR RECORDER - INSTALLATION A. General (1) This task gives the procedures to install the EQAR recorder. (2) The EQAR recorder is installed in the rear electronic compartment. B. References REFERENCE DESIGNATION AMM TASK 31-33-00-700-801-A/500 - C. Zones and Accesses ZONE PANEL/DOOR LOCATION 272 272DR Fuselage rear section I - right side D. Tools and Equipment Not Applicable E. Auxiliary Items Not Applicable F. Consumable Materials Not Applicable G. Expandable Parts Not Applicable H. Persons Recommended QTY FUNCTION PLACE 1 Does the task Rear electronic compartment I. Installation (Figure 401)  SUBTASK 420-006-B CAUTION: DO NOT TOUCH THE CONNECTOR PINS ON THE EQAR. IF YOU TOUCH THE PINS, ELECTROSTATIC DISCHARGE CAN CAUSE DAMAGE TO THE EQAR. (1) On the circuit breaker panel, make sure that the QAR circuit breaker is open. (2) Put the EQAR into tray and slide it rearwards until its connector is fully engaged with the mating connector of the tray. (3) Put the thumbscrews on the equipment hold-down hooks. (4) Screw until the back connector is correctly engaged. EMB-145  - AMM 1285 400-801-A/400 CONFIG-2 31-33-02 Page 5 of 6 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="6" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL J. Follow-on SUBTASK 842-006-B (1) Do an EQAR operational test (AMM TASK 31-33-00-700-801-A/500). (2) Close door 272DR (rear electronic compartment door). EMB-145  - AMM 1285 400-801-A/400 CONFIG-2 31-33-02 Page 6 of 6 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+	</pages>
+</metadata>

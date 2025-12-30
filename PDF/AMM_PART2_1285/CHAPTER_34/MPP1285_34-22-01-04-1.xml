@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata id="MPP1285_34-22-01-04-1">
+	<file family="145" manual="AMM" pn="1285" chg="U" tsn="51" is_tr="false">
+		<title>AMM PART II-1285 - CHAPTER 34-22-01-04 - DISPLAY UNIT - REMOVAL/INSTALLATION</title>
+		<path>/CHAPTER_34</path>
+		<hash>952fffaad2175515d0aafd903c9fcb2a</hash>
+	</file>
+	<pages>
+		<page number="1" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL DISPLAY UNIT - REMOVAL/INSTALLATION EFFECTIVITY:  ALL 1. General A. This section gives the procedure to remove/install the display units (DU). B. The display units are installed on the main instrument panel, in the cockpit. C. There are five display units on the main instrument panel. The procedure to remove/install is the same for all of them. D. The procedures in this section are given in the sequence below. The tasks identified with ( ♦) are part of the Scheduled Maintenance Requirements Document (SMRD). TASK NUMBER DESCRIPTION EFFECTIVITY ALL 34-22-01-000-801-A DISPLAY UNIT - REMOVAL   ALL 34-22-01-400-801-A DISPLAY UNIT - INSTALLATION   EMB-145  - AMM 1285 General 34-22-01 Page 1 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="2" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 34-22-01-000-801-A EFFECTIVITY:  ALL 2. DISPLAY UNIT - REMOVAL A. General (1) This task gives the procedures to remove the display units (DU). B. Zones and Accesses Not Applicable C. Tools and Equipment Not Applicable D. Auxiliary Items Not Applicable E. Consumable Materials Not Applicable F. Expandable Parts Not Applicable G. Persons Recommended QTY FUNCTION PLACE 1 Does the task Cockpit H. Preparation SUBTASK 841-002-A (1) Make sure that the aircraft is deenergized. I. Removal (Figure 401)  SUBTASK 020-002-A (1) Loosen the two captive holding screws at the end of the bezel assembly. (2) Lightly pull the bezel assembly straight away from the display unit to disconnect the bezel from the display unit connector. Keep the bezel assembly. (3) With a 3/16-inch Allen wrench, loosen the jackscrew and disconnect the unit and the tray connector(s). (4) Lightly lift the front of the display unit until the jackscrew latch clears the slot in the mounting tray. (5) Slide the display unit out of the tray. EMB-145  - AMM 1285 000-801-A/400 34-22-01 Page 2 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="3" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: ALL Display Unit - Removal/Installation  Figure 401 B B B B B A ZONES 223 224 DET. A 1.  ELECTRICAL CONNECTOR 2.  DU-870 DISPLAY      UNIT DET. B C 3.  PIN DET. C 145AMM340167.MCE A EMB-145  - AMM 1285 000-801-A/400 34-22-01 Page 3 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="4" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 34-22-01-400-801-A EFFECTIVITY:  ALL 3. DISPLAY UNIT - INSTALLATION A. General (1) This task gives the procedures to install the display units (DU). B. References REFERENCE DESIGNATION ENERGIZATION OF THE AIRCRAFT WITH AN EX- AMM TASK 20-40-01-860-801-A/200 TERNAL POWER SOURCE ELECTRONIC FLIGHT INSTRUMENT SYSTEM - OP- AMM TASK 34-22-00-700-801-A/500 ERATIONAL CHECK AMM TASK 34-22-01-100-801-A/700 DISPLAY UNIT - CLEANING C. Zones and Accesses Not Applicable D. Tools and Equipment Not Applicable E. Auxiliary Items Not Applicable F. Consumable Materials Not Applicable G. Expandable Parts Not Applicable H. Persons Recommended QTY FUNCTION PLACE 1 Does the task Cockpit I. Installation (Figure 401)  SUBTASK 020-003-A CAUTION: WHEN YOU PUT THE UNIT ON THE MOUNTING TRAY, DO NOT USE FORCE. IF THE INSTALLATION IS DIFFICULT, REMOVE THE UNIT AND MAKE SURE THAT NO CONNECTOR PINS ARE BENT OR OUT OF ALIGNMENT. ALSO, DO A VISUAL CHECK ON THE ALIGNMENT OF THE RECEPTACLE ON THE MOUNTING TRAY. (1) Move the display unit into the panel tray, and lift the front of the display unit as necessary to make sure that the jackscrew latch engages the slot in the mounting tray. (2) Move the display unit rearward until its connectors are fully engaged with the connectors of the mounting tray. (3) Tighten the jackscrew with a 3/16-inch Allen wrench. EMB-145  - AMM 1285 400-801-A/400 34-22-01 Page 4 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="5" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL (4) Install the bezel assembly as follows: (a) Align the bezel assembly on the display unit. (b) Tighten the captive screws. J. Follow-on SUBTASK 842-002-A (1) Energize the aircraft ( AMM TASK 20-40-01-860-801-A/200). (2) Do the EFIS operational check ( AMM TASK 34-22-00-700-801-A/500). (3) If necessary, clean the display unit ( AMM TASK 34-22-01-100-801-A/700). EMB-145  - AMM 1285 400-801-A/400 34-22-01 Page 5 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="6" width="216.0" height="279.0">
+			<data/>
+		</page>
+	</pages>
+</metadata>

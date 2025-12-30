@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata id="MPP1285_33-15-00-05-1">
+	<file family="145" manual="AMM" pn="1285" chg="U" tsn="51" is_tr="false">
+		<title>AMM PART II-1285 - CHAPTER 33-15-00-05 - FLOOD/STORM LIGHTS - ADJUSTMENT/TEST</title>
+		<path>/CHAPTER_33</path>
+		<hash>049e8490d3acae3722f0a91b35d21be2</hash>
+	</file>
+	<pages>
+		<page number="1" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL FLOOD/STORM LIGHTS - ADJUSTMENT/TEST EFFECTIVITY:  ALL 1. General A. This section gives the procedures to do the check of the Flood/Storm Lights. B. The procedures in this section are given in the sequence below. The tasks identified with ( ♦) are part of the Scheduled Maintenance Requirements Document (SMRD). TASK NUMBER DESCRIPTION EFFECTIVITY FLOOD/STORM LIGHTS - OPERATIONAL ALL 33-15-00-700-801-A CHECK  EMB-145  - AMM 1285 General 33-15-00 Page 1 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="2" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 33-15-00-700-801-A EFFECTIVITY:  ALL 2. FLOOD/STORM LIGHTS - OPERATIONAL CHECK A. General (1) This task gives the procedures to do the Operational Check of the Flood/Storm Lights. (2) The Flood/Storm Lights are controlled with rotatory switches. These switches are located on the left and right glareshield panel. B. References REFERENCE DESIGNATION ENERGIZATION OF THE AIRCRAFT WITH AN EX- AMM TASK 20-40-01-860-801-A/200 TERNAL POWER SOURCE C. Zones and Accesses Not Applicable D. Tools and Equipment Not Applicable E. Auxiliary Items Not Applicable F. Consumable Materials Not Applicable G. Expandable Parts Not Applicable H. Persons Recommended QTY FUNCTION PLACE 1 Does the task Cockpit I. Preparation SUBTASK 841-002-A (1) Energize the aircraft with the External DC Power Supply ( AMM TASK 20-40-01-860-801-A/200). (2) On the circuit breaker panel, make sure that this circuit breaker is closed: – FLOOD/STORM light (Location tip: DC BUS 1/LIGHTS/FLOOD/STORM). J. Operationally Check Flood/Storm Lights SUBTASK 710-002-A (1) To check the pilot Flood/Storm light, refer to (Figure 501) and do as follows: (a) Turn the pilot Flood/Storm light rotatory switch clockwise. EMB-145  - AMM 1285 700-801-A/500 33-15-00 Page 2 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="3" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL Result: 1 The brightness increase proportionally. (b) Turn the pilot Flood/Storm light rotatory switch counterclockwise. Result: 1 The brightness decrease until the light is deactivated when the switch is set at the OFF position. (2) To check the copilot Flood/Storm light, refer to (Figure 502) and do as follows: (a) Turn the copilot Flood/Storm light rotatory switch clockwise. Result: 1 The brightness increase proportionally. (b) Turn the copilot Flood/Storm light rotatory switch counterclockwise. Result: 1 The brightness decrease until the light is deactivated when the switch is set at the OFF position. K. Follow-on SUBTASK 842-002-A (1) Deenergize the aircraft ( AMM TASK 20-40-01-860-801-A/200). EMB-145  - AMM 1285 700-801-A/500 33-15-00 Page 3 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="4" width="216.0" height="279.0">
+			<data>PTT AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: ALL Pilot and Central Flood/Storm Lights  Figure 501 A PILOT AND CENTRAL FLOOD/STORM LIGHTS ( OPT ) DET. A 145AMM330033.MCE A EMB-145  - AMM 1285 700-801-A/500 33-15-00 Page 4 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details. OFF BRT OFF DIM BRT OFF BRT DIM BRT DIM BRT PANEL LIGHTS DISPLAYS CHART HLDR FLOODLT PILOT PEDESTAL PFD MFD</data>
+		</page>
+		<page number="5" width="216.0" height="279.0">
+			<data>FLOODLT CHART HLDR DISPLAYS PANEL LT EICAS MFD PFD COPILOT OFF BRT DIM BRT DIM BRT OFF BRT DIM BRT DIM BRT PTT AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: ALL Copilot Flood/Storm Light  Figure 502 A COPILOT FLOOD/STORM LIGHTS ( OPT ) DET. A 145AMM330034.MCE A EMB-145  - AMM 1285 700-801-A/500 33-15-00 Page 5 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="6" width="216.0" height="279.0">
+			<data/>
+		</page>
+	</pages>
+</metadata>

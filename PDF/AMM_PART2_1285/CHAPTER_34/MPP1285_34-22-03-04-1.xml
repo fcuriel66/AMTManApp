@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata id="MPP1285_34-22-03-04-1">
+	<file family="145" manual="AMM" pn="1285" chg="U" tsn="51" is_tr="false">
+		<title>AMM PART II-1285 - CHAPTER 34-22-03-04 - REVERSIONARY PANEL - REMOVAL/INSTALLATION</title>
+		<path>/CHAPTER_34</path>
+		<hash>6cb478e6e2f105e6819996fe9fa8767f</hash>
+	</file>
+	<pages>
+		<page number="1" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL REVERSIONARY PANEL - REMOVAL/INSTALLATION EFFECTIVITY:  ALL 1. General A. This section gives the procedure to remove/install the Reversionary Panels. B. The procedures in this section are given in the sequence below. The tasks identified with ( ♦) are part of the Scheduled Maintenance Requirements Document (SMRD). TASK NUMBER DESCRIPTION EFFECTIVITY ALL 34-22-03-000-801-A REVERSIONARY PANEL - REMOVAL   ALL 34-22-03-400-801-A REVERSIONARY PANEL - INSTALLATION   EMB-145  - AMM 1285 General 34-22-03 Page 1 of 4 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="2" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 34-22-03-000-801-A EFFECTIVITY:  ALL 2. REVERSIONARY PANEL - REMOVAL A. General (1) This task gives the procedure to remove the Reversionary Panels. B. Zones and Accesses Not Applicable C. Tools and Equipment Not Applicable D. Auxiliary Items Not Applicable E. Consumable Materials Not Applicable F. Expandable Parts Not Applicable G. Persons Recommended QTY FUNCTION PLACE 1 Does the task Cockpit H. Removal (Figure 401)  SUBTASK 020-002-A (1) Loosen the dzus fastener (3). (2) Pull the Reversionary Panel (2) to gain access to the connector (1). (3) Disconnect the connector (1) from the Reversionary Panel (2). (4) Remove the Reversionary Panel (2). EMB-145  - AMM 1285 000-801-A/400 34-22-03 Page 2 of 4 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="3" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: ALL Reversionary Panels - Removal/Installation  Figure 401 ZONES 223 224 B A B DET. A 1.  CONNECTOR 2.   REVERSIONARY       PANEL DET. B (TYPICAL) 3.   DZUS       FASTENER (2) 145AMM340208.MCE A EMB-145  - AMM 1285 000-801-A/400 34-22-03 Page 3 of 4 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="4" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 34-22-03-400-801-A EFFECTIVITY:  ALL 3. REVERSIONARY PANEL - INSTALLATION A. General (1) This task gives the procedure to install the Reversionary Panels. B. References REFERENCE DESIGNATION ELECTRONIC FLIGHT INSTRUMENT SYSTEM - OP- AMM TASK 34-22-00-700-801-A/500 ERATIONAL CHECK C. Zones and Accesses Not Applicable D. Tools and Equipment Not Applicable E. Auxiliary Items Not Applicable F. Consumable Materials Not Applicable G. Expandable Parts Not Applicable H. Persons Recommended QTY FUNCTION PLACE 1 Does the task Cockpit I. Installation (Figure 401)  SUBTASK 420-002-A (1) Put the Reversionary Panel (2) in position. (2) Connect the connector (1) to the Reversionary Panel (2). (3) Tighten the dzus fastener (3). J. Follow-on SUBTASK 410-002-A (1) Do the Integrated Display System Operational Test ( AMM TASK 34-22-00-700-801-A/ 500). EMB-145  - AMM 1285 400-801-A/400 34-22-03 Page 4 of 4 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+	</pages>
+</metadata>

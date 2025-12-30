@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata id="MPP1285_32-44-04-04-1">
+	<file family="145" manual="AMM" pn="1285" chg="U" tsn="51" is_tr="false">
+		<title>AMM PART II-1285 - CHAPTER 32-44-04-04 - PRESSURE GAGE - REMOVAL/INSTALLATION</title>
+		<path>/CHAPTER_32</path>
+		<hash>00caa7f4bbeb7040ba0a3837dbd3c5a8</hash>
+	</file>
+	<pages>
+		<page number="1" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL PRESSURE GAGE - REMOVAL/INSTALLATION EFFECTIVITY:  ALL 1. General A. This section gives the procedures to remove and install the pressure gage of the Emergency/ Parking Brake system. B. The procedures in this section are given in the sequence below. The tasks identified with ( ♦) are part of the Scheduled Maintenance Requirements Document (SMRD). TASK NUMBER DESCRIPTION EFFECTIVITY PRESSURE GAGE OF THE EMERGENCY/ ALL 32-44-04-000-801-A PARKING BRAKE SYSTEM - REMOVAL  PRESSURE GAGE OF THE EMERGENCY/ ALL 32-44-04-400-801-A PARKING BRAKE SYSTEM - INSTALLA-   TION EMB-145  - AMM 1285 General 32-44-04 Page 1 of 6 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="2" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 32-44-04-000-801-A EFFECTIVITY:  ALL 2. PRESSURE GAGE OF THE EMERGENCY/PARKING BRAKE SYSTEM - REMOVAL A. General (1) This procedure gives the instructions to remove the pressure gage of the Emergency/ Parking Brake system. B. References REFERENCE DESIGNATION AMM MPP 06-41-01/100 - HYDRAULIC ACCUMULATOR EMERGENCY/PARK- AMM TASK 32-44-02-910-801-A/200 ING BRAKE - RELEASE C. Zones and Accesses ZONE PANEL/DOOR LOCATION 193 193JR Hydraulic compartment 2 D. Tools and Equipment Not Applicable E. Auxiliary Items Not Applicable F. Consumable Materials Not Applicable G. Expandable Parts Not Applicable H. Persons Recommended QTY FUNCTION PLACE 1 Does the task Hydraulic compartment 2 I. Preparation SUBTASK 841-002-A (1) On the Circuit Breaker Panel, open the ELEC PUMP 2 circuit breaker and attach a DO- NOT-CLOSE tag to it. (2) Fully release the pressure from the fluid chamber of the emergency/parking brake system hydraulic accumulator ( AMM TASK 32-44-02-910-801-A/200 ). (3) Open the access panel 193JR of the hydraulic compartment 2 (AMM MPP 06-41-01/100). (4) Slowly open the charging valve of the hydraulic accumulator to let all the pressure in it go out. EMB-145  - AMM 1285 000-801-A/400 32-44-04 Page 2 of 6 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="3" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL J. Removal (Figure 401)  SUBTASK 020-002-A (1) Remove the pressure gage (2). (2) Remove and discard the O-ring (1). EMB-145  - AMM 1285 000-801-A/400 32-44-04 Page 3 of 6 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="4" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: ALL Pressure Gage of the Emergency/Parking Brake System - Removal/Installation  Figure 401 0 B A ZONE 193 ACCESS PANEL DET. A    193JR 1. O’RING 2. PRESSURE     GAGE DET. B 145AMM320112.MCE A EMB-145  - AMM 1285 000-801-A/400 32-44-04 Page 4 of 6 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="5" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 32-44-04-400-801-A EFFECTIVITY:  ALL 3. PRESSURE GAGE OF THE EMERGENCY/PARKING BRAKE SYSTEM - INSTALLATION A. General (1) This procedure gives the instructions to install the pressure gage of the emergency/parking brake system. B. References REFERENCE DESIGNATION AMM MPP 06-41-01/100 - HYDRAULIC SYSTEM - PRESSURIZATION WITH AMM TASK 29-10-00-860-801-A/200 HTS EMERGENCY/PARKING BRAKE ACCUMULATOR - AMM TASK 32-44-02-600-801-A/300 CHARGE IPC 32-44-04 PRESSURE GAGE C. Zones and Accesses ZONE PANEL/DOOR LOCATION 193 193JR Hydraulic compartment 2 D. Tools and Equipment Not Applicable E. Auxiliary Items Not Applicable F. Consumable Materials Not Applicable G. Expendable Parts IPC REFERENCE ITEM QTY (VENDOR REFERENCE) O-ring IPC 32-44-04 1 H. Persons Recommended QTY FUNCTION PLACE 1 Does the task Hydraulic compartment 2 I. Installation (Figure 401)  SUBTASK 420-002-A (1) Install a new O-ring (1) and the pressure gage (2). EMB-145  - AMM 1285 400-801-A/400 32-44-04 Page 5 of 6 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="6" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL J. Follow-on SUBTASK 842-002-A (1) Pressurize the nitrogen chamber of the hydraulic accumulator ( AMM TASK 32-44-02-600-801-A/300). (2) On the Circuit Breaker Panel, close the ELEC PUMP 2 circuit breaker and remove the DO-NOT-CLOSE tag from it. (3) Pressurize the hydraulic system 2 ( AMM TASK 29-10-00-860-801-A/200). (4) Do a check on the pressure gage of the emergency/parking brake system for leaks. (5) Close the access panel 193JR of the hydraulic compartment 2 (AMM MPP 06-41-01/100). EMB-145  - AMM 1285 400-801-A/400 32-44-04 Page 6 of 6 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+	</pages>
+</metadata>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata id="MPP1285_32-44-06-05-1">
+	<file family="145" manual="AMM" pn="1285" chg="U" tsn="51" is_tr="false">
+		<title>AMM PART II-1285 - CHAPTER 32-44-06-05 - THERMAL RELIEF VALVE - ADJUSTMENT/TEST</title>
+		<path>/CHAPTER_32</path>
+		<hash>6fd35555be11029c707b5f310c9721eb</hash>
+	</file>
+	<pages>
+		<page number="1" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL THERMAL RELIEF VALVE - ADJUSTMENT/TEST EFFECTIVITY:  ALL 1. General A. This section gives the procedures to do the functional check of the thermal relief valve. B. The procedures in this section are given in the sequence below. The tasks identified with ( ♦) are part of the Scheduled Maintenance Requirements Document (SMRD). TASK NUMBER DESCRIPTION EFFECTIVITY THERMAL RELIEF VALVE - FUNCTIONAL ALL 32-44-06-700-801-A ♦ CHECK  EMB-145  - AMM 1285 General 32-44-06 Page 1 of 4 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="2" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 32-44-06-700-801-A EFFECTIVITY:  ALL 2. THERMAL RELIEF VALVE - FUNCTIONAL CHECK A. General (1) You must do this check at the test bench. B. References REFERENCE DESIGNATION THERMAL RELIEF VALVE OF THE EMERGENCY/ AMM TASK 32-44-06-000-801-A/400 PARKING BRAKE SYSTEM- REMOVAL THERMAL RELIEF VALVE OF THE EMERGENCY/ AMM TASK 32-44-06-400-801-A/400 PARKING BRAKE SYSTEM- INSTALLATION C. Zones and Accesses Not Applicable D. Tools and Equipment ITEM DESCRIPTION PURPOSE QTY Hydraulic test bench (pressure of 4500 Commercially psi plus or minus 200 psi - for use with   available Skydrol) E. Auxiliary Items Not Applicable F. Consumable Materials Not Applicable G. Expandable Parts Not Applicable H. Persons Recommended QTY FUNCTION PLACE 1 To do the test Hydraulic test bench I. Preparation SUBTASK 841-002-A (1) Remove the thermal relief valve ( AMM TASK 32-44-06-000-801-A/400). (2) Install the thermal relief valve on the hydraulic test bench. (3) Make sure that the hydraulic test bench has Skydrol fluid filtered to class 5 of NAS 1638 or better. EMB-145  - AMM 1285 700-801-A/500 32-44-06 Page 2 of 4 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="3" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL J. Functional Check of the Thermal Relief Valve (Figure 501)  SUBTASK 720-002-A (1) With the valve port B open, close the pressure control valve and smoothly supply 31 MPa ÃÂ± 1.38 MPa ( 4500 psi ÃÂ± 200 psi) to the accumulator. (2) Slowly open the pressure control valve until the thermal relief valve opens. • The cracking pressure must be 26.54 MPa ÃÂ± 0.52 MPa (3850 psi ÃÂ± 75 psi). (3) Decrease the pressure smoothly and check that the thermal relief valve closes with a minimum pressure of 22.65 MPa (3285 psi). (4) Release the pressure. K. Follow-on SUBTASK 842-002-A (1) Remove the thermal relief valve from the hydraulic test bench. (2) Install the thermal relief valve (AMM TASK 32-44-06-400-801-A/400). EMB-145  - AMM 1285 700-801-A/500 32-44-06 Page 3 of 4 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="4" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: ALL Test Set Up  Figure 501 PORT  A THERMAL RELIEF VALVE PORT  B ACCUMULATOR PRESSURE GAUGE THERMAL RELIEF VALVE HYDRAULIC BENCH A B PRESSURE CHECK CONTROL VALVE VALVE 145AMM320308.MCE EMB-145  - AMM 1285 700-801-A/500 32-44-06 Page 4 of 4 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+	</pages>
+</metadata>

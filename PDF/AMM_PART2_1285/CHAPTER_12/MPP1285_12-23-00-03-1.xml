@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata id="MPP1285_12-23-00-03-1">
+	<file family="145" manual="AMM" pn="1285" chg="U" tsn="51" is_tr="false">
+		<title>AMM PART II-1285 - CHAPTER 12-23-00-03 - CONFIG-1 - AIRFRAME DRAINAGE - SERVICING</title>
+		<path>/CHAPTER_12</path>
+		<hash>c46a6c5fc3bf9c031eb8846a33e5bd49</hash>
+	</file>
+	<pages>
+		<page number="1" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL AIRFRAME DRAINAGE - SERVICING EFFECTIVITY:  ACFT MODEL(S) EMB-145 1. General A. The aircraft has drains along all its skin. This permits the removal of all water collected from condensed humidity and other liquids. B. There are four types of drains: the free drain, the drain valve, a nose hydraulic compartment drain, and internal drains (water/liquid passages in the skin support sections, splice angles, cargo door, service door, and escape hatch frames). C. The procedures in this section are given in the sequence below. The tasks identified with ( ♦) are part of the Scheduled Maintenance Requirements Document (SMRD). TASK NUMBER DESCRIPTION EFFECTIVITY ACFT MODEL(S) 12-23-00-600-801-A AIRFRAME DRAIN - MAINTENANCE EMB-145   EMB-145  - AMM 1285 General CONFIG-1 12-23-00 Page 1 of 9 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="2" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 12-23-00-600-801-A EFFECTIVITY:  ACFT MODEL(S) EMB-145 2. AIRFRAME DRAIN - MAINTENANCE A. General (1) The airframe drain maintenance includes a periodical inspection and removal of blockage, as necessary. B. Zones and Accesses Not Applicable C. Tools and Equipment Not Applicable D. Auxiliary Items Not Applicable E. Consumable Materials Not Applicable F. Expandable Parts Not Applicable G. Persons Recommended QTY FUNCTION PLACE In the aircraft, and outside, under the air- 1 Does the task craft H. Periodical Inspection and Removal of Blockage SUBTASK 610-007-B (1) Free Drains (Figure 301) (a) Examine the free drains for materials collected which can prevent the outflow of water/liquid drainage. (b) Remove drain blockage, as necessary. (2) Drain Valves (Figure 302) CAUTION: DO NOT USE FORCE ON THE DRAIN VALVE DURING CLEANING, BECAUSE A DAMAGED VALVE WILL CHANGE THE CABIN PRESSURIZATION. (a) There are no special maintenance requirements for the valve. The air flow effect across the piston seat of the valve housing and piston surface causes self- cleaning action. If gummed material or other sticky fluids/particles are collected in the valve, you must remove it (TASK 53-00-01-000-801-A), and clean the components with usual cleaning agents and air pressure. (3) Nose Hydraulic Compartment Drains (Figure 303) EMB-145  - AMM 1285 600-801-A/300 CONFIG-1 12-23-00 Page 2 of 9 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="3" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL (a) Examine the drain for blockage and correct operation of its valve. (b) Clean or replace the drain valve, as necessary. (4) Internal Drains (Figure 304) (Figure 305) (Figure 306) (a) Examine the internal drains for material collected which can prevent outflow of water/liquid drainage. (b) If necessary, remove the drain blockages with a spatula which will not cause damage to the angle protection and clean the drains with usual cleaning agents and compressed air. EMB-145  - AMM 1285 600-801-A/300 CONFIG-1 12-23-00 Page 3 of 9 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="4" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: ACFT MODEL(S) EMB-145 Free Drains - Forward and Aft Fuselage Sections  Figure 301 A ZONES 113 114 B ZONES 275 276 FREE DRAINS FWD (TYPICAL) FR. FR. BHD FR. FR. FR. 1 2 4 5 3 6 DET. A DET. B C DET. C FUSELAGE LOFT LINE FREE DRAIN EM145AMM120200A.DGN EMB-145  - AMM 1285 600-801-A/300 CONFIG-1 12-23-00 Page 4 of 9 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="5" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: ACFT MODEL(S) EMB-145 Drain Valves  Figure 302 A A VALVE RETAINER AIR AIR FLOW FLOW VALVE VALVE RETAINER HOUSING SKIN VALVE HOUSING DIFFERENTIAL PRESSURE AIR SELF-CLEANING ACTION DIAGRAM (REF.) DET. A (TYPICAL) 145AMM120029.MCE C EMB-145  - AMM 1285 600-801-A/300 CONFIG-1 12-23-00 Page 5 of 9 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="6" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: ACFT MODEL(S) EMB-145 Nose Hydraulic Compartment Drains  Figure 303 A ZONE 124 B DET. A DET. B 145AMM120028.MCE B EMB-145  - AMM 1285 600-801-A/300 CONFIG-1 12-23-00 Page 6 of 9 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="7" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: ACFT MODEL(S) EMB-145 Internal-Drain Inspection Areas on Frames and Bulkheads  Figure 304 PAX PRESS. A BHD. DOOR COCKPIT FLOOR REAR REAR FORWARD FORWARD CENTER FUSELAGE II CENTER FUSELAGE IV FUSELAGE I FUSELAGE II FUSELAGE I FUSELAGE II CENTER FUSELAGE I CENTER FUSELAGE III 600.0 1764.0 1790.5 2976.5 5737.0 3066.0 4788.0 2347.5 4859.0 FRAME 1 APPLICABLE REGIONS: FW. FUS.II, CENTER I/II/III/IV, (TYPICAL) REAR FUS. I AND II. 1 SKIN SUPPORT WITH INTERNAL DRAIN (WATER PASSAGE) DET. A B INTERNAL DRAIN DET. B EM145AMM120201A.DGN EMB-145  - AMM 1285 600-801-A/300 CONFIG-1 12-23-00 Page 7 of 9 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details. X=0.0 X=600.0 X=2364.0 X=4154.5 X=7131.0 X=11990.0 X=17727.0 X=20793.0 X=25581.0 X=27928.5</data>
+		</page>
+		<page number="8" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: ACFT MODEL(S) EMB-145 Internal-Drain Inspection Areas at Splice Angles  Figure 305 A DET. B B C D DET. A JOINT OF THE MACHINED FRAMES WITH THE LONGITUDINAL ANGLE 1 SPLICE ANGLE DET. C INTERNAL DRAIN INTERNAL DRAIN DET. D 1 APPLICABLE REGION: VIII 145AMM120026.MCE B EMB-145  - AMM 1285 600-801-A/300 CONFIG-1 12-23-00 Page 8 of 9 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="9" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: ACFT MODEL(S) EMB-145 Internal-Drain Inspection Areas on Cargo Door, Service Door, and Escape Hatch Frames  Figure 306 1 INSPECTION REGION: ANGLES 6L TO 15L 2 INSPECTION REGION: ANGLES 6R TO 15R 2 RH ESCAPE UPPER SKIN HATCH 01L 01R 02L 02R 03L 03R 04R 2 04L 05L 05R SERVICE DOOR 06L 06R 07R 07L 08L 08R 09L 09R LH ESCAPE RH ESCAPE 10R 10L HATCH AND Z=0 HATCH AND CARGO DOOR SERVICE DOOR 11L 11R 12L 12R 13L 13R PAX FLOOR 14L 14R 15L 15R 16L 16R 17L 17R 18L 18R 19L 19R 20R 20L 21L 21R LOWER SKIN INSPECTION REGION 1 CARGO DOOR 1 LH ESCAPE HATCH 145AMM120027.MCE B EMB-145  - AMM 1285 600-801-A/300 CONFIG-1 12-23-00 Page 9 of 9 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details. Y=0</data>
+		</page>
+		<page number="10" width="216.0" height="279.0">
+			<data/>
+		</page>
+	</pages>
+</metadata>

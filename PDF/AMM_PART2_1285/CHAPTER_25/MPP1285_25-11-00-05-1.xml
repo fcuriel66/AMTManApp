@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata id="MPP1285_25-11-00-05-1">
+	<file family="145" manual="AMM" pn="1285" chg="R" tsn="53" is_tr="false">
+		<title>AMM PART II-1285 - CHAPTER 25-11-00-05 - COCKPIT SEATS - ADJUSTMENT/TEST</title>
+		<path>/CHAPTER_25</path>
+		<hash>736d1b76cef3614bd1f57c53eb320a34</hash>
+	</file>
+	<pages>
+		<page number="1" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL COCKPIT SEATS - ADJUSTMENT/TEST EFFECTIVITY: ALL 1. General A. This section gives the adjustment/test procedures for the correct operation of the inertial seat belts. B. The procedures in this section are given in the sequence below. The tasks identified with ( ♦) are part of the Scheduled Maintenance Requirements Document (SMRD). TASK NUMBER DESCRIPTION EFFECTIVITY ALL 25-11-00-700-801-A ♦ INERTIAL SEAT BELTS - TESTING   EMB-145  - AMM 1285 General 25-11-00 Page 1 of 3 Rev 53 - Oct 31/17 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="2" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 25-11-00-700-801-A EFFECTIVITY: ALL 2. INERTIAL SEAT BELTS - TESTING A. General (1) This section gives the procedures for the operational test of the inertial seat belts of the cockpit seats. (2) The pilot seats have a handle which manually and automatically locks the inertial device of the seat belts. (3) The control of the inertial device of the observer seat belts is automatic. It has not a handle to lock it. (4) The inertial seat belts have a quick-release mechanism. Turn the buckle center device to operate it. B. Zones and Accesses Not Applicable C. Tools and Equipment Not Applicable D. Auxiliary Items Not Applicable E. Consumable Materials Not Applicable F. Expandable Parts Not Applicable G. Persons Recommended QTY FUNCTION PLACE 1 To do the operational test Cockpit-RH/Cockpit-LH H. Operational Test of the Inertial Seat Belts SUBTASK 710-002-A (1) Move the control handle forward, to the manual lock position. Make sure that the reel assembly locks together with the harness at all retraction or extension positions. (2) Move the control handle rearward, to the automatic lock position. Make sure that the harness assembly extends and retracts freely. (3) Do an operational test of the inertial reel to make sure that it locks with the impact: (a) On the pilot seats, move the inertial reel locking control handle rearward and slowly pull out the shoulder harness until it is fully extended. Result: 1 The shoulder harness unwinds from the inertial reel until it is fully extended (while still attached to the inertial reel). EMB-145  - AMM 1285 700-801-A/500 25-11-00 Page 2 of 3 Rev 52 - Apr 28/17 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="3" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL (b) Release the shoulder harness. Result: 1 The shoulder harness winds on to the inertial reel. (c) Pull out the shoulder harness suddenly. Result: 1 The inertial reel locks and stops the movement of the shoulder harness. (d) Release the shoulder harness. Result: 1 The shoulder harness winds on the inertial reel. (e) Engage the seat belt in the belt buckle and pull the seat belt. Result: 1 The seat belt does not disengage from the belt buckle. EMB-145  - AMM 1285 700-801-A/500 25-11-00 Page 3 of 3 Rev 52 - Apr 28/17 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="4" width="216.0" height="279.0">
+			<data/>
+		</page>
+	</pages>
+</metadata>

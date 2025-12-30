@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata id="MPP1285_23-22-02-05-1">
+	<file family="145" manual="AMM" pn="1285" chg="U" tsn="51" is_tr="false">
+		<title>AMM PART II-1285 - CHAPTER 23-22-02-05 - ACARS PRINTER - ADJUSTMENT/TEST</title>
+		<path>/CHAPTER_23</path>
+		<hash>050dd2a0de37ee938f72f4c23b6cb429</hash>
+	</file>
+	<pages>
+		<page number="1" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL ACARS PRINTER - ADJUSTMENT/TEST EFFECTIVITY:  AIRCRAFT WITH ACARS 1. General A. This section gives the procedures to do the ACARS printer operational test. B. The ACARS printer gives a hard copy of the data collected by the UNILINK. C. The procedures in this section are given in the sequence below. The tasks identified with ( ♦) are part of the Scheduled Maintenance Requirements Document (SMRD). TASK NUMBER DESCRIPTION EFFECTIVITY AIRCRAFT WITH 23-22-02-700-801-A ACARS PRINTER - OPERATIONAL TEST ACARS   EMB-145  - AMM 1285 General 23-22-02 Page 1 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="2" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 23-22-02-700-801-A EFFECTIVITY:  AIRCRAFT WITH ACARS 2. ACARS PRINTER - OPERATIONAL TEST A. General (1) This task gives the procedures to do the ACARS printer operational test. (2) This test is the ACARS printer self-test and a printer test pattern will be printed to compare to figure 501. B. References REFERENCE DESIGNATION AMM SDS 24-60-00/1  ENERGIZATION OF THE AIRCRAFT WITH AN EX- AMM TASK 20-40-01-860-801-A/200 TERNAL POWER SOURCE C. Zones and Accesses ZONE PANEL/DOOR LOCATION 223 Cockpit D. Tools and Equipment Not Applicable E. Auxiliary Items Not Applicable F. Consumable Materials Not Applicable G. Expandable Parts Not Applicable H. Persons Recommended QTY FUNCTION PLACE 1 Does the task Cockpit I. Preparation SUBTASK 841-002-A (1) On the circuit breaker panel, make sure that the ACARS PTR circuit breaker is closed (Location Tip: 115 V AC/ACARS PTR). (2) On the LH electrical-power control/distribution box (AMM SDS 24-60-00/1), make sure that the INVERTER circuit breaker is closed (Location Tip: RB DC BUS 1/INVERTER). (3) Energize the aircraft with the external DC power supply ( AMM TASK 20-40-01-860-801-A/200). EMB-145  - AMM 1285 700-801-A/500 23-22-02 Page 2 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="3" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL J. Operational Test Procedures (Figure 501)  (Figure 502)  SUBTASK 720-002-A (1) Do the ACARS printer operational test as follows: (a) On the ACARS printer control panel, press the PPR ADV pushbutton for two or three seconds. Result: 1 The paper comes out of the exit slot while the pushbutton is pushed. (b) Push and hold the SELF TEST pushbutton. Result: 1 The PTR BUSY indicator comes on steady. 2 The printer starts to print. (c) When the printing stops, release the SELF TEST pushbutton and make sure that the PTR BUSY indicator flashes. (d) Push the PPR ADV pushbutton until the printed data comes out of the printer. (e) Make sure that the printed test patterns are similar to those shown in figure 501. NOTE: Examine the printout to make sure that it is of good quality. The characters must be uniform and easy to read. (f) Push and release the ALERT RESET pushbutton. Result: 1 The PTR BUSY indicator goes out. K. Follow-on SUBTASK 842-002-A (1) Deenergize the aircraft with the external DC power supply ( AMM TASK 20-40-01-860-801-A/200). EMB-145  - AMM 1285 700-801-A/500 23-22-02 Page 3 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="4" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: AIRCRAFT WITH ACARS Printer Test Pattern  Figure 501 EMB-145  - AMM 1285 700-801-A/500 23-22-02 Page 4 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="5" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: AIRCRAFT WITH ACARS ACARS Printer  Figure 502 EMB-145  - AMM 1285 700-801-A/500 23-22-02 Page 5 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="6" width="216.0" height="279.0">
+			<data/>
+		</page>
+	</pages>
+</metadata>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata id="MPP1285_33-11-03-04-1">
+	<file family="145" manual="AMM" pn="1285" chg="U" tsn="51" is_tr="false">
+		<title>AMM PART II-1285 - CHAPTER 33-11-03-04 - READING LIGHT - REMOVAL/INSTALLATION</title>
+		<path>/CHAPTER_33</path>
+		<hash>6fe0a1b66d54e70ddc4751c690d3d241</hash>
+	</file>
+	<pages>
+		<page number="1" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL READING LIGHT - REMOVAL/INSTALLATION EFFECTIVITY:  ALL 1. General A. This section gives the procedures to remove/install the pilot, copilot and observer reading light lamps. B. The pilot reading light is installed on the left side of the cockpit ceiling. The copilot and observer reading lights are installed on the right side of the cockpit ceiling. C. The procedures in this section are given in the sequence below. The tasks identified with ( ♦) are part of the Scheduled Maintenance Requirements Document (SMRD). TASK NUMBER DESCRIPTION EFFECTIVITY ALL 33-11-03-000-801-A READING LIGHT LAMP - REMOVAL   ALL 33-11-03-400-801-A READING LIGHT LAMP - INSTALLATION   EMB-145  - AMM 1285 General 33-11-03 Page 1 of 7 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="2" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 33-11-03-000-801-A EFFECTIVITY:  ALL 2. READING LIGHT LAMP - REMOVAL A. General (1) This task gives the procedures to remove the pilot, copilot and observer reading light lamps. B. Zones and Accesses Not Applicable C. Tools and Equipment Not Applicable D. Auxiliary Items Not Applicable E. Consumable Materials Not Applicable F. Expandable Parts Not Applicable G. Persons Recommended QTY FUNCTION PLACE 1 Does the task Cockpit ceiling H. Preparation SUBTASK 841-002-A (1) On the overhead circuit breaker panel, open the COCKPIT READING LIGHT circuit breaker and attach a DO-NOT-CLOSE tag to it. I. Removal SUBTASK 020-002-A (1) For AIRCRAFT WITHOUT HEAD-UP DISPLAY, do as follows (Figure 401): (a) Push the control assembly (1) and turn it counterclockwise to remove it. (b) Disconnect and remove the lamp (2). (2) For AIRCRAFT WITH HEAD-UP DISPLAY, do as follows (Figure 402): (a) To remove the copilot and observer reading light lamps, do as follows: 1 Push the control assembly (4) and turn it counterclockwise to remove it. 2 Disconnect and remove the lamp (3). (b) To remove the pilot reading light lamp, do as follows: 1 Turn the lens (1) clockwise to remove it. EMB-145  - AMM 1285 000-801-A/400 33-11-03 Page 2 of 7 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="3" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL 2 Disconnect and remove the lamp (2). EMB-145  - AMM 1285 000-801-A/400 33-11-03 Page 3 of 7 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="4" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: AIRCRAFT WITHOUT HEAD-UP DISPLAY Reading Light Lamp - Removal/Installation  Figure 401 ZONES 225 B 226 A DET. A 1.   CONTROL 2.  LAMP       ASSEMBLY CEILING LINING PANEL DET. B 145AMM330056.MCE A EMB-145  - AMM 1285 000-801-A/400 33-11-03 Page 4 of 7 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="5" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: AIRCRAFT WITH HEAD-UP DISPLAY Reading Light Lamp - Removal/Installation  Figure 402 B ZONE C 225 A CEILING LINING DET. A PANEL CEILING LINING 2.  LAMP PANEL DET. C 1.   LENS 3.  LAMP 4.   CONTROL       ASSEMBLY DET. B 145AMM330249.MCE EMB-145  - AMM 1285 000-801-A/400 33-11-03 Page 5 of 7 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="6" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 33-11-03-400-801-A EFFECTIVITY:  ALL 3. READING LIGHT LAMP - INSTALLATION A. General (1) This task gives the procedures to install the pilot, copilot and observer reading light lamps. B. References REFERENCE DESIGNATION AMM TASK 33-11-00-700-801-A/500 COCKPIT LIGHTS - OPERATIONAL TEST C. Zones and Accesses Not Applicable D. Tools and Equipment Not Applicable E. Auxiliary Items Not Applicable F. Consumable Materials Not Applicable G. Expandable Parts Not Applicable H. Persons Recommended QTY FUNCTION PLACE 1 Does the task Cockpit ceiling I. Installation SUBTASK 420-002-A (1) For AIRCRAFT WITHOUT HEAD-UP DISPLAY, do as follows (Figure 401): (a) Install the new lamp (2). (b) Put the control assembly (1) in its correct position, push it, and turn it clockwise to install it. (2) For AIRCRAFT WITH HEAD-UP DISPLAY, do as follows (Figure 402): (a) To install the copilot and observer reading light lamps, do as follows: 1 Install the new lamp (3). 2 Put the control assembly (4) in its correct position, push it, and turn it clockwise to install it. (b) To install the pilot reading light lamp, do as follows: EMB-145  - AMM 1285 400-801-A/400 33-11-03 Page 6 of 7 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="7" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL 1 Install the new lamp (2). 2 Put the lens (1) in its installation position and turn it counterclockwise to install it. J. Follow-on SUBTASK 842-002-A (1) On the overhead circuit breaker panel, close the READING LIGHT circuit breaker and remove the DO-NOT-CLOSE tag from it. (2) Do the operational test of the reading light lamp installed ( AMM TASK 33-11-00-700-801-A/500). EMB-145  - AMM 1285 400-801-A/400 33-11-03 Page 7 of 7 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="8" width="216.0" height="279.0">
+			<data/>
+		</page>
+	</pages>
+</metadata>

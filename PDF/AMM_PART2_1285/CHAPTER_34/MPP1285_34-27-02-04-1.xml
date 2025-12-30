@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata id="MPP1285_34-27-02-04-1">
+	<file family="145" manual="AMM" pn="1285" chg="U" tsn="51" is_tr="false">
+		<title>AMM PART II-1285 - CHAPTER 34-27-02-04 - DUAL IRS - MODE SELECT UNIT - REMOVAL/INSTALLATION</title>
+		<path>/CHAPTER_34</path>
+		<hash>575b7d3bdcd0bd51e3fdc0f535b946f7</hash>
+	</file>
+	<pages>
+		<page number="1" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL DUAL IRS - MODE SELECT UNIT - REMOVAL/INSTALLATION EFFECTIVITY:  ALL 1. General A. This section gives the procedure to remove/install MSU - Mode Select Unit 1 and/or 2. B. The MSUs are installed on the Instrument Panel. C. The procedures in this section are given in the sequence below. The tasks identified with ( ♦) are part of the Scheduled Maintenance Requirements Document (SMRD). TASK NUMBER DESCRIPTION EFFECTIVITY ALL 34-27-02-000-801-A MSU - REMOVAL   ALL 34-27-02-400-801-A MSU - INSTALLATION   EMB-145  - AMM 1285 General 34-27-02 Page 1 of 4 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="2" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 34-27-02-000-801-A EFFECTIVITY:  ALL 2. MSU - REMOVAL A. General (1) This task gives the procedure to remove MSU1 and/or 2. B. Zones and Accesses Not Applicable C. Tools and Equipment Not Applicable D. Auxiliary Items Not Applicable E. Consumable Materials Not Applicable F. Expandable Parts Not Applicable G. Persons Recommended QTY FUNCTION PLACE 1 Does the task Cockpit H. Removal (Figure 401)  SUBTASK 020-002-A (1) On the circuit breaker panel, open the IRS1 and/or IRS2 circuit breaker(s) and attach a DO-NOT-CLOSE tag to it (them). (2) Loosen the Dzus fastener (3). (3) Pull the MSU (2) to get access to the connector (1). (4) Disconnect the connector (1) from the MSU (2). (5) Remove the MSU (2). EMB-145  - AMM 1285 000-801-A/400 34-27-02 Page 2 of 4 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="3" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: ALL MSU - Removal/Installation  Figure 401 B B A ZONES 223 224 DET. A 1. ELECTRICAL     CONNECTOR 2. MODE SELECT     UNIT     (MSU) 3. DZUS DET. B 145AMM340336.MCE EMB-145  - AMM 1285 000-801-A/400 34-27-02 Page 3 of 4 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="4" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 34-27-02-400-801-A EFFECTIVITY:  ALL 3. MSU - INSTALLATION A. General (1) This task gives the procedure to install MSU1 and/or MSU2. B. References REFERENCE DESIGNATION AMM TASK 34-27-00-700-801-A/500 DUAL IRS - OPERATIONAL TEST C. Zones and Accesses Not Applicable D. Tools and Equipment Not Applicable E. Auxiliary Items Not Applicable F. Consumable Materials Not Applicable G. Expandable Parts Not Applicable H. Persons Recommended QTY FUNCTION PLACE 1 Does the task Cockpit I. Installation (Figure 401)  SUBTASK 420-002-A (1) Put the MSU (2) in position. (2) Connect the connector (1) to the MSU (2). (3) Tighten the Dzus fastener (3). J. Follow-on SUBTASK 410-002-A (1) On the circuit breaker panel, close the IRS1 and/or IRS2 circuit breaker(s) and remove the DO-NOT-CLOSE tag from it (them). (2) Do the IRS operational check ( AMM TASK 34-27-00-700-801-A/500). EMB-145  - AMM 1285 400-801-A/400 34-27-02 Page 4 of 4 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+	</pages>
+</metadata>

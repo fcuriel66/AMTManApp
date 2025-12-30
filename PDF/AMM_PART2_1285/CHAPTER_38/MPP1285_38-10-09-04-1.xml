@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata id="MPP1285_38-10-09-04-1">
+	<file family="145" manual="AMM" pn="1285" chg="U" tsn="51" is_tr="false">
+		<title>AMM PART II-1285 - CHAPTER 38-10-09-04 - WATER PUMP - REMOVAL/INSTALLATION</title>
+		<path>/CHAPTER_38</path>
+		<hash>ba2221dd8dff75a2844d5ca0cb460675</hash>
+	</file>
+	<pages>
+		<page number="1" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL WATER PUMP - REMOVAL/INSTALLATION EFFECTIVITY:  AIRCRAFT WITH WATER PUMP 1. General A. This section gives the procedures to remove and install the water pump. B. The water pump is installed in the lavatory and pressurizes the water from the water tank to the washbasin faucet. C. The procedures in this section are given in the sequence below. The tasks identified with ( ♦) are part of the Scheduled Maintenance Requirements Document (SMRD). TASK NUMBER DESCRIPTION EFFECTIVITY AIRCRAFT WITH WA- 38-10-09-000-801-A WATER PUMP - REMOVAL TER PUMP   AIRCRAFT WITH WA- 38-10-09-400-801-A WATER PUMP - INSTALLATION TER PUMP   EMB-145  - AMM 1285 General 38-10-09 Page 1 of 6 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="2" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 38-10-09-000-801-A EFFECTIVITY:  AIRCRAFT WITH WATER PUMP 2. WATER PUMP - REMOVAL A. General (1) This task gives the procedure for the removal of the water pump. B. References REFERENCE DESIGNATION AMM TASK 12-15-01-600-802-A/300 WATER TANK - DRAINING C. Zones and Accesses Not Applicable D. Tools and Equipment Not Applicable E. Auxiliary Items Not Applicable F. Consumable Materials Not Applicable G. Expandable Parts Not Applicable H. Persons Recommended QTY FUNCTION PLACE 1 Does the task Lavatory I. Preparation SUBTASK 841-002-A (1) On the circuit breaker panel, open the LAV PUMP circuit breaker and attach a DO- NOT-CLOSE tag to it. (2) Drain the water tank ( AMM TASK 12-15-01-600-802-A/300). (3) Open the fire ext/toilet paper door assy (Figure 401, DET. A). J. Removal (Figure 401)  SUBTASK 020-002-A (1) Disconnect the electrical connector (4). (2) Cut the tiedown straps (3). (3) Loosen the clamps (5) and remove the thermal switch (6). (4) Remove the screws (11). EMB-145  - AMM 1285 000-801-A/400 38-10-09 Page 2 of 6 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="3" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL (5) Remove the screws (8), washers (9) and release the bonding strap (7). (6) Disconnect the outlet (1) and the inlet (2) tubes from the water pump (10). (7) Remove the water pump (10). (8) Remove the clamps (5) from the water pump (10). EMB-145  - AMM 1285 000-801-A/400 38-10-09 Page 3 of 6 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="4" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: AIRCRAFT WITH WATER PUMP Water Pump - Removal/Installation  Figure 401 ZONES 271 272 A FIRE EXT / TOILET PAPER DOOR ASSY (REF.) B DET. A 4. CONNECTOR 1. WATER PUMP     OUTLET TUBE 3. TIEDOWN     STRAP 2. WATER PUMP C SUPPORT (REF.)     INLET TUBE 5. CLAMP 6. THERMAL     SWITCH 7. BONDING DET. B     STRAP 11. SCREW 9. WASHER 10. WATER 8. SCREW       PUMP DET. C 145AMM380080A.MCE EMB-145  - AMM 1285 000-801-A/400 38-10-09 Page 4 of 6 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="5" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 38-10-09-400-801-A EFFECTIVITY:  AIRCRAFT WITH WATER PUMP 3. WATER PUMP - INSTALLATION A. General (1) This task gives the procedure for the installation of the water pump. B. References REFERENCE DESIGNATION AMM TASK 12-15-01-600-801-A/300 WATER TANK - FILLING C. Zones and Accesses Not Applicable D. Tools and Equipment Not Applicable E. Auxiliary Items Not Applicable F. Consumable Materials Not Applicable G. Expandable Parts Not Applicable H. Persons Recommended QTY FUNCTION PLACE 1 Does the task Lavatory I. Installation (Figure 401)  SUBTASK 420-002-A (1) Put the clamps (5) on a serviceable water pump (10). (2) Put the water pump (10) on the support. NOTE: Make sure that the arrow on the water pump points up. (3) Connect the outlet (1) and the inlet (2) tubes to the water pump (10). (4) Install the bonding strap (7), the washers (9) and the screws (8). (5) Install the screws (11). (6) Put the thermal switch (6) on the installation position and tighten the clamps (5). (7) Install the tiedown straps (3). (8) Connect the electrical connector (4). EMB-145  - AMM 1285 400-801-A/400 38-10-09 Page 5 of 6 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="6" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL J. Follow-on SUBTASK 842-002-A (1) Fill the water tank ( AMM TASK 12-15-01-600-801-A/300). (2) On the circuit breaker panel, remove the DO-NOT-CLOSE tag from the LAV PUMP circuit breaker and close it. (3) Open the faucet and make sure that the pump operates correctly. (4) Do a check for leaks. (5) Close the fire ext/toilet paper door assy (Figure 401), DET. A). EMB-145  - AMM 1285 400-801-A/400 38-10-09 Page 6 of 6 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+	</pages>
+</metadata>

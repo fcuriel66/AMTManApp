@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata id="MPP1285_26-15-01-04-2">
+	<file family="145" manual="AMM" pn="1285" chg="U" tsn="51" is_tr="false">
+		<title>AMM PART II-1285 - CHAPTER 26-15-01-04 - CONFIG-2 - CARGO SMOKE DETECTOR - REMOVAL/INSTALLATION</title>
+		<path>/CHAPTER_26</path>
+		<hash>a430b2f32256d11f77baa1903ea5d70d</hash>
+	</file>
+	<pages>
+		<page number="1" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL CARGO SMOKE DETECTOR - REMOVAL/INSTALLATION EFFECTIVITY:  ACFT MODEL(S) EMB-135 1. General A. This section gives the procedures for the removal/installation of the cargo smoke detectors. B. The procedures in this section are given in the sequence below. The tasks identified with ( ♦) are part of the Scheduled Maintenance Requirements Document (SMRD). TASK NUMBER DESCRIPTION EFFECTIVITY ACFT MODEL(S) 26-15-01-000-802-A CARGO SMOKE DETECTOR - REMOVAL EMB-135   ACFT MODEL(S) CARGO SMOKE DETECTOR - INSTALLA- 26-15-01-400-802-A EMB-135 TION   EMB-145  - AMM 1285 General CONFIG-2 26-15-01 Page 1 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="2" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 26-15-01-000-802-A EFFECTIVITY:  ACFT MODEL(S) EMB-135 2. CARGO SMOKE DETECTOR - REMOVAL A. General (1) This task gives the procedures for the removal of the cargo smoke detectors. B. Zones and Accesses Not Applicable C. Tools and Equipment Not Applicable D. Auxiliary Items ITEM DESCRIPTION PURPOSE QTY 1 Rubber gloves Electrical insulation AR E. Consumable Materials Not Applicable F. Expandable Parts Not Applicable G. Persons Recommended QTY FUNCTION PLACE 1 Does the task Baggage compartment H. Preparation SUBTASK 841-006-B (1) On the circuit breaker panel, open the "BAGGAGE SMOKE DET" circuit breaker and attach a "DO-NOT-CLOSE" tag to it. I. Removal (Figure 401)  SUBTASK 020-008-B (1) Remove the bolts (1) and washers (2) that attach the protection bar (3) to the detector housing (REF.). (2) Remove the protection bar (3). (3) Remove the electrical connector (4) from the smoke detector (5). (4) Remove the nut (6) and washers (7) that attach the smoke detector (5) into the housing (REF.). (5) Remove the smoke detector (5) from the housing (REF.). EMB-145  - AMM 1285 000-802-A/400 CONFIG-2 26-15-01 Page 2 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="3" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: ACFT MODEL(S) EMB-135 Cargo Smoke Detector - Removal/Installation  Figure 401 B A BAGGAGE DOOR (REF.) DET. A HOUSING (REF.) 5. SMOKE DETECTOR 3. PROTECTION BAR 2. WASHER (4) 1. BOLT (4) 4. ELECTRICAL CONNECTOR DET. B 7. WASHER (4) 6. NUT (4) EM145AMM260124A.DGN EMB-145  - AMM 1285 000-802-A/400 CONFIG-2 26-15-01 Page 3 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="4" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 26-15-01-400-802-A EFFECTIVITY:  ACFT MODEL(S) EMB-135 3. CARGO SMOKE DETECTOR - INSTALLATION A. General (1) This task gives the procedures for the installation of the cargo smoke detectors. B. References REFERENCE DESIGNATION AMM TASK 26-15-00-700-804-A/500 - C. Zones and Accesses Not Applicable D. Tools and Equipment Not Applicable E. Auxiliary Items ITEM DESCRIPTION PURPOSE QTY 1 Rubber gloves Electrical insulation AR F. Consumable Materials Not Applicable G. Expandable Parts Not Applicable H. Persons Recommended QTY FUNCTION PLACE 1 Does the task Baggage compartment I. Installation (Figure 401)  SUBTASK 420-008-B (1) Position the smoke detector (5) into the housing (REF.). (2) Install the nut (6) and washers (7) that attach the smoke detector into the housing (REF.). (3) Install the electrical connector (4) to the smoke detector (5). (4) Position the protection bar (3). (5) Install the bolts (1) and washers (2) that attach the protection bar (3) to the smoke detector housing (REF.). EMB-145  - AMM 1285 400-802-A/400 CONFIG-2 26-15-01 Page 4 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="5" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL J. Follow-on SUBTASK 842-006-B (1) Remove the "DO-NOT-CLOSE" tag and close the "BAGGAGE SMOKE DET" circuit breaker. (2) Do the Baggage Smoke Detection System Operational Test (AMM TASK 26-15-00-700-804-A/500). EMB-145  - AMM 1285 400-802-A/400 CONFIG-2 26-15-01 Page 5 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="6" width="216.0" height="279.0">
+			<data/>
+		</page>
+	</pages>
+</metadata>

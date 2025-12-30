@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata id="MPP1285_52-77-01-05-1">
+	<file family="145" manual="AMM" pn="1285" chg="U" tsn="51" is_tr="false">
+		<title>AMM PART II-1285 - CHAPTER 52-77-01-05 - REAR ELECTRONIC-COMPARTMENT ACCESS-HATCH WARNING MICROSWITCH - ADJUSTMENT/TEST</title>
+		<path>/CHAPTER_52</path>
+		<hash>bac7dcae4633514fcba4c5b56c6da8dc</hash>
+	</file>
+	<pages>
+		<page number="1" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL REAR ELECTRONIC-COMPARTMENT ACCESS-HATCH WARNING MICROSWITCH - ADJUSTMENT/ TEST EFFECTIVITY:  ALL 1. General A. This section gives the procedures to do a test of the rear electronic-compartment access-hatch caution microswitch. B. The procedures in this section are given in the sequence below. The tasks identified with ( ♦) are part of the Scheduled Maintenance Requirements Document (SMRD). TASK NUMBER DESCRIPTION EFFECTIVITY REAR - ELECTRONIC - COMPARTMENT ALL 52-77-01-700-801-A ACCESS HATCH CAUTION MICRO-   SWITCH -OPERATIONAL TEST EMB-145  - AMM 1285 General 52-77-01 Page 1 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="2" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 52-77-01-700-801-A EFFECTIVITY:  ALL 2. REAR - ELECTRONIC - COMPARTMENT ACCESS HATCH CAUTION MICROSWITCH - OPERATIONAL TEST A. General (1) The function of this check is to make sure that the rear electronic-compartment access- hatch caution microswitch is serviceable. B. References REFERENCE DESIGNATION AMM SDS 23-41-00/1  ENERGIZATION OF THE AIRCRAFT WITH AN EX- AMM TASK 20-40-01-860-801-A/200 TERNAL POWER SOURCE C. Zones and Accesses ZONE PANEL/DOOR LOCATION Rear - electronic - compartment access 272  hatch D. Tools and Equipment Not Applicable E. Auxiliary Items Not Applicable F. Consumable Materials Not Applicable G. Expandable Parts Not Applicable H. Persons Recommended QTY FUNCTION PLACE Does the task - Near the aircraft, at the Rear Fuse- 1  lage Helps the other technician - Monitors the EICAS 1  display in the cockpit I. Preparation SUBTASK 841-002-A (1) Connect the ramp interphone to permit communication between the mechanics (AMM SDS 23-41-00/1). (2) Energize the aircraft ( AMM TASK 20-40-01-860-801-A/200). (3) Make sure that these doors are closed and locked: EMB-145  - AMM 1285 700-801-A/500 52-77-01 Page 2 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="3" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL - Forward Electronic-Compartment Access Hatch - Cockpit Underfloor Access Hatch - Service Door - Main Door - Fueling Panel Door - Passenger-Cabin Escape Hatches - Baggage Door J. Procedure Test - Caution Microswitch (Figure 501)  SUBTASK 710-002-A (1) Do the operational test as follows: NOTE: There is a delay of 4 to 5 seconds between the locking of the door and the indications shown on the EICAS display. (a) Open the rear electronic-compartment access hatch and monitor the indication on the EICAS display. Result: 1 The EICAS display shows this caution message: - ACCESS DOORS OPN. The MFD shows these indications: - DOOR OPEN (in red). - A red square that shows the rear electronic-compartment access hatch. (b) Push the caution microswitch S7243, installed at the rear fuselage, and monitor the EICAS display. Result: 1 On the EICAS display, the message below goes out of view: - ACCESS DOORS OPN. On the MFD, the indications below go out of view: - DOOR OPEN. - The red square that shows the rear electronic-compartment access hatch becomes green. (c) Release the caution microswitch S7243, and monitor the EICAS display. Result: 1 The EICAS display shows this caution message: - ACCESS DOORS OPN. The MFD shows these indications: - DOOR OPEN (in red.) - A red square that shows the rear electronic-compartment access hatch. EMB-145  - AMM 1285 700-801-A/500 52-77-01 Page 3 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="4" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL K. Follow-on SUBTASK 842-002-A (1) Disconnect the ramp interphone (AMM SDS 23-41-00/1). (2) Deenergize the aircraft ( AMM TASK 20-40-01-860-801-A/200). EMB-145  - AMM 1285 700-801-A/500 52-77-01 Page 4 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="5" width="216.0" height="279.0">
+			<data>6 3 AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: ALL Rear Electronic-Compartment Access-Hatch Caution Microswitch  Figure 501 ZONE 272 A B DET. A MICROSWITCH S7243 C D DET. B REAR ELECTRONIC COMPARTMENT ACCESS HATCH +2OSAT FMS 36O END 88.1 T/O-1 88.1 KDVT +15TAT REV REV 12.5 NM 3OO 75.O N1 75.O TAS 12 MIN ACCESS DOORS OPN N A A PLAB1 IGN IGN AB AB 55O ITT 55O *PBDO1 LLO1 KDVT PLAB2 99.9% N2 99.9% 5O 5O 25 99OPPH FF 99OPPH 9OOLB FQ 1OOOLB OIL VIB LDG GEAR TGT TX UP UP UP DOORS ENGINE FLAPS O 7979 1OO 1OO T/O-1 T/OMODE: PRESS TEMP LP HP SPLRS CLD O REFTOTEMP: 25 C OFF 7OOO ROLL PITCH REF A-ICE: CAB ALT FT DOOR   OPEN 7.5 UP CAB   P PSI 4 QT OIL LVL1 QT CAB RATE -2OOOFPM 9 YAW ECS M/P O RTN A/I FUEL HYD ELEC RNG T/O APU 1OO% 6OO C DET. D DET. C 145AMM520130.MCE A EMB-145  - AMM 1285 700-801-A/500 52-77-01 Page 5 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details. 33 3O</data>
+		</page>
+		<page number="6" width="216.0" height="279.0">
+			<data/>
+		</page>
+	</pages>
+</metadata>

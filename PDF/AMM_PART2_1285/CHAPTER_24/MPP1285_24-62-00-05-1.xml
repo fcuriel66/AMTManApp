@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata id="MPP1285_24-62-00-05-1">
+	<file family="145" manual="AMM" pn="1285" chg="U" tsn="51" is_tr="false">
+		<title>AMM PART II-1285 - CHAPTER 24-62-00-05 - AVIONICS MASTER SYSTEM - ADJUSTMENT/TEST</title>
+		<path>/CHAPTER_24</path>
+		<hash>eea199e1bc08799a5ccee96a51dbc8a9</hash>
+	</file>
+	<pages>
+		<page number="1" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL AVIONICS MASTER SYSTEM - ADJUSTMENT/TEST EFFECTIVITY:  ALL 1. General A. This section gives procedures to do the operational test of the avionics master system. B. The procedures in this section are given in the sequence below. The tasks identified with ( ♦) are part of the Scheduled Maintenance Requirements Document (SMRD). TASK NUMBER DESCRIPTION EFFECTIVITY AVIONICS MASTER SYSTEM - OPERA- ALL 24-62-00-700-801-A TIONAL TEST  EMB-145  - AMM 1285 General 24-62-00 Page 1 of 4 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="2" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 24-62-00-700-801-A EFFECTIVITY:  ALL 2. AVIONICS MASTER SYSTEM - OPERATIONAL TEST A. General (1) The function of this test is to make sure that the avionics master system operates correctly. B. References REFERENCE DESIGNATION ENERGIZATION OF THE AIRCRAFT WITH AN EX- AMM TASK 20-40-01-860-801-A/200 TERNAL POWER SOURCE C. Zones and Accesses Not Applicable D. Tools and Equipment Not Applicable E. Auxiliary Items Not Applicable F. Consumable Materials Not Applicable G. Expandable Parts Not Applicable H. Persons Recommended QTY FUNCTION PLACE 1 Does the task Cockpit I. Preparation SUBTASK 841-002-A (1) Energize the aircraft with the External DC-Power Supply ( AMM TASK 20-40-01-860-801-A/200). J. Test Procedure (Figure 501)  SUBTASK 710-002-A (1) Do the task as follows: (a) Set the AVIONICS MASTER 1 pushbutton, on the overhead panel, to OFF. Result: 1 The PFD 1 and MFD 2 go off. 2 The master CAUTION lights flash. (b) Set the AVIONICS MASTER 1 pushbutton to ON. EMB-145  - AMM 1285 700-801-A/500 24-62-00 Page 2 of 4 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="3" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL Result: 1 The PFD 1 and MFD 2 come on. (c) Push a master CAUTION light. Result: 1 The master CAUTION lights go off. (d) Set the AVIONICS MASTER 2 pushbutton, on the overhead panel, to OFF. Result: 1 The PFD 2 and MFD 1 go off. 2 The master CAUTION lights flash. (e) Set the AVIONICS MASTER 2 pushbutton, to ON. Result: 1 The PFD 2 and MFD 1 go on. (f) Push a master CAUTION light. Result: 1 The master CAUTION lights go off. K. Follow-on SUBTASK 842-002-A (1) Deenergize the aircraft ( AMM TASK 20-40-01-860-801-A/200). EMB-145  - AMM 1285 700-801-A/500 24-62-00 Page 3 of 4 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="4" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: ALL Avionics Master System Operational Test  Figure 501 A B B CAUT DET. B MASTER CAUTION C D D C LIGHT AVIONICS MASTER 2 PUSHBUTTON AVIONICS MASTER DET.A ELECTRICAL PANEL 1 2 AVIONICS MASTER 1 PUSHBUTTON FMS 300 TAS ROL VS .51 M 14000 LL01 +15 SAT 280 12.5 NM 245 GSPD 12  MIN 20 20 260 14500 10 10 1200 1200 N 240 14300 10 10 220 25 14000 20 20 200 M 29.92 IN .470  TGT TX 360 359 CRS VOR2 3 GEN1 GEN3 APU GPU GEN2 GEN4 N 2 28.5 V 28.5 00.0 V 00.0 V 28.5 V 00.0 17 .5 NM 1 120 A 120 000 A 120 A 000 25 0 1000 28.5 V 28.5 V BATT1 BATT2 ESS1 ESS2 40 ÃÂ¯C 40 ÃÂ¯C 1 2 MENU MAP M/P TTG HDG 3 SYS MFD CKLST TCAS WX PLAN RNG 001 5MIN BARO IN HPA / STD DET. C DET. D MFD PFD EM145AMM240020B.DGN EMB-145  - AMM 1285 700-801-A/500 24-62-00 Page 4 of 4 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details. 33</data>
+		</page>
+	</pages>
+</metadata>

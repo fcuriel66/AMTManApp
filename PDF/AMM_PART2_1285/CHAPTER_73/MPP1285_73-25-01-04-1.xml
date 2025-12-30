@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata id="MPP1285_73-25-01-04-1">
+	<file family="145" manual="AMM" pn="1285" chg="U" tsn="51" is_tr="false">
+		<title>AMM PART II-1285 - CHAPTER 73-25-01-04 - P0 SENSOR - REMOVAL/INSTALLATION</title>
+		<path>/CHAPTER_73</path>
+		<hash>20173cde10be021a45983dab8fe0e42d</hash>
+	</file>
+	<pages>
+		<page number="1" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL P0 SENSOR - REMOVAL/INSTALLATION EFFECTIVITY:  ALL 1. General A. This section gives the procedure to remove/install the P0 sensor. There is one sensor for each FADEC. B. The procedures in this section are given in the sequence below. The tasks identified with ( ♦) are part of the Scheduled Maintenance Requirements Document (SMRD). TASK NUMBER DESCRIPTION EFFECTIVITY ALL 73-25-01-000-801-A P0 SENSOR - REMOVAL   ALL 73-25-01-400-801-A P0 SENSOR - INSTALLATION   EMB-145  - AMM 1285 General 73-25-01 Page 1 of 6 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="2" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 73-25-01-000-801-A EFFECTIVITY:  ALL 2. P0 SENSOR - REMOVAL A. General (1) Obey the instructions below to remove the P0 sensor. B. References REFERENCE DESIGNATION AMM MPP 06-41-01/100 - C. Zones and Accesses ZONE PANEL/DOOR LOCATION 272 272DR Rear electronic compartment D. Tools and Equipment Not Applicable E. Auxiliary Items ITEM DESCRIPTION PURPOSE QTY Commercially To get access to the rear electronic compart- Ladder 1 available ment F. Consumable Materials Not Applicable G. Expandable Parts Not Applicable H. Persons Recommended QTY FUNCTION PLACE 1 Does the task Rear electronic compartment I. Preparation SUBTASK 841-002-A (1) On the circuit breaker panel, open these circuit breakers and attach DO-NOT-CLOSE tags to them: – FADECs 1A, 1B (LH Engine). – FADECs 2A, 2B (RH Engine). (2) Put the ladder in position and open the rear electronic compartment access door 272DR (AMM MPP 06-41-01/100). EMB-145  - AMM 1285 000-801-A/400 73-25-01 Page 2 of 6 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="3" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL J. P0 Sensor - Removal (Figure 401)  SUBTASK 020-002-A (1) Disconnect the electrical connector (5) as shown in figure 401. (2) Remove bolts (4) and washers (3). (3) Remove the P0 sensor (2) from the manifold (1). (a) Install plugs/caps to the disconnected points. EMB-145  - AMM 1285 000-801-A/400 73-25-01 Page 3 of 6 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="4" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: ALL P0 Sensor - Removal/Installation  Figure 401 B A ZONES 171/172 DET. A 1. MANIFOLD 2. PRESSURE TRANSDUCER   SENSOR (2) 3. WASHER (4) 4. BOLT (4) 5. ELECTRICAL CONNECTOR (2) DET. B 145AMM730045.MCE EMB-145  - AMM 1285 000-801-A/400 73-25-01 Page 4 of 6 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="5" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 73-25-01-400-801-A EFFECTIVITY:  ALL 3. P0 SENSOR - INSTALLATION A. General (1) Obey the instructions below to install the P0 sensor. B. References REFERENCE DESIGNATION AMM MPP 06-41-01/100 - C. Zones and Accesses ZONE PANEL/DOOR LOCATION 272 272DR Rear electronic compartment D. Tools and Equipment Not Applicable E. Auxiliary Items ITEM DESCRIPTION PURPOSE QTY Commercially To get access to the rear electronic compart- Ladder 1 available ment F. Consumable Materials Not Applicable G. Expandable Parts Not Applicable H. Persons Recommended QTY FUNCTION PLACE 1 Does the task Rear electronic compartment I. P0 Sensor - Installation (Figure 401)  SUBTASK 420-002-A (1) Remove the protective plugs and caps from connectors. (2) NOTE: Before the P0 sensor installation, make sure that there is an O-ring installed on it. Put the P0 sensor (2) on the manifold (1). (3) Install the bolts (4) and washers (3). (4) Connect the electrical connector (5) to the P0 sensor as shown in (Figure 401). EMB-145  - AMM 1285 400-801-A/400 73-25-01 Page 5 of 6 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="6" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL J. Follow-on SUBTASK 842-002-A (1) Close rear electronic compartment access door 272DR (AMM MPP 06-41-01/100) and remove the ladder. (2) Remove the DO-NOT-CLOSE tags and close these circuit breakers. – FADECs 1A, 1B (LH Engine). – FADECs 2A, 2B (RH Engine). (3) Reset the FADECs with the reset switch, on the overhead panel. EMB-145  - AMM 1285 400-801-A/400 73-25-01 Page 6 of 6 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+	</pages>
+</metadata>

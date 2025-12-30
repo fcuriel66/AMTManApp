@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata id="MPP1285_34-42-02-04-1">
+	<file family="145" manual="AMM" pn="1285" chg="U" tsn="51" is_tr="false">
+		<title>AMM PART II-1285 - CHAPTER 34-42-02-04 - WEATHER RADAR CONTROLLER - REMOVAL/INSTALLATION</title>
+		<path>/CHAPTER_34</path>
+		<hash>00bdfb60a2745cbc71d19ac4c899e64f</hash>
+	</file>
+	<pages>
+		<page number="1" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL WEATHER RADAR CONTROLLER - REMOVAL/INSTALLATION EFFECTIVITY:  ALL 1. General A. This section gives the procedure to remove/install the weather radar controller. B. The procedures in this section are given in the sequence below. The tasks identified with ( ♦) are part of the Scheduled Maintenance Requirements Document (SMRD). TASK NUMBER DESCRIPTION EFFECTIVITY WEATHER RADAR CONTROLLER - RE- ALL 34-42-02-000-801-A MOVAL  WEATHER RADAR CONTROLLER - IN- ALL 34-42-02-400-801-A STALLATION  EMB-145  - AMM 1285 General 34-42-02 Page 1 of 6 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="2" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 34-42-02-000-801-A EFFECTIVITY:  ALL 2. WEATHER RADAR CONTROLLER - REMOVAL A. General (1) This task gives the procedure to remove the weather radar controller. B. Zones and Accesses Not Applicable C. Tools and Equipment Not Applicable D. Auxiliary Items Not Applicable E. Consumable Materials Not Applicable F. Expandable Parts Not Applicable G. Persons Recommended QTY FUNCTION PLACE 1 Does the task Cockpit H. Preparation SUBTASK 841-007-A (1) (Aircraft equipped with one weather radar controller) On the circuit breaker panel, open the RADAR circuit breaker and attach a DO-NOT-CLOSE tag to it. (2) (Aircraft equipped with two weather radar controllers) On the circuit breaker panel, open the RADAR CONT 1 and RADAR CONT 2/RTA circuit breakers, and attach DO- NOT-CLOSE tags to them. I. Removal (Figure 401)  (Figure 402)  SUBTASK 020-007-A (1) Loosen the dzus fasteners (1). (2) Pull the weather radar controller (2) to get access to the connector (3). (3) Disconnect the connector (3) from the weather radar controller (2). (4) If applicable, disconnect the connector (4) from the weather radar controller (2). (5) Remove the weather radar controller (2). EMB-145  - AMM 1285 000-801-A/400 34-42-02 Page 2 of 6 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="3" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: AIRCRAFT WITH ONE WEATHER RADAR CONTROLLER Weather Radar Controller - Removal/Installation  Figure 401 A ZONE 223 DET. A B 1.  DZUS      FASTENER (4) 2. WEATHER RADAR     CONTROLLER     3. CONNECTOR 1 4. CONNECTOR DET. B 1 IF APPLICABLE TO THE AIRCRAFT CONFIGURATION. EM145AMM341369A.DGN EMB-145  - AMM 1285 000-801-A/400 34-42-02 Page 3 of 6 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="4" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: AIRCRAFT WITH TWO WEATHER RADAR CONTROLLERS Weather Radar Controller - Removal/Installation  Figure 402 C B A ZONES 223 224 DET. A 3. CONNECTOR 1 4. CONNECTOR  2. WEATHER RADAR      CONTROLLER 3. CONNECTOR  1. DZUS      FASTENER (4) DET. B 2.  WEATHER RADAR      CONTROLLER     1.  DZUS      FASTENER (4) DET. C 1 IF APPLICABLE TO THE AIRCRAFT CONFIGURATION. EM145AMM341370A.DGN EMB-145  - AMM 1285 000-801-A/400 34-42-02 Page 4 of 6 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="5" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 34-42-02-400-801-A EFFECTIVITY:  ALL 3. WEATHER RADAR CONTROLLER - INSTALLATION A. General (1) This task gives the procedure to install the weather radar controller. B. References REFERENCE DESIGNATION AMM TASK 34-42-00-700-801-A/500 WEATHER RADAR SYSTEM OPERATIONAL TEST TASK 34-42-00-700-802-A - C. Zones and Accesses Not Applicable D. Tools and Equipment Not Applicable E. Auxiliary Items Not Applicable F. Consumable Materials Not Applicable G. Expandable Parts Not Applicable H. Persons Recommended QTY FUNCTION PLACE 1 Does the task Cockpit I. Installation (Figure 401) (Figure 402)  SUBTASK 420-006-A (1) Put the weather radar controller (2) in position. (2) Connect the connector (3) to the weather radar controller (2). (3) If applicable, connect the connector (4) to the weather radar controller (2). (4) Tighten the dzus fastener (1). J. Follow-on SUBTASK 842-006-A (1) (Aircraft with one weather radar controller) On the circuit breaker panel, close the RADAR circuit breaker and remove the DO-NOT-CLOSE tag from it. EMB-145  - AMM 1285 400-801-A/400 34-42-02 Page 5 of 6 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="6" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL (2) (Aircraft with two weather radar controllers) On the circuit breaker panel, close the RADAR CONT 1 and RADAR CONT 2/RTA circuit breakers and remove the DO-NOT- CLOSE tags from them. (3) Do the weather radar system operational test ( AMM TASK 34-42-00-700-801-A/500) or (TASK 34-42-00-700-802-A) as applicable. EMB-145  - AMM 1285 400-801-A/400 34-42-02 Page 6 of 6 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+	</pages>
+</metadata>

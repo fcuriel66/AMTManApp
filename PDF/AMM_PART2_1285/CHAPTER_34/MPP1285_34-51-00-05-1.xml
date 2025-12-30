@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata id="MPP1285_34-51-00-05-1">
+	<file family="145" manual="AMM" pn="1285" chg="U" tsn="51" is_tr="false">
+		<title>AMM PART II-1285 - CHAPTER 34-51-00-05 - DME - ADJUSTMENT/TEST</title>
+		<path>/CHAPTER_34</path>
+		<hash>383513ce5b50f110a2250b45235d9076</hash>
+	</file>
+	<pages>
+		<page number="1" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL DME - ADJUSTMENT/TEST EFFECTIVITY:  ALL 1. General A. This section gives the procedures to do the DME System test. B. The DME module is part of the Integrated Navigation Unit. C. The procedures in this section are given in the sequence below. The tasks identified with ( ♦) are part of the Scheduled Maintenance Requirements Document (SMRD). TASK NUMBER DESCRIPTION EFFECTIVITY ALL 34-51-00-700-801-A DME SYSTEM OPERATIONAL TEST   EMB-145  - AMM 1285 General 34-51-00 Page 1 of 4 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="2" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 34-51-00-700-801-A EFFECTIVITY:  ALL 2. DME SYSTEM OPERATIONAL TEST A. General (1) This task gives the procedures to do the DME System operational test. B. References REFERENCE DESIGNATION AMM SDS 23-51-00/1  AMM SDS 23-81-00/1  AMM SDS 31-51-00/1  AMM SDS 34-22-00/1  AMM SDS 34-32-00/1  AMM SDS 34-51-00/1  ENERGIZATION OF THE AIRCRAFT WITH AN EX- AMM TASK 20-40-01-860-801-A/200 TERNAL POWER SOURCE C. Zones and Accesses Not Applicable D. Tools and Equipment Not Applicable E. Auxiliary Items Not Applicable F. Consumable Materials Not Applicable G. Expandable Parts Not Applicable H. Persons Recommended QTY FUNCTION PLACE 1 Does the task Cockpit I. Preparation SUBTASK 841-002-A (1) Energize the aircraft with the External DC Power Supply ( AMM TASK 20-40-01-860-801-A/200). (2) Make sure that the Systems below are operational and on: – Airborne Audio System (AMM SDS 23-51-00/1). – Radio Management System (AMM SDS 23-81-00/1). EMB-145  - AMM 1285 700-801-A/500 34-51-00 Page 2 of 4 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="3" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL – Aural Warning System (AMM SDS 31-51-00/1). – EFIS (AMM SDS 34-22-00/1). – DME System (AMM SDS 34-51-00/1). – VOR/ILS/GS/MB (AMM SDS 34-32-00/1). J. DME System - Test Procedures (Figure 501)  SUBTASK 710-002-A (1) On RMU 1, push the DME function key. (2) Move the cursor of RMU 1 to the DME1 window. (3) Do the test of frequency selection as shown below: (a) Put the cursor on the select frequency code. (b) Turn the dual concentric knobs. Result: 1 A frequency code can be selected. (4) Do the self-test below: (a) Set RMU 1 to the DME1 window. (b) Push and hold the RMU TST function key. Result: 1 On the RMU, the DME1 window shows: • TEST and DME TEST (amber). • TEST (amber) and DME PASS (green), at the end of the test cycle. NOTE: A DME ERR (red) is the indication that the selected DME is defective. (5) Do steps (1), (2), (3), and (4) above again for DME2, on RMU 2. (6) Do the DME test below: (a) Set RMU 1 to the DME1 window. (b) Tune in to station of DME. Result: 1 Make sure of the correct distance and ident. (c) Set RMU 2 to the DME2 window. (d) Tune in to DME station. Result: 1 Make sure of the correct distance and ident. K. Follow-on SUBTASK 842-002-A (1) Deenergize the aircraft ( AMM TASK 20-40-01-860-801-A/200). EMB-145  - AMM 1285 700-801-A/500 34-51-00 Page 3 of 4 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="4" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: ALL RMU 1 and 2 - DME1 and 2 Window  Figure 501 A 1 A 2 B COM1 NAV1 123.20 110.25 131.27 DME H SJC OR MEMORY 3 108.30 ATC/TCAS ADF1 NAV2 1471 162.5 110.25 2 ATC ON ANT DME H SJC TCAS DSPY 1 MLS1 D 500 CH. M 108.30 RANGE: 6 AZ. 122 E ALT: NORM GP. 25.5 DET. B TUNE STO SQ DIM 1 2 ID PGE TST DME DET. A 1 AIRCRAFT WITH RMU INSTALLED ON CONTROL PEDESTAL.     2 AIRCRAFT WITH RMU INSTALLED ON MAIN INSTRUMENT PANEL. 145AMM340022.MCE A EMB-145  - AMM 1285 700-801-A/500 34-51-00 Page 4 of 4 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+	</pages>
+</metadata>

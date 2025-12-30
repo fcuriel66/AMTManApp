@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata id="MPP1285_24-36-01-05-1">
+	<file family="145" manual="AMM" pn="1285" chg="U" tsn="51" is_tr="false">
+		<title>AMM PART II-1285 - CHAPTER 24-36-01-05 - MAIN BATTERY - ADJUSTMENT/TEST</title>
+		<path>/CHAPTER_24</path>
+		<hash>e62463550ddf3ddd469102cb6d1ec099</hash>
+	</file>
+	<pages>
+		<page number="1" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL MAIN BATTERY - ADJUSTMENT/TEST EFFECTIVITY:  FOR AIRCRAFT WITH MAIN BATTERY SAFT PART NUMBER 442CH1 1. General A. This section refers you to the publication necessary to do the Main Battery functional check. B. The procedures in this section are given in the sequence below. The tasks identified with ( ♦) are part of the Scheduled Maintenance Requirements Document (SMRD). TASK NUMBER DESCRIPTION EFFECTIVITY FOR AIRCRAFT WITH MAIN BATTERY SAFT 24-36-01-700-801-A ♦ MAIN BATTERY - FUNCTIONAL CHECK PART NUMBER 442CH1   EMB-145  - AMM 1285 General 24-36-01 Page 1 of 4 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="2" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 24-36-01-700-801-A EFFECTIVITY:  FOR AIRCRAFT WITH MAIN BATTERY SAFT PART NUMBER 442CH1 2. MAIN BATTERY - FUNCTIONAL CHECK A. General (1) The aircraft has two main batteries installed in the same compartment. B. References REFERENCE DESIGNATION AMM MPP 06-41-01/100 - AMM TASK 24-36-00-700-801-A/500 MAIN BATTERY SYSTEM - OPERATIONAL TEST AMM TASK 24-36-01-000-801-A/400 MAIN BATTERY - REMOVAL AMM TASK 24-36-01-400-801-A/400 MAIN BATTERY - INSTALLATION C. Zones and Accesses ZONE PANEL/DOOR LOCATION 113 113DL LH forward fuselage D. Tools and Equipment Not Applicable E. Auxiliary Items Not Applicable F. Consumable Materials Not Applicable G. Expandable Parts Not Applicable H. Persons Recommended QTY FUNCTION PLACE 1 Does the task LH forward fuselage I. Preparation SUBTASK 841-002-A (1) Open access panel113DL (AMM MPP 06-41-01/100). J. Functionally Check Main Battery (Figure 501)  SUBTASK 720-002-A (1) Remove the main battery (AMM TASK 24-36-01-000-801-A/400). (2) To do the main battery functional check, refer to the latest revision of the Component Maintenance Manual with Illustrated Parts List for Nickel-Cadmium Battery, part EMB-145  - AMM 1285 700-801-A/500 24-36-01 Page 2 of 4 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="3" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL number 442CH1 by SAFT, and do the procedures described in the Regular Check section of this manual. (3) Install the main battery (AMM TASK 24-36-01-400-801-A/400). K. Follow-on SUBTASK 842-002-A (1) Do the Operational Test of the Main Battery System ( AMM TASK 24-36-00-700-801- A/500). (2) Close access panel 113DL (AMM MPP 06-41-01/100). EMB-145  - AMM 1285 700-801-A/500 24-36-01 Page 3 of 4 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="4" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: FOR AIRCRAFT WITH MAIN BATTERY SAFT PART NUMBER 442CH1 Main Battery - Functional Check  Figure 501 A ZONE 113 DET. A B DET. B MAIN BATTERIES 145AMM240010.MCE A EMB-145  - AMM 1285 700-801-A/500 24-36-01 Page 4 of 4 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+	</pages>
+</metadata>

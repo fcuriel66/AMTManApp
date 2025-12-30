@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata id="MPP1285_31-31-02-04-1">
+	<file family="145" manual="AMM" pn="1285" chg="U" tsn="51" is_tr="false">
+		<title>AMM PART II-1285 - CHAPTER 31-31-02-04 - FDR UNDERWATER LOCATOR BEACON - REMOVAL/INSTALLATION</title>
+		<path>/CHAPTER_31</path>
+		<hash>72e3d5eab541a02eb920e6d0f4a8ef93</hash>
+	</file>
+	<pages>
+		<page number="1" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL FDR UNDERWATER LOCATOR BEACON - REMOVAL/INSTALLATION EFFECTIVITY:  ALL 1. General A. This section gives the procedures to remove and install the underwater locator beacon (ULB) attached to the solid state flight data recorder (SSFDR). B. The procedures in this section are given in the sequence below. The tasks identified with ( ♦) are part of the Scheduled Maintenance Requirements Document (SMRD). TASK NUMBER DESCRIPTION EFFECTIVITY FDR UNDERWATER LOCATOR BEACON ALL 31-31-02-000-801-A - REMOVAL  FDR UNDERWATER LOCATOR BEACON ALL 31-31-02-400-801-A - INSTALLATION  EMB-145  - AMM 1285 General 31-31-02 Page 1 of 7 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="2" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 31-31-02-000-801-A EFFECTIVITY:  ALL 2. FDR UNDERWATER LOCATOR BEACON - REMOVAL A. General (1) This task gives the procedures to remove the ULB attached to the SSFDR. B. References REFERENCE DESIGNATION AMM MPP 06-41-01/100 - C. Zones and Accesses ZONE PANEL/DOOR LOCATION 272 272DR Fuselage rear section Ι - Right side D. Tools and Equipment ITEM DESCRIPTION PURPOSE QTY To get access to the rear electronic compart- GSE 036 Platform, Hydraulic, Aircraft  ment E. Auxiliary Items ITEM DESCRIPTION PURPOSE QTY Commercially To tighten the screws that attach the ULB to Wrench Allen, 9/64 in 1 available the SSFDR F. Consumable Materials Not Applicable G. Expandable Parts Not Applicable H. Persons Recommended QTY FUNCTION PLACE 1 Does the task Rear electronic compartment I. Preparation SUBTASK 841-002-A (1) Put up the hydraulic platform (GSE 036) at the necessary height. (2) Open the access door 272DR AMM MPP 06-41-01/100. EMB-145  - AMM 1285 000-801-A/400 31-31-02 Page 2 of 7 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="3" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL J. Removal SUBTASK 020-002-A (1) For aircraft equipped with Honeywell FDR refer to Figure 401. (2) For aircraft equipped with L3 FDR refer to Figure 402. (3) On the SSFDR (1), loosen the four screws (3). (4) Remove the ULB (4) from the two brackets (2). EMB-145  - AMM 1285 000-801-A/400 31-31-02 Page 3 of 7 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="4" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: ON ACFT WITH HONEYWELL FDR FDR Underwater Locator Beacon - Removal/Installation  Figure 401 ZONE 271 4.ULB 1. SSFDR 5. LABEL 3. SCREWS 2. BRACKETS 145AMM310001.MCE C EMB-145  - AMM 1285 000-801-A/400 31-31-02 Page 4 of 7 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="5" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: ON ACFT WITH L3 FDR FDR Underwater Locator Beacon - Removal/Installation  Figure 402 A ZONE 271 1. SSFDR 2. BRACKETS 1 3. SCREWS 5. LABEL 4. ULB 6. WATER     SWITCH DET. A 1 ADHESIVE SEALANT LOCTITE 221. EM145AMM310522B.DGN EMB-145  - AMM 1285 000-801-A/400 31-31-02 Page 5 of 7 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="6" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 31-31-02-400-801-A EFFECTIVITY:  ALL 3. FDR UNDERWATER LOCATOR BEACON - INSTALLATION A. General (1) This task gives the procedures to install the ULB on the SSFDR. B. References REFERENCE DESIGNATION AMM MPP 06-41-01/100 - C. Zones and Accesses ZONE PANEL/DOOR LOCATION 272 272DR Fuselage rear section Ι - Right side D. Tools and Equipment ITEM DESCRIPTION PURPOSE QTY To get access to the rear electronic compart- GSE 036 Platform, Hydraulic, Aircraft  ment E. Auxiliary Items ITEM DESCRIPTION PURPOSE QTY Commercially To tighten the screws that attach the ULB to Wrench Allen, 9/64 in 1 available the SSFDR F. Consumable Materials SPECIFICATION DESCRIPTION QTY (BRAND) (FOR AIRCRAFT WITH L3 FDR) LOCTITE Adhesive Sealant, Anaerobic-Locking use, Type I AR 221 (MEP 09-005) G. Expandable Parts Not Applicable H. Persons Recommended QTY FUNCTION PLACE 1 Does the task Rear electronic compartment I. Installation SUBTASK 420-002-A (1) For aircraft equipped with Honeywell FDR refer to Figure 401. EMB-145  - AMM 1285 400-801-A/400 31-31-02 Page 6 of 7 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="7" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL (2) For aircraft equipped with L3 FDR refer to Figure 402. (3) Put the new ULB (4) in the two brackets (2). NOTE: (Aircraft with L3 FDR) The ULB (4) must be installed with the water switch (6) to the left side when you look at the SSFDR (1) from the ULB (4) side. (4) Turn the ULB (4) until you can read the battery replacement label (5) easily. (5) (Aircraft with L3 FDR) Apply adhesive sealant LOCTITE 221 to the screws (3). (6) Tighten the four screws (3). J. Follow-on   SUBTASK 842-002-A (1) Close the access door 272DR AMM MPP 06-41-01/100. (2) Remove the hydraulic platform (GSE 036). EMB-145  - AMM 1285 400-801-A/400 31-31-02 Page 7 of 7 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="8" width="216.0" height="279.0">
+			<data/>
+		</page>
+	</pages>
+</metadata>

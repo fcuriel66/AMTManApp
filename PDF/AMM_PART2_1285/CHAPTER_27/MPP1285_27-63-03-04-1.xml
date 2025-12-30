@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata id="MPP1285_27-63-03-04-1">
+	<file family="145" manual="AMM" pn="1285" chg="U" tsn="51" is_tr="false">
+		<title>AMM PART II-1285 - CHAPTER 27-63-03-04 - SPEED BRAKE COMMAND LEVER - REMOVAL/INSTALLATION</title>
+		<path>/CHAPTER_27</path>
+		<hash>1714fee6f2351a172ef07d27d136a133</hash>
+	</file>
+	<pages>
+		<page number="1" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL SPEED BRAKE COMMAND LEVER - REMOVAL/INSTALLATION EFFECTIVITY:  ALL 1. General A. This section gives the procedures to remove and install the Speed Brake Command Lever. B. The procedures in this section are given in the sequence below. The tasks identified with ( ♦) are part of the Scheduled Maintenance Requirements Document (SMRD). TASK NUMBER DESCRIPTION EFFECTIVITY SPEED BRAKE COMMAND LEVER - RE- ALL 27-63-03-000-801-A MOVAL  SPEED BRAKE COMMAND LEVER - IN- ALL 27-63-03-400-801-A STALLATION  EMB-145  - AMM 1285 General 27-63-03 Page 1 of 4 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="2" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 27-63-03-000-801-A EFFECTIVITY:  ALL 2. SPEED BRAKE COMMAND LEVER - REMOVAL A. General (1) This task gives the procedures to remove the Speed Brake Command Lever. B. Zones and Accesses Not Applicable C. Tools and Equipment Not Applicable D. Auxiliary Items Not Applicable E. Consumable Materials Not Applicable F. Expandable Parts Not Applicable G. Persons Recommended QTY FUNCTION PLACE 1 Does the task Cockpit H. Preparation SUBTASK 841-002-A (1) Make sure that the aircraft is safe for maintenance. (2) On the Circuit Breaker Panel, open the SPEED BRAKE and GND SPLR INBD/OUTBD circuit breakers and attach a DO-NOT-CLOSE tag to them. I. Removal (Figure 401)  SUBTASK 020-002-A (1) Loosen the bolt (1) to remove the Speed Brake Command Lever (2) from the control pedestal (4). (2) Disconnect the Electrical connector (3). (3) Remove the Speed Brake Command Lever (2). EMB-145  - AMM 1285 000-801-A/400 27-63-03 Page 2 of 4 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="3" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: ALL Speed Brake Command Lever - Removal/Installation  Figure 401 1.  BOLT 2. SPEED BRAKE     COMMAND LEVER A 3. ELECTRICAL     CONNECTOR 4.  CONTROL PEDESTAL DET. B B DET. A 145AMM270064.MCE A EMB-145  - AMM 1285 000-801-A/400 27-63-03 Page 3 of 4 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="4" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 27-63-03-400-801-A EFFECTIVITY:  ALL 3. SPEED BRAKE COMMAND LEVER - INSTALLATION A. General (1) This task gives the procedures to install the Speed Brake Command Lever. B. References REFERENCE DESIGNATION AMM TASK 27-63-01-700-801-A/500 SPOILER SYSTEM - OPERATIONAL CHECK C. Zones and Accesses Not Applicable D. Tools and Equipment Not Applicable E. Auxiliary Items Not Applicable F. Consumable Materials Not Applicable G. Expandable Parts Not Applicable H. Persons Recommended QTY FUNCTION PLACE 1 Does the task Cockpit I. Installation (Figure 401)  SUBTASK 420-002-A (1) Connect the electrical connector (3). (2) Put the Speed Brake Command Lever (2) on the control pedestal (4). (3) Tighten the bolt (1). J. Follow-on SUBTASK 842-002-A (1) On the Circuit Breaker Panel, close the SPEED BRAKE and GND SPLR INBD/OUTBD circuit breakers and remove the DO-NOT-CLOSE tag from them. (2) Do the operational check of the spoiler system ( AMM TASK 27-63-01-700-801-A/500). EMB-145  - AMM 1285 400-801-A/400 27-63-03 Page 4 of 4 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+	</pages>
+</metadata>

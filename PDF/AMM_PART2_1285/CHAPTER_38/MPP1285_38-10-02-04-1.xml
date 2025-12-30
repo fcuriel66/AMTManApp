@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata id="MPP1285_38-10-02-04-1">
+	<file family="145" manual="AMM" pn="1285" chg="U" tsn="51" is_tr="false">
+		<title>AMM PART II-1285 - CHAPTER 38-10-02-04 - FAUCET SUPPLY TUBING - REMOVAL/INSTALLATION</title>
+		<path>/CHAPTER_38</path>
+		<hash>a8b8af78feebac5d55df39c4ddbb2a00</hash>
+	</file>
+	<pages>
+		<page number="1" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL FAUCET SUPPLY TUBING - REMOVAL/INSTALLATION EFFECTIVITY:  ALL 1. General A. This section gives the procedures to remove and install the faucet supply tubing. B. The faucet supply tubing is installed in the lavatory. C. The procedures in this section are given in the sequence below. The tasks identified with ( ♦) are part of the Scheduled Maintenance Requirements Document (SMRD). TASK NUMBER DESCRIPTION EFFECTIVITY ALL 38-10-02-000-801-A FAUCET SUPPLY TUBING - REMOVAL   FAUCET SUPPLY TUBING - INSTALLA- ALL 38-10-02-400-801-A TION  EMB-145  - AMM 1285 General 38-10-02 Page 1 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="2" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 38-10-02-000-801-A EFFECTIVITY:  ALL 2. FAUCET SUPPLY TUBING - REMOVAL A. General (1) This task gives the procedure to remove the faucet supply tubing. B. Zones and Accesses Not Applicable C. Tools and Equipment Not Applicable D. Auxiliary Items Not Applicable E. Consumable Materials Not Applicable F. Expandable Parts Not Applicable G. Persons Recommended QTY FUNCTION PLACE 1 Performs the task Passenger cabin H. Preparation SUBTASK 841-002-A (1) Make sure that the water tank is empty before you continue. (2) Make sure that the water supply lines are disconnected. I. Removal of the Faucet Supply Tubing (Figure 401)  SUBTASK 020-002-A (1) Remove the drain connect tube (1) from the faucet/tank drain tube (2). (2) Remove the faucet/tank drain tube (2) from the tee (3). (3) Remove the tee (3) and the faucet connector tube assembly (4) from the faucet. (4) Remove the clamp (5) from the water tank tube (9) with the screw (6) the washer (7), and the spacer (8). (5) Remove the water tank tube (9) from the union (10). (6) Remove the union (10) and the water tank tube assembly (11) from the water tank. (7) Remove the water faucet assembly (12). EMB-145  - AMM 1285 000-801-A/400 38-10-02 Page 2 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="3" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: ALL Faucet Supply Tubing - Removal/Installation  Figure 401 ZONES 271 272 A DET. A ROTATED 90ÃÂ° 100 DET. B 8. SPACER 10. UNION B 7. WASHER 9. WATER TANK TUBE 12. WATER       FAUCET 5. CLAMP 4. TUBE ASSY 3. TEE UNION 2. FAUCET/TANK 6. SCREW     DRAIN TUBE 1. DRAIN CONNECT     TUBE EM145AMM380470A.DGN EMB-145  - AMM 1285 000-801-A/400 38-10-02 Page 3 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="4" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 38-10-02-400-801-A EFFECTIVITY:  ALL 3. FAUCET SUPPLY TUBING - INSTALLATION A. General (1) This task gives the procedure to install the faucet supply tubing. B. References REFERENCE DESIGNATION AMM TASK 12-15-01-600-801-A/300 WATER TANK - FILLING C. Zones and Accesses Not Applicable D. Tools and Equipment Not Applicable E. Auxiliary Items Not Applicable F. Consumable Materials Not Applicable G. Expandable Parts Not Applicable H. Persons Recommended QTY FUNCTION PLACE 1 Performs the task Passenger cabin I. Installation of the Faucet Supply Tubing (Figure 401)  SUBTASK 420-002-A (1) Install the water faucet assembly (12). (2) Connect the water tank tube assembly (11) to the water tank. (3) Install the union (10) on the water tank tube assembly (11). (4) Connect the water tank tube (9) to the union (10). (5) Install the clamp (5) on the water tank tube (9) and attach with the screw (6) the washer (7), and the spacer (8). (6) Connect the faucet connector tube assembly (4) to the faucet. (7) Install the tee (3) on the faucet connector tube assembly (4). (8) Connect the faucet/tank drain tube (2) to the tee (3). EMB-145  - AMM 1285 400-801-A/400 38-10-02 Page 4 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="5" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL (9) Connect the drain connect tube (1) to the faucet/tank drain tube (2) and the supply line. (10) Pressurize the system and do a check for leaks. J. Follow-on SUBTASK 842-002-A (1) Fill the water tank ( AMM TASK 12-15-01-600-801-A/300). (2) Connect outside water supply and test for leaks. EMB-145  - AMM 1285 400-801-A/400 38-10-02 Page 5 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="6" width="216.0" height="279.0">
+			<data/>
+		</page>
+	</pages>
+</metadata>

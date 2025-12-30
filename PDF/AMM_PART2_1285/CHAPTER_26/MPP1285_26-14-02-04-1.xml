@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata id="MPP1285_26-14-02-04-1">
+	<file family="145" manual="AMM" pn="1285" chg="U" tsn="51" is_tr="false">
+		<title>AMM PART II-1285 - CHAPTER 26-14-02-04 - CONFIG-1 - SMOKE DETECTOR PANEL - REMOVAL/INSTALLATION</title>
+		<path>/CHAPTER_26</path>
+		<hash>596f4891e93d85d6ecc40051ab1257a6</hash>
+	</file>
+	<pages>
+		<page number="1" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL SMOKE DETECTOR PANEL - REMOVAL/INSTALLATION EFFECTIVITY:  ACFT MODEL(S) EMB-145 1. General A. This section gives the procedures for the removal/installation of the FWD galley smoke-detector panel. B. The FWD galley smoke-detector panel is installed in the galley section of the passenger cabin, zone 232. C. The procedures in this section are given in the sequence below. The tasks identified with ( ♦) are part of the Scheduled Maintenance Requirements Document (SMRD). TASK NUMBER DESCRIPTION EFFECTIVITY ACFT MODEL(S) FWD GALLEY SMOKE-DETECTOR PAN- 26-14-02-000-801-A EMB-145 EL - REMOVAL   ACFT MODEL(S) FWD GALLEY SMOKE-DETECTOR PAN- 26-14-02-400-801-A EMB-145 EL - INSTALLATION   EMB-145  - AMM 1285 General CONFIG-1 26-14-02 Page 1 of 7 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="2" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 26-14-02-000-801-A EFFECTIVITY:  ACFT MODEL(S) EMB-145 2. FWD GALLEY SMOKE-DETECTOR PANEL - REMOVAL A. General (1) This task gives the procedures for the removal of the FWD galley smoke-detector panel. B. Zones and Accesses Not Applicable C. Tools and Equipment Not Applicable D. Auxiliary Items Not Applicable E. Consumable Materials Not Applicable F. Expandable Parts Not Applicable G. Persons Recommended QTY FUNCTION PLACE 1 Does the task Passenger cabin H. Preparation SUBTASK 841-003-B (1) On the circuit breaker panel, open the "LAVATORY SMOKE DET" circuit breaker, and attach a "DO-NOT-CLOSE" tag to it. I. Removal (Figure 401)  SUBTASK 020-004-B EFFECTIVITY: PRE-MOD SB 145-26-0014 (1) Remove the screws (1). (2) Remove the smoke detector panel (2) from the FWD galley. (3) Remove the electrical connector (3). J. Removal (Figure 402)  SUBTASK 020-005-A EFFECTIVITY: POST-MOD SB 145-26-0014 (1) Remove the screws (1). (2) Remove the smoke detector panel (2) from the FWD galley. (3) Remove the electrical connector (3). EMB-145  - AMM 1285 000-801-A/400 CONFIG-1 26-14-02 Page 2 of 7 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="3" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL (4) Remove the foam (4). (5) Remove the smoke detector bracket assy (5). EMB-145  - AMM 1285 000-801-A/400 CONFIG-1 26-14-02 Page 3 of 7 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="4" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: PRE-MOD SB 145-26-0014 FWD Galley Smoke-Detector Panel - Removal/Installation  Figure 401 B SMOKE DETECTOR A PANEL ZONE 232 FORWARD GALLEY DET. A 3.  CONNECTOR 1. SCREW 2. SMOKE DETECTOR     PANEL DET. B 145AMM260096.MCE A EMB-145  - AMM 1285 000-801-A/400 CONFIG-1 26-14-02 Page 4 of 7 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="5" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: POST-MOD SB 145-26-0014 FWD Galley Smoke-Detector Panel - Removal/Installation  Figure 402 B SMOKE DETECTOR A PANEL ZONE 232 FORWARD GALLEY DET. A 3.  ELECTRICAL      CONNECTOR 5.  SMOKE DETECTOR BRACKET 4.  FOAM 1. SCREW 2. SMOKE DETECTOR     PANEL DET. B EM145AMM260273C.DGN EMB-145  - AMM 1285 000-801-A/400 CONFIG-1 26-14-02 Page 5 of 7 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="6" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 26-14-02-400-801-A EFFECTIVITY:  ACFT MODEL(S) EMB-145 3. FWD GALLEY SMOKE-DETECTOR PANEL - INSTALLATION A. General (1) This task gives the procedures for the installation of the FWD galley smoke-detector panel. B. References REFERENCE DESIGNATION AMM TASK 26-14-00-700-801-A/500 - C. Zones and Accesses Not Applicable D. Tools and Equipment Not Applicable E. Auxiliary Items Not Applicable F. Consumable Materials Not Applicable G. Expandable Parts Not Applicable H. Persons Recommended QTY FUNCTION PLACE 1 Does the task Passenger cabin I. Installation (Figure 401)  SUBTASK 420-004-B EFFECTIVITY: PRE-MOD SB 145-26-0014 (1) Install the electrical connector (3). (2) Install the smoke detector panel (2) on the FWD galley. (3) Install the screws (1). J. Installation (Figure 402)  SUBTASK 420-005-A EFFECTIVITY: POST-MOD SB 145-26-0014 (1) Install the smoke detector bracket assy (5). (2) Install the foam (4). (3) Install the electrical connector (3). EMB-145  - AMM 1285 400-801-A/400 CONFIG-1 26-14-02 Page 6 of 7 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="7" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL (4) Install the smoke detector panel (2) on the FWD galley. (5) Install the screws (1). K. Follow-on SUBTASK 842-003-B (1) Remove the "DO-NOT-CLOSE" tag and close the "LAVATORY SMOKE DET" circuit breaker. (2) Do the Operational Check of the Lavatory Smoke-Detection System (AMM TASK 26-14-00-700-801-A/500). EMB-145  - AMM 1285 400-801-A/400 CONFIG-1 26-14-02 Page 7 of 7 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="8" width="216.0" height="279.0">
+			<data/>
+		</page>
+	</pages>
+</metadata>

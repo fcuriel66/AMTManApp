@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata id="MPP1285_32-32-01-04-1">
+	<file family="145" manual="AMM" pn="1285" chg="U" tsn="51" is_tr="false">
+		<title>AMM PART II-1285 - CHAPTER 32-32-01-04 - LANDING GEAR ELECTRONIC UNIT (LGEU) - REMOVAL/INSTALLATION</title>
+		<path>/CHAPTER_32</path>
+		<hash>e40c557ed86af8f9805cff96772cb173</hash>
+	</file>
+	<pages>
+		<page number="1" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL LANDING GEAR ELECTRONIC UNIT (LGEU) - REMOVAL/INSTALLATION EFFECTIVITY:  ALL 1. General A. This section gives the procedures to remove/install the Landing Gear Electronic Unit (LGEU). B. The LGEU is installed behind the control pedestal. C. Move the copilot seat rearward and to the right side to make the LGEU removal/installation easier. D. The procedures in this section are given in the sequence below. The tasks identified with ( ♦) are part of the Scheduled Maintenance Requirements Document (SMRD). TASK NUMBER DESCRIPTION EFFECTIVITY ALL 32-32-01-000-801-A LGEU - REMOVAL   ALL 32-32-01-400-801-A LGEU - INSTALLATION   EMB-145  - AMM 1285 General 32-32-01 Page 1 of 4 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="2" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 32-32-01-000-801-A EFFECTIVITY:  ALL 2. LGEU - REMOVAL A. General (1) This task gives the procedures to remove the LGEU. B. Zones and Accesses Not Applicable C. Tools and Equipment Not Applicable D. Auxiliary Items Not Applicable E. Consumable Materials Not Applicable F. Expandable Parts Not Applicable G. Persons Recommended QTY FUNCTION PLACE 1 Does the task Cockpit H. Preparation SUBTASK 841-002-A (1) On the circuit breaker panel, open the CMD, IND 1, IND 2, AIR/GND A, AIR/GND B, AIR/GND C and AIR/GND D circuit breakers and attach a DO-NOT-CLOSE tag to them. I. Removal (Figure 401)  SUBTASK 020-002-A (1) Disconnect the electrical connector (1). (2) Remove the screws (2), and washers (3) from the LGEU (4). (3) Remove the LGEU (4). EMB-145  - AMM 1285 000-801-A/400 32-32-01 Page 2 of 4 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="3" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: ALL LGEU - Removal/Installation  Figure 401 B A ZONE 223 DET. A 1.  ELECTRICAL CONNECTOR 2.  SCREW 3.  WASHER 4.  LGEU DET. B 145AMM320034.MCE A EMB-145  - AMM 1285 000-801-A/400 32-32-01 Page 3 of 4 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="4" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 32-32-01-400-801-A EFFECTIVITY:  ALL 3. LGEU - INSTALLATION A. General (1) This task gives the procedures for installation of the LGEU. B. Zones and Accesses Not Applicable C. Tools and Equipment Not Applicable D. Auxiliary Items Not Applicable E. Consumable Materials Not Applicable F. Expandable Parts Not Applicable G. Persons Recommended QTY FUNCTION PLACE 1 Does the task Cockpit H. Installation (Figure 401)  SUBTASK 420-002-A (1) Put the LGEU (4) on its support. (2) Install the washers (3) and screws (2). (3) Connect the electrical connector (1). I. Follow-on SUBTASK 842-002-A (1) On the circuit breaker panel, close the CMD, IND 1, IND 2, AIR/GND A, AIR/GND B, AIR/GND C, and AIR/GND D circuit breakers and remove the DO-NOT-CLOSE tag from them. (2) On the EICAS display make sure that the Landing Gear Position indications show DN position. (3) Make sure that the AIR/GND FAIL message on the EICAS is not shown. EMB-145  - AMM 1285 400-801-A/400 32-32-01 Page 4 of 4 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+	</pages>
+</metadata>

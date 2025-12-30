@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata id="MPP1285_38-10-05-05-1">
+	<file family="145" manual="AMM" pn="1285" chg="U" tsn="51" is_tr="false">
+		<title>AMM PART II-1285 - CHAPTER 38-10-05-05 - TANK DRAIN VALVE - ADJUSTMENT/TEST</title>
+		<path>/CHAPTER_38</path>
+		<hash>3d4e4cf63f6b77fe4254c50fbd1b7164</hash>
+	</file>
+	<pages>
+		<page number="1" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TANK DRAIN VALVE - ADJUSTMENT/TEST EFFECTIVITY:  ALL 1. General A. This section gives the procedures to leak test the tank drain valve. B. The tank drain valve is located in the lavatory, zones 271 and 272. C. The procedures in this section are given in the sequence below. The tasks identified with ( ♦) are part of the Scheduled Maintenance Requirements Document (SMRD). TASK NUMBER DESCRIPTION EFFECTIVITY ALL 38-10-05-700-801-A TANK DRAIN VALVE - TEST   EMB-145  - AMM 1285 General 38-10-05 Page 1 of 3 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="2" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 38-10-05-700-801-A EFFECTIVITY:  ALL 2. TANK DRAIN VALVE - TEST A. General (1) This task gives procedures to test the tank drain valve. B. References REFERENCE DESIGNATION AMM TASK 38-10-05-000-801-A/400 TANK DRAIN VALVE - REMOVAL C. Zones and Accesses Not Applicable D. Tools and Equipment ITEM DESCRIPTION PURPOSE QTY Commercially Nitrogen Supply, 13 bar (0 to 200 psi) To perform leak test  available Commercially Liquid Leak Detector To perform leak test  available E. Auxiliary Items Not Applicable F. Consumable Materials Not Applicable G. Expandable Parts Not Applicable H. Persons Recommended QTY FUNCTION PLACE 1 Performs the task Passenger cabin I. Tank Drain Valve Leak Test Procedures (Figure 501)  SUBTASK 790-002-A (1) Install the tank drain valve in the test set up as shown in figure 501. (2) Apply 13 bar (200 psi) to the tank drain valve for a minimum of one minute. Use liquid leak detector to check for leakage. • There must be no visible leakage detected. (3) If leakage is detected, replace the seal kit or the damaged part ( AMM TASK 38-10-05-000-801-A/400). EMB-145  - AMM 1285 700-801-A/500 38-10-05 Page 2 of 3 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="3" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: ALL Tank Drain Valve - Leak Test  Figure 501 TANK DRAIN VALVE UNDER TEST NITROGEN SUPPLY CAPPED OUTLET EM145AMM380468A.DGN EMB-145  - AMM 1285 700-801-A/500 38-10-05 Page 3 of 3 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="4" width="216.0" height="279.0">
+			<data/>
+		</page>
+	</pages>
+</metadata>

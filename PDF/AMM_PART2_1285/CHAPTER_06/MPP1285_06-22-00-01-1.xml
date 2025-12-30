@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata id="MPP1285_06-22-00-01-1">
+	<file family="145" manual="AMM" pn="1285" chg="U" tsn="51" is_tr="false">
+		<title>AMM PART II-1285 - CHAPTER 06-22-00-01 - CONFIG-1 - VERTICAL STABILIZER STATION DIAGRAM - COMPONENT LOCATION</title>
+		<path>/CHAPTER_06</path>
+		<hash>6fd97ead037dce49564aa60e14065c64</hash>
+	</file>
+	<pages>
+		<page number="1" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL VERTICAL STABILIZER STATION DIAGRAM - COMPONENT LOCATION EFFECTIVITY:  ACFT MODEL(S) EMB-145 1. General A. This section gives the vertical stabilizer station diagram (Figure 101). B. The vertical stabilizer station diagram gives a reference system that shows the location of the structural components in relation to different datum planes. EMB-145  - AMM 1285 General CONFIG-1 06-22-00 Page 1 of 3 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="2" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL VERTICAL STABILIZER STATION DIAGRAM - COMPONENT LOCATION EFFECTIVITY:  ACFT MODEL(S) EMB-145 2. Vertical Stabilizer Station Diagram. EMB-145  - AMM 1285 PGBLK 100 CONFIG-1 06-22-00 Page 2 of 3 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="3" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: ALL Vertical Stabilizer Station Diagram  Figure 101 2960.37 2006.69 1705.69 1404.68 1270.24 1156.86 1043.48 933.16 822.74 712.43 STABILIZER 679.20 HINGE POINT 602.01 X=28135.90 Y=111.50 (-111.50) 401.34 Z=3604.50 200.67 ZV ZV 3461.0 3755.00 NACA  64A012  (MODIFIED) ZV ZV ZV ZV 3015.00 3145.00 3534.00 3500.00 ZV ZV 3325.00 ZV 3290.00 ZV 2799.00 3419.50 RUDDER I ZV 2538.00 - LEADING EDGE (BA) - MIN 26 mm                                          MAX 30 mm - TRAILING EDGE (BF) - MIN 7 mm ZV                                          MAX 10 mm GAP 2277.00 RUDDER II - LEADING EDGE (BA) - MIN 7 mm                                          MAX 12.5 mm ZV - TRAILING EDGE (BF) - MIN 7 mm 1932.00                                         MAX 10.5 mm ZV 1550.50 ZV 1677.00 ZV ZV 1423.00 ZV ZV 3230.12 3472.00 1169.00 ZV 915.00 STABILIZER ACTUATOR HINGE POINT ZV 2085.65 X=27316,90 Y=40.00 (-40.00) Z=3110.50 ZV ZV ZV ZV 2287.00 1048.00 1094.00 1302.00 ZV 1652.06 ZV ZV 1020.00 NACA  64A010  (MODIFIED) 975.00 ZV 806.00 ZV ZV 958.00 ZV 1922.00 923.47 RUDDER I  - MIN 6.6 mm                          MAX 12.5 mm GAP ZV RUDDER II - MIN 4.8 mm 1430.50 ZV                        MAX 13.5 mm 904.00 C ZV L FUSLG 0.00 359.15 718.30 ZV ZV 1077.45 0.00 0.00 1274.96 1472.52 1867.58 2273.42 2514.05 3052.78 3591.50 X= X= X= X= 24030.34 26544.39 27083.12 27621.84 EM145AMM060028B.DGN EMB-145  - AMM 1285 PGBLK 100 CONFIG-1 06-22-00 Page 3 of 3 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details. LEADING EDGE SPAR  I STRINGER  20% SPAR  II STRINGER  35.5% AUX.  SPAR   41% STRINGER 46.5% AUX.  SPAR    52% STRINGER  57.65% SPAR III HINGE LINE-70% RUDDER  I HINGE LINE-85% RUDDER  II TRAILING EDGE</data>
+		</page>
+		<page number="4" width="216.0" height="279.0">
+			<data/>
+		</page>
+	</pages>
+</metadata>

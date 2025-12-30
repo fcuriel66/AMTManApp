@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata id="MPP1285_33-31-02-04-1">
+	<file family="145" manual="AMM" pn="1285" chg="U" tsn="51" is_tr="false">
+		<title>AMM PART II-1285 - CHAPTER 33-31-02-04 - BAGGAGE-DOOR EXTERNAL LIGHT - REMOVAL/INSTALLATION</title>
+		<path>/CHAPTER_33</path>
+		<hash>6187cb56cb6158d5a9ad645a8172a7a2</hash>
+	</file>
+	<pages>
+		<page number="1" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL BAGGAGE-DOOR EXTERNAL LIGHT - REMOVAL/INSTALLATION EFFECTIVITY:  AIRCRAFT WITH BAGGAGE-DOOR EXTERNAL LIGHT 1. General A. This section gives the procedures to remove and install the Baggage-Door External Light. B. The baggage-door external light is installed on the left pylon bottom. C. The procedures in this section are given in the sequence below. The tasks identified with ( ♦) are part of the Scheduled Maintenance Requirements Document (SMRD). TASK NUMBER DESCRIPTION EFFECTIVITY AIRCRAFT WITH BAG- BAGGAGE-DOOR EXTERNAL LIGHT - GAGE-DOOR EXTER- 33-31-02-000-801-A REMOVAL NAL LIGHT   AIRCRAFT WITH BAG- BAGGAGE-DOOR EXTERNAL LIGHT - IN- GAGE-DOOR EXTER- 33-31-02-400-801-A STALLATION NAL LIGHT   EMB-145  - AMM 1285 General 33-31-02 Page 1 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="2" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 33-31-02-000-801-A EFFECTIVITY:  AIRCRAFT WITH BAGGAGE-DOOR EXTERNAL LIGHT 2. BAGGAGE-DOOR EXTERNAL LIGHT - REMOVAL A. General (1) This task gives the procedure to remove the baggage-door external light. B. Zones and Accesses Not Applicable C. Tools and Equipment Not Applicable D. Auxiliary Items Not Applicable E. Consumable Materials Not Applicable F. Expandable Parts Not Applicable G. Persons Recommended QTY FUNCTION PLACE 1 Does the task At the left pylon bottom H. Preparation SUBTASK 841-002-A (1) On the Circuit Breaker Panel, open the EXT CARGO circuit breaker, and attach a DO- NOT-CLOSE tag to it. (2) On the Right Power-Control/Distribution-Box Circuit-Breaker Panel, open the EXT CARGO circuit breaker, and attach a DO-NOT-CLOSE tag to it. (3) Put the hydraulic platform at the necessary height. I. Removal (Figure 401)  SUBTASK 020-002-A (1) Remove the four screws (2) that attach the retainer (1) to the panel. (2) Remove the retainer (1). (3) Hold the lamp (5) and remove the two screws (3) and two springwashers (4) that connect the two terminal lugs (6) to the lamp. (4) Remove the lamp (5). EMB-145  - AMM 1285 000-801-A/400 33-31-02 Page 2 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="3" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: AIRCRAFT WITH BAGGAGE-DOOR EXTERNAL LIGHT Baggage-Door External Light - Removal/Installation  Figure 401 A B ZONE 414 DET. A C 1 B DET. A DET. B (TYPICAL) 1. RETAINER 3. SCREW (2) 2. SCREW (4) 4. SPRING  WASHER (2) 6. TERMINAL LUG 5. LAMP 1 ON AIRCRAFT WITH PRESSURE REGULATING SHUT-OFF VALVE  VIEW  C (PRSOV) THIS PANEL IS ROTATED 180ÃÂ° 145AMM330575.MCE EMB-145  - AMM 1285 000-801-A/400 33-31-02 Page 3 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="4" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 33-31-02-400-801-A EFFECTIVITY:  AIRCRAFT WITH BAGGAGE-DOOR EXTERNAL LIGHT 3. BAGGAGE-DOOR EXTERNAL LIGHT - INSTALLATION A. General (1) This task gives the procedure to install the baggage-door external light. B. References REFERENCE DESIGNATION ENERGIZATION OF THE AIRCRAFT WITH AN EX- AMM TASK 20-40-01-860-801-A/200 TERNAL POWER SOURCE C. Zones and Accesses Not Applicable D. Tools and Equipment Not Applicable E. Auxiliary Items Not Applicable F. Consumable Materials Not Applicable G. Expandable Parts Not Applicable H. Persons Recommended QTY FUNCTION PLACE 1 Does the task At the left pylon bottom I. Installation (Figure 401)  SUBTASK 420-002-A (1) Connect the two terminal lugs (6) to the lamp (5) with the two screws (3) and two springwashers (4). (2) Tighten the two screws (3) and two springwashers (4). (3) Put the lamp (5) and retainer (1) on their installation position. (4) Tighten the four screws (2) that attach the retainer (1) to the panel. J. Follow-on SUBTASK 842-002-A (1) On the Circuit Breaker Panel, remove the DO-NOT-CLOSE tag from the EXT CARGO circuit breaker and close it. EMB-145  - AMM 1285 400-801-A/400 33-31-02 Page 4 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="5" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL (2) On the Right Power-Control/Distribution-Box Circuit-Breaker Panel, remove the DO- NOT-CLOSE tag from the EXT CARGO circuit breaker, and close it. (3) Energize the aircraft with the External DC Power Supply ( AMM TASK 20-40-01-860-801-A/200). (4) Make sure that the light is on when the Baggage Door is open. (5) Make sure that the light is off when the Baggage Door is closed. (6) Remove the hydraulic platform from the work area. EMB-145  - AMM 1285 400-801-A/400 33-31-02 Page 5 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="6" width="216.0" height="279.0">
+			<data/>
+		</page>
+	</pages>
+</metadata>

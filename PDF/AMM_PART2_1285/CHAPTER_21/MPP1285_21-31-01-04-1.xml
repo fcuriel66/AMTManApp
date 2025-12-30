@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata id="MPP1285_21-31-01-04-1">
+	<file family="145" manual="AMM" pn="1285" chg="U" tsn="51" is_tr="false">
+		<title>AMM PART II-1285 - CHAPTER 21-31-01-04 - DIGITAL CONTROLLER - REMOVAL/INSTALLATION</title>
+		<path>/CHAPTER_21</path>
+		<hash>c3e707df99205f921e25a32ecbe831a9</hash>
+	</file>
+	<pages>
+		<page number="1" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL DIGITAL CONTROLLER - REMOVAL/INSTALLATION EFFECTIVITY:  ALL 1. General A. This section gives the procedures to remove and install the cabin-pressure-control-system digital controller. B. The digital controller is installed on the control pedestal. C. The procedures in this section are given in the sequence below. The tasks identified with ( ♦) are part of the Scheduled Maintenance Requirements Document (SMRD). TASK NUMBER DESCRIPTION EFFECTIVITY ALL 21-31-01-000-801-A DIGITAL CONTROLLER - REMOVAL   ALL 21-31-01-400-801-A DIGITAL CONTROLLER - INSTALLATION   EMB-145  - AMM 1285 General 21-31-01 Page 1 of 6 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="2" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 21-31-01-000-801-A EFFECTIVITY:  ALL 2. DIGITAL CONTROLLER - REMOVAL A. General (1) This task gives the procedure to remove the digital controller. B. References REFERENCE DESIGNATION S.B.145-21-0027 - C. Zones and Accesses Not Applicable D. Tools and Equipment Not Applicable E. Auxiliary Items Not Applicable F. Consumable Materials Not Applicable G. Expandable Parts Not Applicable H. Persons Recommended QTY FUNCTION PLACE 1 Does the task Control pedestal I. Preparation SUBTASK 841-002-A (1) On the overhead circuit breaker panel, open the PRESS CONTROL circuit breaker and attach a DO-NOT-CLOSE tag to it (Location tip: DC BUS 1/AIR COND/PNEU/PRESS CONTROL). J. Removal (Figure 401)  (Figure 402)  SUBTASK 020-002-A (1) Remove the two larger attachment screws (3). (2) On aircraft POST-MOD. S.B.145-21-0027, remove the mechanical protection (4). (3) Move the digital controller (1) from its position. (4) Disconnect the electrical connector (2). (5) Remove the digital controller (1). EMB-145  - AMM 1285 000-801-A/400 21-31-01 Page 2 of 6 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="3" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: ALL Digital Controller - Removal/Installation  Figure 401 A ZONE 224 DET. A B 1.   DIGITAL        CONTROLLER 2.   ELECTRICAL       CONNECTOR 3.   SCREW DET. B 145AMM210198.MCE C EMB-145  - AMM 1285 000-801-A/400 21-31-01 Page 3 of 6 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="4" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: POST-MOD. S.B. 145-21-0027 Digital Controller Mechanical Protection - Removal/Installation  Figure 402 A ZONE 224 DET. A B 3.  SCREWS 4.  MECHANICAL   PROTECTION 1.  DIGITAL   CONTROLLER DET. B 145AMM210502.MCE A EMB-145  - AMM 1285 000-801-A/400 21-31-01 Page 4 of 6 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="5" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 21-31-01-400-801-A EFFECTIVITY:  ALL 3. DIGITAL CONTROLLER - INSTALLATION A. General (1) This task gives the procedure to install the digital controller. B. References REFERENCE DESIGNATION AMM TASK 21-31-00-700-802-A/500 - S.B.145-21-0027 - C. Zones and Accesses Not Applicable D. Tools and Equipment Not Applicable E. Auxiliary Items Not Applicable F. Consumable Materials Not Applicable G. Expandable Parts Not Applicable H. Persons Recommended QTY FUNCTION PLACE 1 Does the task Control pedestal I. Preparation SUBTASK 841-003-A (1) Make sure that the PRESS CONTROL circuit breaker, on the overhead circuit breaker panel, is open and with a DO-NOT-CLOSE tag attached to it (Location tip: DC BUS 1/AIR COND/PNEU/PRESS CONTROL). J. Installation (Figure 401) (Figure 402)  SUBTASK 420-002-A (1) Connect the electrical connector (2) to the digital controller (1). (2) Put the digital controller (1) in the installation position. (3) On aircraft POST-MOD. S.B.145-21-0027, put the mechanical protection (4) in the installation position. (4) Attach the two attachment screws (3). EMB-145  - AMM 1285 400-801-A/400 21-31-01 Page 5 of 6 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="6" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL K. Follow-on SUBTASK 842-002-A (1) On the overhead circuit breaker panel, remove the DO-NOT-CLOSE tag from the PRESS CONTROL circuit breaker and close it (Location tip: DC BUS 1/AIR COND/ PNEU/PRESS CONTROL). (2) Do the AMM TASK 21-31-00-700-802-A/500. EMB-145  - AMM 1285 400-801-A/400 21-31-01 Page 6 of 6 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+	</pages>
+</metadata>

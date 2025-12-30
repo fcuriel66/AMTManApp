@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata id="MPP1285_32-20-01-06-1">
+	<file family="145" manual="AMM" pn="1285" chg="U" tsn="51" is_tr="false">
+		<title>AMM PART II-1285 - CHAPTER 32-20-01-06 - NOSE-LANDING-GEAR LEG - INSPECTION/CHECK</title>
+		<path>/CHAPTER_32</path>
+		<hash>5b32c8735d7ac6d490e1493690e4ea14</hash>
+	</file>
+	<pages>
+		<page number="1" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL NOSE-LANDING-GEAR LEG - INSPECTION/CHECK EFFECTIVITY:  ALL 1. General A. This section gives the procedure to do an inspection on the nose landing gear for general condition. B. The procedures in this section are given in the sequence below. The tasks identified with ( ♦) are part of the Scheduled Maintenance Requirements Document (SMRD). TASK NUMBER DESCRIPTION EFFECTIVITY ALL 32-20-01-200-801-A ♦ NLG - INSPECTION   EMB-145  - AMM 1285 General 32-20-01 Page 1 of 7 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="2" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 32-20-01-200-801-A EFFECTIVITY:  ALL 2. NLG - INSPECTION A. General (1) Use this procedure to do the inspection on the NLG for general condition. B. References REFERENCE DESIGNATION HYDRAULIC SYSTEM - PRESSURIZATION WITH AMM TASK 29-10-00-860-802-A/200 EMDP AMM TASK 32-00-01-910-801-A/200 LG SAFETY PIN - INSTALLATION AND REMOVAL SAFETY PIN OF THE NLG DOORS SOLENOID AMM TASK 32-00-02-910-801-A/200 VALVE - INSTALLATION AND REMOVAL S.B. 145-32-0111 - SB145-32-0036 - C. Zones and Accesses Not Applicable D. Tools and Equipment ITEM DESCRIPTION PURPOSE QTY Commercially Pressure Gage (Range 1000 psi) To verify the pressure  available Commercially Metal Ruler To measure dimension "H"  available E. Auxiliary Items Not Applicable F. Consumable Materials Not Applicable G. Expandable Parts Not Applicable H. Persons Recommended QTY FUNCTION PLACE 1 Does the task NLG I. Preparation SUBTASK 841-002-A (1) For aircraft PRE-MOD SB145-32-0036, make sure that the pressure in hydraulic system No. 1 is fully released ( AMM TASK 29-10-00-860-802-A/200). EMB-145  - AMM 1285 200-801-A/600 32-20-01 Page 2 of 7 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="3" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL (2) For aircraft POST-MOD SB145-32-0036, install the safety pin of the NLG doors solenoid valve (AMM TASK 32-00-02-910-801-A/200). (3) Make sure that the nose landing gear safety pin is installed ( AMM TASK 32-00-01-910-801-A/200). (4) Connect the pressure gage to the charging valve. J. Visually Check Nose Landing Gear and Spring Cartridges for Condition and Shock Absorber Extension (Figure 601)  (Figure 602)  (Figure 603)  (Figure 604)  SUBTASK 211-002-A (1) Do an inspection on the NLG shock absorber (1) for general condition (Figure 601). (2) Do the check of the "H" height. Refer to the instructions in Figure 602 for aircraft PRE- MOD S.B. 145-32-0111 and, in Figure 603 for aircraft POST-MOD S.B. 145-32-0111. (3) Inspect the spring cartridges for general conditions and make sure that the spring is not broken and that the spring attachment points are not damaged (Figure 604). K. Follow-on SUBTASK 842-002-A (1) Remove the pressure gage from the charging valve. (2) For aircraft POST-MOD SB145-32-0036, remove safety pin of the NLG doors solenoid valve (AMM TASK 32-00-02-910-801-A/200). EMB-145  - AMM 1285 200-801-A/600 32-20-01 Page 3 of 7 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="4" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: ALL NLG - Inspection  Figure 601 A ZONE 711 1.   SHOCK       ABSORBER CHARGING VALVE DET. A 145AMM320073.MCE A EMB-145  - AMM 1285 200-801-A/600 32-20-01 Page 4 of 7 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="5" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: PRE-MOD SB 145-32-0111 Height of the NLG Shock Absorber  Figure 602 A ZONE 711 P. S. I. 1000 -10˚ C 1. WITH   AIRPLANE   WEIGHT   ON 900 5˚ C GEAR,   MEASURE   STRUT   PRESSURE WITH   PRESSURE   GAGE . 800 2.  DETERMINE   CORRECT DIMENSION   " H "   FOR   THIS   PRESSURE H 700 FROM   SERVICING   CURVE 3.  IF   NECESSARY   ADD   DRY 600 NITROGEN   TO   OBTAIN   CORRECT STRUT   DIMENSION 500 20˚ C 35˚ C 400 300 H 200 ( inches ) 7.0 8.0 9.0 5.0 5.5 6.0 6.5 7.5 8.5 DET. A 145AMM320188.MCE B EMB-145  - AMM 1285 200-801-A/600 32-20-01 Page 5 of 7 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="6" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: POST-MOD SB 145-32-0111 Height of the NLG Shock Absorber  Figure 603 PRESSURE (PSI) A -10ÃÂ°C ZONE 1200 1. WITH AIRPLANE WEIGHT ON 711     GEAR MEASURE STRUT 5ÃÂ°C     PRESSURE WITH     PRESSURE GAGE. 1000 2. DETERMINE CORRECT     DIMENTION " H " FOR H     THIS PRESSURE FROM 800     SERVICING CURVE. 3. IF NECESSARY ADD DRY     NITROGEN TO OBTAIN 600     CORRECT STRUT DIMENSION. 20ÃÂ°C 35ÃÂ°C 400 H 200 6.0 7.0 8.0 9.0 10.0 11.0 ( inches ) PRESSURE REGULATOR VALVE CYLINDER (GSE 024) VALVE HOSE NITROGEN CYLINDER CHARGING VALVE DET. A EM145AMM320526A.DGN EMB-145  - AMM 1285 200-801-A/600 32-20-01 Page 6 of 7 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="7" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: ALL NLG Spring Cartridges - Inspection  Figure 604 A ZONE SPRING CARTRIDGES 711 DET. A 145AMM320481.MCE  EMB-145  - AMM 1285 200-801-A/600 32-20-01 Page 7 of 7 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="8" width="216.0" height="279.0">
+			<data/>
+		</page>
+	</pages>
+</metadata>

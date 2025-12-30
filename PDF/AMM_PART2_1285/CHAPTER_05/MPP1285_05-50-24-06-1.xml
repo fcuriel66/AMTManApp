@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata id="MPP1285_05-50-24-06-1">
+	<file family="145" manual="AMM" pn="1285" chg="U" tsn="51" is_tr="false">
+		<title>AMM PART II-1285 - CHAPTER 05-50-24-06 - LH/RH STATIC PORTS VICINITY - INSPECTION/CHECK</title>
+		<path>/CHAPTER_05</path>
+		<hash>c83618e36fc7aefdd1df801bd1e928be</hash>
+	</file>
+	<pages>
+		<page number="1" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL LH/RH STATIC PORTS VICINITY - INSPECTION/CHECK EFFECTIVITY:  ALL 1. General A. This section gives the procedures to do the damage assessment on the AREAS I and II, in the vicinity the LH/RH static ports . B. These procedures are applicable if the aircraft was operating under the RVSM condition when the damage was detected. C. The procedures in this section are given in the sequence below. The tasks identified with ( ♦) are part of the Scheduled Maintenance Requirements Document (SMRD). TASK NUMBER DESCRIPTION EFFECTIVITY LH/RH STATIC PORTS VICINITY - IN- ALL 05-50-24-200-801-A SPECTION  EMB-145  - AMM 1285 General 05-50-24 Page 1 of 9 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="2" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 05-50-24-200-801-A EFFECTIVITY:  ALL 2. LH/RH STATIC PORTS VICINITY - INSPECTION A. General (1) This task presents the damage evaluation process for damage on the LH/RH anemometric static ports vicinity (Areas I and II). Refer to Figure 604 and Figure 605. B. References REFERENCE DESIGNATION RVSM CRITICAL REGION (SKIN) FOR WAVINESS - AMM TASK 34-13-04-200-801-A/600 INSPECTION SRM 53-00-22/AD - SRM 53-12-01/AD - SRM 53-21-01/AD - C. Zones and Accesses Not Applicable D. Tools and Equipment Not Applicable E. Auxiliary Items Not Applicable F. Consumable Materials Not Applicable G. Expandable Parts Not Applicable H. Persons Recommended QTY FUNCTION PLACE 1 Does the task Fuselage I. Preparation SUBTASK 841-002-A (1) Make sure that the aircraft is safe for maintenance. J. Damage assessment SUBTASK 720-002-A (1) Follow the procedures described in the damage evaluation process flowchart shown in Figure 601 and Figure 602. NOTE: • The flowchart makes reference to SRM 53-00-22/AD, SRM 53-12-01/AD, SRM 53-21-01/AD and AMM TASK 34-13-04-200-801-A/600. EMB-145  - AMM 1285 200-801-A/600 05-50-24 Page 2 of 9 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="3" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL • Use Figure 603 to report the damage to Embraer Technical Support Department. K. Follow-on SUBTASK 842-002-A (1) Put the aircraft back to its initial condition. EMB-145  - AMM 1285 200-801-A/600 05-50-24 Page 3 of 9 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="4" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: AIRCRAFT PRE-MOD SB 145-34-0110 Damage Assessment Flowchart  Figure 601 START APPLICABLE FOR DAMAGE INSIDE AREA I AND AREA II IS THE Y REWORK AS DAMAGE WITHIN THE LIMITS SRM 53-00-22-AD (SEE SRM 53-00-22-AD)? N DAMAGE WITHIN THE NON-RVSM ALLOWED Y N LIMITS? CONTACT OPERATE EMBRAER (SEE SRM 53-21-01-AD OR RVSM 53-12-01-AD, AS APPLICABLE) OPERATE NON-RVSM 1. PERFORM SKINWAVINESS MEASUREMENT     ACCORDING TO AMM 34-13-04-200-801-A AND     SEND THE  RESULTS TO EMBRAER/AEROMECH. OPERATOR   END EMBRAER EMBRAER EMBRAER / AEROMECH ISSUES THE ANALYSIS DISPOSITIONS N SKINWAVINESS MEASUREMENT ALLOWS RVSM OPERATION? Y AEROMECH ISSUES THE CONFORMITY CERTIFICATE EM145AMM050959A.DGN EMB-145  - AMM 1285 200-801-A/600 05-50-24 Page 4 of 9 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="5" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: AIRCRAFT NOT COVERED BY OR POST-MOD SB 145-34-0110 Damage Assessment Flowchart  Figure 602 START APPLICABLE TO DAMAGE INSIDE AREA I AND AREA II IS THE Y DAMAGE WITHIN THE LIMITS REWORK AS OPERATE (SEE SRM 53-00-22-AD) ? SRM 53-00-22-AD RVSM N IS DAMAGE WITHIN THE N Y NON-RVSM ALLOWED LIMITS? CONTACT EMBRAER (SEE SRM 53-21-01-AD OR  53-12-01-AD,  AS APPLICABLE)   OPERATE NON-RVSM 1. PERFORM SKIN WAVINESS MEASUREMENT ACCORDING TO     AMM 34-13-04-200-801-A END EMBRAER FOLLOW THE INSTRUCTIONS ISSUES THE PRESENTED IN AMM 34-13-04-200-801-A DISPOSITIONS EMBRAER / AEROMECH ANALYSIS N DOES THE ANALYSIS PRESENTED IN AMM 34-13-04-200-801-A  ALLOW RVSM OPERATION? Y OPERATOR ISSUES THE CONFORMITY CERTIFICATE EM145AMM050704B.DGN EMB-145  - AMM 1285 200-801-A/600 05-50-24 Page 5 of 9 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="6" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: ALL Damage Report Template  Figure 603 - Sheet 1 A A W 2 L X 1 Y REFERENCE LINE Y 1 X SCRATCH, NICK OR GOUGE 3 L 2 W DET. A 1 MEASURE THE DIMENSIONS X, Y, W, L AND H, WHERE H IS THE DEPTH OF DENT OR BLEND-OUT. DO A SKETCH AND REPORT TO EMBRAER TECHNICAL SUPPORT DEPARTMENT. 2 DENT OR REWORKED AREA CONTOUR. 3 AREA II BOUNDARIES (PAINTED ON FUSELAGE). EM145AMM050266B.DGN EMB-145  - AMM 1285 200-801-A/600 05-50-24 Page 6 of 9 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details. REFERENCE LINE</data>
+		</page>
+		<page number="7" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: ALL Damage Report Template  Figure 603 - Sheet 2 REFERENCE LINE EM145AMM050267A.DGN EMB-145  - AMM 1285 200-801-A/600 05-50-24 Page 7 of 9 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details. REFERENCE LINE</data>
+		</page>
+		<page number="8" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: AIRCRAFT PRE-MOD SB 145-34-0110 RVSM Critical Area  Figure 604 A ZONES 123 124 B B ANEMOMETRIC ANEMOMETRIC STATIC PORT DET. A STATIC PORT 1 2 AREA I 376.2 mm AREA II (14.8 in) 254 mm ( 10.0 in) FWD 254 mm ( 10.0 in) 3 376.2 mm (14.8 in) 254 mm 355.6 mm ( 14.0 in) ( 10.0 in) 953 mm 353 mm ( 37.5 in) ( 13.9 in) DET. B NO EXTERNAL DOUBLER AND/OR PROTRUDING HEAD FASTENERS ARE ALLOWED IN THE AREA  I  1 EXCEPT WHEN INTRODUCED BY SB145-53-0067 OR OTHER  APPROVED DOCUMENTATION.     2 NO EXTERNAL DOUBLER AND/OR PROTRUDING HEAD FASTENERS ARE ALLOWED IN AREA  II. R.V.S.M. CRITICAL AREA: 3 R.V.S.M. OPERATION: REFER TO AMM TASK 05-50-24-200-801A EM145AMM050662C.DGN EMB-145  - AMM 1285 200-801-A/600 05-50-24 Page 8 of 9 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="9" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: AIRCRAFT NOT COVERED BY OR POST-MOD SB 145-34-0110 RVSM Critical Area  Figure 605 A ZONES 123 B 124 B ANEMOMETRIC ANEMOMETRIC STATIC PORT DET. A STATIC PORT FORWARD FUSELAGE II CENTRAL FUSELAGE I 144.65 mm (5.77 in) CORNERS PAINTED 144.65 mm IN YELLOW (5.77 in) 1 AREA I REGION C 376.2 mm (14.8 in) AREA II REGION B 254 mm ( 10.0 in) 60ÃÂ° REGION A FWD 60ÃÂ° 254 mm ( 10.0 in) 376.2 mm (14.8 in) 3 REGION D 2 254 mm 355.6 mm ( 14.0 in) ( 10.0 in) 953 mm 353 mm ( 37.5 in) ( 13.9 in) DET. B NO EXTERNAL DOUBLER AND/OR PROTRUDING HEAD FASTENERS ARE ALLOWED IN THE AREA  I  1 EXCEPT WHEN INTRODUCED BY SB145-53-0067 OR OTHER  APPROVED DOCUMENTATION.     2 NO EXTERNAL DOUBLER AND/OR PROTRUDING HEAD FASTENERS ARE ALLOWED IN AREA  II. R.V.S.M. CRITICAL AREA: 3 R.V.S.M. OPERATION: REFER TO AMM TASK 05-50-24-200-801A EM145AMM050705B.DGN EMB-145  - AMM 1285 200-801-A/600 05-50-24 Page 9 of 9 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details. SKIN SPLICE</data>
+		</page>
+		<page number="10" width="216.0" height="279.0">
+			<data/>
+		</page>
+	</pages>
+</metadata>

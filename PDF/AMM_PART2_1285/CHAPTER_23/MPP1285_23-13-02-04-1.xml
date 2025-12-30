@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata id="MPP1285_23-13-02-04-1">
+	<file family="145" manual="AMM" pn="1285" chg="U" tsn="51" is_tr="false">
+		<title>AMM PART II-1285 - CHAPTER 23-13-02-04 - CONFIG-1 - FLITEFONE ANTENNA - REMOVAL/INSTALLATION</title>
+		<path>/CHAPTER_23</path>
+		<hash>af8eb38d70a03ea010ef7c447b595794</hash>
+	</file>
+	<pages>
+		<page number="1" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL FLITEFONE ANTENNA - REMOVAL/INSTALLATION EFFECTIVITY:  ACFT MODEL(S) EMB-145 1. General A. This section gives the procedures to remove/install the Flitefone antenna. B. There are two FLITEFONE antennas. One is standard and the other is optional. They are installed behind panel LH171 at the aircraft bottom. C. The procedures in this section are given in the sequence below. The tasks identified with ( ♦) are part of the Scheduled Maintenance Requirements Document (SMRD). TASK NUMBER DESCRIPTION EFFECTIVITY ACFT MODEL(S) 23-13-02-000-801-A FLITEFONE ANTENNA - REMOVAL EMB-145   ACFT MODEL(S) 23-13-02-400-801-A FLITEFONE ANTENNA - INSTALLATION EMB-145   EMB-145  - AMM 1285 General CONFIG-1 23-13-02 Page 1 of 6 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="2" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 23-13-02-000-801-A EFFECTIVITY:  ACFT MODEL(S) EMB-145 2. FLITEFONE ANTENNA - REMOVAL A. General (1) This task gives the procedures to remove the Flitefone antenna. B. References REFERENCE DESIGNATION AMM MPP 06-41-02/100 - C. Zones and Accesses ZONE PANEL/DOOR LOCATION 270 LH171 On the fuselage bottom D. Tools and Equipment Not Applicable E. Auxiliary Items Not Applicable F. Consumable Materials Not Applicable G. Expandable Parts Not Applicable H. Persons Recommended QTY FUNCTION PLACE 1 Does the task On the fuselage bottom, panel LH171 I. Preparation SUBTASK 841-003-A (1) Make sure that the Flitefone transmitter is turned off. J. Removal (Figure 401)  SUBTASK 020-003-A (1) In the baggage compartment, remove floor panel 271BF and/or 271AF (AMM MPP 06-41-02/100). (2) Disconnect the cable connector (4) of the antenna connector. (3) Carefully remove the sealant (2) from around the antenna connector. (4) On the fuselage outer side, remove the sealant (1) on the screws and around the antenna (3). EMB-145  - AMM 1285 000-801-A/400 CONFIG-1 23-13-02 Page 2 of 6 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="3" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL (5) Remove the screws (6). (6) Remove the antenna (5). EMB-145  - AMM 1285 000-801-A/400 CONFIG-1 23-13-02 Page 3 of 6 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="4" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: ACFT MODEL(S) EMB-145 Flitefone Antenna - Removal/Installation  Figure 401 A 5. SCREW (6) DET. A 4. FLITEFONE ANTENNA 1. SEALANT 2. SEALANT RTV 780 PR 1440B2 WHITE OR RTV 790 3 3. SEALANT 1 P/S 870 B-2 SECTION VIEW 145AMM230161.MCE B EMB-145  - AMM 1285 000-801-A/400 CONFIG-1 23-13-02 Page 4 of 6 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="5" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 23-13-02-400-801-A EFFECTIVITY:  ACFT MODEL(S) EMB-145 3. FLITEFONE ANTENNA - INSTALLATION A. General (1) This task gives the procedures to install the Flitefone antenna. B. References REFERENCE DESIGNATION AMM MPP 06-41-02/100 - AMM MPP 20-30-03/200 - MAINTENANCE PRACTICES AMM TASK 20-11-01-910-801-A/200 ANTENNA SEALING C. Zones and Accesses ZONE PANEL/DOOR LOCATION 270 LH171 On the fuselage bottom D. Tools and Equipment Not Applicable E. Auxiliary Items Not Applicable F. Consumable Materials SPECIFICATION DESCRIPTION QTY (BRAND) FED. SPEC. TT-S-00230 Sealant RTV 780 (WHITE) AR FED. SPEC. TT-S-00230 Sealant RTV 790 AR MIL-S-8802F TYPE II - CLASS B2 Sealant PR 1440B2 AR MIL-S-81733 TYPE II - 2 Sealant P/S 870 B-2 AR G. Expandable Parts Not Applicable H. Persons Recommended QTY FUNCTION PLACE 1 Does the task On the fuselage bottom, panel LH171 I. Installation (Figure 401)  SUBTASK 402-003-A (1) Make sure that the area where the antenna will be installed is clean. (2) Put the antenna (5) in position and tighten the screws (6). EMB-145  - AMM 1285 400-801-A/400 CONFIG-1 23-13-02 Page 5 of 6 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="6" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL (3) Apply sealant P/S 870 B-2 (AMM TASK 20-11-01-910-801-A/200) around the antenna. (4) Apply sealant RTV 780 (WHITE) or RTV 790 (for an alternative sealant, refer to AMM MPP 20-30-03/200) to the screws (AMM TASK 20-11-01-910-801-A/200). (5) On the inner side of the fuselage, apply sealant PR 1440B2 (for an alternative sealant, refer to AMM MPP 20-30-03/200) around the antenna (AMM TASK 20-11-01-910-801- A/200). (6) Connect the cable connector (4) of the antenna connector. J. Follow-on SUBTASK 842-003-A (1) Do an operational test of the Flitefone. (2) Install floor panel 271BF and/or 271AF (AMM MPP 06-41-02/100). EMB-145  - AMM 1285 400-801-A/400 CONFIG-1 23-13-02 Page 6 of 6 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+	</pages>
+</metadata>

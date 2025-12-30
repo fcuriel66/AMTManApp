@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata id="MPP1285_27-50-00-05-1">
+	<file family="145" manual="AMM" pn="1285" chg="U" tsn="51" is_tr="false">
+		<title>AMM PART II-1285 - CHAPTER 27-50-00-05 - FLAPS - ADJUSTMENT/TEST</title>
+		<path>/CHAPTER_27</path>
+		<hash>0a812a188696c58802296821057d4b65</hash>
+	</file>
+	<pages>
+		<page number="1" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL FLAPS - ADJUSTMENT/TEST EFFECTIVITY:  ALL 1. General A. This section gives the procedures to measure the deflections of the inboard and outboard flaps and the actuation times for normal flap settings. B. The procedures in this section are given in the sequence below. The tasks identified with ( ♦) are part of the Scheduled Maintenance Requirements Document (SMRD). TASK NUMBER DESCRIPTION EFFECTIVITY INBOARD AND OUTBOARD FLAPS - DE- ALL 27-50-00-700-801-A FLECTIONS  EMB-145  - AMM 1285 General 27-50-00 Page 1 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="2" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 27-50-00-700-801-A EFFECTIVITY:  ALL 2. INBOARD AND OUTBOARD FLAPS - DEFLECTIONS A. General (1) This task gives the procedures to measure the deflections of the inboard and outboard flaps and the actuation times for normal flap settings. B. References REFERENCE DESIGNATION ENERGIZATION OF THE AIRCRAFT WITH AN EX- AMM TASK 20-40-01-860-801-A/200 TERNAL POWER SOURCE S.B.145-27-0042 - C. Zones and Accesses Not Applicable D. Tools and Equipment ITEM DESCRIPTION PURPOSE QTY GSE 044 Head Set For communications  GSE 070 Digital Protractor To measure the deflections  Commercially Stopwatch To measure the time  available E. Auxiliary Items Not Applicable F. Consumable Materials Not Applicable G. Expandable Parts Not Applicable H. Persons Recommended QTY FUNCTION PLACE 1 Does the task Cockpit 1 Does the task Wing I. Preparation SUBTASK 841-002-A (1) Make sure that the aircraft is safe for maintenance. (2) Energize the aircraft with the External DC Power Supply ( AMM TASK 20-40-01-860-801-A/200). (3) Make sure that the flaps are in the zero-degree position. EMB-145  - AMM 1285 700-801-A/500 27-50-00 Page 2 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="3" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL (4) Install the digital protractor on the inboard flap and the outboard flap. (5) Set the digital protractor to zero. J. Deflections of the Inboard and Outboard Flaps (Figure 501)  SUBTASK 720-002-A WARNING: MAKE SURE THAT THERE ARE NO PERSONS OR EQUIPMENT IN THE FLAP TRAVEL AREA. (1) Measure the deflections for zero-, 9-, 18-, 22-, and 45-degree position on the inboard and outboard flaps of the left and right wings. See Figure 501. – The inboard and outboard flap deflections are shown in table 501. Table 501 - FLAP DEFLECTIONS INBOARD FLAP OUTBOARD FLAP [1] FLAP POSITION DEFLECTION DEFLECTION (degrees) (degrees) maximum +0.10 +0.10 zero A nominal 0.00 0.00 degrees minimum -0.10 -0.10 maximum 9.98 8.30 9 B nominal 9.18 7.50 degrees minimum 8.38 6.70 maximum 19.16 15.87 [2] C 18 degrees nominal 18.16 14.87 minimum 17.16 13.87 maximum 23.37 19.85 22 D nominal 22.37 18.85 degrees minimum 21.37 17.85 maximum 46.63 46.50 45 E nominal 45.13 45.00 degrees minimum 43.63 43.50 [1] Figure 501 shows the flap positions. [2] Only to ACFT POST-MOD. S.B.145-27-0042 or ACFT EQUIPPED WITH FLAP 18-DEGREE. Table 502 - ACTUATION TIME FOR NORMAL FLAP SETTINGS Actuation Time (seconds) Normal Flap Set- [1] ting Minimum Nominal Maximum from 0 to 9 9.8 10.9 11.9 from 9 to 0 from 9 to 18 6.3 7.2 8.2 from 18 to 9 from 9 to 22 8.2 9.1 10.1 from 22 to 9 [1] Only to ACFT POST-MOD. S.B.145-27-0042 or ACFT EQUIPPED WITH FLAP 18-DEGREE. EMB-145  - AMM 1285 700-801-A/500 27-50-00 Page 3 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="4" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL Table 502 - ACTUATION TIME FOR NORMAL FLAP SETTINGS (Continued) Actuation Time (seconds) Normal Flap Set- [1] ting Minimum Nominal Maximum from 18 to 22 2.1 3.1 4.1 from 22 to 18 from 0 to 22 18.0 20.0 22.0 from 22 to 0 from 22 to 45 9.0 10.0 11.0 from 45 to 22 from 0 to 45 27.0 30.0 33.0 from 45 to 0 [1] Only to ACFT POST-MOD. S.B.145-27-0042 or ACFT EQUIPPED WITH FLAP 18-DEGREE. K. Follow-on SUBTASK 842-002-A (1) Remove the digital protractor from the inboard and outboard flaps. (2) Set the flaps to the 0-degree position. (3) Deenergize the aircraft ( AMM TASK 20-40-01-860-801-A/200). EMB-145  - AMM 1285 700-801-A/500 27-50-00 Page 4 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="5" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: ALL Inboard and Outboard Flaps - Location  Figure 501 A ZONES 671 672 A ZONES 571 572 INBOARD DET. A FLAP OUTBOARD FLAP AILERON WING SYSTEM SPAR II LINE A (NEUTRAL POSITION) B C D E FLAP POSITIONS (SEE TABLE 501) 145AMM270207.MCE B EMB-145  - AMM 1285 700-801-A/500 27-50-00 Page 5 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="6" width="216.0" height="279.0">
+			<data/>
+		</page>
+	</pages>
+</metadata>

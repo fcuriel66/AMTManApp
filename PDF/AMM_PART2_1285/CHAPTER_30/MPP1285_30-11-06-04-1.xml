@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata id="MPP1285_30-11-06-04-1">
+	<file family="145" manual="AMM" pn="1285" chg="U" tsn="51" is_tr="false">
+		<title>AMM PART II-1285 - CHAPTER 30-11-06-04 - DIFFERENTIAL PRESSURE SWITCH - REMOVAL/INSTALLATION</title>
+		<path>/CHAPTER_30</path>
+		<hash>40f0a1cbab1378cdeec1c7389db10637</hash>
+	</file>
+	<pages>
+		<page number="1" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL DIFFERENTIAL PRESSURE SWITCH - REMOVAL/INSTALLATION EFFECTIVITY:  PRE-MOD. S.B. 145-30-0022 1. General A. This section gives the procedures to remove and install the differential pressure switch of the Wing Thermal Anti-Icing System. B. The procedures in this section are given in the sequence below. The tasks identified with ( ♦) are part of the Scheduled Maintenance Requirements Document (SMRD). TASK NUMBER DESCRIPTION EFFECTIVITY PRE-MOD. S.B. DIFFERENTIAL PRESSURE SWITCH - 30-11-06-000-801-A 145-30-0022 REMOVAL   PRE-MOD. S.B. DIFFERENTIAL PRESSURE SWITCH - IN- 30-11-06-400-801-A 145-30-0022 STALLATION   EMB-145  - AMM 1285 General 30-11-06 Page 1 of 7 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="2" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 30-11-06-000-801-A EFFECTIVITY:  PRE-MOD. S.B. 145-30-0022 2. DIFFERENTIAL PRESSURE SWITCH - REMOVAL A. General (1) This procedure gives the instructions to remove the differential pressure switch of the Wing Thermal Anti-Icing System. B. References REFERENCE DESIGNATION AMM MPP 06-41-01/100 - C. Zones and Accesses ZONE PANEL/DOOR LOCATION 192 192AL LH side of the center lower fairing 192 192BR RH side of the center lower fairing D. Tools and Equipment Not Applicable E. Auxiliary Items Not Applicable F. Consumable Materials Not Applicable G. Expandable Parts Not Applicable H. Persons Recommended QTY FUNCTION PLACE 1 Does the task LH or RH side of the center lower fairing I. Preparation SUBTASK 841-002-A (1) On the overhead Circuit Breaker Panel, open the circuit breaker below and attach a DO-NOT-CLOSE tag to it. • WING (Location tip: DC BUS 1/ICE AND RAIN PROTECTION/WING). (2) Remove access panel 192AL or 192BR (AMM MPP 06-41-01/100). J. Removal (Figure 401)  SUBTASK 020-002-A (1) Disconnect the electrical connectors (1) and (4). EMB-145  - AMM 1285 000-801-A/400 30-11-06 Page 2 of 7 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="3" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL (2) Disconnect the tubes (2) and (5). (3) Remove the four screws (6) and washers (7). (4) Remove the differential pressure switch (3). EMB-145  - AMM 1285 000-801-A/400 30-11-06 Page 3 of 7 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="4" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: PRE-MOD. S.B. 145-30-0022 Differential Pressure Switch - Removal/Installation  Figure 401 A ZONES 191 192 DET. A 1. ELECTRICAL     CONNECTOR B DIFFERENTIAL PRESSURE SWITCH 2. TUBE 7. WASHER (4) 3. DIFFERENTIAL 1. ELECTRICAL     PRESSURE     CONNECTOR 6. SCREW (4)     SWITCH 2. TUBE 5. TUBE 4. ELECTRICAL     CONNECTOR 4. ELECTRICAL 5. TUBE 1    CONNECTOR DET. B 7. WASHER (4) 3. DIFFERENTIAL     PRESSURE 6. SCREW (4)    SWITCH APPLICABLE TO AIRCRAFT 2 1 DET. B S/N 004 THRU 043 2 APPLICABLE TO AIRCRAFT S/N 044 AND ON 145AMM300044.MCE C EMB-145  - AMM 1285 000-801-A/400 30-11-06 Page 4 of 7 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="5" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: PRE-MOD. S.B. 145-30-0022 Differential Pressure Switch - Removal/Installation  Figure 402 3. DIFFERENTIAL PRESSURE SWITCH 8. CONNECTION 9. O’RING 10. O’RING 11. CONNECTION 145AMM300045.MCE B EMB-145  - AMM 1285 000-801-A/400 30-11-06 Page 5 of 7 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="6" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 30-11-06-400-801-A EFFECTIVITY:  PRE-MOD. S.B. 145-30-0022 3. DIFFERENTIAL PRESSURE SWITCH - INSTALLATION A. General (1) This procedure gives the instructions to install the differential pressure switch of the Wing Thermal Anti-Icing System. B. References REFERENCE DESIGNATION AMM MPP 06-41-01/100 - AMM TASK 28-41-00-200-801-A/600 - IPC 30-11-00 WING THERMAL ANTI-ICING SYSTEM C. Zones and Accesses ZONE PANEL/DOOR LOCATION 192 192AL LH side of the center lower fairing 192 192BR RH side of the center lower fairing D. Tools and Equipment Not Applicable E. Auxiliary Items Not Applicable F. Consumable Materials Not Applicable G. Expendable Parts IPC REFERENCE ITEM QTY (VENDOR REFERENCE) O-ring IPC 30-11-00 2 H. Persons Recommended QTY FUNCTION PLACE 1 Does the task LH or RH side of the center lower fairing I. Preparation (Figure 402)  SUBTASK 841-003-A (1) Remove and keep the connections (8) and (11). (2) Remove and discard the old O-rings (9) and (10). (3) Install the new O-rings (9) and (10). EMB-145  - AMM 1285 400-801-A/400 30-11-06 Page 6 of 7 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="7" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL (4) Install the connections (8) and (11). J. Installation (Figure 401)  SUBTASK 420-002-A (1) Put the differential pressure switch (3) in its installation position. (2) Install the four screws (6) and washers (7) to attach the differential pressure switch (3). (3) Connect the tubes (2) and (5). (4) Connect the electrical connectors (1) and (4). K. Follow-on SUBTASK 842-002-A (1) On the overhead Circuit Breaker Panel, close the circuit breaker below and remove the DO-NOT-CLOSE tag from it. • WING (Location tip: DC BUS 1/ICE AND RAIN PROTECTION/WING). (2) Examine the tube connections for leaks. (3) Do an inspection on the fuel quantity indication harness (AMM TASK 28-41-00-200-801-A/600). NOTE: The inspection of fuel quantity indication harness is a part of Critical Design Configuration Control Limitations (CDCCL) in the Airworthiness Limitations (Section 6) of the Maintenance Review Board Report (MRB). (4) Install access panel 192AL or 192BR (AMM MPP 06-41-01/100). EMB-145  - AMM 1285 400-801-A/400 30-11-06 Page 7 of 7 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="8" width="216.0" height="279.0">
+			<data/>
+		</page>
+	</pages>
+</metadata>

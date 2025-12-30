@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata id="MPP1285_23-71-01-04-1">
+	<file family="145" manual="AMM" pn="1285" chg="U" tsn="51" is_tr="false">
+		<title>AMM PART II-1285 - CHAPTER 23-71-01-04 - COCKPIT VOICE RECORDER - REMOVAL/INSTALLATION</title>
+		<path>/CHAPTER_23</path>
+		<hash>ed3688f5075b4e13188517f4fada9a76</hash>
+	</file>
+	<pages>
+		<page number="1" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL COCKPIT VOICE RECORDER - REMOVAL/INSTALLATION EFFECTIVITY:  ALL 1. General A. This section gives the procedures to remove/install the cockpit voice recorder (CVR). B. The procedures in this section are given in the sequence below. The tasks identified with ( ♦) are part of the Scheduled Maintenance Requirements Document (SMRD). TASK NUMBER DESCRIPTION EFFECTIVITY ALL 23-71-01-000-801-A COCKPIT VOICE RECORDER - REMOVAL   COCKPIT VOICE RECORDER - INSTAL- ALL 23-71-01-400-801-A LATION  EMB-145  - AMM 1285 General 23-71-01 Page 1 of 7 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="2" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 23-71-01-000-801-A EFFECTIVITY:  ALL 2. COCKPIT VOICE RECORDER - REMOVAL A. General (1) This task gives the procedures to remove the cockpit voice recorder (CVR). B. References REFERENCE DESIGNATION AMM MPP 06-41-01/100 - C. Zones and Accesses ZONE PANEL/DOOR LOCATION 272 272DR - Rear electronic compartment door Fuselage rear section Ι - right side D. Tools and Equipment ITEM DESCRIPTION PURPOSE QTY To get access to the Rear Electronic Com- GSE 036 Platform, hydraulic  partment E. Auxiliary Items Not Applicable F. Consumable Materials Not Applicable G. Expandable Parts Not Applicable H. Persons Recommended QTY FUNCTION PLACE 1 Does the task Rear electronic compartment I. Preparation SUBTASK 841-002-A (1) On the circuit breaker panel, open the CVR circuit breaker and attach a DO-NOT- CLOSE tag to it (Location Tip: ESSENTIAL DC BUS 2/COMM/CVR). (2) Put up the hydraulic platform at the necessary height. (3) Open access door 272DR (AMM MPP 06-41-01/100). EMB-145  - AMM 1285 000-801-A/400 23-71-01 Page 2 of 7 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="3" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL J. Removal (Figure 401)  (Figure 402)  SUBTASK 020-002-A CAUTION: • DO NOT TOUCH THE ELECTRICAL PINS OF THE CONNECTORS. DAMAGE CAN OCCUR TO THE INTERNAL ESDS COMPONENTS. • USE ONLY PROTECTIVE CAPS FOR THE PROTECTION OF CONNECTOR PINS OR SOCKETS IN ELECTRICAL CONNECTORS. OTHER MATERIALS CAN CAUSE DAMAGE TO THE CONNECTOR PINS OR SOCKETS, OR LET UNWANTED MATERIALS STAY IN THE CONNECTOR. (1) Loosen the two knurled nuts (2) that attach the CVR (1) to the mounting rack (3). (2) Pull the CVR (1) forward to release it from the mounting tray (3). (3) Remove the CVR (1) from the mounting tray (3). (4) Put an ESD protective cap on the CVR electrical connector and on the tray connector. EMB-145  - AMM 1285 000-801-A/400 23-71-01 Page 3 of 7 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="4" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: AIRCRAFT WITH HONEYWELL CVR INSTALLED Solid State Cockpit Voice Recorder (SSCVR) - Removal/Installation  Figure 401 A ZONE 272 B REAR ELECTRONIC COMPARTMENT DET. A 1.  SSCVR 3.   MOUNTING       TRAY 2.   KNURLED       NUTS DET. B 145AMM230085.MCE A EMB-145  - AMM 1285 000-801-A/400 23-71-01 Page 4 of 7 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="5" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: AIRCRAFT WITH L3 CVR INSTALLED Solid State Cockpit Voice Recorder (SSCVR) - Removal/Installation  Figure 402 B A ZONE 272 REAR ELECTRONIC COMPARTMENT DET. A 1. SSCVR 3. MOUNTING     TRAY 2. KNURLED DET. B     NUTS EM145AMM231029A.DGN EMB-145  - AMM 1285 000-801-A/400 23-71-01 Page 5 of 7 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="6" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 23-71-01-400-801-A EFFECTIVITY:  ALL 3. COCKPIT VOICE RECORDER - INSTALLATION A. General (1) This task gives the procedures to install the CVR. B. References REFERENCE DESIGNATION AMM MPP 06-41-01/100 - AMM TASK 23-71-00-700-802-A/500 VOICE RECORDING SYSTEM - OPERATIONAL TEST C. Zones and Accesses ZONE PANEL/DOOR LOCATION 272 272DR - Rear electronic compartment door Fuselage rear section Ι - right side D. Tools and Equipment ITEM DESCRIPTION PURPOSE QTY To get access to the Rear Electronic Com- GSE 036 Platform, hydraulic  partment E. Auxiliary Items Not Applicable F. Consumable Materials Not Applicable G. Expandable Parts Not Applicable H. Persons Recommended QTY FUNCTION PLACE 1 Does the task Rear electronic compartment I. Installation (Figure 401) (Figure 402)  SUBTASK 420-002-A CAUTION: DO NOT TOUCH THE ELECTRICAL PINS OF THE CONNECTORS. DAMAGE CAN OCCUR TO THE INTERNAL ESDS COMPONENTS. (1) Remove the ESD protective cap from the CVR electrical connector and from the tray connector. (2) Put the CVR (1) on the mounting rack (3). (3) Carefully push the CVR (1) to the rear of the mounting rack (3). EMB-145  - AMM 1285 400-801-A/400 23-71-01 Page 6 of 7 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="7" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL (4) Make sure that the connector of the mounting rack (3) and the connector of the CVR (1) connect correctly to each other. (5) Tighten the two knurled nuts (2) to attach the CVR (1) to the mounting rack (3). J. Follow-on SUBTASK 842-002-A (1) On the circuit breaker panel, close the CVR circuit breaker and remove the DO-NOT- CLOSE tag from it (Location Tip: ESSENTIAL DC BUS 2/COMM/CVR). (2) Do the voice recording system operational test (AMM TASK 23-71-00-700-802-A/500). (3) Close access door 272DR (AMM MPP 06-41-01/100). (4) Remove the hydraulic platform. EMB-145  - AMM 1285 400-801-A/400 23-71-01 Page 7 of 7 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="8" width="216.0" height="279.0">
+			<data/>
+		</page>
+	</pages>
+</metadata>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata id="MPP1285_21-60-03-04-1">
+	<file family="145" manual="AMM" pn="1285" chg="U" tsn="51" is_tr="false">
+		<title>AMM PART II-1285 - CHAPTER 21-60-03-04 - DUCT TEMPERATURE SENSOR - REMOVAL/INSTALLATION</title>
+		<path>/CHAPTER_21</path>
+		<hash>f003d8647417c3d49a2b6e3945771849</hash>
+	</file>
+	<pages>
+		<page number="1" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL DUCT TEMPERATURE SENSOR - REMOVAL/INSTALLATION EFFECTIVITY:  ALL 1. General A. The duct temperature sensor is installed in each cooling-pack outlet duct. B. The procedures in this section are given in the sequence below. The tasks identified with ( ♦) are part of the Scheduled Maintenance Requirements Document (SMRD). TASK NUMBER DESCRIPTION EFFECTIVITY DUCT TEMPERATURE SENSOR - RE- ALL 21-60-03-000-801-A MOVAL  DUCT TEMPERATURE SENSOR - IN- ALL 21-60-03-400-801-A STALLATION  EMB-145  - AMM 1285 General 21-60-03 Page 1 of 6 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="2" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 21-60-03-000-801-A EFFECTIVITY:  ALL 2. DUCT TEMPERATURE SENSOR - REMOVAL A. General (1) This task gives the procedures to remove the duct temperature sensor. B. References REFERENCE DESIGNATION AMM MPP 06-41-01/100 - C. Zones and Accesses ZONE PANEL/DOOR LOCATION 191 191EL Left side of the wing-to-fuselage fairing 191 191FR Right side of the wing-to-fuselage fairing D. Tools and Equipment ITEM DESCRIPTION PURPOSE QTY Commercially Torque wrench To loosen the switch  available E. Auxiliary Items Not Applicable F. Consumable Materials Not Applicable G. Expandable Parts Not Applicable H. Persons Recommended QTY FUNCTION PLACE 1 Does the task LH or RH cooling pack I. Preparation SUBTASK 841-002-A (1) On the circuit breaker panel, open the following circuit breakers, and attach a DO- NOT-CLOSE tag to them: – PACK 1 (Duct temperature sensor of the LH cooling pack). – PACK 2 (Duct temperature sensor of the RH cooling pack). (2) Remove the access panel (AMM MPP 06-41-01/100), as applicable: – 191EL (Duct temperature sensor of the LH cooling pack). EMB-145  - AMM 1285 000-801-A/400 21-60-03 Page 2 of 6 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="3" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL – 191FR (Duct temperature sensor of the RH cooling pack). J. Removal (Figure 401)  SUBTASK 020-002-A (1) Disconnect the electrical connector (1). (2) Cut the lockwire (3). (3) Remove the sensor (2). (4) Discard the O-ring (4). (5) Use a cap on the opening in the duct, to prevent the entrance of unwanted material. EMB-145  - AMM 1285 000-801-A/400 21-60-03 Page 3 of 6 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="4" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: ALL Duct Temperature Sensor - Removal/Installation  Figure 401 A ZONE 191 B DET. A (LEFT SIDE) 1 2.   DUCT TEMPERATURE       SENSOR 4.   O-RING DET. B 3.   LOCKWIRE 1.   ELECTRICAL       CONNECTOR 1 T=7.34 Nm (65 lb.in) to 8.47 Nm (75 lb.in) 145AMM210044.MCE D EMB-145  - AMM 1285 000-801-A/400 21-60-03 Page 4 of 6 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="5" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 21-60-03-400-801-A EFFECTIVITY:  ALL 3. DUCT TEMPERATURE SENSOR - INSTALLATION A. General (1) This task gives the procedures to install the duct temperature sensor. B. References REFERENCE DESIGNATION AMM MPP 06-41-01/100 - IPC 21-51-00 COOLING PACK SYSTEM C. Zones and Accesses ZONE PANEL/DOOR LOCATION 191 191EL Left side of the wing-to-fuselage fairing 191 191FR Right side of the wing-to-fuselage fairing D. Tools and Equipment ITEM DESCRIPTION PURPOSE QTY Commercially Torque wrench To tighten the switch  available E. Auxiliary Items Not Applicable F. Consumable Materials SPECIFICATION DESCRIPTION QTY (BRAND) MS20995C20 Lockwire AR G. Expendable Parts IPC REFERENCE ITEM QTY (VENDOR REFERENCE) O-ring IPC 21-51-00 1/LRU H. Persons Recommended QTY FUNCTION PLACE 1 Does the task LH or RH cooling pack EMB-145  - AMM 1285 400-801-A/400 21-60-03 Page 5 of 6 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="6" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL I. Installation (Figure 401)  SUBTASK 020-003-A (1) Remove the cap from the duct opening. (2) Make sure that the duct is clean. (3) Put the sensor (2) together with the new O-ring (4) in the installation position. (4) Install the sensor (2). (5) Tighten and safety the sensor nut. (6) Connect the electrical connector (1). J. Follow-on SUBTASK 842-002-A (1) Install the access panel (AMM MPP 06-41-01/100), as applicable: – 191EL (Duct temperature sensor of the LH cooling pack). – 191FR (Duct temperature sensor of the RH cooling pack). (2) On the circuit breaker panel, close the following circuit breakers, and remove the DO- NOT-CLOSE tag from them: – PACK 1 (Duct temperature sensor of the LH cooling pack). – PACK 2 (Duct temperature sensor of the RH cooling pack). EMB-145  - AMM 1285 400-801-A/400 21-60-03 Page 6 of 6 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+	</pages>
+</metadata>

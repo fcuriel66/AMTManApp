@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata id="MPP1285_33-23-03-04-1">
+	<file family="145" manual="AMM" pn="1285" chg="U" tsn="51" is_tr="false">
+		<title>AMM PART II-1285 - CHAPTER 33-23-03-04 - FASTEN-SEAT-BELT SWITCH - REMOVAL/INSTALLATION</title>
+		<path>/CHAPTER_33</path>
+		<hash>7a33c9a071d9422734f2402c84816a52</hash>
+	</file>
+	<pages>
+		<page number="1" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL FASTEN-SEAT-BELT SWITCH - REMOVAL/INSTALLATION EFFECTIVITY:  ALL 1. General A. This section gives the procedures to remove and install the switch of the fasten-seat-belt switch. B. The switch of the fasten-seat-belt switch is installed in the cockpit, on the overhead panel. C. Obey the safety precautions below, when you work on the switch of the fasten-seat-belt switch. • Disconnect the electrical power. • Always use insulated tools when you work on or near electrical circuits. D. The procedures in this section are given in the sequence below. The tasks identified with ( ♦) are part of the Scheduled Maintenance Requirements Document (SMRD). TASK NUMBER DESCRIPTION EFFECTIVITY FASTEN-SEAT-BELT SWITCH - REMOV- ALL 33-23-03-000-801-A AL  FASTEN-SEAT-BELT SWITCH - INSTAL- ALL 33-23-03-400-801-A LATION  EMB-145  - AMM 1285 General 33-23-03 Page 1 of 4 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="2" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 33-23-03-000-801-A EFFECTIVITY:  ALL 2. FASTEN-SEAT-BELT SWITCH - REMOVAL A. General (1) This procedure gives the instructions to remove the switch of the fasten-seat-belt switch. B. References REFERENCE DESIGNATION SWITCHES AND POTENTIOMETERS - REMOVAL AMM TASK 20-13-03-000-801-A/400 (TYPICAL) C. Zones and Accesses Not Applicable D. Tools and Equipment Not Applicable E. Auxiliary Items Not Applicable F. Consumable Materials Not Applicable G. Expandable Parts Not Applicable H. Persons Recommended QTY FUNCTION PLACE 1 Does the task Cockpit I. Preparation SUBTASK 841-002-A (1) On the Circuit Breaker Panel, open the PASS SIGNS circuit breaker and attach a DO- NOT-CLOSE tag to it. J. Removal (Figure 401)  SUBTASK 020-002-A (1) To remove the switch of the fasten-seat-belt switch, refer to the procedure Switches and Potentiometers - Removal (AMM TASK 20-13-03-000-801-A/400). EMB-145  - AMM 1285 000-801-A/400 33-23-03 Page 2 of 4 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="3" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: ALL Fasten-Seat-Belt Switch - Location  Figure 401 B ZONE 226 A SWITCH EXT LT CKPT PASS SIGNS ON ON ON OFF OFF OFF LOGO DOME FSTN BELTS NO SMKG DET. B 145AMM330117.MCE A EMB-145  - AMM 1285 000-801-A/400 33-23-03 Page 3 of 4 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="4" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 33-23-03-400-801-A EFFECTIVITY:  ALL 3. FASTEN-SEAT-BELT SWITCH - INSTALLATION A. General (1) This procedure gives the instructions to install the switch of the fasten seat belt sign. B. References REFERENCE DESIGNATION SWITCHES AND POTENTIOMETERS - INSTALLA- AMM TASK 20-13-03-400-801-A/400 TION (TYPICAL) PASSENGER WARNING SIGNS - OPERATIONAL AMM TASK 33-23-00-700-801-A/500 TEST C. Zones and Accesses Not Applicable D. Tools and Equipment Not Applicable E. Auxiliary Items Not Applicable F. Consumable Materials Not Applicable G. Expandable Parts Not Applicable H. Persons Recommended QTY FUNCTION PLACE 1 Does the task Cockpit I. Installation (Figure 401)  SUBTASK 420-002-A (1) To install the switch of the fasten-seat-belt switch, refer to the procedure Switches and Potentiometers - Installation (AMM TASK 20-13-03-400-801-A/400). J. Follow-on SUBTASK 842-002-A (1) On the Circuit Breaker Panel, close the PASS SIGNS circuit breaker and remove the DO-NOT-CLOSE tag from it. (2) Do an operational check on the Passenger Warning Signs ( AMM TASK 33-23-00-700-801-A/500). EMB-145  - AMM 1285 400-801-A/400 33-23-03 Page 4 of 4 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+	</pages>
+</metadata>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata id="MPP1285_34-31-01-04-2">
+	<file family="145" manual="AMM" pn="1285" chg="U" tsn="51" is_tr="false">
+		<title>AMM PART II-1285 - CHAPTER 34-31-01-04 - RADIO ALTIMETER - REMOVAL/INSTALLATION</title>
+		<path>/CHAPTER_34</path>
+		<hash>13051602a086af6abc1da0e948e21c5e</hash>
+	</file>
+	<pages>
+		<page number="1" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL RADIO ALTIMETER - REMOVAL/INSTALLATION EFFECTIVITY:  ACFT MODEL(S) EMB-135 1. General A. This section gives the procedures to remove and install the radio altimeter. B. These procedures are applicable to radio altimeter I and radio altimeter II (optional). C. The procedures in this section are given in the sequence below. The tasks identified with ( ♦) are part of the Scheduled Maintenance Requirements Document (SMRD). TASK NUMBER DESCRIPTION EFFECTIVITY POST-MOD. SB 34-31-01-000-802-A RADIO ALTIMETER - REMOVAL 145-34-0024   POST-MOD. SB 34-31-01-400-802-A RADIO ALTIMETER - INSTALLATION 145-34-0024   EMB-145  - AMM 1285 General CONFIG-2 34-31-01 Page 1 of 7 Rev 49 - Feb  16/16 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="2" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 34-31-01-000-802-A EFFECTIVITY:  POST-MOD. SB 145-34-0024 2. RADIO ALTIMETER - REMOVAL A. General (1) This task gives the procedures to remove radio altimeters I and II. B. References REFERENCE DESIGNATION AMM MPP 06-41-01/100 - C. Zones and Accesses ZONE PANEL/DOOR LOCATION Wing-to-fuselage attachment fairing for 191 191EL RA1 272 272DR Rear electronic compartment for RA2 D. Tools and Equipment Not Applicable E. Auxiliary Items Not Applicable F. Consumable Materials Not Applicable G. Expandable Parts Not Applicable H. Persons Recommended QTY FUNCTION PLACE Wing-to-fuselage attachment fairing for 1 Does the task RA1 or at rear electronic compartment for RA2 I. Preparation SUBTASK 841-019-B (1) On the circuit breaker panel, open the RA1 or RA2 circuit breaker and attach a DO- NOT-CLOSE tag to it. J. Removal SUBTASK 020-019-B (1) For the removal of radio altimeter I, do the steps below: (a) Open access door 191EL (AMM MPP 06-41-01/100). EMB-145  - AMM 1285 000-802-A/400 CONFIG-2 34-31-01 Page 2 of 7 Rev 49 - Feb  16/16 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="3" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL (b) Disconnect the electrical connectors (1), (2), and (5), and identify them. (c) Remove the lockwire and release the two knurled nuts (4). (d) Remove the radio altimeter (3). (2) For the removal of radio altimeter II, do the steps below: (a) Open access door 272DR (AMM MPP 06-41-01/100). (b) Disconnect the electrical connectors (1), (2), and (5), and identify them. (c) Remove the screws (4) and the washers (6). (d) Remove the radio altimeter (3). EMB-145  - AMM 1285 000-802-A/400 CONFIG-2 34-31-01 Page 3 of 7 Rev 49 - Feb  16/16 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="4" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: POST-MOD. SB 145-34-0024 Radio Altimeter I - Removal/Installation  Figure 401 A ZONE 191 DET. A B 5.  ELECTRICAL      CONNECTOR 1.  ELECTRICAL      CONNECTOR 2.  ELECTRICAL      CONNECTOR 3.  RADIO      ALTIMETER 4.  KNURLED      NUTS (2) DET. B 145AMM340318.MCE EMB-145  - AMM 1285 000-802-A/400 CONFIG-2 34-31-01 Page 4 of 7 Rev 49 - Feb  16/16 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="5" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: POST-MOD. SB 145-34-0024 Radio Altimeter II - Removal/Installation  Figure 402 B A ZONE 276 2.  ELECTRICAL DET. A CONNECTOR 5.  ELECTRICAL CONNECTOR 3.  RADIO ALTIMETER 2 1.  ELECTRICAL CONNECTOR 4.  SCREW (4) 6.  WASHER (4) DET. B 145AMM340319.MCE A EMB-145  - AMM 1285 000-802-A/400 CONFIG-2 34-31-01 Page 5 of 7 Rev 49 - Feb  16/16 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="6" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 34-31-01-400-802-A EFFECTIVITY:  POST-MOD. SB 145-34-0024 3. RADIO ALTIMETER - INSTALLATION A. General (1) This task gives the procedures to install radio altimeters I and II. B. References REFERENCE DESIGNATION AMM MPP 06-41-01/100 - AMM TASK 34-31-00-700-801-A/500 RADIO ALTIMETER SYSTEM - OPERATIONAL TEST C. Zones and Accesses ZONE PANEL/DOOR LOCATION Wing-to-fuselage attachment fairing for 191 191EL RA1 272 272DR Rear electronic compartment for RA2 D. Tools and Equipment Not Applicable E. Auxiliary Items Not Applicable F. Consumable Materials SPECIFICATION DESCRIPTION QTY (BRAND) MS 20995C32 Lockwire AR G. Expandable Parts Not Applicable H. Persons Recommended QTY FUNCTION PLACE Wing-to-fuselage attachment fairing for 1 Does the task RA1 or rear electronic compartment for RA2 I. Installation SUBTASK 420-019-B (1) For installation of radio altimeter I, do the steps below: (a) Install the radio altimeter (3). (b) Connect the electrical connectors (1), (2), and (5). EMB-145  - AMM 1285 400-802-A/400 CONFIG-2 34-31-01 Page 6 of 7 Rev 49 - Feb  16/16 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="7" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL (c) Attach the two knurled nuts (4) and safety them with the lockwire. (d) Close access door 191EL (AMM MPP 06-41-01/100). (2) For installation of radio altimeter II, do the steps below: (a) Install the radio altimeter (3). (b) Connect the electrical connectors (1), (2), and (5). (c) Install the washers (6) and the screws (4). (d) Tighten the screws (4). (e) Close access door 272DR (AMM MPP 06-41-01/100). J. Follow-on SUBTASK 842-019-B (1) On the circuit breaker panel, close the RA1 or RA2 circuit breaker and remove the DO- NOT-CLOSE tag from it. (2) Do the Radio-Altimeter System Operational Test ( AMM TASK 34-31-00-700-801-A/ 500). EMB-145  - AMM 1285 400-802-A/400 CONFIG-2 34-31-01 Page 7 of 7 Rev 49 - Feb  16/16 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="8" width="216.0" height="279.0">
+			<data/>
+		</page>
+	</pages>
+</metadata>

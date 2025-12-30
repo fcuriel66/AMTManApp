@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata id="MPP1285_24-35-00-05-1">
+	<file family="145" manual="AMM" pn="1285" chg="U" tsn="51" is_tr="false">
+		<title>AMM PART II-1285 - CHAPTER 24-35-00-05 - BACKUP BATTERY SYSTEM - ADJUSTMENT/TEST</title>
+		<path>/CHAPTER_24</path>
+		<hash>579150a4e344716164969370133279d1</hash>
+	</file>
+	<pages>
+		<page number="1" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL BACKUP BATTERY SYSTEM - ADJUSTMENT/TEST EFFECTIVITY:  ALL 1. General A. This section gives the procedures to do the operational test of the back-up battery system. B. The procedures in this section are given in the sequence below. The tasks identified with ( ♦) are part of the Scheduled Maintenance Requirements Document (SMRD). TASK NUMBER DESCRIPTION EFFECTIVITY BACK-UP BATTERY SYSTEM - OPERA- ALL 24-35-00-700-801-A TIONAL TEST  EMB-145  - AMM 1285 General 24-35-00 Page 1 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="2" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 24-35-00-700-801-A EFFECTIVITY:  ALL 2. BACK-UP BATTERY SYSTEM - OPERATIONAL TEST A. General (1) The function of this test is to make sure that the back-up battery system operates correctly. B. References REFERENCE DESIGNATION ENERGIZATION OF THE AIRCRAFT WITH AN EX- AMM TASK 20-40-01-860-801-A/200 TERNAL POWER SOURCE AMM TASK 24-35-01-400-801-A/400 BACKUP BATTERY - INSTALLATION AMM TASK 24-35-01-700-801-A/500 BACK-UP BATTERY - FUNCTIONAL CHECK C. Zones and Accesses Not Applicable D. Tools and Equipment Not Applicable E. Auxiliary Items Not Applicable F. Consumable Materials Not Applicable G. Expandable Parts Not Applicable H. Persons Recommended QTY FUNCTION PLACE 1 Does the task Cockpit I. Preparation SUBTASK 841-002-A (1) Make sure that the Back-up Battery is installed correctly ( AMM TASK 24-35-01-400-801-A/400). (2) Do the Functional Check of the Back-up Battery ( AMM TASK 24-35-01-700-801-A/ 500). (3) Energize the aircraft with the External DC-Power Supply ( AMM TASK 20-40-01-860-801-A/200). J. Test Procedure (Figure 501)  (Figure 502)  SUBTASK 710-002-A (1) Do the check as follows: EMB-145  - AMM 1285 700-801-A/500 24-35-00 Page 2 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="3" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL (a) Set the BATT 1 and BATT 2 switches, on the overhead panel, to AUTO. (b) Set the BACKUP pushbutton, on the overhead panel, to OFF. Result: 1 The EICAS display shows the BACKUP BATT OFF BUS caution message. 2 On the BACKUP pushbutton, the striped bar comes on. 3 The CAUTION lights flash. (c) Push a CAUTION light. Result: 1 The CAUTION lights go off. (d) Set the BACKUP pushbutton to AUTO. Result: 1 On the EICAS display, the BACKUP BATT OFF BUS caution message goes out of view. 2 On the BACKUP pushbutton, the striped bar goes off. (2) Set the BATT 1 and BATT 2 switches to OFF. K. Follow-on SUBTASK 842-002-A (1) Deenergize the aircraft ( AMM TASK 20-40-01-860-801-A/200). EMB-145  - AMM 1285 700-801-A/500 24-35-00 Page 3 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="4" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: FOR AIRCRAFT WITH AC STATIC INVERTER INSTALLED Back-up Battery System - Operational Test  Figure 501 A B B CAUT DET. B MASTER CAUTION LIGHT C ELECTRICAL GEN 1 GEN 3 GEN 2 GEN 4 END N1 DC BUS 1 CENTRAL BUS DC BUS 2 IGN IGN OFF OFF ITT BATT 2 BATT 1 SWITCH GPU  SWITCH AVAIL GPU APU GEN AUTO AUTO OFF OFF OIL VIB LDG GEAR FLAPS BATT 1 BATT 2 ESSENTIAL ESS DC BUS 1 POWER ESS DC BUS 2 PRESS TEMP LP HP SPLRS CLD BUS TIES SHED BUSES AUTO AUTO ROLL PITCH CAB ALT OFF OVRD OFF OVRD CAB        P UP CAB RATE YAW APU AC PWR BACKUP AVIONICS MASTER 1 2 DET. C DET. A EICAS DISPLAY BACKUP PUSHBUTTON ELECTRICAL PANEL EM145AMM240018B.DGN EMB-145  - AMM 1285 700-801-A/500 24-35-00 Page 4 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="5" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: FOR AIRCRAFT WITH AC STATIC INVERTER NOT INSTALLED Back-up Battery System - Operational Test  Figure 502 A B B CAUT DET. B MASTER CAUTION LIGHT C ELECTRICAL GEN 1 GEN 3 GEN 2 GEN 4 END N1 DC BUS 1 CENTRAL BUS DC BUS 2 IGN IGN OFF OFF ITT BATT 2 BATT 1 GPU  SWITCH AVAIL SWITCH GPU APU GEN AUTO AUTO OFF OFF OIL VIB LDG GEAR FLAPS BATT 1 BATT 2 ESSENTIAL ESS DC BUS 1 POWER ESS DC BUS 2 PRESS TEMP LP HP SPLRS CLD BUS TIES SHED BUSES AUTO AUTO ROLL PITCH CAB ALT OFF OVRD OFF OVRD CAB        P UP CAB RATE YAW APU BACKUP AVIONICS MASTER 1 2 DET. C DET. A EICAS DISPLAY BACKUP PUSHBUTTON ELECTRICAL PANEL EM145AMM240263C.DGN EMB-145  - AMM 1285 700-801-A/500 24-35-00 Page 5 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="6" width="216.0" height="279.0">
+			<data/>
+		</page>
+	</pages>
+</metadata>

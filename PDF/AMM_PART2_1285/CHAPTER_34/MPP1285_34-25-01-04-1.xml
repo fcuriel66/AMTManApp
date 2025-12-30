@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata id="MPP1285_34-25-01-04-1">
+	<file family="145" manual="AMM" pn="1285" chg="U" tsn="51" is_tr="false">
+		<title>AMM PART II-1285 - CHAPTER 34-25-01-04 - STANDBY MAGNETIC COMPASS - REMOVAL/INSTALLATION</title>
+		<path>/CHAPTER_34</path>
+		<hash>f020e399c5b44bd2bc6eab42d3b886c6</hash>
+	</file>
+	<pages>
+		<page number="1" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL STANDBY MAGNETIC COMPASS - REMOVAL/INSTALLATION EFFECTIVITY:  ALL 1. General A. This section gives the procedure to remove/install the Standby Magnetic Compass and the Standby Magnetic-Compass Lamp. B. The Standby Magnetic Compass is located in the center upper portion of the windshield structure, in the Cockpit. C. The Standby Magnetic Compass is attached to a bracket installed to the windshield structure, by means of non-magnetic screws. D. The procedures in this section are given in the sequence below. The tasks identified with ( ♦) are part of the Scheduled Maintenance Requirements Document (SMRD). TASK NUMBER DESCRIPTION EFFECTIVITY STANDBY MAGNETIC COMPASS - RE- ALL 34-25-01-000-801-A MOVAL  STANDBY MAGNETIC COMPASS - IN- ALL 34-25-01-400-801-A STALLATION  STANDBY MAGNETIC-COMPASS LAMP - ALL 34-25-01-000-802-A REMOVAL  STANDBY MAGNETIC-COMPASS LAMP - ALL 34-25-01-400-802-A INSTALLATION  EMB-145  - AMM 1285 General 34-25-01 Page 1 of 7 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="2" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 34-25-01-000-801-A EFFECTIVITY:  ALL 2. STANDBY MAGNETIC COMPASS - REMOVAL A. General (1) This task gives the procedure to remove the Standby Magnetic Compass. B. Zones and Accesses Not Applicable C. Tools and Equipment Not Applicable D. Auxiliary Items Not Applicable E. Consumable Materials Not Applicable F. Expandable Parts Not Applicable G. Persons Recommended QTY FUNCTION PLACE 1 Does the task Cockpit H. Preparation SUBTASK 841-002-A (1) Make sure that left panel light dimmer is positioned at OFF. I. Removal (Figure 401)  SUBTASK 020-002-A (1) Disconnect the connector (3) from the Standby Magnetic Compass (2). (2) Remove the screws (1). (3) Remove the Standby Magnetic Compass (2). EMB-145  - AMM 1285 000-801-A/400 34-25-01 Page 2 of 7 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="3" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: ALL Standby Magnetic Compass - Removal/Installation  Figure 401 B A ZONES 223 224 DET. A 1 1.  SCREW (4) 2 2.  STANDBY      MAGNETIC      COMPASS DET. B 1 P/N C-5J 3.  ELECTRICAL      CONNECTOR 2 P/N PGA1001WG 145AMM340521.MCE EMB-145  - AMM 1285 000-801-A/400 34-25-01 Page 3 of 7 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="4" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 34-25-01-400-801-A EFFECTIVITY:  ALL 3. STANDBY MAGNETIC COMPASS - INSTALLATION A. General (1) This task gives the procedure to install the Standby Magnetic Compass. B. References REFERENCE DESIGNATION AMM TASK 34-25-00-700-801-A/500 STANDBY MAGNETIC COMPASS - COMPENSATION C. Zones and Accesses Not Applicable D. Tools and Equipment Not Applicable E. Auxiliary Items Not Applicable F. Consumable Materials Not Applicable G. Expandable Parts Not Applicable H. Persons Recommended QTY FUNCTION PLACE 1 Does the task Cockpit I. Installation (Figure 401)  SUBTASK 420-002-A (1) Put the Standby Magnetic Compass (2) on its support. (2) Attach the Standby Magnetic Compass (2) to its support with the screws (1). (3) Connect the electrical connector (3). J. Follow-on SUBTASK 410-002-A (1) Do the compensation of Standby Magnetic Compass ( AMM TASK 34-25-00-700-801- A/500). EMB-145  - AMM 1285 400-801-A/400 34-25-01 Page 4 of 7 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="5" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 34-25-01-000-802-A EFFECTIVITY:  ALL 4. STANDBY MAGNETIC-COMPASS LAMP - REMOVAL A. General (1) This task gives the procedure to remove the Standby Magnetic-Compass Lamp. B. Zones and Accesses Not Applicable C. Tools and Equipment Not Applicable D. Auxiliary Items Not Applicable E. Consumable Materials Not Applicable F. Expandable Parts Not Applicable G. Persons Recommended QTY FUNCTION PLACE 1 Does the task Cockpit H. Preparation SUBTASK 841-003-A (1) Make sure that the Pilot Panel Lights switch is set at the OFF position. I. Removal (Figure 402)  SUBTASK 020-003-A (1) Manually rotate the Lamp Cap (3) anticlockwise and remove it. (2) Remove the Lamp (2). EMB-145  - AMM 1285 000-802-A/400 34-25-01 Page 5 of 7 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="6" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: ALL Standby Magnetic-Compass Lamp - Removal/Installation  Figure 402 B A DET- A  ZONE 1. STANDBY 223 2. LAMP MAGNETIC 224 COMPASS 3. LAMP CAP 1. STANDBY 1 MAGNETIC COMPASS COMPASS SUPPORT 2. LAMP DET. B 3. LAMP CAP 2 COMPASS SUPPORT 1 P/N  C-5J DET. B 2 P/N  PGA1001WG 145AMM340935.MCE EMB-145  - AMM 1285 000-802-A/400 34-25-01 Page 6 of 7 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="7" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 34-25-01-400-802-A EFFECTIVITY:  ALL 5. STANDBY MAGNETIC-COMPASS LAMP - INSTALLATION A. General (1) This task gives the procedure to install the Standby Magnetic-Compass Lamp. B. References REFERENCE DESIGNATION INSTRUMENT AND CONTROL PANEL LIGHTS - OP- AMM TASK 33-12-00-700-801-A/500 ERATIONAL TEST C. Zones and Accesses Not Applicable D. Tools and Equipment Not Applicable E. Auxiliary Items Not Applicable F. Consumable Materials Not Applicable G. Expandable Parts Not Applicable H. Persons Recommended QTY FUNCTION PLACE 1 Does the task Cockpit I. Installation (Figure 402)  SUBTASK 420-003-A (1) Put the Lamp (2) in position. (2) Install the Lamp Cap (3) and manually rotate it clockwise until it locks. J. Follow-on SUBTASK 410-003-A (1) Do the test of the Pilot Panel Ligths ( AMM TASK 33-12-00-700-801-A/500). EMB-145  - AMM 1285 400-802-A/400 34-25-01 Page 7 of 7 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="8" width="216.0" height="279.0">
+			<data/>
+		</page>
+	</pages>
+</metadata>

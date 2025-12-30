@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata id="MPP1285_75-43-01-05-1">
+	<file family="145" manual="AMM" pn="1285" chg="U" tsn="51" is_tr="false">
+		<title>AMM PART II-1285 - CHAPTER 75-43-01-05 - COMPRESSOR-INLET-PRESSURE SENSOR (P2.5) - ADJUSTMENT/TEST</title>
+		<path>/CHAPTER_75</path>
+		<hash>e11484ca532ffdde4d166f2eada924e8</hash>
+	</file>
+	<pages>
+		<page number="1" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL COMPRESSOR-INLET-PRESSURE SENSOR (P2.5) - ADJUSTMENT/TEST EFFECTIVITY:  ALL 1. General A. This section gives the procedure to do the electrical check of the compressor-inlet-pressure (P2.5) sensor. B. These procedures are applicable to the LH and RH engines. C. The procedures in this section are given in the sequence below. The tasks identified with ( ♦) are part of the Scheduled Maintenance Requirements Document (SMRD). TASK NUMBER DESCRIPTION EFFECTIVITY COMPRESSOR-INLET-PRESSURE (P2.5) ALL 75-43-01-700-801-A SENSOR - ELECTRICAL CHECK  EMB-145  - AMM 1285 General 75-43-01 Page 1 of 3 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="2" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 75-43-01-700-801-A EFFECTIVITY:  ALL 2. COMPRESSOR-INLET-PRESSURE (P2.5) SENSOR - ELECTRICAL CHECK A. General (1) This task is applicable to the two CIP sensors on the front frame of the engine. (2) To do the electrical check of the compressor-inlet-pressure (P2.5) sensor, obey the instructions in Rolls-Royce MM CSP 34022. B. References REFERENCE DESIGNATION AMM MPP 71-00-00/200 - MAINTENANCE PRACTICES AMM TASK 71-11-01-000-801-A/400 ENGINE UPPER COWLING - REMOVAL AMM TASK 71-11-01-400-801-A/400 ENGINE UPPER COWLING - INSTALLATION AMM TASK 71-12-01-000-802-A/400 ENGINE LOWER COWLING - REMOVAL AMM TASK 71-12-01-400-802-A/400 ENGINE LOWER COWLING - INSTALLATION C. Zones and Accesses ZONE PANEL/DOOR LOCATION 413 Lower Cowling LH Engine 423 Lower Cowling RH Engine 414 Upper Cowling LH Engine 424 Upper Cowling RH Engine D. Tools and Equipment Not Applicable E. Auxiliary Items ITEM DESCRIPTION PURPOSE QTY Commercially Workstand To get access to the engine 01 available F. Consumable Materials Not Applicable G. Expandable Parts Not Applicable H. Persons Recommended QTY FUNCTION PLACE 01 Does the task Engine work area EMB-145  - AMM 1285 700-801-A/500 75-43-01 Page 2 of 3 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="3" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL I. Preparation SUBTASK 841-002-A WARNING: MAKE SURE THE ENGINE START/STOP SWITCH IS IN THE “OFF” POSITION TO PREVENT AN ACCIDENTAL ENGINE OPERATION. (1) On the circuit breaker panel, open these circuit breakers and attach DO-NOT-CLOSE tags to them: – START 1/2. (2) Remove the lower cowling (AMM TASK 71-12-01-000-802-A/400). (3) Remove the upper cowling (AMM TASK 71-11-01-000-801-A/400). J. Electrical Check SUBTASK 760-002-A WARNING: BEFORE YOU DO THE TASK OBEY THE SAFETY PRECAUTIONS GIVEN IN AMM MPP 71-00-00/200 TO PREVENT INJURY TO THE PERSONS AND DAMAGE TO THE MATERIAL. (1) Do the electrical check of the compressor-inlet-pressure (P2.5) sensor. Refer to the last revision of Rolls-Royce MM CSP 34022. K. Follow-on SUBTASK 842-002-A (1) Install the upper cowling (AMM TASK 71-11-01-400-801-A/400). (2) Install the lower cowling (AMM TASK 71-12-01-400-802-A/400). (3) Remove the DO-NOT-CLOSE tags and close the applicable circuit breakers. • START 1/2. (4) Refer to the Rolls-Royce MM CSP 34022 to do the related check procedures after an engine LRU maintenance procedure, as applicable. EMB-145  - AMM 1285 700-801-A/500 75-43-01 Page 3 of 3 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="4" width="216.0" height="279.0">
+			<data/>
+		</page>
+	</pages>
+</metadata>

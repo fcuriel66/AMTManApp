@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata id="MPP1285_24-20-00-05-1">
+	<file family="145" manual="AMM" pn="1285" chg="U" tsn="51" is_tr="false">
+		<title>AMM PART II-1285 - CHAPTER 24-20-00-05 - AC GENERATION - ADJUSTMENT/TEST</title>
+		<path>/CHAPTER_24</path>
+		<hash>16531693fcdd2e2feb8ce19d0958a9fd</hash>
+	</file>
+	<pages>
+		<page number="1" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL AC GENERATION - ADJUSTMENT/TEST EFFECTIVITY:  FOR AIRCRAFT WITH AC STATIC INVERTER INSTALLED 1. General A. This section gives the procedures to do the operational test of the AC generation system. B. The procedures in this section are given in the sequence below. The tasks identified with ( ♦) are part of the Scheduled Maintenance Requirements Document (SMRD). TASK NUMBER DESCRIPTION EFFECTIVITY FOR AIRCRAFT WITH AC GENERATION SYSTEM - OPERA- AC STATIC INVERTER 24-20-00-700-801-A TIONAL TEST INSTALLED   EMB-145  - AMM 1285 General 24-20-00 Page 1 of 4 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="2" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 24-20-00-700-801-A EFFECTIVITY:  FOR AIRCRAFT WITH AC STATIC INVERTER INSTALLED 2. AC GENERATION SYSTEM - OPERATIONAL TEST A. General (1) The function of this test is to make sure that the AC generation system operates correctly. B. References REFERENCE DESIGNATION ENERGIZATION OF THE AIRCRAFT WITH AN EX- AMM TASK 20-40-01-860-801-A/200 TERNAL POWER SOURCE C. Zones and Accesses Not Applicable D. Tools and Equipment Not Applicable E. Auxiliary Items Not Applicable F. Consumable Materials Not Applicable G. Expandable Parts Not Applicable H. Persons Recommended QTY FUNCTION PLACE 1 Does the task Cockpit I. Preparation SUBTASK 841-002-A (1) Energize the aircraft with the External DC-Power Supply ( AMM TASK 20-40-01-860-801-A/200). J. Test Procedure (Figure 501)  SUBTASK 710-002-A (1) Do the test as follows: (a) Set the AC PWR pushbutton, on the overhead panel, to OFF/RESET. Result: 1 The EICAS display shows the 115 VAC BUS OFF, WINDSHEAR INOP, and GPWS INOP caution messages. 2 On the AC PWR pushbutton, the striped bar comes on. 3 The master CAUTION lights flash. EMB-145  - AMM 1285 700-801-A/500 24-20-00 Page 2 of 4 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="3" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL (b) Push a master CAUTION light. Result: 1 The master CAUTION lights go off. (c) Set the AC PWR pushbutton to ON. Result: 1 On the EICAS display the, 115 VAC BUS OFF, WINDSHEAR INOP, and GPWS INOP caution messages go out of view. 2 On the AC PWR pushbutton, the striped bar goes off. K. Follow-on SUBTASK 842-002-A (1) Deenergize the aircraft ( AMM TASK 20-40-01-860-801-A/200). EMB-145  - AMM 1285 700-801-A/500 24-20-00 Page 3 of 4 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="4" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: FOR AIRCRAFT WITH AC STATIC INVERTER INSTALLED AC Generation System Operational Test  Figure 501 A B B CAUT DET. B MASTER CAUTION LIGHT C ELECTRICAL GEN 1 GEN 3 GEN 2 GEN 4 END 88.1 T/O-1 88.1 REV N1 REV 75.0 75.0 A A IGN IGN DC BUS 1 CENTRAL BUS DC BUS 2 AB AB 550 550 ITT GPU  AVAIL 99.9 % N2 99.9 % 990 PPH FF 990 PPH GPU APU GEN AUTO AUTO 900 LB FQ 1000 LB OFF OFF LDG GEAR OIL VIB UP UP UP FLAPS 0 79 79 100 100 BATT 1 BATT 2 ESSENTIAL PRESS TEMP LP HP SPLRS CLD ESS DC BUS 1 POWER ESS DC BUS 2 BUS TIES SHED BUSES ROLL PITCH CAB ALT 7000 FT AUTO AUTO CAB       P 7.5 PSI UP OFF OVRD OFF OVRD 9 CAB RATE -2000 FPM YAW APU 100 % 600˚C AC PWR BACKUP AVIONICS MASTER 1 2 DET. C EICAS DISPLAY DET. A ELECTRICAL PANEL AC PWR PUSHBUTTON 145AMM240019.MCE A EMB-145  - AMM 1285 700-801-A/500 24-20-00 Page 4 of 4 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+	</pages>
+</metadata>

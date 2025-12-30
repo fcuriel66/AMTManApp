@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata id="MPP1285_21-26-02-04-1">
+	<file family="145" manual="AMM" pn="1285" chg="U" tsn="51" is_tr="false">
+		<title>AMM PART II-1285 - CHAPTER 21-26-02-04 - FAN - REMOVAL/INSTALLATION</title>
+		<path>/CHAPTER_21</path>
+		<hash>899554757c84f07c41709cb629af85f0</hash>
+	</file>
+	<pages>
+		<page number="1" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL FAN - REMOVAL/INSTALLATION EFFECTIVITY:  ALL 1. General A. There are two recirculation fans (between frames 2 and 3) and two exhaust fans (between frames 5 and 6). B. The fans are symmetrically installed in the electronic compartment. C. The procedures in this section are given in the sequence below. The tasks identified with ( ♦) are part of the Scheduled Maintenance Requirements Document (SMRD). TASK NUMBER DESCRIPTION EFFECTIVITY ALL 21-26-02-000-801-A FAN - REMOVAL   ALL 21-26-02-400-801-A FAN - INSTALLATION   EMB-145  - AMM 1285 General 21-26-02 Page 1 of 7 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="2" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 21-26-02-000-801-A EFFECTIVITY:  ALL 2. FAN - REMOVAL A. General (1) This task gives the procedures to remove the recirculation and the exhaust fans. B. References REFERENCE DESIGNATION AMM MPP 06-41-01/100 - C. Zones and Accesses ZONE PANEL/DOOR LOCATION 113 113CZ Nose landing gear compartment D. Tools and Equipment Not Applicable E. Auxiliary Items Not Applicable F. Consumable Materials Not Applicable G. Expandable Parts Not Applicable H. Persons Recommended QTY FUNCTION PLACE 1 Does the task Electronic compartment I. Preparation SUBTASK 841-002-A (1) On the overhead circuit breaker panel, open the following circuit breakers and attach a DO-NOT-CLOSE tag to each one of them, as applicable: – EXHAUST 1 (LH exhaust fan). – EXHAUST 2 (RH exhaust fan). – RECIRC 1 (LH recirculation fan). – RECIRC 2 (RH recirculation fan). (2) Open access panel 113CZ (AMM MPP 06-41-01/100). EMB-145  - AMM 1285 000-801-A/400 21-26-02 Page 2 of 7 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="3" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL J. Removal of the Fans (Figure 401)  (Figure 402)  SUBTASK 020-002-A (1) Remove the recirculation fan (Figure 401) as follows: (a) Disconnect the electrical connector (9). (b) Remove the bolts (1), washers (2), ring (3), spacers (4), grid (6), washers (7), and nuts (8). (c) Remove the recirculation fan (5). (2) Remove the exhaustion fan (Figure 402) as follows: (a) Disconnect the electrical connector (6). (b) Remove the bolts (5), washers (4), grid (3), ring (2), and spacers (1). (c) Remove the exhaust fan (7). EMB-145  - AMM 1285 000-801-A/400 21-26-02 Page 3 of 7 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="4" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: ALL Recirculation Fan – Removal/Installation  Figure 401 A ZONES 113 114 B DET. A 5. RECIRCULATION 1 6. GRID SUPPORT (REF.) FAN 9. ELECTRICAL CONNECTOR 1. BOLT 2. WASHER 3. RING 4. SPACER 8. NUT DET. B 6. GRID 7. WASHER 1 POST-MOD SB145-21-0004 145AMM210021.MCE B EMB-145  - AMM 1285 000-801-A/400 21-26-02 Page 4 of 7 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="5" width="216.0" height="279.0">
+			<data>ZONES 213 214 AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: ALL Exhaust Fan – Removal/Installation  Figure 402 B A DET. A 5. BOLT 4. WASHER 3. GRID 1. SPACER SUPPORT 2. RING (REF.) 6. ELECTRICAL CONNECTOR 7. EXHAUSTION FAN DET. B 145AMM210022.MCE A EMB-145  - AMM 1285 000-801-A/400 21-26-02 Page 5 of 7 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="6" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 21-26-02-400-801-A EFFECTIVITY:  ALL 3. FAN - INSTALLATION A. General (1) This task gives the procedures to install the recirculation and the exhaust fans. B. References REFERENCE DESIGNATION AMM MPP 06-41-01/100 - ELECTRONIC COMPARTMENT VENTILATION SYS- AMM TASK 21-26-00-700-801-A/500 TEM - OPERATIONAL CHECK C. Zones and Accesses ZONE PANEL/DOOR LOCATION 113 113CZ Nose-landing-gear compartment D. Tools and Equipment Not Applicable E. Auxiliary Items Not Applicable F. Consumable Materials Not Applicable G. Expandable Parts Not Applicable H. Persons Recommended QTY FUNCTION PLACE 1 Does the task Electronic compartment I. Preparation SUBTASK 841-003-A (1) Make sure that the following circuit breakers on the overhead circuit breaker panel are open and safe, as applicable: – EXHAUST 1 (LH exhaust fan). – EXHAUST 2 (RH exhaust fan). – RECIRC 1 (LH recirculation fan). – RECIRC 2 (RH recirculation fan). EMB-145  - AMM 1285 400-801-A/400 21-26-02 Page 6 of 7 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="7" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL J. Installation of the Fans (Figure 401) (Figure 402)  SUBTASK 420-002-A (1) Install the recirculation fan (Figure 401) as follows: (a) Put the recirculation fan (5) in the installation position. (b) Install the bolts (1), washers (2), ring (3), spacers (4), grid (6), washer (7), and nut (8). (c) Connect the electrical connector (9). (2) Install the exhaust fan (Figure 402) as follows: (a) Put the exhaust fan (7) in the installation position. (b) Install the bolts (5), washers (4), grid (3), ring (2), and spacers (1). (c) Connect the electrical connector (6). K. Follow-on SUBTASK 842-002-A (1) On the overhead circuit breaker panel, close the following circuit breakers and remove the DO-NOT-CLOSE tag from them, as applicable: – EXHAUST 1 (LH exhaust fan). – EXHAUST 2 (RH exhaust fan). – RECIRC 1 (LH recirculation fan). – RECIRC 2 (RH recirculation fan). (2) Do the operational check of the electronic compartment ventilation system ( AMM TASK 21-26-00-700-801-A/500). (3) Install access panel 113CZ (AMM MPP 06-41-01/100). EMB-145  - AMM 1285 400-801-A/400 21-26-02 Page 7 of 7 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="8" width="216.0" height="279.0">
+			<data/>
+		</page>
+	</pages>
+</metadata>

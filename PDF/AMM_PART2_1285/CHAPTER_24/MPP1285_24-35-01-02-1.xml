@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata id="MPP1285_24-35-01-02-1">
+	<file family="145" manual="AMM" pn="1285" chg="U" tsn="51" is_tr="false">
+		<title>AMM PART II-1285 - CHAPTER 24-35-01-02 - BACKUP BATTERY - MAINTENANCE PRACTICES</title>
+		<path>/CHAPTER_24</path>
+		<hash>c2a8d6e5323e858d41564fd372dba3c0</hash>
+	</file>
+	<pages>
+		<page number="1" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL BACKUP BATTERY - MAINTENANCE PRACTICES EFFECTIVITY:  ALL 1. General A. This section refers you to the publication necessary to put the back-up battery back to a serviceable condition. B. The procedures in this section are given in the sequence below. The tasks identified with ( ♦) are part of the Scheduled Maintenance Requirements Document (SMRD). TASK NUMBER DESCRIPTION EFFECTIVITY ALL 24-35-01-900-801-A ♦ BACK-UP BATTERY - RESTORE   EMB-145  - AMM 1285 General 24-35-01 Page 1 of 4 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="2" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 24-35-01-900-801-A EFFECTIVITY:  ALL 2. BACK-UP BATTERY - RESTORE A. General (1) The aircraft has a back-up battery installed on the right side of the forward electronic compartment. B. References REFERENCE DESIGNATION AMM MPP 06-41-01/100 - AMM TASK 24-35-01-000-801-A/400 BACKUP BATTERY - REMOVAL AMM TASK 24-35-01-400-801-A/400 BACKUP BATTERY - INSTALLATION HYDRAULIC SYSTEM - PRESSURIZATION WITH AMM TASK 29-10-00-860-802-A/200 EMDP AMM TASK 32-00-01-910-801-A/200 LG SAFETY PIN - INSTALLATION AND REMOVAL SAFETY PIN OF THE NLG DOORS SOLENOID AMM TASK 32-00-02-910-801-A/200 VALVE - INSTALLATION AND REMOVAL SB145-32-0036 - C. Zones and Accesses ZONE PANEL/DOOR LOCATION 114 114BZ Nose-Landing-Gear Compartment D. Tools and Equipment Not Applicable E. Auxiliary Items Not Applicable F. Consumable Materials Not Applicable G. Expandable Parts Not Applicable H. Persons Recommended QTY FUNCTION PLACE 1 Does the task  I. Preparation SUBTASK 841-002-A (1) On aircraft PRE-MOD SB145-32-0036, make sure that the pressure in hydraulic system 1 is fully released ( AMM TASK 29-10-00-860-802-A/200). EMB-145  - AMM 1285 900-801-A/200 24-35-01 Page 2 of 4 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="3" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL (2) On aircraft POST-MOD SB145-32-0036, install the safety pin of the NLG door solenoid valve (AMM TASK 32-00-02-910-801-A/200). (3) Make sure that the nose-landing-gear safety pin ( AMM TASK 32-00-01-910-801-A/ 200) is installed. (4) Open access panel 114BZ (AMM MPP 06-41-01/100). J. Restore Back-up Battery (Figure 201)  SUBTASK 900-002-A (1) Replace the back-up battery with another one, in good conditions for flight ( AMM TASK 24-35-01-000-801-A/400 and AMM TASK 24-35-01-400-801-A/400). (2) Do the Capacity Test according to the latest revision of the Component Maintenance Manual, PS-835, Emergency Power Supply, part number 501-1228-[ ] by L-3 Communications, in order to put the removed back-up battery into a serviceable condition. K. Follow-on SUBTASK 842-002-A (1) Close access panel 114BZ (AMM MPP 06-41-01/100). (2) On aircraft POST-MOD SB145-32-0036, remove the safety pin of the NLG door solenoid valve (AMM TASK 32-00-02-910-801-A/200). EMB-145  - AMM 1285 900-801-A/200 24-35-01 Page 3 of 4 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="4" width="216.0" height="279.0">
+			<data>OVER 55 C CELL TEST AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: ALL Back-up Battery - Restoration  Figure 201 B A ZONE 114 DET. A DET. B BACK-UP BATTERY 145AMM240011.MCE A EMB-145  - AMM 1285 900-801-A/200 24-35-01 Page 4 of 4 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+	</pages>
+</metadata>

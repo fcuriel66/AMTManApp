@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata id="MPP1285_31-51-01-04-1">
+	<file family="145" manual="AMM" pn="1285" chg="U" tsn="51" is_tr="false">
+		<title>AMM PART II-1285 - CHAPTER 31-51-01-04 - AURAL WARNING UNIT - REMOVAL/INSTALLATION</title>
+		<path>/CHAPTER_31</path>
+		<hash>c3d4616b14d71d5e894b82811fea6083</hash>
+	</file>
+	<pages>
+		<page number="1" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL AURAL WARNING UNIT - REMOVAL/INSTALLATION EFFECTIVITY:  ALL 1. General A. This section gives the procedures to remove and install the aural warning unit. B. The procedures in this section are given in the sequence below. The tasks identified with ( ♦) are part of the Scheduled Maintenance Requirements Document (SMRD). TASK NUMBER DESCRIPTION EFFECTIVITY ALL 31-51-01-000-801-A AURAL WARNING UNIT - REMOVAL   ALL 31-51-01-400-801-A AURAL WARNING UNIT - INSTALLATION   EMB-145  - AMM 1285 General 31-51-01 Page 1 of 6 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="2" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 31-51-01-000-801-A EFFECTIVITY:  ALL 2. AURAL WARNING UNIT - REMOVAL A. General (1) This procedure gives the instructions to remove the aural warning unit. B. References REFERENCE DESIGNATION AMM MPP 06-41-01/100 - HYDRAULIC SYSTEM - PRESSURIZATION WITH AMM TASK 29-10-00-860-802-A/200 EMDP SAFETY PIN OF THE NLG DOORS SOLENOID AMM TASK 32-00-02-910-801-A/200 VALVE - INSTALLATION AND REMOVAL SB145-32-0036 - C. Zones and Accesses ZONE PANEL/DOOR LOCATION 113 113CZ Forward electronic compartment D. Tools and Equipment Not Applicable E. Auxiliary Items Not Applicable F. Consumable Materials Not Applicable G. Expandable Parts Not Applicable H. Persons Recommended QTY FUNCTION PLACE 1 Does the task At the forward electronic compartment I. Preparation SUBTASK 841-002-A (1) On the circuit breaker panel, open the AWS 1 and AWS 2 circuit breakers and attach the DO-NOT-CLOSE tag to them. (2) (Applicable only to aircraft PRE-MOD SB145-32-0036) Make sure that the pressure in hydraulic system 1 is totally released ( AMM TASK 29-10-00-860-802-A/200). (3) (Applicable only to aircraft POST-MOD SB145-32-0036) Install the safety pin of the NLG door solenoid valve (AMM TASK 32-00-02-910-801-A/200). EMB-145  - AMM 1285 000-801-A/400 31-51-01 Page 2 of 6 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="3" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL (4) Open access door 113CZ (AMM MPP 06-41-01/100). J. Removal (Figure 401)  SUBTASK 020-002-A (1) Release the two knurled nuts (2). (2) Pull the aural warning unit (3) until it is disconnected from the two electrical connectors (1) attached to the mounting rack. (3) Remove the aural warning unit (3). EMB-145  - AMM 1285 000-801-A/400 31-51-01 Page 3 of 6 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="4" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: ALL Aural Warning Unit - Removal/Installation  Figure 401 B A ZONES 213 214 1 DET. A B 1 DET. A 1. ELECTRICAL     CONNECTOR 3. AURAL WARNING     UNIT DET. B 2. KNURLED     NUT (2) 1 AIRCRAFT WITH AWU INSTALLED ON THE LEFT SIDE (FLIGHT DIRECTION) OR IN THE FRONT REGION OF THE FORWARD ELECTRONIC COMPARTMENT, AS APPLICABLE. 145AMM310074.MCE B EMB-145  - AMM 1285 000-801-A/400 31-51-01 Page 4 of 6 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="5" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 31-51-01-400-801-A EFFECTIVITY:  ALL 3. AURAL WARNING UNIT - INSTALLATION A. General (1) This procedure gives the instructions to install the aural warning unit. B. References REFERENCE DESIGNATION AMM MPP 06-41-01/100 - AMM TASK 31-51-00-700-801-A/500 AURAL WARNING UNIT - OPERATIONAL TEST SAFETY PIN OF THE NLG DOORS SOLENOID AMM TASK 32-00-02-910-801-A/200 VALVE - INSTALLATION AND REMOVAL SB145-32-0036 - C. Zones and Accesses ZONE PANEL/DOOR LOCATION 113 113CZ Forward electronic compartment D. Tools and Equipment Not Applicable E. Auxiliary Items Not Applicable F. Consumable Materials Not Applicable G. Expandable Parts Not Applicable H. Persons Recommended QTY FUNCTION PLACE 1 Does the task At the forward electronic compartment I. Installation (Figure 401)  SUBTASK 420-002-A (1) Install the aural warning unit (3) on the mounting rack. (2) Push the aural warning unit (3) until it is connected to the two electrical connectors (1) attached to the mounting rack. (3) Attach the two knurled nuts (2). EMB-145  - AMM 1285 400-801-A/400 31-51-01 Page 5 of 6 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="6" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL J. Follow-on SUBTASK 842-002-A (1) On the circuit breaker panel, remove the DO-NOT-CLOSE tag from the AWS 1 and AWS 2 circuit breakers and close them. (2) Do the aural warning unit operational test ( AMM TASK 31-51-00-700-801-A/500). (3) Close access door 113CZ (AMM MPP 06-41-01/100). (4) (Applicable only to aircraft POST-MOD SB145-32-0036) Remove the safety pin of the NLG door solenoid valve (AMM TASK 32-00-02-910-801-A/200). EMB-145  - AMM 1285 400-801-A/400 31-51-01 Page 6 of 6 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+	</pages>
+</metadata>

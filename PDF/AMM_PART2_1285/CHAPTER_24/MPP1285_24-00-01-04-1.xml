@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata id="MPP1285_24-00-01-04-1">
+	<file family="145" manual="AMM" pn="1285" chg="U" tsn="51" is_tr="false">
+		<title>AMM PART II-1285 - CHAPTER 24-00-01-04 - ELECTRICAL CONTROL PANEL - REMOVAL/INSTALLATION</title>
+		<path>/CHAPTER_24</path>
+		<hash>99a6e4631d318da0e0c649864f06a4b9</hash>
+	</file>
+	<pages>
+		<page number="1" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL ELECTRICAL CONTROL PANEL - REMOVAL/INSTALLATION EFFECTIVITY:  ALL 1. General A. This section gives the procedures to remove / install the electrical power control panel. B. The procedures in this section are given in the sequence below. The tasks identified with ( ♦) are part of the Scheduled Maintenance Requirements Document (SMRD). TASK NUMBER DESCRIPTION EFFECTIVITY ELECTRICAL POWER CONTROL PANEL - ALL 24-00-01-000-801-A REMOVAL  ELECTRICAL POWER CONTROL PANEL - ALL 24-00-01-400-801-A INSTALLATION  EMB-145  - AMM 1285 General 24-00-01 Page 1 of 7 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="2" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 24-00-01-000-801-A EFFECTIVITY:  ALL 2. ELECTRICAL POWER CONTROL PANEL - REMOVAL A. General (1) This task gives the procedures to remove the Electrical Power Control Panel. B. References REFERENCE DESIGNATION ENERGIZATION OF THE AIRCRAFT WITH AN EX- AMM TASK 20-40-01-860-801-A/200 TERNAL POWER SOURCE C. Zones and Accesses Not Applicable D. Tools and Equipment Not Applicable E. Auxiliary Items Not Applicable F. Consumable Materials Not Applicable G. Expandable Parts Not Applicable H. Persons Recommended QTY FUNCTION PLACE 1 Does the task Cockpit I. Preparation SUBTASK 841-002-A (1) Make sure that the engines are not in operation. (2) Deenergize the aircraft ( AMM TASK 20-40-01-860-801-A/200). (3) Make sure that the GPU is not connected to the DC external power receptacle. J. Removal (Figure 401)  (Figure 402)  SUBTASK 020-002-A (1) Refer to Figure 401 and do as follows: (a) Cut the Lockwire (2) from the power connectors (1) of the main batteries (3). (b) Disconnect the power connectors (1) from the main batteries (3). (2) Refer to Figure 402 and do as follows: EMB-145  - AMM 1285 000-801-A/400 24-00-01 Page 2 of 7 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="3" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL (a) Loosen the Dzus fasteners (1) that attach the electrical power control panel (2) to the panel. (b) Carrefully pull the electrical control panel (2) from its housing to get access to the electrical connectors (3). (c) Disconnect the electrical connectors (3) from the electrical control panel. (d) Put ESD protective caps on the electrical connectors (3). EMB-145  - AMM 1285 000-801-A/400 24-00-01 Page 3 of 7 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="4" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: ALL Power Control/Distribution Box - Removal/Installation  Figure 401 A ZONE 113 ACCESS DOOR 113 DL DET. A B 3. MAIN BATTERIES 1. POWER CONNECTORS 2. LOCKWIRE DET. B MAIN BATTERIES 145AMM240134.MCE A EMB-145  - AMM 1285 000-801-A/400 24-00-01 Page 4 of 7 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="5" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: ALL Electrical Power Control Panel - Removal/Installation  Figure 402 A 3. ELECTRICAL     CONNECTOR (3) PANEL (REF.) 1. DZUS     FASTENER (6) 2. ELECTRICAL     CONTROL PANEL DET. A EM145AMM240604A.DGN EMB-145  - AMM 1285 000-801-A/400 24-00-01 Page 5 of 7 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="6" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 24-00-01-400-801-A EFFECTIVITY:  ALL 3. ELECTRICAL POWER CONTROL PANEL - INSTALLATION A. General (1) This task gives the procedures to install the electrical power control panel. B. References REFERENCE DESIGNATION AMM TASK 24-20-00-700-801-A/500 AC GENERATION SYSTEM - OPERATIONAL TEST AMM TASK 24-31-00-700-803-A/500 MAIN GENERATION SYSTEM - OPERATIONAL TEST AMM TASK 24-34-00-700-803-A/500 APU GENERATION SYSTEM - OPERATIONAL TEST ELECTRICAL EMERGENCY TRANSFER CIRCUIT - AMM TASK 24-60-00-700-801-A/500 OPERATIONAL CHECK AMM TASK 24-62-00-700-801-A/500 AVIONICS MASTER SYSTEM - OPERATIONAL TEST C. Zones and Accesses Not Applicable D. Tools and Equipment Not Applicable E. Auxiliary Items Not Applicable F. Consumable Materials SPECIFICATION DESCRIPTION QTY (BRAND) 400 ASTM B 134-(OS) Lockwire - Annealed Brass C26000, .012 in (mm) G. Expandable Parts Not Applicable H. Persons Recommended QTY FUNCTION PLACE 1 Does the task Cockpit I. Installation (Figure 402)  SUBTASK 420-002-A (1) Refer to Figure 402 and do as follows: (a) Remove the ESD protective caps from the electrical connectors (3). (b) Connect the electrical connectors (3) to the electrical control panel (2). EMB-145  - AMM 1285 400-801-A/400 24-00-01 Page 6 of 7 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="7" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL (c) Carefully put the electrical control panel (2) in its installation position. (d) Tighten the Dzus fasteners (1). (e) Connect the power connectors to the main batteries. (f) Use a lockwire (2) to lock the power connectors (1) of the main batteries (3). J. Follow-on SUBTASK 842-002-A (1) Do the main generation system operational test ( AMM TASK 24-31-00-700-803-A/ 500). (2) Do the APU generation system operational test ( AMM TASK 24-34-00-700-803-A/ 500). (3) Do the electrical emergency transfer circuit operational test ( AMM TASK 24-60-00-700-801-A/500). (4) Do the AC generation system operational test ( AMM TASK 24-20-00-700-801-A/500). (5) Do the avionics master system operational test ( AMM TASK 24-62-00-700-801-A/ 500). EMB-145  - AMM 1285 400-801-A/400 24-00-01 Page 7 of 7 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="8" width="216.0" height="279.0">
+			<data/>
+		</page>
+	</pages>
+</metadata>

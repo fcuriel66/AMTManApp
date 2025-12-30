@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata id="MPP1285_34-23-02-04-1">
+	<file family="145" manual="AMM" pn="1285" chg="U" tsn="51" is_tr="false">
+		<title>AMM PART II-1285 - CHAPTER 34-23-02-04 - HGS CONTROL PANEL - REMOVAL/INSTALLATION</title>
+		<path>/CHAPTER_34</path>
+		<hash>ddd59778515b8e2867a00ba12befd2e2</hash>
+	</file>
+	<pages>
+		<page number="1" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL HGS CONTROL PANEL - REMOVAL/INSTALLATION EFFECTIVITY:  AIRCRAFT WITH HEAD-UP GUIDANCE SYSTEM 1. General A. This section gives the procedure to remove/install the HGS Control Panel. B. The HGS Control Panel is installed on the Control Pedestal. C. The procedures in this section are given in the sequence below. The tasks identified with ( ♦) are part of the Scheduled Maintenance Requirements Document (SMRD). TASK NUMBER DESCRIPTION EFFECTIVITY AIRCRAFT WITH HEAD-UP GUIDANCE 34-23-02-000-801-A HGS CONTROL PANEL - REMOVAL SYSTEM   AIRCRAFT WITH HEAD-UP GUIDANCE 34-23-02-400-801-A HGS CONTROL PANEL - INSTALLATION SYSTEM   EMB-145  - AMM 1285 General 34-23-02 Page 1 of 4 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="2" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 34-23-02-000-801-A EFFECTIVITY:  AIRCRAFT WITH HEAD-UP GUIDANCE SYSTEM 2. HGS CONTROL PANEL - REMOVAL A. General (1) This task gives the procedure to remove the HGS Control Panel. B. Zones and Accesses Not Applicable C. Tools and Equipment Not Applicable D. Auxiliary Items Not Applicable E. Consumable Materials Not Applicable F. Expandable Parts Not Applicable G. Persons Recommended QTY FUNCTION PLACE 1 Does the task Cockpit H. Preparation SUBTASK 841-002-A (1) On the circuit breaker panel, open the HCP circuit breaker and attach a DO-NOT- CLOSE tag to it. (2) Make sure that the pedestal panel light rotary switch, on the glareshield panel, is set to the OFF position. I. Removal (Figure 401)  SUBTASK 020-002-A (1) Loosen the four Dzus fasteners (1). (2) Pull the HGS Control Panel (2) to get access to the electrical connector (3). (3) Disconnect the electrical connector (3) from the HGS Control Panel (2). (4) Remove the HGS Control Panel (2). EMB-145  - AMM 1285 000-801-A/400 34-23-02 Page 2 of 4 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="3" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: AIRCRAFT WITH HEAD-UP GUIDANCE SYSTEM HGS Control Panel - Removal/Installation  Figure 401 A ZONES 223 224 C DET. A B 2. HGS CONTROL PANEL DET. B 3. ELECTRICAL CONNECTOR HGS CONTROL PANEL 1. DZU FASTENER (4) 1 2 3 MODE H STBY 4 5 6 G RWY 7 8 9 S G/S ENTER 0 TEST FAULT CLR BRT DIM DET. C 145AMM340434.MCE EMB-145  - AMM 1285 000-801-A/400 34-23-02 Page 3 of 4 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="4" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 34-23-02-400-801-A EFFECTIVITY:  AIRCRAFT WITH HEAD-UP GUIDANCE SYSTEM 3. HGS CONTROL PANEL - INSTALLATION A. General (1) This task gives the procedure to install the HGS Control Panel. B. References REFERENCE DESIGNATION HEAD-UP GUIDANCE SYSTEM (HGS) - OPERATION- AMM TASK 34-23-00-700-801-A/500 AL TEST C. Zones and Accesses Not Applicable D. Tools and Equipment Not Applicable E. Auxiliary Items Not Applicable F. Consumable Materials Not Applicable G. Expandable Parts Not Applicable H. Persons Recommended QTY FUNCTION PLACE 1 Does the task Cockpit I. Installation (Figure 401)  SUBTASK 420-002-A (1) Connect the electrical connector (3) to the HGS Control Panel (2). (2) Put the HGS Control Panel (2) in its installation position. (3) Tighten the four Dzus fasteners (1). J. Follow-on SUBTASK 410-002-A (1) On the circuit breaker panel, close the HCP circuit breaker and remove the DO-NOT- CLOSE tag from it. (2) Do the HGS operational test (AMM TASK 34-23-00-700-801-A/500). EMB-145  - AMM 1285 400-801-A/400 34-23-02 Page 4 of 4 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+	</pages>
+</metadata>

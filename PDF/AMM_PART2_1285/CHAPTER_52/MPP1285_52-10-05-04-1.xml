@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata id="MPP1285_52-10-05-04-1">
+	<file family="145" manual="AMM" pn="1285" chg="U" tsn="51" is_tr="false">
+		<title>AMM PART II-1285 - CHAPTER 52-10-05-04 - MAIN DOOR HANDRAIL - REMOVAL/INSTALLATION</title>
+		<path>/CHAPTER_52</path>
+		<hash>8751521c2d1066747cc0563c4e48f1e3</hash>
+	</file>
+	<pages>
+		<page number="1" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL MAIN DOOR HANDRAIL - REMOVAL/INSTALLATION EFFECTIVITY:  AIRCRAFT WITH AIRSTAIRS DOOR 1. General A. This section gives the procedures to remove and install the handrails of the main door. B. These procedures are applicable to the two handrails. C. The procedures in this section are given in the sequence below. The tasks identified with ( ♦) are part of the Scheduled Maintenance Requirements Document (SMRD). TASK NUMBER DESCRIPTION EFFECTIVITY AIRCRAFT WITH AIR- 52-10-05-000-801-A MAIN DOOR HANDRAIL - REMOVAL STAIRS DOOR   AIRCRAFT WITH AIR- 52-10-05-400-801-A MAIN DOOR HANDRAIL - INSTALLATION STAIRS DOOR   EMB-145  - AMM 1285 General 52-10-05 Page 1 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="2" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 52-10-05-000-801-A EFFECTIVITY:  AIRCRAFT WITH AIRSTAIRS DOOR 2. MAIN DOOR HANDRAIL - REMOVAL A. General (1) This procedure gives the instructions to remove the handrails of the main door. B. Zones and Accesses Not Applicable C. Tools and Equipment Not Applicable D. Auxiliary Items Not Applicable E. Consumable Materials Not Applicable F. Expandable Parts Not Applicable G. Persons Recommended QTY FUNCTION PLACE 1 Does the task Main door 1 Helps the other technician Main door H. Preparation SUBTASK 841-002-A (1) Open the main door. I. Removal (Figure 401)  SUBTASK 020-002-A (1) Hold the handrail (10). (2) Disconnect the spring (1) end from the lower-link arm of the handrail (10) (See DET. D). (3) Remove the cotter pin (3), nut (4), washers (2) and (5), and bolt (6) to disconnect the lower-link arm of the handrail (10) from the support at the door (See DET. D). (4) Cut the lockwire (8) and remove the bolt (9) and washer (7) to disconnect the center- balast end of the handrail (10) from the support at the door (See DET. C). (5) Remove the cotter pin (12), nut (13), washer (11), and bolt (14) to disconnect the upper-link arm of the handrail (10) from the support at the fuselage structure (See DET. B). (6) Remove the handrail (10). EMB-145  - AMM 1285 000-801-A/400 52-10-05 Page 2 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="3" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: AIRCRAFT WITH AIRSTAIRS DOOR Handrail - Removal/Installation  Figure 401 B A B ZONE 231 C 811 10.  HANDRAIL C 11.  WASHER D 12.  COTTERPIN D UPPER-LINK ARM (REF.) 13.  NUT DET. A 14.  BOLT DET. B (TYP) LOWER-LINK ARM (REF.) 1.  SPRING 3.  COTTERPIN FUSELAGE STRUCTURE DOOR (REF.) STRUCTURE 2.  WASHER (REF.) CENTER BALAST (REF.) 4.  NUT DOOR STRUCTURE (REF.) DET. D (TYP) 9.  BOLT 5.  WASHER 6.  BOLT DET. C 7.  WASHER (TYP) 8.  LOCKWIRE 145AMM520037.MCE A EMB-145  - AMM 1285 000-801-A/400 52-10-05 Page 3 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="4" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 52-10-05-400-801-A EFFECTIVITY:  AIRCRAFT WITH AIRSTAIRS DOOR 3. MAIN DOOR HANDRAIL - INSTALLATION A. General (1) This procedure gives the instructions to install the handrail of the main door. B. References REFERENCE DESIGNATION MAIN DOOR - ACTUATING AND LOCKING MECHA- IPC 52-11-00 NISM C. Zones and Accesses Not Applicable D. Tools and Equipment Not Applicable E. Auxiliary Items Not Applicable F. Consumable Materials SPECIFICATION DESCRIPTION QTY (BRAND) MS20995C25 Lockwire AR G. Expendable Parts IPC REFERENCE ITEM QTY (VENDOR REFERENCE) Cotter pin IPC 52-11-00 2 H. Persons Recommended QTY FUNCTION PLACE 1 Does the task Main door 1 Helps the other technician Main door I. Installation (Figure 401)  SUBTASK 420-002-A (1) Put the handrail (10) on the supports at the door and fuselage structure. (2) Install the bolt (14), washer (11), and nut (13) to attach the upper-link arm of the handrail (10) to the support at the fuselage structure (See DET. B). (3) Install the bolt (9) and washer (7) to attach the center-balast end of the handrail (10) to the support at the door (See DET. C). EMB-145  - AMM 1285 400-801-A/400 52-10-05 Page 4 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="5" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL (4) Install the bolt (6), washers (5) and (2), and nut (4) to attach the lower-link arm of the handrail (10) to the support at the door (See DET. D). (5) Install the cotter pins (3) and (12) (See DET. B and D). (6) Safety the bolt (9) with the lockwire (8) (See DET. C). J. Follow-on SUBTASK 842-002-A (1) Do an operational check of the main door. (2) Close the main door. EMB-145  - AMM 1285 400-801-A/400 52-10-05 Page 5 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="6" width="216.0" height="279.0">
+			<data/>
+		</page>
+	</pages>
+</metadata>

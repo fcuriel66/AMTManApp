@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata id="MPP1285_34-23-05-05-1">
+	<file family="145" manual="AMM" pn="1285" chg="U" tsn="51" is_tr="false">
+		<title>AMM PART II-1285 - CHAPTER 34-23-05-05 - HGS COMPUTER FAN - ADJUSTMENT/TEST</title>
+		<path>/CHAPTER_34</path>
+		<hash>0beba923a45c9a7bbf36d52ed17aaa95</hash>
+	</file>
+	<pages>
+		<page number="1" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL HGS COMPUTER FAN - ADJUSTMENT/TEST EFFECTIVITY:  AIRCRAFT WITH HEAD-UP GUIDANCE SYSTEM 1. General A. This section gives the procedures to do the operational test of the HGS computer fan. B. The HGS computer fan is installed on the HGS mounting tray. C. The procedures in this section are given in the sequence below. The tasks identified with ( ♦) are part of the Scheduled Maintenance Requirements Document (SMRD). TASK NUMBER DESCRIPTION EFFECTIVITY AIRCRAFT WITH HGS COMPUTER FAN - OPERATIONAL HEAD-UP GUIDANCE 34-23-05-700-801-A ♦ TEST SYSTEM   EMB-145  - AMM 1285 General 34-23-05 Page 1 of 4 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="2" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 34-23-05-700-801-A EFFECTIVITY:  AIRCRAFT WITH HEAD-UP GUIDANCE SYSTEM 2. HGS COMPUTER FAN - OPERATIONAL TEST A. General (1) This task gives the procedures for the HGS-computer fan Operational Test. (2) The HGS computer fan is installed at the rear of the HGS mounting tray. (3) The HGS mounting tray is installed on the right side of the electronic compartment. B. References REFERENCE DESIGNATION ENERGIZATION OF THE AIRCRAFT WITH AN EX- AMM TASK 20-40-01-860-801-A/200 TERNAL POWER SOURCE AMM TASK 34-23-01-000-801-A/400 HGS COMPUTER - REMOVAL AMM TASK 34-23-01-400-801-A/400 HGS COMPUTER - INSTALLATION C. Zones and Accesses ZONE PANEL/DOOR LOCATION Forward electronic compartment - RH 214 113CZ upper side D. Tools and Equipment Not Applicable E. Auxiliary Items Not Applicable F. Consumable Materials Not Applicable G. Expandable Parts Not Applicable H. Persons Recommended QTY FUNCTION PLACE 1 Does the task Cockpit/Forward electronic compartment I. Preparation SUBTASK 841-002-A CAUTION: BE CAREFUL WHEN YOU HANDLE THE HGS COMPUTER. (1) Remove the HGS Computer ( AMM TASK 34-23-01-000-801-A/400). (2) Energize the aircraft ( AMM TASK 20-40-01-860-801-A/200). EMB-145  - AMM 1285 700-801-A/500 34-23-05 Page 2 of 4 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="3" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL J. Operationally Check HGS Computer Fan (Figure 501)  SUBTASK 710-002-A (1) On the circuit breaker panel, close the HGC circuit breaker. (2) Make sure that the HGS computer fan is operational and that the wind direction is from the fan to the computer. (3) On the circuit breaker panel, open the HGC circuit breaker. K. Follow-on SUBTASK 842-002-A (1) Install the HGS Computer ( AMM TASK 34-23-01-400-801-A/400). (2) Deenergize the aircraft ( AMM TASK 20-40-01-860-801-A/200). EMB-145  - AMM 1285 700-801-A/500 34-23-05 Page 3 of 4 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="4" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: AIRCRAFT WITH HEAD-UP GUIDANCE SYSTEM HGS Computer Fan - Operational Test  Figure 501 B A ZONES 213 214 DET. A HGS COMPUTER FAN DET. B (REAR VIEW) 145AMM340438.MCE EMB-145  - AMM 1285 700-801-A/500 34-23-05 Page 4 of 4 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+	</pages>
+</metadata>

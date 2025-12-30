@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata id="MPP1285_29-10-04-05-1">
+	<file family="145" manual="AMM" pn="1285" chg="U" tsn="51" is_tr="false">
+		<title>AMM PART II-1285 - CHAPTER 29-10-04-05 - ELECTRIC MOTOR-DRIVEN PUMP - ADJUSTMENT/TEST</title>
+		<path>/CHAPTER_29</path>
+		<hash>de9519b3f13d4b55ea4a6dbc786e90d8</hash>
+	</file>
+	<pages>
+		<page number="1" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL ELECTRIC MOTOR-DRIVEN PUMP - ADJUSTMENT/TEST EFFECTIVITY:  ALL 1. General A. This section gives the procedures to do a check of the electric-motor driven pump (EMDP) with the switch set to AUTO and ON. B. The procedures in this section are given in the sequence below. The tasks identified with ( ♦) are part of the Scheduled Maintenance Requirements Document (SMRD). TASK NUMBER DESCRIPTION EFFECTIVITY ELECTRIC MOTOR DRIVEN PUMP ALL 29-10-04-700-801-A ♦ (EMDP) - OPERATIONAL CHECK  EMB-145  - AMM 1285 General 29-10-04 Page 1 of 4 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="2" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 29-10-04-700-801-A EFFECTIVITY:  ALL 2. ELECTRIC MOTOR DRIVEN PUMP (EMDP) - OPERATIONAL CHECK A. General (1) This procedure is applicable to the EMDP of hydraulic systems 1 and 2. B. References REFERENCE DESIGNATION AMM SDS 34-22-00/1  ENERGIZATION OF THE AIRCRAFT WITH AN EX- AMM TASK 20-40-01-860-801-A/200 TERNAL POWER SOURCE C. Zones and Accesses ZONE PANEL/DOOR LOCATION 193 193BL Hydraulic Compartment of System 1 193 193CR Hydraulic Compartment of System 2 D. Tools and Equipment Not Applicable E. Auxiliary Items Not Applicable F. Consumable Materials Not Applicable G. Expandable Parts Not Applicable H. Persons Recommended QTY FUNCTION PLACE 1 Does the task Cockpit 1 Helps the other technician Hydraulic system compartments 1 and 2 I. Preparation SUBTASK 841-002-A (1) Make sure the engines are stopped. (2) Energize the aircraft ( AMM TASK 20-40-01-860-801-A/200). (3) Set MFD 1 (or 2) to HYD page (AMM SDS 34-22-00/1). EMB-145  - AMM 1285 700-801-A/500 29-10-04 Page 2 of 4 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="3" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL J. Operationally Check the Electric Motor Driven Pump (EMDP) in AUTO and ON Modes (Figure 501)  SUBTASK 710-002-A WARNING: BEFORE YOU TURN ON THE EMDP, MAKE SURE THAT THE CONTROL SURFACES OPERATED BY THE HYDRAULIC POWER (RUDDER, AILERON, SPOILERS, ETC) ARE CLEAR OF OBSTACLES. (1) Do the check of the EMDP of SYS 1 as follows: (a) Set the switch of the EMDP to AUTO. Result: 1 The EMDP is turned on. 2 The MFD shows the status message (ON) of the EMDP and the pressure is 2900 ÃÂ± 200 psi. (b) Set the switch of the EMDP to ON. Result: 1 The EMDP stays on. 2 On the MFD display, the status message of the EMDP stays ON. (c) Set the switch of the EMDP to OFF. Result: 1 The EMDP is turned off. 2 The MFD shows the status message (OFF) of the EMDP. (2) Do step (1) for the EMDP of hydraulic system 2. K. Follow-on SUBTASK 842-002-A (1) Deenergize the aircraft ( AMM TASK 20-40-01-860-801-A/200). EMB-145  - AMM 1285 700-801-A/500 29-10-04 Page 3 of 4 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="4" width="216.0" height="279.0">
+			<data>6 3 AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: ALL Electric Motor-Driven Pump (EMDP) - Operational Check  Figure 501 C A ZONES 223 224 226 DET. A B MFD FMS 300 TAS 360 KDVT +15 SAT 12.5 NM 245 GSPD 12  MIN N HYDRAULIC AILERON AILERON PLAB1 RUDDER RUDDER SPLR INBD SPLR OUTBD *PBD01 BRAKE OUTBD BRAKE INBD THRUST REVR 1 THRUST REVR 2 LL01 LDG GEAR BRAKE EMERG STEERING PLAB2 KDVT MAIN DOOR 25 50 50 EMDP SWITCHES TX ENG PUMP ENG PUMP SHUTOFF SHUTOFF AUTO AUTO HYDRAULIC BRAKES OFF ON OFF ON SYS 1 SYS 2 TEMPS QTY 3000 PRESS 0000 ELEC PUMP ELEC PUMP OOF ELEC PUMP OFF OB IB IB OB SYS 1 SYS 2 ECS M/P FUEL RTN T/O A/I HYD ELEC RNG DET. C DET. B EM145AMM290233A.DGN EMB-145  - AMM 1285 700-801-A/500 29-10-04 Page 4 of 4 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details. 33 30</data>
+		</page>
+	</pages>
+</metadata>

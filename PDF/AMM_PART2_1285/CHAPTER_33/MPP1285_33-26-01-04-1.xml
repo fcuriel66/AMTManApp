@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata id="MPP1285_33-26-01-04-1">
+	<file family="145" manual="AMM" pn="1285" chg="U" tsn="51" is_tr="false">
+		<title>AMM PART II-1285 - CHAPTER 33-26-01-04 - ENTRANCE PANEL ASSEMBLY - REMOVAL/INSTALLATION</title>
+		<path>/CHAPTER_33</path>
+		<hash>811e06d8f69b3d1ace7d3b884f2e5fe8</hash>
+	</file>
+	<pages>
+		<page number="1" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL ENTRANCE PANEL ASSEMBLY - REMOVAL/INSTALLATION EFFECTIVITY:  ALL 1. General A. This section gives the procedures for the removal/installation of the entrance panel. B. The entrance panel is installed on the cockpit/passenger partition. C. The procedures in this section are given in the sequence below. The tasks identified with ( ♦) are part of the Scheduled Maintenance Requirements Document (SMRD). TASK NUMBER DESCRIPTION EFFECTIVITY ALL 33-26-01-000-801-A ENTRANCE PANEL - REMOVAL   ALL 33-26-01-400-801-A ENTRANCE PANEL - INSTALLATION   EMB-145  - AMM 1285 General 33-26-01 Page 1 of 4 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="2" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 33-26-01-000-801-A EFFECTIVITY:  ALL 2. ENTRANCE PANEL - REMOVAL A. General (1) This task gives the procedures for the removal of the entrance panel. B. Zones and Accesses Not Applicable C. Tools and Equipment Not Applicable D. Auxiliary Items Not Applicable E. Consumable Materials Not Applicable F. Expandable Parts Not Applicable G. Persons Recommended QTY FUNCTION PLACE 1 Does the task Passenger Cabin H. Preparation SUBTASK 841-002-A (1) Make sure that the aircraft is deenergized and that the GPU is not connected to the GPU receptacle. (2) On the circuit breaker panel, open the COURTESY LIGHT 1 circuit breaker and attach a DO-NOT-CLOSE tag to it. I. Removal of the Entrance Panel SUBTASK 020-002-A (1) Remove the two screws (2) which attach the entrance panel (3). (2) Pull the entrance panel (3) to get access to the electrical connector (1). (3) Disconnect the electrical connector (1). (4) Remove the entrance panel (3). EMB-145  - AMM 1285 000-801-A/400 33-26-01 Page 2 of 4 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="3" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: ALL Entrance Panel  Figure 401 B A ZONE  231  1. ELECTRICAL     CONNECTOR DET. A 2. SCREW (2) 3. ENTRANCE     PANEL 145AMM330192.MCE EMB-145  - AMM 1285 000-801-A/400 33-26-01 Page 3 of 4 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="4" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 33-26-01-400-801-A EFFECTIVITY:  ALL 3. ENTRANCE PANEL - INSTALLATION A. General (1) This task gives the procedures for the installation of the entrance panel. B. Zones and Accesses Not Applicable C. Tools and Equipment Not Applicable D. Auxiliary Items Not Applicable E. Consumable Materials Not Applicable F. Expandable Parts Not Applicable G. Persons Recommended QTY FUNCTION PLACE 1 Does the task Passenger Cabin H. Installation of the Entrance Panel SUBTASK 420-002-A (1) Connect the electrical connector (1). (2) Put the entrance panel (3) in its installation position. (3) Tighten the two screws (2) which attach the entrance panel (3). I. Follow-on SUBTASK 842-002-A (1) On the circuit breaker panel, close the COURTESY LIGHT 1 circuit breaker and remove the DO-NOT-CLOSE tag from it. EMB-145  - AMM 1285 400-801-A/400 33-26-01 Page 4 of 4 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+	</pages>
+</metadata>

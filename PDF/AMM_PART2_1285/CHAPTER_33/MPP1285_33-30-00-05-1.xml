@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata id="MPP1285_33-30-00-05-1">
+	<file family="145" manual="AMM" pn="1285" chg="U" tsn="51" is_tr="false">
+		<title>AMM PART II-1285 - CHAPTER 33-30-00-05 - BAGGAGE AND SERVICE COMPARTMENTS - ADJUSTMENT/TEST</title>
+		<path>/CHAPTER_33</path>
+		<hash>0f5acb6e12244af8b4dbcad95bc844ec</hash>
+	</file>
+	<pages>
+		<page number="1" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL BAGGAGE AND SERVICE COMPARTMENTS - ADJUSTMENT/TEST EFFECTIVITY:  ALL 1. General A. This section gives the procedures to do the test of the baggage and service compartments lights. B. The procedures in this section are given in the sequence below. The tasks identified with ( ♦) are part of the Scheduled Maintenance Requirements Document (SMRD). TASK NUMBER DESCRIPTION EFFECTIVITY BAGGAGE AND SERVICE COMPART- ALL 33-30-00-700-801-A MENT LIGHTS - OPERATIONAL TEST  EMB-145  - AMM 1285 General 33-30-00 Page 1 of 11 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="2" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 33-30-00-700-801-A EFFECTIVITY:  ALL 2. BAGGAGE AND SERVICE COMPARTMENT LIGHTS - OPERATIONAL TEST A. General (1) This task gives the procedures to do the operational test of the baggage and service compartment lights. B. References REFERENCE DESIGNATION AMM SDS 24-60-00/1  ENERGIZATION OF THE AIRCRAFT WITH AN EX- AMM TASK 20-40-01-860-801-A/200 TERNAL POWER SOURCE SB145-33-0011 - C. Zones and Accesses ZONE PANEL/DOOR LOCATION 312 312AR Tail cone compartment 113 113CZ Forward electronic compartment 123 123BL Lower forward fuselage Fueling/defueling control panel compart- 191 191BR ment 272 272DR Rear electronic compartment D. Tools and Equipment Not Applicable E. Auxiliary Items Not Applicable F. Consumable Materials Not Applicable G. Expandable Parts Not Applicable H. Persons Recommended QTY FUNCTION PLACE 1 Does the task Where applicable I. Preparation SUBTASK 841-002-A (1) Energize the aircraft with the external DC power supply ( AMM TASK 20-40-01-860-801-A/200). EMB-145  - AMM 1285 700-801-A/500 33-30-00 Page 2 of 11 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="3" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL (2) On the circuit breaker panel, make sure that the COMPT circuit breaker (Location Tip: DC BUS 2/LIGHTS/COMPT) is closed. (3) On the RH electrical-power control/distribution box (AMM SDS 24-60-00/1), make sure that the COMPT circuit breaker ( Location Tip: RB SERVBUS/COMPT) is closed. J. Operationally Test Baggage and Service Compartment Lights (Figure 501)  (Figure 502)  (Figure 503)  (Figure 504)  (Figure 505)  (Figure 506)  (Figure 507)  SUBTASK 710-002-A (1) Do the test of the nose landing-gear compartment light as follows: (a) Get access to the nose landing gear compartment. (b) Turn on the nose landing-gear compartment light switch. Result: 1 The nose landing-gear compartment light comes on. (c) Turn off the nose landing-gear compartment light switch. Result: 1 The nose landing-gear compartment light goes off. (d) Close the access to the nose landing gear compartment. (2) Do the test of the tail-cone compartment light as follows: (a) Get access to the tail cone compartment. (b) Turn on the tail-cone compartment light switch. Result: 1 The tail-cone compartment light comes on. (c) Turn off the tail-cone compartment light switch. Result: 1 The tail-cone compartment light goes off. (d) Close the access to the tail cone compartment. (3) Do the test of the forward electronic-compartment light as follows: (a) Open the electronic compartment access. Result: 1 The forward electronic-compartment light comes on. (b) Close the electronic compartment access. Result: 1 The forward electronic-compartment light goes off. (4) Do the test of the cockpit floor light as follows: (a) Open the cockpit underfloor access hatch. Result: 1 The cockpit floor light comes on. (b) Close the cockpit underfloor access hatch. EMB-145  - AMM 1285 700-801-A/500 33-30-00 Page 3 of 11 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="4" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL Result: 1 The cockpit floor light goes off. (5) Do the test of the baggage compartment light as follows: (a) Open the baggage compartment. Result: 1 The baggage compartment lights come on. (b) Close the baggage compartment. Result: 1 The baggage compartment lights go off. NOTE: On aircraft S/N 076, 086 thru 103, 105 thru 110, 113, 114, and 116, and with SB145-33-0011 not incorporated, the baggage compartment lights stay always on (with the baggage compartment closed or not). (c) On aircraft POST-MOD 145-33-0011 or POST-MOD 145-26-0013, do as follows: 1. Push the pushbutton on the baggage compartment/toilet partition and look through the peephole to make sure that the lights in the baggage compartment turn on. 2. Release the pushbutton and make sure that the lights on baggage compartment/toilet partition go off. (6) Do the test of the rear electronic-compartment light as follows: (a) Open the rear electronic compartment. Result: 1 The rear electronic-compartment light comes on. (b) Close the rear electronic compartment. Result: 1 The rear electronic-compartment light goes off. (7) Do the test of the refueling/defueling control panel light as follows: (a) Open the refueling/defueling control panel compartment. Result: 1 The refueling/defueling control panel light comes on. (b) Close the refueling/defueling control panel compartment. Result: 1 The refueling/defueling control panel light goes off. K. Follow-on SUBTASK 842-002-A (1) Deenergize the aircraft ( AMM TASK 20-40-01-860-801-A/200). EMB-145  - AMM 1285 700-801-A/500 33-30-00 Page 4 of 11 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="5" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: ALL Nose Landing Gear Light  Figure 501 A ZONES 713 NOSE 714 LANDING GEAR WHEELWELL LIGHT SWITCH NOSE LANDING GEAR WHEELWELL LIGHT DET. A 145AMM330079.MCE A EMB-145  - AMM 1285 700-801-A/500 33-30-00 Page 5 of 11 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="6" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: ALL Tail Cone Compartment Light  Figure 502 A ZONE 313 TAIL CONE COMPARTMENT LIGHT TAIL CONE COMPARTMENT LIGHT SWITCH DET. A 145AMM330080.MCE A EMB-145  - AMM 1285 700-801-A/500 33-30-00 Page 6 of 11 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="7" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: ALL Forward Electronic Compartment Light  Figure 503 A ZONES 213 214 FORWARD ELECTRONIC COMPARTMENT LIGHT DET. A 145AMM330081.MCE A EMB-145  - AMM 1285 700-801-A/500 33-30-00 Page 7 of 11 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="8" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: ALL Cockpit Floor Light  Figure 504 A ZONE 123 COCKPIT FLOOR LIGHT DET. A 145AMM330082.MCE A EMB-145  - AMM 1285 700-801-A/500 33-30-00 Page 8 of 11 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="9" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: ALL Rear Electronic Compartment Light  Figure 505 A ZONES 273 274 REAR ELECTRONIC COMPARTMENT LIGHT DET. A 145AMM330083.MCE A EMB-145  - AMM 1285 700-801-A/500 33-30-00 Page 9 of 11 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="10" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: ALL Baggage Compartment Light  Figure 506 PUSHBUTTON B A ZONE 272 PEEPHOLE BAGGAGE COMPARTMENT LIGHTS DET. A DET. B 145AMM330198.MCE EMB-145  - AMM 1285 700-801-A/500 33-30-00 Page 10 of 11 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="11" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: ALL Refueling/Defueling Control Panel Light  Figure 507 B A ZONE 191 DET. A REFUELING/DEFUELING CONTROL PANEL LIGHT DET. B 145AMM330199.MCE EMB-145  - AMM 1285 700-801-A/500 33-30-00 Page 11 of 11 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="12" width="216.0" height="279.0">
+			<data/>
+		</page>
+	</pages>
+</metadata>

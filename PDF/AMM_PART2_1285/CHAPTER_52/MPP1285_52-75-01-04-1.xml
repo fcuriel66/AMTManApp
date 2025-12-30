@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata id="MPP1285_52-75-01-04-1">
+	<file family="145" manual="AMM" pn="1285" chg="U" tsn="51" is_tr="false">
+		<title>AMM PART II-1285 - CHAPTER 52-75-01-04 - PASSENGER-CABIN ESCAPE-HATCH WARNING MICROSWITCHES - REMOVAL/INSTALLATION</title>
+		<path>/CHAPTER_52</path>
+		<hash>3ba4d4ab07eccb29a2dadb8766d1d2dd</hash>
+	</file>
+	<pages>
+		<page number="1" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL PASSENGER-CABIN ESCAPE-HATCH WARNING MICROSWITCHES - REMOVAL/INSTALLATION EFFECTIVITY:  ALL 1. General A. This section gives the procedures to remove and install the microswitches of the warning system of the escape hatches of the passenger cabin. B. These procedures are applicable to the microswitches of the two escape hatches. C. The procedures in this section are given in the sequence below. The tasks identified with ( ♦) are part of the Scheduled Maintenance Requirements Document (SMRD). TASK NUMBER DESCRIPTION EFFECTIVITY PASSENGER CABIN ESCAPE HATCH ALL 52-75-01-000-801-A WARNING MICROSWITCHES - REMOVAL  PASSENGER CABIN ESCAPE HATCH ALL 52-75-01-400-801-A WARNING MICROSWITCHES - INSTALLA-   TION EMB-145  - AMM 1285 General 52-75-01 Page 1 of 6 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="2" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 52-75-01-000-801-A EFFECTIVITY:  ALL 2. PASSENGER CABIN ESCAPE HATCH WARNING MICROSWITCHES - REMOVAL A. General (1) This procedure gives the instructions to remove the microswitch of the warning system of the escape hatches of the passenger cabin. B. References REFERENCE DESIGNATION AMM MPP 06-41-04/100 - C. Zones and Accesses ZONE PANEL/DOOR LOCATION 251 Passenger cabin 252 Passenger cabin D. Tools and Equipment Not Applicable E. Auxiliary Items Not Applicable F. Consumable Materials Not Applicable G. Expandable Parts Not Applicable H. Persons Recommended QTY FUNCTION PLACE 1 Does the task Passenger cabin I. Preparation SUBTASK 841-003-A (1) Remove the escape hatch of the passenger cabin. (2) Remove the lining panel 251CLW or 252CRW of the passenger cabin (AMM MPP 06-41-04/100). J. Removal (Figure 401)  SUBTASK 020-003-A (1) Disconnect the splice (4) to disconnect the electrical wire (3). (2) Remove the screw (5) and washers (6) and (7) to disconnect the electrical wire (8) from the fuselage structure. EMB-145  - AMM 1285 000-801-A/400 52-75-01 Page 2 of 6 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="3" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL (3) Remove the two nuts (9) and screws (2) that attach the microswitch (1) to the support (10) at the fuselage structure. (4) Remove the microswitch (1). EMB-145  - AMM 1285 000-801-A/400 52-75-01 Page 3 of 6 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="4" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: ALL Warning Microswitch - Removal/Installation  Figure 401 ZONE B 251 252 A DET. A 9.  NUT (2) 10.  SUPPORT 1.  MICROSWITCH 8.  ELECTRICAL      WIRE 7.  WASHER 6.  WASHER 2.  SCREW (2) 5.  SCREW DET. B (TYPICAL) 4.  SPLICE 3.  ELECTRICAL      WIRE 145AMM520122.MCE A EMB-145  - AMM 1285 000-801-A/400 52-75-01 Page 4 of 6 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="5" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 52-75-01-400-801-A EFFECTIVITY:  ALL 3. PASSENGER CABIN ESCAPE HATCH WARNING MICROSWITCHES - INSTALLATION A. General (1) This procedure gives the instructions to install the microswitch of the warning system of the escape hatches of the passenger cabin. B. References REFERENCE DESIGNATION AMM MPP 06-41-04/100 - TYPES OF ELECTRICAL BONDING AND SURFACE AMM TASK 20-13-21-910-801-A/200 PREPARATION - STANDARD PROCEDURES PASSENGER - CABIN ESCAPE - HATCH CAUTION AMM TASK 52-75-01-700-801-A/500 MICROSWITCHES - OPERATIONAL TEST C. Zones and Accesses ZONE PANEL/DOOR LOCATION 251 Passenger cabin 252 Passenger cabin D. Tools and Equipment Not Applicable E. Auxiliary Items Not Applicable F. Consumable Materials Not Applicable G. Expandable Parts Not Applicable H. Persons Recommended QTY FUNCTION PLACE 1 Does the task Passenger cabin I. Installation (Figure 401)  SUBTASK 420-003-A (1) Put the microswitch (1) in its installation position on the support (10). (2) Install the two screws (2) and nuts (9) to attach the microswitch assembly (1) to the support (10). (3) Connect the electrical wire (8) to the fuselage structure with the screw (5) and washers (6) and (7). EMB-145  - AMM 1285 400-801-A/400 52-75-01 Page 5 of 6 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="6" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL NOTE: Refer to AMM TASK 20-13-21-910-801-A/200. (4) Connect the splice (4) to connect the electrical wire (3). J. Follow-on SUBTASK 842-003-A (1) Do an operational test of the microswitch of the warning system of the escape hatches of the passenger cabin ( AMM TASK 52-75-01-700-801-A/500). (2) Install the lining panel251CLW or252CRW (AMM MPP 06-41-04/100). (3) Install the escape hatch of the passenger cabin. EMB-145  - AMM 1285 400-801-A/400 52-75-01 Page 6 of 6 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+	</pages>
+</metadata>

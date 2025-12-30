@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata id="MPP1285_34-24-00-05-2">
+	<file family="145" manual="AMM" pn="1285" chg="R" tsn="52" is_tr="false">
+		<title>AMM PART II-1285 - CHAPTER 34-24-00-05 - STANDBY ATTITUDE - ADJUSTMENT/TEST</title>
+		<path>/CHAPTER_34</path>
+		<hash>94ae739e5ae8ac815ecdaf1200649d1a</hash>
+	</file>
+	<pages>
+		<page number="1" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL STANDBY ATTITUDE - ADJUSTMENT/TEST EFFECTIVITY: ACFT MODEL(S) EMB-135 1. General A. This section gives the procedures to do the operational test of the Standby Attitude Indicator. B. The procedures in this section are given in the sequence below. The tasks identified with ( ♦) are part of the Scheduled Maintenance Requirements Document (SMRD). TASK NUMBER DESCRIPTION EFFECTIVITY ACFT MODEL(S) STANDBY ATTITUDE INDICATOR - OP- 34-24-00-700-801-A ♦ EMB-135 ERATIONAL TEST   EMB-145  - AMM 1285 General CONFIG-2 34-24-00 Page 1 of 4 Rev 52 - Apr 28/17 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="2" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 34-24-00-700-801-A EFFECTIVITY: ACFT MODEL(S) EMB-135 2. STANDBY ATTITUDE INDICATOR - OPERATIONAL TEST A. General (1) The function of this test is to make sure that the indications given by the Standby Attitude Indicator are correct. B. References REFERENCE DESIGNATION ENERGIZATION OF THE AIRCRAFT WITH AN EX- AMM TASK 20-40-01-860-801-A/200 TERNAL POWER SOURCE C. Zones and Accesses Not Applicable D. Tools and Equipment Not Applicable E. Auxiliary Items Not Applicable F. Consumable Materials Not Applicable G. Expandable Parts Not Applicable H. Persons Recommended QTY FUNCTION PLACE 1 Does the task Cockpit I. Preparation SUBTASK 841-006-B (1) Energize the aircraft with the External DC Power Supply ( AMM TASK 20-40-01-860-801-A/200). (2) (Aircraft without Integrated Standby Instrument System) In the circuit breaker panel, installed on the cockpit ceiling, make sure that the STBY ATT circuit breaker (Location Tip: ESSENTIAL DC BUS 2/NAV/STBY ATT) is closed. (3) (Aircraft with Integrated Standby Instrument System) In the circuit breaker panel, installed on the cockpit ceiling, make sure that the INTEG STBY circuit breaker (Location Tip: ESSENTIAL DC BUS 2/INTEG STBY) is closed. J. Operationally Check Standby Attitude Indicator (Figure 501)  SUBTASK 710-006-B (1) Do the standby attitude indicator test as follows: EMB-145  - AMM 1285 700-801-A/500 CONFIG-2 34-24-00 Page 2 of 4 Rev 48 - Oct 30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="3" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL (a) On the indicator, make sure that the OFF flag is out of view. (b) On the indicator, pull the CAGING knob and turn it to the locked position for 1 minute minimum, until the gyro comes to the operating speed, and make sure that the OFF flag comes into view. (c) Smoothly release the CAGING knob. Result: 1 The OFF flag goes out of view. 2 The gyro becomes stable in 3 minutes maximum. 3 The roll index is centered on the roll scale. 4 The indicator must show pitch in a range of ÃÂ± 1 degree as related to the horizon line. K. Follow-on SUBTASK 842-006-B (1) Deenergize the aircraft with the External DC Power Supply ( AMM TASK 20-40-01-860-801-A/200). EMB-145  - AMM 1285 700-801-A/500 CONFIG-2 34-24-00 Page 3 of 4 Rev 48 - Oct 30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="4" width="216.0" height="279.0">
+			<data>L C A L AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: ACFT MODEL(S) EMB-135 Standby Attitude Indicator - Operational Test  Figure 501 1 2 A A OFF DET. A STANDBY ATTITUDE INDICATOR 1 AIRCRAFT WITH STBY ATTITUDE INDICATOR INSTALLED ON MAIN INSTRUMENT PANEL. 2 AIRCRAFT WITH STBY ATTITUDE INDICATOR INSTALLED ON THE TOP OF THE GLARESHIELD PANEL.. 145AMM340194.MCE B EMB-145  - AMM 1285 700-801-A/500 CONFIG-2 34-24-00 Page 4 of 4 Rev 48 - Oct 30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details. TO G U E P</data>
+		</page>
+	</pages>
+</metadata>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata id="MPP1285_12-13-06-03-1">
+	<file family="145" manual="AMM" pn="1285" chg="U" tsn="51" is_tr="false">
+		<title>AMM PART II-1285 - CHAPTER 12-13-06-03 - LANDING GEAR AND MAIN DOOR ACCUMULATOR - SERVICING</title>
+		<path>/CHAPTER_12</path>
+		<hash>66dbb586951a531c87d895803158772a</hash>
+	</file>
+	<pages>
+		<page number="1" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL LANDING GEAR AND MAIN DOOR ACCUMULATOR - SERVICING EFFECTIVITY:  ALL 1. General A. This section gives the procedure to charge the landing gear and main door accumulator with nitrogen. B. The procedures in this section are given in the sequence below. The tasks identified with ( ♦) are part of the Scheduled Maintenance Requirements Document (SMRD). TASK NUMBER DESCRIPTION EFFECTIVITY LANDING GEAR AND MAIN DOOR ACCU- ALL 12-13-06-600-801-A MULATOR - CHARGE  EMB-145  - AMM 1285 General 12-13-06 Page 1 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="2" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 12-13-06-600-801-A EFFECTIVITY:  ALL 2. LANDING GEAR AND MAIN DOOR ACCUMULATOR - CHARGE A. General (1) The charge valve of the landing gear and main door accumulator is installed in the hydraulic compartment, in the fuselage nose section. B. References REFERENCE DESIGNATION AMM MPP 06-41-01/100 - C. Zones and Accesses ZONE PANEL/DOOR LOCATION 114 114CR Forward fuselage 1 - RH D. Tools and Equipment ITEM DESCRIPTION PURPOSE QTY GSE 024 Regulator - nitrogen service To charge the accumulator  E. Auxiliary Items ITEM DESCRIPTION PURPOSE QTY Commercially Nitrogen cylinder (3000 psi) To store nitrogen 1 available Commercially Brush To apply the leak detector fluid 1 available F. Consumable Materials SPECIFICATION DESCRIPTION QTY (BRAND) BB-N-411 Type I, Class l, Grade B Nitrogen AR MIL-L-25567 or equivalent LEAK TEC 160X leakage detector AR G. Expandable Parts Not Applicable H. Persons Recommended QTY FUNCTION PLACE 1 Does the task Forward fuselage 1 - RH EMB-145  - AMM 1285 600-801-A/300 12-13-06 Page 2 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="3" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL I. Preparation SUBTASK 841-002-A (1) Open door 114CR (AMM MPP 06-41-01/100). (2) Open the oil-discharge valve (10) to fully release the hydraulic accumulator pressure. NOTE: Make sure that there is no pressure in the hydraulic system. J. Charging (Figure 301)  (Figure 302)  SUBTASK 610-002-A (1) Remove the protection cap (4) from the charging valve (1). (2) Install the hose (5) of the cylinder/regulating valve/pressure gage assembly (6) to the charging valve (1). (3) Open the cylinder valve (7) and adjust the pressure in the regulating valve (8) to the specified pressure. Refer to Figure 301. (4) Read the indication on the pressure gage (9) of the assembly (6). (5) Slowly loosen the flow control nut (2) to pressurize the accumulator. NOTE: The pressure to charge the accumulator at an ambient temperature of 21.1ÃÂ°C (70ÃÂ°F) is 1500 psi. To do the procedure at other temperatures, refer to Figure 301. (6) Tighten the flow control nut (2) to stop the supply of nitrogen. Do this when the pressure gage (3) of the accumulator shows the same pressure as the pressure gage (9) of the assembly (6). (7) Close the cylinder valve (7). (8) Remove the hose (5) of the assembly (6), from the charging valve (1). (9) Use a brush to apply the leak detection fluid to the charging valve and examine it for gas leakage. Refer to Figure 302. (10) Install the protection cap (4) to the charging valve (1). K. Follow-on SUBTASK 842-002-A (1) Make sure that the oil-discharge valve (10) goes back to the closed position. (2) Close door 114CR (AMM MPP 06-41-01/100). EMB-145  - AMM 1285 600-801-A/300 12-13-06 Page 3 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="4" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: ALL Landing-Gear and Passenger-Door Accumulator - Charge  Figure 301 1600 1500 1400 1300 1200 1100 1000 -50 -40 -30 -20 -10 0 10 20 30 40 50 60 (˚C) -58 -40 -22 -4 14 32 50 68 86 104 122 140 (˚F) 1.  CHARGING VALVE A ZONE 114 1 2.  FLOW CONTROL 3.  PRESSURE GAGE 4.  PROTECTIVE CAP 5.  HOSE ACCUMULATOR 7.  CYLINDER   8.  REGULATING VALVE VALVE DET. A  9.  PRESSURE PSI GAGE     10.  OIL-DISCHARGE VALVE + 1 TORQUE: 44   5 lb.in 6. ASSEMBLY - 145AMM120017.MCE B EMB-145  - AMM 1285 600-801-A/300 12-13-06 Page 4 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details. PRE-CHARGE (PSIG) AMBIENT TEMPERATURE</data>
+		</page>
+		<page number="5" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: ALL Landing-Gear and Passenger-Door Accumulator - Test For Leakage  Figure 302 A ZONE 114 B 1 DET. A DET. B 1 APPLY LEAK DETECTION FLUID. EM145AMM320593A.DGN EMB-145  - AMM 1285 600-801-A/300 12-13-06 Page 5 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="6" width="216.0" height="279.0">
+			<data/>
+		</page>
+	</pages>
+</metadata>

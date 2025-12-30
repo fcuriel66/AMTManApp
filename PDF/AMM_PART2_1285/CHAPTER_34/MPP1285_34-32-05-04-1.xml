@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata id="MPP1285_34-32-05-04-1">
+	<file family="145" manual="AMM" pn="1285" chg="U" tsn="51" is_tr="false">
+		<title>AMM PART II-1285 - CHAPTER 34-32-05-04 - GLIDE SLOPE ANTENNA - REMOVAL/INSTALLATION</title>
+		<path>/CHAPTER_34</path>
+		<hash>68ed7f210a8121f57560cbd43c530e91</hash>
+	</file>
+	<pages>
+		<page number="1" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL GLIDE SLOPE ANTENNA - REMOVAL/INSTALLATION EFFECTIVITY:  ALL 1. General A. This section gives the procedures to remove and install the Glide Slope antenna. B. The procedures in this section are given in the sequence below. The tasks identified with ( ♦) are part of the Scheduled Maintenance Requirements Document (SMRD). TASK NUMBER DESCRIPTION EFFECTIVITY ALL 34-32-05-000-801-A GLIDE SLOPE ANTENNA - REMOVAL   ALL 34-32-05-400-801-A GLIDE SLOPE ANTENNA - INSTALLATION   EMB-145  - AMM 1285 General 34-32-05 Page 1 of 7 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="2" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 34-32-05-000-801-A EFFECTIVITY:  ALL 2. GLIDE SLOPE ANTENNA - REMOVAL A. General (1) This procedure gives the instructions to remove the Glide Slope antenna. B. References REFERENCE DESIGNATION AMM MPP 06-30-00/100 - S.B.145-34-0069 - C. Zones and Accesses ZONE PANEL/DOOR LOCATION 111 Radome D. Tools and Equipment Not Applicable E. Auxiliary Items Not Applicable F. Consumable Materials Not Applicable G. Expandable Parts Not Applicable H. Persons Recommended QTY FUNCTION PLACE 1 Does the task At forward fuselage I - RH I. Preparation SUBTASK 841-002-A (1) On the circuit breaker panel, open the VOR/ILS1 and VOR/ILS2 circuit breakers and attach a DO-NOT-CLOSE tag to them. (2) Open the radome and lock it in a safe position to get access to the antenna (AMM MPP 06-30-00/100). J. Removal (Figure 401)  (Figure 402)  SUBTASK 020-002-A (1) Remove the six screws (2). (2) Carefully pull the antenna (3). EMB-145  - AMM 1285 000-801-A/400 34-32-05 Page 2 of 7 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="3" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL (3) Disconnect the electrical connectors (1). (4) Remove the antenna (3). (5) (POST-MOD S.B.145-34-0069) Remove the antenna gasket (4). EMB-145  - AMM 1285 000-801-A/400 34-32-05 Page 3 of 7 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="4" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: PRE-MOD S.B. 145-34-0069 Glide Slope Antenna - Removal/Installation  Figure 401 A ZONE 111 B DET. A 1.   ELECTRICAL       CONNECTOR (2) 2.   SCREW (6) 3.   ANTENNA DET. B 145AMM340153.MCE A EMB-145  - AMM 1285 000-801-A/400 34-32-05 Page 4 of 7 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="5" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: POST-MOD S.B. 145-34-0069 Glide Slope Antenna - Removal/Installation  Figure 402 B A ZONE 111 DET. A 1. ELECTRICAL     CONNECTOR (2) 2. SCREW (6) 3. ANTENNA 4. GASKET DET. B 145AMM340772.MCE EMB-145  - AMM 1285 000-801-A/400 34-32-05 Page 5 of 7 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="6" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 34-32-05-400-801-A EFFECTIVITY:  ALL 3. GLIDE SLOPE ANTENNA - INSTALLATION A. General (1) This procedure gives the instructions to install the Glide Slope antenna. B. References REFERENCE DESIGNATION AMM MPP 06-30-00/100 - AMM TASK 20-11-01-910-801-A/200 ANTENNA SEALING AMM TASK 34-32-00-700-801-A/500 VOR/ILS SYSTEM OPERATIONAL TEST IPC 34-32-05 VOR/LOC ANTENNA S.B.145-34-0069 - WM 20-50-00 - C. Zones and Accesses ZONE PANEL/DOOR LOCATION 111 Radome D. Tools and Equipment Not Applicable E. Auxiliary Items Not Applicable F. Consumable Materials SPECIFICATION DESCRIPTION QTY (BRAND) MIL-S-81733 TYPE II-2 Sealant AR MIL-S-8660 Dow Corning No. 4 Lubricant Compound AR G. Expendable Parts IPC REFERENCE ITEM QTY (VENDOR REFERENCE) Gasket IPC 34-32-05 1 H. Persons Recommended QTY FUNCTION PLACE 1 Does the task At forward fuselage I - RH EMB-145  - AMM 1285 400-801-A/400 34-32-05 Page 6 of 7 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="7" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL I. Installation (Figure 401) (Figure 402)  SUBTASK 420-002-A (1) Examine and clean or replace the electrical connectors (1) as required (WM 20-50-00). (2) (PRE-MOD S.B.145-34-0069) Remove all the old sealant from the forward fuselage I skin surface where the Glide Slope antenna is installed. For this, use a plastic spatula. (3) Fill the internal part of the electrical connectors (1) and their mates with Dow Corning No. 4 Lubricant Compound (WM 20-50-00). (4) (POST-MOD S.B.145-34-0069) Install the antenna gasket (4). (5) Put the antenna (3) in its installation position on the skin. (6) Connect the electrical connectors (1) to the antenna (3). (7) Install the six screws (2). (8) (PRE-MOD S.B.145-34-0069) Apply sealant MIL-S-81733 TYPE II-2 along the contour of the antenna base and around the electrical connectors (AMM TASK 20-11-01-910-801-A/200). J. Follow-on SUBTASK 842-002-A (1) Close the radome and lock it (AMM MPP 06-30-00/100). (2) On the circuit breaker panel, close the VOR/ILS1 and VOR/ILS2 circuit breakers and remove the DO-NOT-CLOSE tag from them. (3) Do the VOR/ILS System Operational Test ( AMM TASK 34-32-00-700-801-A/500). EMB-145  - AMM 1285 400-801-A/400 34-32-05 Page 7 of 7 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="8" width="216.0" height="279.0">
+			<data/>
+		</page>
+	</pages>
+</metadata>

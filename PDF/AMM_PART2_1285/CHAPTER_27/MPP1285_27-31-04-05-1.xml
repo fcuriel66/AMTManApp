@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata id="MPP1285_27-31-04-05-1">
+	<file family="145" manual="AMM" pn="1285" chg="U" tsn="51" is_tr="false">
+		<title>AMM PART II-1285 - CHAPTER 27-31-04-05 - SERVO TAB - ADJUSTMENT/TEST</title>
+		<path>/CHAPTER_27</path>
+		<hash>ebc11b0fb3a7908b6993de8253e41468</hash>
+	</file>
+	<pages>
+		<page number="1" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL SERVO TAB - ADJUSTMENT/TEST EFFECTIVITY:  ALL 1. General A. This section gives the procedures to do the operational check of the elevator spring tab and servo tab, and gives the procedure to do an inspection of the servo tab deflection. B. The procedures in this section are given in the sequence below. The tasks identified with ( ♦) are part of the Scheduled Maintenance Requirements Document (SMRD). TASK NUMBER DESCRIPTION EFFECTIVITY SPRING AND SERVO TABS - OPERA- ALL 27-31-04-700-801-A ♦ TIONAL CHECK  ALL 27-31-04-700-802-A SERVO-TAB - DEFLECTION   EMB-145  - AMM 1285 General 27-31-04 Page 1 of 9 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="2" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 27-31-04-700-801-A EFFECTIVITY:  ALL 2. SPRING AND SERVO TABS - OPERATIONAL CHECK A. General (1) This task gives the procedures to do the operational check of the elevator spring and servo tabs. B. Zones and Accesses Not Applicable C. Tools and Equipment ITEM DESCRIPTION PURPOSE QTY GSE 044 Head Set, Ramp For communications  D. Auxiliary Items Not Applicable E. Consumable Materials Not Applicable F. Expandable Parts Not Applicable G. Persons Recommended QTY FUNCTION PLACE 1 Does the task Cockpit 1 Does the task Outside the aircraft H. Preparation SUBTASK 841-002-A (1) Make sure that the aircraft is safe for maintenance. I. Operationally Check Spring and Servo Tabs (Figure 501)  SUBTASK 710-002-A (1) Do a check of the spring and servo tab movement. (a) Move the pilot control column fully forward. Result: 1 The elevator trailing edge moves down and the servo tab trailing edge moves up. (b) Move the pilot control column fully rearward. Result: 1 The elevator trailing edge moves up and the servo tab trailing edge moves down. EMB-145  - AMM 1285 700-801-A/500 27-31-04 Page 2 of 9 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="3" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL (c) Use force to move the pilot control column in the two directions many times. Do not stop the movement. Result: 1 The spring tabs move according to the elevator while the servo tabs move to the opposite to it. EMB-145  - AMM 1285 700-801-A/500 27-31-04 Page 3 of 9 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="4" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: ALL Spring and Servo Tab - Check  Figure 501 ELEVATOR A ZONE 335 336 SERVO TAB SPRING TAB SPRING TAB SERVO TAB ELEVATOR DET. A 145AMM270049.MCE A EMB-145  - AMM 1285 700-801-A/500 27-31-04 Page 4 of 9 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="5" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 27-31-04-700-802-A EFFECTIVITY:  ALL 3. SERVO-TAB - DEFLECTION A. General (1) This task gives the procedures to do an inspection of the servo tab deflection. B. References REFERENCE DESIGNATION ELEVATOR CALIBRATION WITH CONTROL-COL- AMM TASK 27-30-00-700-801-A/500 UMN POSITION TRANSDUCERS AMM TASK 55-22-01-000-801-A/400 SERVO AND SPRING-TAB SUPPORTS - REMOVAL SERVO AND SPRING-TAB SUPPORTS - INSTALLA- AMM TASK 55-22-01-400-801-A/400 TION C. Zones and Accesses Not Applicable D. Tools and Equipment ITEM DESCRIPTION PURPOSE QTY GSE 036 Hydraulic Platform To get access to the elevator  GSE 070 Digital Protractor Measure the servo-tab deflections  GSE 196 Elevator lock clamp To lock the elevator in the neutral position  E. Auxiliary Items Not Applicable F. Consumable Materials Not Applicable G. Expandable Parts Not Applicable H. Persons Recommended QTY FUNCTION PLACE 1 Does the task Horizontal stabilizer 1 Helps the other technician Horizontal stabilizer I. Preparation SUBTASK 841-003-A (1) Make sure that the aircraft is safe for maintenance. (2) Install GSE 196 to the elevator near the servo tab (Figure 502). EMB-145  - AMM 1285 700-802-A/500 27-31-04 Page 5 of 9 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="6" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL J. Inspect of the Servo Tab Deflection (Figure 501)  SUBTASK 720-002-A (1) Do the procedure below, to find the deflection of the servo tab: (a) Install the digital protractor (GSE 070) to the elevator in point A1 (Figure 503). (b) Set the digital protractor to zero. (c) Move the digital protractor from point A1 to point A2 (Figure 503). (d) Write the value d1 shown on the digital protractor in Table 501. (e) Do steps (a) thru (d) to find the values d2 and d3. NOTE: • The measurement d2 refers to points B1 and B2 as shown in Figure 503. • The measurement d3 refers to points C1 and C2 as shown in Figure 503. Table 501 - SERVO TAB DEFLECTIONS Deflection d1 d2 d3 Point measured A1 and A2 B1 and B2 C1 and C2 Value of GSE 070    Average  (f) Find the average value between d1, d2, and d3. d = (d1 + d2 + d3)/3 (g) The mean value of step (f) is the servo tab deflection. The maximum deflection permitted for the servo tab is 0.0 ÃÂ± 0.5 degrees. Table 502 The maximum deflection permitted 0.0 ÃÂ± 0.5 degrees (2) If the deflection found is out of the limit, do the procedure below: (a) Do the adjustment of the servo tab deflection by adding or removing shims on the servo tab support. Refer to AMM TASK 55-22-01-000-801-A/400 or AMM TASK 55-22-01-400-801-A/400 NOTE: It is not necessary to do the elevator balancing after removal or installation of shims. (b) Do the elevator calibration with the control-column position transducers ( AMM TASK 27-30-00-700-801-A/500). EMB-145  - AMM 1285 700-802-A/500 27-31-04 Page 6 of 9 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="7" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL K. Follow-on SUBTASK 842-002-A (1) Remove GSE 070 from the elevator. (2) Remove GSE 196 from the elevator. EMB-145  - AMM 1285 700-802-A/500 27-31-04 Page 7 of 9 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="8" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: ALL Elevator Lock Clamp - Installation  Figure 502 A ZONE 335 HORIZONTAL STABILIZER ELEVATOR ELEVATOR LOCK-CLAMP (GSE 196) SPRING TAB SERVO TAB DET. A 145AMM270468.MCE EMB-145  - AMM 1285 700-802-A/500 27-31-04 Page 8 of 9 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="9" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: ALL Digital Protractor Installation Points  Figure 503 A ZONE 335 DET. A SPRING TAB DIGITAL PROTRACTOR (GSE 070) B SERVO TAB HORIZONTAL STABILIZER RIVET ROWS ELEVATOR DIGITAL PROTRACTOR 0˚ DET. B 145AMM270470.MCE EMB-145  - AMM 1285 700-802-A/500 27-31-04 Page 9 of 9 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details. C1 C2 B1 B2 A1 A2</data>
+		</page>
+		<page number="10" width="216.0" height="279.0">
+			<data/>
+		</page>
+	</pages>
+</metadata>

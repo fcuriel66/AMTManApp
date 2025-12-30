@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata id="MPP1285_52-43-02-04-1">
+	<file family="145" manual="AMM" pn="1285" chg="U" tsn="51" is_tr="false">
+		<title>AMM PART II-1285 - CHAPTER 52-43-02-04 - ACTUATING CAM OF THE SERVICE-DOOR FOLDING FLAP - REMOVAL/INSTALLATION</title>
+		<path>/CHAPTER_52</path>
+		<hash>fea23d1e684a1e22215cdead944d1115</hash>
+	</file>
+	<pages>
+		<page number="1" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL ACTUATING CAM OF THE SERVICE-DOOR FOLDING FLAP - REMOVAL/INSTALLATION EFFECTIVITY:  ALL 1. General A. This section gives the procedures to remove and install the actuating cam of the folding flap of the service door. B. The procedures in this section are given in the sequence below. The tasks identified with ( ♦) are part of the Scheduled Maintenance Requirements Document (SMRD). TASK NUMBER DESCRIPTION EFFECTIVITY ACTUATING CAM OF THE SERVICE ALL 52-43-02-000-801-A DOOR FOLDING FLAP - REMOVAL  ACTUATING CAM OF THE SERVICE ALL 52-43-02-400-801-A DOOR FOLDING FLAP - INSTALLATION  EMB-145  - AMM 1285 General 52-43-02 Page 1 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="2" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 52-43-02-000-801-A EFFECTIVITY:  ALL 2. ACTUATING CAM OF THE SERVICE DOOR FOLDING FLAP - REMOVAL A. General (1) This procedure gives the instructions to remove the actuating cam of the folding flap of the service door. B. References REFERENCE DESIGNATION AMM MPP 06-45-00/100 - COMPONENT LOCATION C. Zones and Accesses ZONE PANEL/DOOR LOCATION 821 Service door D. Tools and Equipment Not Applicable E. Auxiliary Items Not Applicable F. Consumable Materials Not Applicable G. Expandable Parts Not Applicable H. Persons Recommended QTY FUNCTION PLACE 1 Does the task Service door I. Preparation SUBTASK 841-002-A (1) Open the service door. (2) Remove lining panels 821AW, 821BW, and 821CW ( AMM MPP 06-45-00/100). J. Removal (Figure 401)  SUBTASK 020-002-A (1) Remove the cotter pin (9), nut (10), washer (11), bolt (2), and bushing (8) to disconnect the cam (7) from the bellcrank (1). (2) Remove the nut (6), washer (5), and bolt (3). (3) Remove the cam (7) from the end of the torque tube (4). EMB-145  - AMM 1285 000-801-A/400 52-43-02 Page 2 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="3" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: ALL Actuating Cam - Removal/Installation  Figure 401 B A ZONE 821 ROD (REF.) 11.  WASHER 10.  NUT DET. A 1.  BELLCRANK 2.  BOLT 9.  COTTER PIN 3.  BOLT SPACER (REF.) 8.  BUSHING 7.  CAM 5.  WASHER 6.  NUT 4.  TORQUE TUBE DET. B 145AMM520113.MCE A EMB-145  - AMM 1285 000-801-A/400 52-43-02 Page 3 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="4" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 52-43-02-400-801-A EFFECTIVITY:  ALL 3. ACTUATING CAM OF THE SERVICE DOOR FOLDING FLAP - INSTALLATION A. General (1) This procedure gives the instructions to install the actuating cam of the folding flap of the service door. B. References REFERENCE DESIGNATION 52-43-00 - AMM MPP 06-45-00/100 - COMPONENT LOCATION C. Zones and Accesses ZONE PANEL/DOOR LOCATION 821 Service door D. Tools and Equipment Not Applicable E. Auxiliary Items Not Applicable F. Consumable Materials Not Applicable G. Expendable Parts IPC REFERENCE ITEM QTY (VENDOR REFERENCE) Cotter pin 52-43-00 1 H. Persons Recommended QTY FUNCTION PLACE 1 Does the task Service door 1 Helps the other technician Service door I. Installation (Figure 401)  SUBTASK 420-002-A (1) Put the cam (7) on the end of the torque tube (4) and in the bellcrank (1). (2) Install the bushing (8), bolt (2), washer (11), nut (10), and cotter pin (9) to attach the cam (7) to the bellcrank (1). (3) Install the bolt (3), washer (5), and nut (6) to attach the cam (7) to the torque tube (4). EMB-145  - AMM 1285 400-801-A/400 52-43-02 Page 4 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="5" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL J. Follow-on SUBTASK 842-002-A (1) Do an operational check of the service door mechanism. (2) Install lining panels 821AW, 821BW, and 821CW ( AMM MPP 06-45-00/100). (3) Close the service door. EMB-145  - AMM 1285 400-801-A/400 52-43-02 Page 5 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="6" width="216.0" height="279.0">
+			<data/>
+		</page>
+	</pages>
+</metadata>

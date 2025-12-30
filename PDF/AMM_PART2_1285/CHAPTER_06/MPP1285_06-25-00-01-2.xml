@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata id="MPP1285_06-25-00-01-2">
+	<file family="145" manual="AMM" pn="1285" chg="U" tsn="51" is_tr="false">
+		<title>AMM PART II-1285 - CHAPTER 06-25-00-01 - CONFIG-2 - NACELLE STATION DIAGRAM - COMPONENT LOCATION</title>
+		<path>/CHAPTER_06</path>
+		<hash>e818c0d8ef8da0cbe88011d3fceb1cb8</hash>
+	</file>
+	<pages>
+		<page number="1" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL NACELLE STATION DIAGRAM - COMPONENT LOCATION EFFECTIVITY:  ACFT MODEL(S) EMB-135 1. General A. This section gives the nacelle station diagram (Figure 101). B. The nacelle station diagram gives a reference system that shows the location of structural components in relation to the datum planes. EMB-145  - AMM 1285 General CONFIG-2 06-25-00 Page 1 of 3 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="2" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL NACELLE STATION DIAGRAM - COMPONENT LOCATION EFFECTIVITY:  ACFT MODEL(S) EMB-135 2. Nacelle Station Diagram. EMB-145  - AMM 1285 PGBLK 100 CONFIG-2 06-25-00 Page 2 of 3 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="3" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: ALL Nacelle Station Diagram  Figure 101 XN XN XN XN 194.65 776.80 3197.50 4524.03 NACELLE  REF.  ENGINE/NACELLE CG ENGINE C HORIZ REF L 592.00 FUSELAGE C L Y Y -2102.00 0.00 XN XN XN 0 1528.32 3000.00 LATERAL VIEW 5˚ ENGINE/NACELLE CG X = 18796.60 Y = -2110.85 Z Z = 490.79 592.00 NACELLE REF. FUSELAGE C Z L X = 16711.00 0.00 Y = -2102.00 Z = 592.00 X X X X 17485.00 18159.32 19681.00 21096.00 FRONT VIEW FUSELAGE C L ENGINE C L AIR INLET MODULE EXHAUST MODULE COWLING MODULE X TOP VIEW 19711.00 145AMM060236.MCE B EMB-145  - AMM 1285 PGBLK 100 CONFIG-2 06-25-00 Page 3 of 3 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details. FRONT MOUNT REAR MOUNT REAR MOUNT FUSELAGE C L VERTICAL REF. ENGINE C L</data>
+		</page>
+		<page number="4" width="216.0" height="279.0">
+			<data/>
+		</page>
+	</pages>
+</metadata>

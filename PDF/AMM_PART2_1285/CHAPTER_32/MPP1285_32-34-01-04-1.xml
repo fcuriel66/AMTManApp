@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata id="MPP1285_32-34-01-04-1">
+	<file family="145" manual="AMM" pn="1285" chg="U" tsn="51" is_tr="false">
+		<title>AMM PART II-1285 - CHAPTER 32-34-01-04 - OVERRIDE SWITCH - REMOVAL/INSTALLATION</title>
+		<path>/CHAPTER_32</path>
+		<hash>6a7c3ed7ad5552d3b54b4deac2025551</hash>
+	</file>
+	<pages>
+		<page number="1" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL OVERRIDE SWITCH - REMOVAL/INSTALLATION EFFECTIVITY:  ALL 1. General A. This section gives the procedures to remove and install the Override Switch. B. The procedures in this section are given in the sequence below. The tasks identified with ( ♦) are part of the Scheduled Maintenance Requirements Document (SMRD). TASK NUMBER DESCRIPTION EFFECTIVITY ALL 32-34-01-000-801-A OVERRIDE SWITCH - REMOVAL   ALL 32-34-01-400-801-A OVERRIDE SWITCH - INSTALLATION   EMB-145  - AMM 1285 General 32-34-01 Page 1 of 6 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="2" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 32-34-01-000-801-A EFFECTIVITY:  ALL 2. OVERRIDE SWITCH - REMOVAL A. General (1) This procedure gives the instructions to remove the Override Switch. B. References REFERENCE DESIGNATION AMM MPP 06-41-02/100 - AMM TASK 25-11-01-000-801-A/400 PILOT SEAT - REMOVAL C. Zones and Accesses ZONE PANEL/DOOR LOCATION Area below the cockpit floor, on the RH 124 222EF side D. Tools and Equipment Not Applicable E. Auxiliary Items Not Applicable F. Consumable Materials Not Applicable G. Expandable Parts Not Applicable H. Persons Recommended QTY FUNCTION PLACE 1 Does the task On the cockpit RH side I. Preparation SUBTASK 841-002-A (1) On the circuit breaker panel, open the DOWN OVRD circuit breaker and attach a DO- NOT-CLOSE tag to it. (2) Remove the copilot's seat (AMM TASK 25-11-01-000-801-A/400). (3) Open access door 222EF (AMM MPP 06-41-02/100). J. Removal (Figure 401)  SUBTASK 020-002-A (1) Remove the nut (7), washer (6) and switch guard (1). EMB-145  - AMM 1285 000-801-A/400 32-34-01 Page 2 of 6 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="3" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL (2) Remove the override switch (4) from the support (2) with the tab washer (3). (3) Identify and disconnect the electrical terminals (5). (4) Remove the override switch (4). EMB-145  - AMM 1285 000-801-A/400 32-34-01 Page 3 of 6 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="4" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: ALL Override Switch - Removal/Installation  Figure 401 A ZONE 124 B DET. A 1. SWITCH     GUARD FREE-FALL 7. NUT LEVER 2. SUPPORT 6. WASHER 3. TAB C     WASHER 4. OVERRIDE     SWITCH DET. B 5. ELECTRICAL     CONNECTOR     PINS     (8 POSITIONS) DET. C 145AMM320249.MCE B EMB-145  - AMM 1285 000-801-A/400 32-34-01 Page 4 of 6 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="5" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 32-34-01-400-801-A EFFECTIVITY:  ALL 3. OVERRIDE SWITCH - INSTALLATION A. General (1) This procedure gives the instructions to install the Override Switch. B. References REFERENCE DESIGNATION AMM MPP 06-41-02/100 - AMM TASK 25-11-01-400-801-A/400 PILOT SEAT - INSTALLATION C. Zones and Accesses ZONE PANEL/DOOR LOCATION Area below the cockpit floor, on the RH 124 222EF side D. Tools and Equipment Not Applicable E. Auxiliary Items Not Applicable F. Consumable Materials Not Applicable G. Expandable Parts Not Applicable H. Persons Recommended QTY FUNCTION PLACE 1 Does the task On the cockpit RH side I. Installation (Figure 401)  SUBTASK 420-002-A (1) Connect the electrical terminals (5) on the override switch (4). (2) Install the override switch (4) to the support (2) with the tab washer (3). (3) Install the switch guard (1), washer (6) and nut (7). J. Follow-on SUBTASK 842-002-A (1) On the circuit breaker panel, close the DOWN OVRD circuit breaker and remove the DO-NOT-CLOSE tags from it. EMB-145  - AMM 1285 400-801-A/400 32-34-01 Page 5 of 6 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="6" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL (2) Close the access door 222EF (AMM MPP 06-41-02/100). (3) Install the copilot's seat (AMM TASK 25-11-01-400-801-A/400). EMB-145  - AMM 1285 400-801-A/400 32-34-01 Page 6 of 6 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+	</pages>
+</metadata>

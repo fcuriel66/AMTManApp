@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata id="MPP1285_49-61-01-04-1">
+	<file family="145" manual="AMM" pn="1285" chg="U" tsn="51" is_tr="false">
+		<title>AMM PART II-1285 - CHAPTER 49-61-01-04 - HIGH OIL TEMPERATURE SWITCH - REMOVAL/INSTALLATION</title>
+		<path>/CHAPTER_49</path>
+		<hash>51c6645492cf425c51db34748ce4c8ec</hash>
+	</file>
+	<pages>
+		<page number="1" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL HIGH OIL TEMPERATURE SWITCH - REMOVAL/INSTALLATION EFFECTIVITY:  AIRCRAFT WITH APU T-62T-40C11 1. General A. This section gives the procedures to remove/install the high oil temperature switch. B. The high oil temperature switch is installed in the lower portion of the reduction-drive-assembly oil sump. C. The procedures in this section are given in the sequence below. The tasks identified with ( ♦) are part of the Scheduled Maintenance Requirements Document (SMRD). TASK NUMBER DESCRIPTION EFFECTIVITY AIRCRAFT WITH APU HIGH OIL TEMPERATURE SWITCH - RE- 49-61-01-000-801-A T-62T-40C11 MOVAL   AIRCRAFT WITH APU HIGH OIL TEMPERATURE SWITCH - IN- 49-61-01-400-801-A T-62T-40C11 STALLATION   EMB-145  - AMM 1285 General 49-61-01 Page 1 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="2" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 49-61-01-000-801-A EFFECTIVITY:  AIRCRAFT WITH APU T-62T-40C11 2. HIGH OIL TEMPERATURE SWITCH - REMOVAL A. General (1) To do this task, refer to the instructions given in the latest revision of Hamilton Sundstrand bulletin 40C11-1 engine manual P/N 4501966. B. References REFERENCE DESIGNATION AMM TASK 49-11-00-000-801-A/400 APU COWLING - REMOVAL C. Zones and Accesses ZONE PANEL/DOOR LOCATION 313 313 APU D. Tools and Equipment Not Applicable E. Auxiliary Items ITEM DESCRIPTION PURPOSE QTY Commercially Workstand To get access to the APU work area 1 available F. Consumable Materials Not Applicable G. Expandable Parts Not Applicable H. Persons Recommended QTY FUNCTION PLACE 1 Does the task APU work area I. Preparation SUBTASK 841-002-A WARNING: MAKE SURE THAT THE APU-CONTROL MASTER SWITCH IS IN THE “OFF” POSITION TO PREVENT AN APU ACCIDENTAL OPERATION. (1) On the circuit breaker panel, open these circuit breakers and attach DO-NOT-CLOSE tags to them: – APU FUEL SOV. (2) On the left power control and distribution box, open the APU GEN START circuit breaker and attach DO-NOT-CLOSE tag to it. EMB-145  - AMM 1285 000-801-A/400 49-61-01 Page 2 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="3" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL (3) Remove the APU cowling ( AMM TASK 49-11-00-000-801-A/400). (4) Put a container under the reduction drive assembly to catch oil. J. Removal SUBTASK 020-002-A (1) Remove the APU high oil temperature switch. Refer to the latest revision of Hamilton Sundstrand bulletin 40C11-1 engine manual P/N 4501966. EMB-145  - AMM 1285 000-801-A/400 49-61-01 Page 3 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="4" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 49-61-01-400-801-A EFFECTIVITY:  AIRCRAFT WITH APU T-62T-40C11 3. HIGH OIL TEMPERATURE SWITCH - INSTALLATION A. General (1) To do this task, refer to the instructions given in the latest revision of Hamilton Sundstrand bulletin 40C11-1 engine manual P/N 4501966. B. References REFERENCE DESIGNATION AMM TASK 49-10-00-910-802-A/200 APU - START AMM TASK 49-11-00-400-801-A/400 APU COWLING - INSTALLATION C. Zones and Accesses ZONE PANEL/DOOR LOCATION 313 313 APU D. Tools and Equipment Not Applicable E. Auxiliary Items ITEM DESCRIPTION PURPOSE QTY Commercially Workstand To get access to the APU work area 1 available F. Consumable Materials Not Applicable G. Expandable Parts Not Applicable H. Persons Recommended QTY FUNCTION PLACE 1 Does the task APU work area I. Installation SUBTASK 420-002-A (1) Install the APU high oil temperature switch. Refer to the latest revision of Hamilton Sundstrand bulletin 40C11-1 engine manual P/N 4501966. J. Follow-on SUBTASK 842-002-A (1) Remove the DO-NOT-CLOSE tags and close these circuit breakers. EMB-145  - AMM 1285 400-801-A/400 49-61-01 Page 4 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="5" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL – APU FUEL SOV. (2) On the left power control and distribution box, remove the DO-NOT-CLOSE tag and close the APU GEN START circuit breaker. (3) Operate the APU ( AMM TASK 49-10-00-910-802-A/200) and examine the reduction drive assembly for oil leaks. Repair if necessary. (4) Remove the container installed under the reduction drive assembly. (5) Install the APU cowling ( AMM TASK 49-11-00-400-801-A/400). EMB-145  - AMM 1285 400-801-A/400 49-61-01 Page 5 of 5 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="6" width="216.0" height="279.0">
+			<data/>
+		</page>
+	</pages>
+</metadata>

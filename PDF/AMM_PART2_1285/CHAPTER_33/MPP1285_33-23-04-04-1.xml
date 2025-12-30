@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata id="MPP1285_33-23-04-04-1">
+	<file family="145" manual="AMM" pn="1285" chg="U" tsn="51" is_tr="false">
+		<title>AMM PART II-1285 - CHAPTER 33-23-04-04 - FASTEN SEAT BELT SIGN - REMOVAL/INSTALLATION</title>
+		<path>/CHAPTER_33</path>
+		<hash>4c285611c835e1ffcf1cf7a8b6b5111b</hash>
+	</file>
+	<pages>
+		<page number="1" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL FASTEN SEAT BELT SIGN - REMOVAL/INSTALLATION EFFECTIVITY:  ALL 1. General A. This section gives the procedures for the removal/installation of the fasten seat belt sign. B. The fasten seat belt sign is located on the right-hand PSU installation and the left-hand PSU structure installation. C. Attention must be given to safety precautions presented below, when working on the fasten seat belt sign. • Disconnect the electrical power. • Always use insulated tools when working on or near electrical circuits. D. The procedures in this section are given in the sequence below. The tasks identified with ( ♦) are part of the Scheduled Maintenance Requirements Document (SMRD). TASK NUMBER DESCRIPTION EFFECTIVITY ALL 33-23-04-000-801-A FASTEN SEAT BELT SIGN - REMOVAL   FASTEN SEAT BELT SIGN - INSTALLA- ALL 33-23-04-400-801-A TION  EMB-145  - AMM 1285 General 33-23-04 Page 1 of 4 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="2" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 33-23-04-000-801-A EFFECTIVITY:  ALL 2. FASTEN SEAT BELT SIGN - REMOVAL A. General (1) This section gives the procedures for the removal of the fasten seat belt sign. B. Zones and Accesses Not Applicable C. Tools and Equipment Not Applicable D. Auxiliary Items Not Applicable E. Consumable Materials Not Applicable F. Expandable Parts Not Applicable G. Persons Recommended QTY FUNCTION PLACE 1 Performs the Task Passenger Cabin H. Removal of the Fasten Seat Belt Sign (Figure 401)  SUBTASK 020-002-A (1) Remove the lens cover (1) from the housing assembly (4). (2) Remove the lamps (2). CAUTION: THE PCB ASSEMBLY CONTAINS SENSITIVE ELECTRONIC COMPONENTS THAT CAN BE DAMAGED BY ELECTROSTATIC DISCHARGE AND ROUGH HANDLING. HANDLE THE PCB ASSEMBLY WITH CARE TO PREVENT DAMAGE. (3) Remove the PCB assembly (3). EMB-145  - AMM 1285 000-801-A/400 33-23-04 Page 2 of 4 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="3" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL EFFECTIVITY: ALL Fasten Seat Belt Sign  Figure 401 4. HOUSING     ASSY 3. PCB     ASSY 2. LAMP 1. LENS     COVER EM145AMM331021A.DGN EMB-145  - AMM 1285 000-801-A/400 33-23-04 Page 3 of 4 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+		<page number="4" width="216.0" height="279.0">
+			<data>AIRCRAFT MAINTENANCE MANUAL TASK 33-23-04-400-801-A EFFECTIVITY:  ALL 3. FASTEN SEAT BELT SIGN - INSTALLATION A. General (1) This section gives the procedures for the installation of the fasten seat belt sign. B. Zones and Accesses Not Applicable C. Tools and Equipment Not Applicable D. Auxiliary Items Not Applicable E. Consumable Materials Not Applicable F. Expandable Parts Not Applicable G. Persons Recommended QTY FUNCTION PLACE 1 Performs the Task Passenger Cabin H. Installation of the Fasten Seat Belt Sign (Figure 401)  SUBTASK 420-002-A CAUTION: THE PCB ASSEMBLY CONTAINS SENSITIVE ELECTRONIC COMPONENTS THAT CAN BE DAMAGED BY ELECTROSTATIC DISCHARGE AND ROUGH HANDLING. HANDLE THE PCB ASSEMBLY WITH CARE TO PREVENT DAMAGE. (1) Install the PCB assembly (3). (2) Install the lamps (2). (3) Install the lens cover (1) on the housing assembly (4). EMB-145  - AMM 1285 400-801-A/400 33-23-04 Page 4 of 4 Rev 48 - Oct  30/15 Copyright ÃÂ© by Embraer S.A. All rights reserved - See title page for details.</data>
+		</page>
+	</pages>
+</metadata>
