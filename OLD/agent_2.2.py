@@ -1,13 +1,10 @@
-# Streamlit Environment
-import streamlit as st
-
-# System & OS Environment
+# System & Environment
 import os
 from dotenv import load_dotenv
 from dataclasses import dataclass
 
 # Langchain libraries & Tools
-from langchain.tools import tool
+from langchain.tools import tool, ToolRuntime
 from langchain_openai import ChatOpenAI
 from langchain.agents import create_agent
 from langgraph.checkpoint.memory import InMemorySaver
@@ -15,19 +12,17 @@ from langgraph.checkpoint.memory import InMemorySaver
 
 # Self-made libraries, prompts and Auxiliary Functions
 from symptoms_RAG import setup_rag_components
-from find_tasks_efficient import load_rag_components, USER_WELCOME, extract_task_list
-from prompts.tech_prompts import diagnose_prompt, ATA_chapters
+from find_tasks_efficient import load_rag_components, user_welcome, extract_task_list
+from prompts.tech_prompts import diagnose_prompt
 from prompts.tech_prompts import find_task_prompt, SYSTEM_PROMPT
-
-from AUX.auxiliary_functions import gradient_text_html, find_pdf_from_task_numbers
-import time
+from printing import print_pretty_history
+from link_extract import extract_links_by_text, extract_chapter, copy_pdf_list
 
 # Load environment variables
 load_dotenv()
 API_KEY = os.getenv("OPENAI_API_KEY")
 
 
-@st.cache_data
 def call_agent(maintenance_query: str):
 
     # --------------------------
@@ -36,6 +31,18 @@ def call_agent(maintenance_query: str):
     @dataclass
     class Context:
         user_id: str
+
+    #-------------------------------
+    # Define response format
+    #------------------------------
+    @dataclass
+    class ResponseFormat:
+        """Response schema for the agent."""
+        # A response from the RAG tools (always required)
+        rag_response: str
+        # list of systems or components if available in the response
+        # (WHEN UNCOMMENTED, LINE BELOW CREATES INFINITE RAG CALLING LOOP)
+        #systems_components: str | None = None
 
     # --------------------------
     # RAG LLM Tools
@@ -47,10 +54,11 @@ def call_agent(maintenance_query: str):
         """ finds tasks for systems or components responsible for the failure."""
         print("\nSearch Tasks RAG tool chosen. Thinking...\n")
 
-        # ---- Use only once to create and load vectorstore (e.g. with new manual version)
+        # ---- Use only once to create and load vectorstore
         # build_and_save_vectorstore(PDF_FILES)
+        # ---- Uncomment the above line only for the very first run
 
-        # --- Use already saved vector embeddings
+        # --- Use with saved vector embeddings
         retriever, model_tasks = load_rag_components()
 
         component_system = components
@@ -61,13 +69,14 @@ def call_agent(maintenance_query: str):
         # Retrieve of stored docs and Prompt Template
         retrieved_docs2 = retriever.invoke(component_system, k=4)
         context = "\n\n---".join(doc.page_content for doc in retrieved_docs2)
+        # print(context)     --------Used for debugging only
         prompt_template = find_task_prompt(component_system, context)
 
         # Invoking of response
         response_tasks = model.invoke(prompt_template)
         tasks_to_pdf = extract_task_list(response_tasks.content)
         find_pdf_from_task_numbers(tasks_to_pdf)
-        return response_tasks.content
+        return f"Tasks found:  {response_tasks.content}"
 
 
     # Symptoms diagnostic (RAG tool)
@@ -83,7 +92,9 @@ def call_agent(maintenance_query: str):
         user_question = symptoms_user
         if user_question.lower() == "none":
             return "Thank you for using AI_AMTMan.\nHasta la vista baby...!"
-        print("Diagnostics RAG tool chosen. Thinking...")
+
+        print("Diagnostics RAG tool chosen. Thinking...\n")
+
         # 1. Retrieve
         retrieved_docs_srag = retriever_srag.invoke(user_question)
         context_srag = "\n\n".join([doc.page_content for doc in retrieved_docs_srag])
@@ -93,14 +104,40 @@ def call_agent(maintenance_query: str):
 
         # 3. Generate response
         rag_response = model_rag.invoke(prompt_template_srag)
-        print(f"\nAnswer: \n {rag_response.content}")
+        print(f"\nAnswer:\n, {rag_response.content}")
 
-        return f"\nAnswer: \n {rag_response.content}"
+        return f"\nAnswer:\n, {rag_response.content}"
 
 
     # --------------------------
-    # Auxiliary Tools in PDF.auxiliary_functions
+    # Auxiliary Tools
     #---------------------------
+
+    def find_pdf_from_task_numbers(task_numbers: list):
+        """ Find PDF files from a list of task numbers."""
+
+        # Extraction of chapter number to put in the search path
+        tasks_chapter = extract_chapter(task_numbers)
+
+        # Extraction of the links in pdf TOC chapter files associated with the text of tasks in task_num list
+        matches = extract_links_by_text(f"PDF/025-MPP1285_{tasks_chapter}-TOC.PDF", task_numbers)
+
+        # Copy selected PDF files from MPP original directory to single working directory (AMM_EXTRACTED)
+        result = copy_pdf_list(
+            matches,
+            destination_dir="/Users/fernandocuriel/PycharmProjects/RAG/PDF/AMM_EXTRACTED/" + f"{tasks_chapter}",
+            base_dir="/PDF"
+        )
+
+        print(f"Copied in ../AMM_EXTRACTED/{tasks_chapter}:")
+        for f in result["copied"]:
+            print("  ✓", f)
+
+        print("\nMissing:")
+        for f in result["missing"]:
+            print("  ✗", f)
+
+        return result
 
 
     # --------------------------
@@ -110,7 +147,7 @@ def call_agent(maintenance_query: str):
         api_key=API_KEY,
         temperature=0,
         model="gpt-5-mini",
-        reasoning_effort="low"
+        reasoning_effort="medium"
     )
 
     # --------------------------
@@ -126,6 +163,7 @@ def call_agent(maintenance_query: str):
         system_prompt=SYSTEM_PROMPT,
         tools=[find_tasks, symptoms_rag],
         context_schema=Context,
+        #response_format=ToolStrategy(ResponseFormat),
         checkpointer=checkpointer
     )
 
@@ -143,83 +181,33 @@ def call_agent(maintenance_query: str):
     # checkpointer history
     history = checkpointer.get(config)
 
-    # Return the assistant final message (response) or the history
+    # Return the assistant final message or the history
+    # (response["messages"][-1].content or history)
+
     return history
-    #return response
+    # print("HISTORY: ", history["channel_values"]["messages"])
+    #return response["messages"][-1].content
+    #return "\nAssistant:", response["structured_response"].rag_response
+    #return response["structured_response"].rag_response
 
 
-# ----------------------------
-# STREAMLIT
-# ---------------------------
-# Streamlit Element Config
-st.logo("/Users/fernandocuriel/PycharmProjects/RAG/XML/RWS logo.png", size="large")
-#st.title(":blue[AI Aircraft Maintenance Agent]")
-
-st.markdown(gradient_text_html, unsafe_allow_html=True)
-st.caption("Aircraft Maintenance AI Agent")
+def main():
+    #print(call_agent(maintenance_query))                   # final agent response only
+    print_pretty_history(call_agent(maintenance_query))     # history answer
 
 
-# Sidebar selectbox
-option = st.sidebar.selectbox("Choose an Aircraft:", ["EMB145/135", "*BE40*", "*EMB600*"])
-st.write("Aircraft Type: ", option)
+if __name__ == "__main__":
 
-# Sidebar elements
-st.sidebar.title(":grey[*EMB145/135 Regional Jet*]")
-st.sidebar.caption("[EMB145 MPP Introduction](https://www.dropbox.com/scl/fi/kd6gkh65rz3ukmpk8zc6p/100-MPP1285-INTRODUCTION.PDF?rlkey=ogwkmtdraofqo24j8di2coy2y&dl=0)")
+    # --------------------------
+    # MAIN LOOP
+    # --------------------------
+    user_welcome()
 
-# Sidebar control
-hide_ATA = st.sidebar.checkbox("*Show ATA Chapters* ")
-hide_manual = st.checkbox("Instructions and Query Examples")
-hide_directory = st.sidebar.checkbox("*Show saved PDF tasks files*")
-contents = os.listdir('./PDF/AMM_EXTRACTED')
+    while True:
+        maintenance_query = input("\nPlease enter your maintenance query: ")
+        print(f"\nChoosing tool...\n")
 
-# Sidebar content
-with st.sidebar:
-    if hide_ATA:
-        st.sidebar.write(ATA_chapters)
-    if hide_directory:
-        st.sidebar.write(":grey[*Saved Files in:*]")
-        st.sidebar.write(":orange[==================================]")
-        #st.sidebar.write(contents)
-        for index in contents:
-            st.sidebar.write(index, f":small[:grey[/ {index} - XX - *.PDF]]")
-
-        st.sidebar.write(":orange[==================================]")
-
-
-if hide_manual:
-    st.write(USER_WELCOME)
-
-# -------------
-# Chat UI
-# -------------
-# Initialize chat history in session state if it doesn't exist
-if "messages" not in st.session_state:
-    st.session_state.messages = []
-
-with st.chat_message("assistant", avatar=":material/smart_toy:"):
-    st.write("*Welcome to AMTMan-E145, the AI Aircraft Maintenance Task Manager!*")
-
-# Display chat messages from history
-for message in st.session_state.messages:
-    with st.chat_message(message["role"]):
-        st.write(message["content"])
-
-
-
-
-if prompt := st.chat_input("Please enter your maintenance query:"):
-    with st.spinner("Choosing Tools...", show_time=False):
-        time.sleep(2)
-    st.session_state.messages.append({"role": "user", "content": prompt})
-
-    # Run Agent and show its response
-    agent_history = call_agent(prompt)
-    channel_messages = agent_history["channel_values"]["messages"]
-    for msg in channel_messages:
-        st.session_state.messages.append({"role": "assistant",
-                                          "content": f"""[{msg.type.upper()}]message
-                                          \n\tTool call: [ {msg.name} ]\n:orange[{msg.content}]"""})
-    #st.write(channel_messages)
-
-    st.rerun()
+        if maintenance_query.lower() == "none":
+            print("No question... Goodbye!")
+            break
+        main()

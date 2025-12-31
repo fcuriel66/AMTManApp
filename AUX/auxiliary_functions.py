@@ -1,4 +1,7 @@
+import sqlite3
+
 from link_extract import extract_links_by_text, extract_chapter, copy_pdf_list
+from langchain_core.messages import HumanMessage, AIMessage
 
 
 gradient_text_html = """
@@ -48,3 +51,41 @@ def find_pdf_from_task_numbers(task_numbers: list):
         print("  ✗", f)
 
     return result
+
+
+def extract_human_ai_messages(history):
+    filtered = []
+    for msg in history:
+        if isinstance(msg, HumanMessage):
+            filtered.append(("human", msg.content))
+        elif isinstance(msg, AIMessage):
+            filtered.append(("ai", msg.content))
+    return filtered
+
+
+def ensure_user(user_id, conn):
+    conn.execute(
+        "INSERT OR IGNORE INTO users (id) VALUES (?)",
+        (user_id,)
+    )
+
+
+# Saving of history defaults to same path as in streamlit_app3.py
+def save_history(user_id, history, db_path="database/maintenance.db"):
+    conn = sqlite3.connect(db_path)
+    cursor = conn.cursor()
+
+    ensure_user(user_id, conn)
+
+    messages = extract_human_ai_messages(history)
+
+    cursor.executemany(
+        """
+        INSERT INTO maintenance_history (user_id, role, content)
+        VALUES (?, ?, ?)
+        """,
+        [(user_id, role, content) for role, content in messages]
+    )
+
+    conn.commit()
+    conn.close()

@@ -18,12 +18,18 @@ from symptoms_RAG import setup_rag_components
 from find_tasks_efficient import load_rag_components, USER_WELCOME, extract_task_list
 from prompts.tech_prompts import diagnose_prompt, ATA_chapters
 from prompts.tech_prompts import find_task_prompt, SYSTEM_PROMPT
-from link_extract import extract_links_by_text, extract_chapter, copy_pdf_list
+from database.models import init_db
+
+from AUX.auxiliary_functions import gradient_text_html, find_pdf_from_task_numbers, save_history
 import time
 
 # Load environment variables
 load_dotenv()
 API_KEY = os.getenv("OPENAI_API_KEY")
+
+# Init Database and create tables. To be run only the first time
+DB_PATH = "database/maintenance.db"
+#init_db(DB_PATH)
 
 
 @st.cache_data
@@ -46,11 +52,10 @@ def call_agent(maintenance_query: str):
         """ finds tasks for systems or components responsible for the failure."""
         print("\nSearch Tasks RAG tool chosen. Thinking...\n")
 
-        # ---- Use only once to create and load vectorstore (e.g. with new manual)
+        # ---- Use only once to create and load vectorstore (e.g. with new manual version)
         # build_and_save_vectorstore(PDF_FILES)
-        # ---- Uncomment the above line only for the very first run
 
-        # --- Use with saved vector embeddings
+        # --- Use already saved vector embeddings
         retriever, model_tasks = load_rag_components()
 
         component_system = components
@@ -65,8 +70,8 @@ def call_agent(maintenance_query: str):
 
         # Invoking of response
         response_tasks = model.invoke(prompt_template)
-        tasks_to_pdf = extract_task_list(response_tasks.content)    # -------------
-        find_pdf_from_task_numbers(tasks_to_pdf)                    # -------------
+        tasks_to_pdf = extract_task_list(response_tasks.content)
+        find_pdf_from_task_numbers(tasks_to_pdf)
         return response_tasks.content
 
 
@@ -99,35 +104,8 @@ def call_agent(maintenance_query: str):
 
 
     # --------------------------
-    # Auxiliary Tools
+    # Auxiliary Tools in: PDF.auxiliary_functions
     #---------------------------
-
-    def find_pdf_from_task_numbers(task_numbers: list):
-        """ Find PDF files from a list of task numbers."""
-
-        # Extraction of chapter number to put in the search path
-        tasks_chapter = extract_chapter(task_numbers)
-
-        # Extraction of the links in pdf TOC chapter files associated with the text of tasks in task_num list
-        matches = extract_links_by_text(f"PDF/025-MPP1285_{tasks_chapter}-TOC.PDF", task_numbers)
-
-        # Copy selected PDF files from MPP original directory to single working directory (AMM_EXTRACTED)
-        result = copy_pdf_list(
-            matches,
-            destination_dir="/Users/fernandocuriel/PycharmProjects/RAG/PDF/AMM_EXTRACTED/" + f"{tasks_chapter}",
-            base_dir="/Users/fernandocuriel/PycharmProjects/RAG/PDF"
-        )
-
-        print(f"Copied in ../AMM_EXTRACTED/{tasks_chapter}")
-        print()
-        for f in result["copied"]:
-            print("  ✓", f)
-
-        print("\nMissing:")
-        for f in result["missing"]:
-            print("  ✗", f)
-
-        return result
 
 
     # --------------------------
@@ -170,8 +148,9 @@ def call_agent(maintenance_query: str):
     # checkpointer history
     history = checkpointer.get(config)
 
-    # Return the assistant final message or the history
+    # Return the assistant final message (response) or the history
     return history
+    #return response
 
 
 # ----------------------------
@@ -181,26 +160,6 @@ def call_agent(maintenance_query: str):
 st.logo("/Users/fernandocuriel/PycharmProjects/RAG/XML/RWS logo.png", size="large")
 #st.title(":blue[AI Aircraft Maintenance Agent]")
 
-# Style for text
-gradient_text_html = """
-<style>
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@700;900&display=swap');
-
-.snowchat-title {
-  font-family: 'Poppins', sans-serif;
-  font-weight: 900;
-  font-size: 4em;
-  background: linear-gradient(90deg, #ff6a00, #ee0979);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
-  margin: 0;
-  padding: 20px 0;
-  text-align: center;
-}
-</style>
-<div class="snowchat-title">AMTMan</div>
-"""
 st.markdown(gradient_text_html, unsafe_allow_html=True)
 st.caption("Aircraft Maintenance AI Agent")
 
@@ -240,16 +199,16 @@ if hide_manual:
 # Chat UI
 # -------------
 # Initialize chat history in session state if it doesn't exist
-if "messages" not in st.session_state:          ##
-    st.session_state.messages = []              ##
+if "messages" not in st.session_state:
+    st.session_state.messages = []
 
 with st.chat_message("assistant", avatar=":material/smart_toy:"):
     st.write("*Welcome to AMTMan-E145, the AI Aircraft Maintenance Task Manager!*")
 
 # Display chat messages from history
-for message in st.session_state.messages:       ##
-    with st.chat_message(message["role"]):      ##
-        st.write(message["content"])            ##
+for message in st.session_state.messages:
+    with st.chat_message(message["role"]):
+        st.write(message["content"])
 
 
 
@@ -257,7 +216,7 @@ for message in st.session_state.messages:       ##
 if prompt := st.chat_input("Please enter your maintenance query:"):
     with st.spinner("Choosing Tools...", show_time=False):
         time.sleep(2)
-    st.session_state.messages.append({"role": "user", "content": prompt}) ##
+    st.session_state.messages.append({"role": "user", "content": prompt})
 
     # Run Agent and show its response
     agent_history = call_agent(prompt)
@@ -266,7 +225,15 @@ if prompt := st.chat_input("Please enter your maintenance query:"):
         st.session_state.messages.append({"role": "assistant",
                                           "content": f"""[{msg.type.upper()}]message
                                           \n\tTool call: [ {msg.name} ]\n:orange[{msg.content}]"""})
+
+    # Save history of the user conversation (timestamped)
+    user_id = "2"
+
+    save_history(
+        user_id=user_id,
+        history=channel_messages
+    )
+
     #st.write(channel_messages)
 
     st.rerun()
-

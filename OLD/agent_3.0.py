@@ -22,7 +22,6 @@ from link_extract import extract_links_by_text, extract_chapter, copy_pdf_list
 load_dotenv()
 API_KEY = os.getenv("OPENAI_API_KEY")
 
-
 def call_agent(maintenance_query: str):
 
     # --------------------------
@@ -31,18 +30,6 @@ def call_agent(maintenance_query: str):
     @dataclass
     class Context:
         user_id: str
-
-    #-------------------------------
-    # Define response format
-    #------------------------------
-    @dataclass
-    class ResponseFormat:
-        """Response schema for the agent."""
-        # A response from the RAG tools (always required)
-        rag_response: str
-        # list of systems or components if available in the response
-        # (WHEN UNCOMMENTED, LINE BELOW CREATES INFINITE RAG CALLING LOOP)
-        #systems_components: str | None = None
 
     # --------------------------
     # RAG LLM Tools
@@ -126,7 +113,7 @@ def call_agent(maintenance_query: str):
         result = copy_pdf_list(
             matches,
             destination_dir="/Users/fernandocuriel/PycharmProjects/RAG/PDF/AMM_EXTRACTED/" + f"{tasks_chapter}",
-            base_dir="/Users/fernandocuriel/PycharmProjects/RAG/PDF"
+            base_dir="/PDF"
         )
 
         print(f"Copied in ../AMM_EXTRACTED/{tasks_chapter}:")
@@ -163,7 +150,6 @@ def call_agent(maintenance_query: str):
         system_prompt=SYSTEM_PROMPT,
         tools=[find_tasks, symptoms_rag],
         context_schema=Context,
-        #response_format=ToolStrategy(ResponseFormat),
         checkpointer=checkpointer
     )
 
@@ -204,7 +190,7 @@ if __name__ == "__main__":
     user_welcome()
 
     while True:
-        maintenance_query = input("\nPlease enter your maintenance query: ")
+        maintenance_query = input("Please enter your maintenance query: \n")
         print(f"\nChoosing tool...\n")
 
         if maintenance_query.lower() == "none":
