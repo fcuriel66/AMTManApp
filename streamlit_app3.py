@@ -227,7 +227,7 @@ if prompt := st.chat_input("Please enter your maintenance query:"):
                                           \n\tTool call: [ {msg.name} ]\n:orange[{msg.content}]"""})
 
     # Save history of the user conversation (timestamped)
-    user_id = "2"
+    user_id = "3"
 
     save_history(
         user_id=user_id,

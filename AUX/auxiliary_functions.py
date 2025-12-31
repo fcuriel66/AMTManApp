@@ -89,3 +89,19 @@ def save_history(user_id, history, db_path="database/maintenance.db"):
 
     conn.commit()
     conn.close()
+
+
+def load_history(user_id, db_path="database/maintenance.db"):
+    conn = sqlite3.connect(db_path)
+    cursor = conn.cursor()
+
+    cursor.execute("""
+        SELECT role, content, created_at
+        FROM maintenance_history
+        WHERE user_id = ?
+        ORDER BY created_at ASC
+    """, (user_id,))
+
+    rows = cursor.fetchall()
+    conn.close()
+    return rows
