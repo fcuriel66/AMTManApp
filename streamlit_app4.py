@@ -18,6 +18,7 @@ from symptoms_RAG import setup_rag_components
 from find_tasks_efficient import load_rag_components, USER_WELCOME, extract_task_list
 from prompts.tech_prompts import diagnose_prompt, ATA_chapters
 from prompts.tech_prompts import find_task_prompt, SYSTEM_PROMPT
+import sqlite3
 from database.models import init_db
 
 from AUX.auxiliary_functions import gradient_text_html, find_pdf_from_task_numbers, save_history
@@ -173,6 +174,24 @@ st.write("Aircraft Type: ", option)
 st.sidebar.title(":grey[*EMB145/135 Regional Jet*]")
 st.sidebar.caption("[EMB145 MPP Introduction](https://www.dropbox.com/scl/fi/kd6gkh65rz3ukmpk8zc6p/100-MPP1285-INTRODUCTION.PDF?rlkey=ogwkmtdraofqo24j8di2coy2y&dl=0)")
 
+
+# Sidebar new user creation ---------
+st.sidebar.header("➕ New User")
+
+new_user_id = st.sidebar.text_input("User ID")
+
+if st.sidebar.button("Create User"):
+    if new_user_id.strip():
+        conn = sqlite3.connect(DB_PATH)
+        conn.execute(
+            "INSERT OR IGNORE INTO users (id) VALUES (?)",
+            (new_user_id,)
+        )
+        conn.commit()
+        conn.close()
+        st.sidebar.success("User created")
+
+
 # Sidebar user selection and history loading --------------------------
 st.sidebar.header("📂 User History")
 
@@ -191,8 +210,6 @@ if users:
         st.session_state["selected_user"] = selected_user
 else:
     st.sidebar.info("No users found yet.")
-
-
 
 
 # Sidebar control
@@ -225,7 +242,7 @@ if hide_manual:
 if "messages" not in st.session_state:
     st.session_state.messages = []
 
-with st.chat_message("assistant", avatar=":material/smart_toy:"):
+with st.chat_message("assistant", avatar=":material/connecting_airports:"):
     st.write("*Welcome to AMTMan-E145, the AI Aircraft Maintenance Task Manager!*")
 
 # Display chat messages from history
@@ -250,7 +267,8 @@ if prompt := st.chat_input("Please enter your maintenance query:"):
                                           \n\tTool call: [ {msg.name} ]\n:orange[{msg.content}]"""})
 
     # Save history of the user conversation (timestamped)
-    user_id = "3"
+    #user_id = "3"
+    user_id = selected_user
 
     save_history(
         user_id=user_id,

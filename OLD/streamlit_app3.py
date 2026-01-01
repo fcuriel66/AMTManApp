@@ -28,7 +28,7 @@ load_dotenv()
 API_KEY = os.getenv("OPENAI_API_KEY")
 
 # Init Database and create tables. To be run only the first time
-DB_PATH = "database/maintenance.db"
+DB_PATH = "../database/maintenance.db"
 #init_db(DB_PATH)
 
 
@@ -157,7 +157,7 @@ def call_agent(maintenance_query: str):
 # STREAMLIT
 # ---------------------------
 # Streamlit Element Config
-st.logo("/Users/fernandocuriel/PycharmProjects/RAG/XML/RWS logo.png", size="large")
+st.logo("/XML/RWS logo.png", size="large")
 #st.title(":blue[AI Aircraft Maintenance Agent]")
 
 st.markdown(gradient_text_html, unsafe_allow_html=True)
@@ -176,7 +176,7 @@ st.sidebar.caption("[EMB145 MPP Introduction](https://www.dropbox.com/scl/fi/kd6
 hide_ATA = st.sidebar.checkbox("*Show ATA Chapters* ")
 hide_manual = st.checkbox("Instructions and Query Examples")
 hide_directory = st.sidebar.checkbox("*Show saved PDF tasks files*")
-contents = os.listdir('./PDF/AMM_EXTRACTED')
+contents = os.listdir('../PDF/AMM_EXTRACTED')
 
 # Sidebar content
 with st.sidebar:
