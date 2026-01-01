@@ -105,3 +105,14 @@ def load_history(user_id, db_path="database/maintenance.db"):
     rows = cursor.fetchall()
     conn.close()
     return rows
+
+
+def get_all_users(db_path="database/maintenance.db"):
+    conn = sqlite3.connect(db_path)
+    cursor = conn.cursor()
+
+    cursor.execute("SELECT id FROM users ORDER BY created_at DESC")
+    users = [row[0] for row in cursor.fetchall()]
+
+    conn.close()
+    return users
