@@ -227,7 +227,7 @@ with st.sidebar:
         st.sidebar.write(":orange[==================================]")
         #st.sidebar.write(contents)
         for index in contents:
-            st.sidebar.write(index, f":small[:grey[/ {index} - XX - *.PDF]]")
+            st.sidebar.write("./AMM_EXTRACTED/", f":small[:grey[{index}-*.PDF]]")
 
         st.sidebar.write(":orange[==================================]")
 
