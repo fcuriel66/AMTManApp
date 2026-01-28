@@ -15,7 +15,8 @@ from langgraph.checkpoint.memory import InMemorySaver
 
 # Self-made libraries, prompts and Auxiliary Functions
 from symptoms_RAG import setup_rag_components
-from find_tasks_efficient import load_rag_components, USER_WELCOME, extract_task_list
+from find_tasks_efficient import load_rag_components, USER_WELCOME, extract_task_list, build_and_save_vectorstore
+from PDF.pdf_files import manual_files   ###########
 from prompts.tech_prompts import diagnose_prompt, ATA_chapters
 from prompts.tech_prompts import find_task_prompt, SYSTEM_PROMPT
 import sqlite3
@@ -29,7 +30,7 @@ import time
 load_dotenv()
 API_KEY = os.getenv("OPENAI_API_KEY")
 
-# Init Database and create tables. To be run only the first time
+# Init Database and create tables. init_db to be run only the first time
 DB_PATH = "database/maintenance.db"
 #init_db(DB_PATH)
 
@@ -55,7 +56,7 @@ def call_agent(maintenance_query: str):
         print("\nSearch Tasks RAG tool chosen. Thinking...\n")
 
         # ---- Use only once to create and load vectorstore (e.g. with new manual version)
-        # build_and_save_vectorstore(PDF_FILES)
+        #build_and_save_vectorstore(manual_files())  ##############
 
         # --- Use already saved vector embeddings
         retriever, model_tasks = load_rag_components()
@@ -249,8 +250,6 @@ with st.chat_message("assistant", avatar=":material/connecting_airports:"):
 for message in st.session_state.messages:
     with st.chat_message(message["role"]):
         st.write(message["content"])
-
-
 
 
 if prompt := st.chat_input("Please enter your maintenance query:"):

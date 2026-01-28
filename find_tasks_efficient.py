@@ -61,7 +61,7 @@ def build_and_save_vectorstore(pdf_files):
     # Save to disk
     print("Saving FAISS index to disk...")
     vectorstore.save_local(FAISS_FOLDER)
-    print("FAISS saved successfully!")
+    print("FAISS NEW saved successfully!")
 
 
 # 2. Load RAG components

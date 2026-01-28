@@ -25,4 +25,5 @@ def init_db(db_path):
     conn.commit()
     conn.close()
 
+# Run once to create the tables
 # def init_db(db_path="database/maintenance.db"):
